@@ -1172,6 +1172,573 @@
       "mix de frutos secos"
     ]
   },
+  "171141": {
+    "nombre": "Sopa de frijoles negros, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171142": {
+    "nombre": "Sopa de frijoles con cerdo, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171143": {
+    "nombre": "Sopa de frijoles con salchichas, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171144": {
+    "nombre": "Sopa de frijoles con jamón, enlatada, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171145": {
+    "nombre": "Sopa de pollo, enlatada, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171146": {
+    "nombre": "Crema de pollo, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171147": {
+    "nombre": "Sopa de gumbo de pollo, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171149": {
+    "nombre": "Sopa de pollo con verduras, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171150": {
+    "nombre": "Sopa de chili con carne de res, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171151": {
+    "nombre": "Chowder de almejas estilo Manhattan, enlatado, con trozos, listo para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171152": {
+    "nombre": "Chowder de almejas estilo Manhattan, enlatado, condensado (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171154": {
+    "nombre": "Sopa de champiñones con cebada, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171156": {
+    "nombre": "Sopa de champiñones con caldo de res, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171157": {
+    "nombre": "Sopa de chícharos partidos con jamón, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171158": {
+    "nombre": "Crema de papa, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171159": {
+    "nombre": "Crema de camarón, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171160": {
+    "nombre": "Sopa de tomate con res y fideos, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171161": {
+    "nombre": "Sopa de verduras (vegetariana), enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171162": {
+    "nombre": "Sopa de res con trozos, enlatada, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171163": {
+    "nombre": "Sopa de verduras con res, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171164": {
+    "nombre": "Sopa de verduras con caldo de res, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171165": {
+    "nombre": "Sopa de cebolla, mezcla deshidratada",
+    "alias": []
+  },
+  "171166": {
+    "nombre": "Sopa crema de verduras, en polvo deshidratada",
+    "alias": []
+  },
+  "171168": {
+    "nombre": "Salsa gravy au jus, enlatada",
+    "alias": [
+      "jugo de carne"
+    ]
+  },
+  "171169": {
+    "nombre": "Salsa gravy au jus, mezcla deshidratada",
+    "alias": [
+      "jugo de carne"
+    ]
+  },
+  "171170": {
+    "nombre": "Salsa gravy de champiñones, enlatada",
+    "alias": []
+  },
+  "171171": {
+    "nombre": "Salsa gravy de champiñones, en polvo deshidratada",
+    "alias": []
+  },
+  "171172": {
+    "nombre": "Salsa gravy de cebolla, mezcla deshidratada",
+    "alias": []
+  },
+  "171173": {
+    "nombre": "Salsa gravy de cerdo, en polvo deshidratada",
+    "alias": []
+  },
+  "171174": {
+    "nombre": "Sofrito, preparado (receta)",
+    "alias": [
+      "sofrito"
+    ]
+  },
+  "171175": {
+    "nombre": "Sopa de res con champiñones, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171176": {
+    "nombre": "Sopa de tomate, enlatada, preparada con agua (en partes iguales), comercial",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171177": {
+    "nombre": "Sopa de fideos ramen, cualquier sabor, deshidratada",
+    "alias": [
+      "ramen",
+      "sopa instantanea",
+      "sopa de vaso"
+    ]
+  },
+  "171178": {
+    "nombre": "Sopa de brócoli con queso, enlatada, condensada (sin diluir), comercial",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171189": {
+    "nombre": "Sopa de verduras con res, para microondas, lista para servir",
+    "alias": []
+  },
+  "171190": {
+    "nombre": "Sopa de res con verduras, enlatada, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171537": {
+    "nombre": "Crema de espárragos, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171538": {
+    "nombre": "Caldo de res (bouillon), enlatado, listo para servir",
+    "alias": [
+      "consome"
+    ]
+  },
+  "171539": {
+    "nombre": "Sopa de res con fideos, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171540": {
+    "nombre": "Crema de apio, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171541": {
+    "nombre": "Sopa de queso, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171543": {
+    "nombre": "Sopa de pollo con fideos, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171544": {
+    "nombre": "Sopa de pollo con arroz, enlatada, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171545": {
+    "nombre": "Sopa de pollo con arroz, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171546": {
+    "nombre": "Sopa de pollo y verduras, enlatada, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171547": {
+    "nombre": "Chowder de almejas estilo Nueva Inglaterra, enlatado, condensado (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171548": {
+    "nombre": "Caldo de res, bouillon y consomé, enlatado, condensado (sin diluir)",
+    "alias": []
+  },
+  "171550": {
+    "nombre": "Sopa de minestrone, enlatada, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171551": {
+    "nombre": "Sopa de cebolla, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171552": {
+    "nombre": "Crema de cebolla, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171553": {
+    "nombre": "Estofado de ostras (oyster stew), enlatado, condensado (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171554": {
+    "nombre": "Sopa de chícharos verdes, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171555": {
+    "nombre": "Sopa de chícharos partidos con jamón, enlatada, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171557": {
+    "nombre": "Sopa de tomate con arroz, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171558": {
+    "nombre": "Sopa de pavo, enlatada, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171559": {
+    "nombre": "Sopa de verduras, enlatada, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171560": {
+    "nombre": "Caldo de res (bouillon) en polvo, deshidratado",
+    "alias": []
+  },
+  "171563": {
+    "nombre": "Cubos de caldo de pollo, deshidratados",
+    "alias": [
+      "cubitos de caldo",
+      "pastillas de caldo"
+    ]
+  },
+  "171566": {
+    "nombre": "Salsa gravy de pollo, enlatada o embotellada, lista para servir",
+    "alias": []
+  },
+  "171567": {
+    "nombre": "Salsa gravy de pollo, deshidratada",
+    "alias": []
+  },
+  "171568": {
+    "nombre": "Salsa gravy de pavo, enlatada, lista para servir",
+    "alias": []
+  },
+  "171569": {
+    "nombre": "Salsa gravy de pavo, deshidratada",
+    "alias": []
+  },
+  "171570": {
+    "nombre": "Salsa gravy, tipo no especificado, deshidratada",
+    "alias": []
+  },
+  "171571": {
+    "nombre": "Sopa de pollo con fideos, mezcla deshidratada",
+    "alias": []
+  },
+  "171572": {
+    "nombre": "Sopa de res con champiñones, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171573": {
+    "nombre": "Sopa de pollo con champiñones, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171574": {
+    "nombre": "Bisque de tomate, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171575": {
+    "nombre": "Salsa de cacahuate (maní) hecha con coco, agua, azúcar y cacahuates",
+    "alias": []
+  },
+  "171580": {
+    "nombre": "Salsa pesto, lista para servir, de larga duración",
+    "alias": [
+      "pesto"
+    ]
+  },
+  "171583": {
+    "nombre": "Caldo de verduras, listo para servir",
+    "alias": []
+  },
+  "171584": {
+    "nombre": "Mezcla para salsa de queso, deshidratada",
+    "alias": []
+  },
+  "171585": {
+    "nombre": "Chowder de pollo y maíz, con trozos, listo para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171586": {
+    "nombre": "Sopa de frijoles con tocino, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171587": {
+    "nombre": "Sopa de tomate, enlatada, condensada (sin diluir) (reducida en sodio)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171588": {
+    "nombre": "Salsa gravy marrón instantánea, deshidratada",
+    "alias": []
+  },
+  "171589": {
+    "nombre": "Salsa gravy de res instantánea, deshidratada",
+    "alias": []
+  },
+  "171590": {
+    "nombre": "Salsa gravy de pavo instantánea, deshidratada",
+    "alias": []
+  },
+  "171591": {
+    "nombre": "Sopa de tomate baja en sodio, preparada con agua",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171592": {
+    "nombre": "Sopa de chícharos, baja en sodio, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171593": {
+    "nombre": "Sopa de pollo con fideos, enlatada, baja en sodio, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171594": {
+    "nombre": "Sopa de verduras, condensada, baja en sodio, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171595": {
+    "nombre": "Salsa chili de tomate (tipo cátsup picante), embotellada, con sal",
+    "alias": []
+  },
+  "171596": {
+    "nombre": "Sopa de pollo con verduras, enlatada, baja en sodio, preparada con agua",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171597": {
+    "nombre": "Salsa para pasta (espagueti/marinara), lista para servir, baja en sodio",
+    "alias": [
+      "salsa de tomate para pasta"
+    ]
+  },
+  "171598": {
+    "nombre": "Salsa gravy de carne o ave, baja en sodio, preparada",
+    "alias": []
+  },
+  "171602": {
+    "nombre": "Crema de pollo, enlatada, condensada (sin diluir) (reducida en sodio)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171603": {
+    "nombre": "Mezcla para salsa Alfredo, deshidratada",
+    "alias": []
+  },
+  "171604": {
+    "nombre": "Salsa de chiles picantes, chile rojo maduro, enlatada",
+    "alias": []
+  },
+  "171605": {
+    "nombre": "Salsa de chiles picantes, chile verde inmaduro, enlatada",
+    "alias": []
+  },
+  "171606": {
+    "nombre": "Caldo de pescado",
+    "alias": []
+  },
+  "171607": {
+    "nombre": "Crema de champiñones, enlatada, baja en sodio, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171608": {
+    "nombre": "Sopa de papa instantánea, mezcla deshidratada",
+    "alias": []
+  },
+  "171609": {
+    "nombre": "Caldo de pollo, enlatado, bajo en sodio",
+    "alias": []
+  },
+  "171611": {
+    "nombre": "Sopa de res y champiñones, baja en sodio, estilo con trozos",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171612": {
+    "nombre": "Sopa de res stroganoff, enlatada, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "171613": {
+    "nombre": "Cubos y granulado de caldo (bouillon), bajo en sodio, deshidratado",
+    "alias": []
+  },
+  "171614": {
+    "nombre": "Sopa de fideos ramen, sabor res, deshidratada",
+    "alias": [
+      "ramen",
+      "sopa instantanea",
+      "sopa de vaso"
+    ]
+  },
+  "171615": {
+    "nombre": "Sopa de fideos ramen, sabor pollo, deshidratada",
+    "alias": [
+      "ramen",
+      "sopa instantanea",
+      "sopa de vaso"
+    ]
+  },
+  "171822": {
+    "nombre": "Sopa de fideos ramen, cualquier sabor, deshidratada, reducida en grasa y sodio",
+    "alias": [
+      "ramen",
+      "sopa instantanea",
+      "sopa de vaso"
+    ]
+  },
+  "171823": {
+    "nombre": "Salsa de pato, lista para servir",
+    "alias": []
+  },
+  "171825": {
+    "nombre": "Salsa para carne (tipo steak), a base de tomate",
+    "alias": []
+  },
+  "171831": {
+    "nombre": "Wasabi",
+    "alias": []
+  },
+  "171832": {
+    "nombre": "Dip de frijoles, sabor original",
+    "alias": [
+      "frijoles refritos"
+    ]
+  },
+  "171833": {
+    "nombre": "Salsa de rábano picante (horseradish)",
+    "alias": [
+      "rabano picante"
+    ]
+  },
   "171869": {
     "nombre": "Agua tónica",
     "alias": [
@@ -1521,6 +2088,228 @@
       "jibia",
       "choco"
     ]
+  },
+  "172879": {
+    "nombre": "Salsa de ciruela, lista para servir",
+    "alias": []
+  },
+  "172880": {
+    "nombre": "Salsa para pizza, enlatada, lista para servir",
+    "alias": []
+  },
+  "172881": {
+    "nombre": "Bisque de tomate, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172883": {
+    "nombre": "Caldo de res, casero",
+    "alias": []
+  },
+  "172884": {
+    "nombre": "Caldo de pollo, casero",
+    "alias": []
+  },
+  "172885": {
+    "nombre": "Caldo de pescado, casero",
+    "alias": []
+  },
+  "172887": {
+    "nombre": "Crema de champiñones, enlatada, condensada (sin diluir) (reducida en sodio)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172888": {
+    "nombre": "Caldo de pollo, reducido en sodio, listo para servir",
+    "alias": []
+  },
+  "172889": {
+    "nombre": "Caldo de res, reducido en sodio, listo para servir",
+    "alias": []
+  },
+  "172890": {
+    "nombre": "Salsa teriyaki, lista para servir, reducida en sodio",
+    "alias": []
+  },
+  "172891": {
+    "nombre": "Crema de espárragos, enlatada, preparada con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172892": {
+    "nombre": "Sopa de pollo y verduras con papa y queso, con trozos, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172893": {
+    "nombre": "Crema de apio, enlatada, preparada con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172894": {
+    "nombre": "Sopa de queso, enlatada, preparada con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172895": {
+    "nombre": "Estofado de ostras (oyster stew), enlatado, preparado con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172896": {
+    "nombre": "Sopa de chícharos verdes, enlatada, preparada con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172897": {
+    "nombre": "Crema de papa, enlatada, preparada con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172898": {
+    "nombre": "Crema de camarón, enlatada, preparada con leche semidescremada 2 % (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172902": {
+    "nombre": "Bisque de tomate, enlatada, preparada con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172903": {
+    "nombre": "Sopa de frijoles negros, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172904": {
+    "nombre": "Sopa de frijoles con cerdo, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172905": {
+    "nombre": "Sopa de frijoles con salchichas, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172906": {
+    "nombre": "Sopa de res con fideos, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172907": {
+    "nombre": "Crema de apio, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172908": {
+    "nombre": "Sopa de gumbo de pollo, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172909": {
+    "nombre": "Sopa de pollo con fideos, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172910": {
+    "nombre": "Sopa de pollo con arroz, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172911": {
+    "nombre": "Sopa de chili con carne de res, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172913": {
+    "nombre": "Sopa de minestrone, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172914": {
+    "nombre": "Sopa de champiñones con cebada, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172915": {
+    "nombre": "Crema de champiñones, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172916": {
+    "nombre": "Sopa de chícharos partidos con jamón, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172917": {
+    "nombre": "Crema de papa, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172918": {
+    "nombre": "Crema de camarón, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172919": {
+    "nombre": "Sopa de tomate con res y fideos, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172920": {
+    "nombre": "Sopa de tomate con arroz, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172921": {
+    "nombre": "Sopa de verduras con caldo de res, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "172922": {
+    "nombre": "Caldo de res (bouillon) en polvo, preparado con agua",
+    "alias": []
+  },
+  "172923": {
+    "nombre": "Cubos de caldo de res, preparados con agua",
+    "alias": []
+  },
+  "172924": {
+    "nombre": "Caldo de pollo (bouillon) deshidratado, preparado con agua",
+    "alias": []
+  },
+  "172925": {
+    "nombre": "Sopa de pollo con fideos, mezcla deshidratada, preparada con agua",
+    "alias": []
   },
   "173131": {
     "nombre": "Palomitas de microondas, 94 % libres de grasa",
@@ -1898,6 +2687,56 @@
       "salmon enlatado"
     ]
   },
+  "174062": {
+    "nombre": "Chowder de almejas estilo Nueva Inglaterra, enlatado, listo para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174063": {
+    "nombre": "Chowder de almejas estilo Nueva Inglaterra, enlatado, reducido en sodio, listo para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174064": {
+    "nombre": "Sopa de pollo con fideos, enlatada, reducida en sodio, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174065": {
+    "nombre": "Sopa de res con verduras, enlatada, reducida en sodio, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174067": {
+    "nombre": "Salsa cóctel, lista para servir",
+    "alias": []
+  },
+  "174068": {
+    "nombre": "Dip de queso con salsa (salsa con queso), medio",
+    "alias": [
+      "salsa con queso"
+    ]
+  },
+  "174070": {
+    "nombre": "Salsa de cacahuate (maní) hecha con crema de cacahuate, agua y salsa de soya",
+    "alias": []
+  },
+  "174071": {
+    "nombre": "Sopa de verduras con trozos, enlatada, reducida en sodio, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174073": {
+    "nombre": "Sopa de res con cebada, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
   "174108": {
     "nombre": "Bebida energética, cítrica",
     "alias": [
@@ -2270,6 +3109,206 @@
     "nombre": "Reloj anaranjado (orange roughy), cocido con calor seco",
     "alias": []
   },
+  "174522": {
+    "nombre": "Sopa de pollo con champiñones, enlatada, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174525": {
+    "nombre": "Salsa blanca casera, mediana (bechamel)",
+    "alias": [
+      "bechamel",
+      "salsa bechamel"
+    ]
+  },
+  "174526": {
+    "nombre": "Salsa blanca casera, espesa (bechamel)",
+    "alias": [
+      "bechamel",
+      "salsa bechamel"
+    ]
+  },
+  "174527": {
+    "nombre": "Salsa picante (de chile), lista para servir",
+    "alias": []
+  },
+  "174530": {
+    "nombre": "Sopa de minestrone, enlatada, reducida en sodio, lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174532": {
+    "nombre": "Sopa de aleta de tiburón, de restaurante",
+    "alias": []
+  },
+  "174533": {
+    "nombre": "Sopa de frijoles con jamón, enlatada, reducida en sodio, preparada con agua o lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174534": {
+    "nombre": "Sopa de chícharos partidos, enlatada, reducida en sodio, preparada con agua o lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174535": {
+    "nombre": "Sopa de chícharos partidos con jamón, enlatada, reducida en sodio, preparada con agua o lista para servir",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174537": {
+    "nombre": "Crema de pollo, enlatada, preparada con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174538": {
+    "nombre": "Sopa de verduras, enlatada, baja en sodio, condensada (sin diluir)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174539": {
+    "nombre": "Chowder de almejas estilo Nueva Inglaterra, enlatado, preparado con leche semidescremada 2 % (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174540": {
+    "nombre": "Crema de champiñones, enlatada, preparada con leche semidescremada 2 % (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174541": {
+    "nombre": "Crema de cebolla, enlatada, preparada con leche entera (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174542": {
+    "nombre": "Salsa blanca ligera, preparada (receta), con mantequilla",
+    "alias": [
+      "bechamel"
+    ]
+  },
+  "174543": {
+    "nombre": "Salsa agridulce, preparada (receta)",
+    "alias": []
+  },
+  "174546": {
+    "nombre": "Sopa de tomate, enlatada, preparada con leche semidescremada 2 % (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174549": {
+    "nombre": "Crema de espárragos, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174550": {
+    "nombre": "Sopa de queso, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174551": {
+    "nombre": "Caldo de pollo, enlatado, preparado con agua (en partes iguales)",
+    "alias": []
+  },
+  "174553": {
+    "nombre": "Crema de pollo, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174554": {
+    "nombre": "Chowder de almejas estilo Manhattan, enlatado, preparado con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174555": {
+    "nombre": "Chowder de almejas estilo Nueva Inglaterra, enlatado, preparado con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174557": {
+    "nombre": "Caldo de res, bouillon y consomé, preparado con agua (en partes iguales)",
+    "alias": []
+  },
+  "174558": {
+    "nombre": "Sopa de champiñones con caldo de res, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174559": {
+    "nombre": "Crema de cebolla, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174560": {
+    "nombre": "Estofado de ostras (oyster stew), enlatado, preparado con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174561": {
+    "nombre": "Sopa de chícharos verdes, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174562": {
+    "nombre": "Sopa de pavo con fideos, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174563": {
+    "nombre": "Sopa de pavo con verduras, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174564": {
+    "nombre": "Sopa de verduras (vegetariana), enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174565": {
+    "nombre": "Sopa de verduras con res, enlatada, preparada con agua (en partes iguales)",
+    "alias": [
+      "sopa enlatada"
+    ]
+  },
+  "174566": {
+    "nombre": "Cubos de caldo de pollo, deshidratados, preparados con agua",
+    "alias": []
+  },
+  "174567": {
+    "nombre": "Sopa crema de pollo, mezcla deshidratada, preparada con agua",
+    "alias": []
+  },
+  "174568": {
+    "nombre": "Sopa de cebolla, mezcla deshidratada, preparada con agua",
+    "alias": []
+  },
+  "174569": {
+    "nombre": "Sopa de tomate, mezcla deshidratada, preparada con agua",
+    "alias": []
+  },
   "174650": {
     "nombre": "Barra de leche y cereal",
     "alias": []
@@ -2325,6 +3364,14 @@
   },
   "174806": {
     "nombre": "Pretzels sin gluten, hechos con almidón de maíz y harina de papa",
+    "alias": []
+  },
+  "174807": {
+    "nombre": "Sopa de huevo (egg drop), de restaurante chino",
+    "alias": []
+  },
+  "174808": {
+    "nombre": "Sopa agripicante, de restaurante chino",
     "alias": []
   },
   "174810": {
