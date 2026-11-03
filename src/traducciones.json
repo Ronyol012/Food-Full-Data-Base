@@ -185,6 +185,155 @@
     "nombre": "Tortuga verde, cruda",
     "alias": []
   },
+  "167748": {
+    "nombre": "Jugo de limón, de concentrado, enlatado o embotellado",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "167749": {
+    "nombre": "Cáscara de limón, cruda",
+    "alias": [
+      "ralladura de limon"
+    ]
+  },
+  "167751": {
+    "nombre": "Ciruelas pasas, guisadas, sin azúcar añadida",
+    "alias": [
+      "ciruelas secas"
+    ]
+  },
+  "167752": {
+    "nombre": "Ciruelas pasas, guisadas, con azúcar añadida",
+    "alias": [
+      "ciruelas secas"
+    ]
+  },
+  "167759": {
+    "nombre": "Chicozapote (níspero), crudo",
+    "alias": [
+      "zapote chico",
+      "sapodilla",
+      "nispero"
+    ]
+  },
+  "167764": {
+    "nombre": "Ensalada de frutas tropical (piña, papaya, plátano, guayaba), enlatada, en almíbar espeso, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "167766": {
+    "nombre": "Cerezas marrasquino, enlatadas, escurridas",
+    "alias": []
+  },
+  "167768": {
+    "nombre": "Chabacanos (albaricoques), enlatados en almíbar espeso, escurridos",
+    "alias": [
+      "damascos",
+      "albaricoques"
+    ]
+  },
+  "167770": {
+    "nombre": "Cerezas dulces, enlatadas, sin hueso, en almíbar espeso, escurridas",
+    "alias": []
+  },
+  "167771": {
+    "nombre": "Jugo de manzana, enlatado o embotellado, sin azúcar, con ácido ascórbico añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "167775": {
+    "nombre": "Jugo de manzana, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua, con ácido ascórbico añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "167777": {
+    "nombre": "Pera Anjou roja, cruda",
+    "alias": []
+  },
+  "167780": {
+    "nombre": "Puré de ciruela pasa",
+    "alias": []
+  },
+  "167781": {
+    "nombre": "Fruta confitada",
+    "alias": []
+  },
+  "167784": {
+    "nombre": "Néctar de guayaba, enlatado, con ácido ascórbico añadido",
+    "alias": []
+  },
+  "167786": {
+    "nombre": "Néctar de tamarindo, enlatado",
+    "alias": []
+  },
+  "167787": {
+    "nombre": "Jugo de granada, embotellado",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "167790": {
+    "nombre": "Pulpa de naranjilla (lulo), congelada, sin azúcar",
+    "alias": [
+      "lulo",
+      "naranjilla"
+    ]
+  },
+  "167791": {
+    "nombre": "Melón con cuernos (kiwano)",
+    "alias": [
+      "kiwano"
+    ]
+  },
+  "167792": {
+    "nombre": "Mezcla de jugo de naranja y piña",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "167794": {
+    "nombre": "Jugo de naranja refrigerado (incluye de concentrado), con calcio y vitaminas A, D y E añadidos",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "167800": {
+    "nombre": "Jugo de manzana, enlatado o embotellado, sin azúcar, con ácido ascórbico, calcio y potasio añadidos",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "167806": {
+    "nombre": "Polvo de baobab",
+    "alias": []
+  },
+  "167807": {
+    "nombre": "Jugo de cereza ácida",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "167808": {
+    "nombre": "Puré de frambuesa, sin semillas",
+    "alias": []
+  },
+  "167809": {
+    "nombre": "Puré de frambuesa, con semillas",
+    "alias": []
+  },
   "167948": {
     "nombre": "Botana de maíz extruido, sabor cebolla",
     "alias": []
@@ -334,9 +483,240 @@
       "cotufas"
     ]
   },
+  "168147": {
+    "nombre": "Gluten de trigo vital",
+    "alias": [
+      "seitan"
+    ]
+  },
   "168148": {
     "nombre": "Ancas de rana, crudas",
     "alias": []
+  },
+  "168150": {
+    "nombre": "Jambolán (ciruela de Java), crudo",
+    "alias": []
+  },
+  "168151": {
+    "nombre": "Azufaifa (yuyuba), cruda",
+    "alias": [
+      "jujuba"
+    ]
+  },
+  "168152": {
+    "nombre": "Azufaifa china, fresca, seca",
+    "alias": [
+      "jujuba"
+    ]
+  },
+  "168154": {
+    "nombre": "Kumquats (naranjitas chinas), crudos",
+    "alias": [
+      "kinotos"
+    ]
+  },
+  "168157": {
+    "nombre": "Jugo de lima, enlatado o embotellado, sin azúcar",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "168159": {
+    "nombre": "Ciruelas pasas, enlatadas en almíbar espeso, sólidos y líquido",
+    "alias": [
+      "ciruelas secas"
+    ]
+  },
+  "168160": {
+    "nombre": "Ciruelas pasas deshidratadas (baja humedad), sin cocer",
+    "alias": [
+      "ciruelas secas"
+    ]
+  },
+  "168161": {
+    "nombre": "Ciruelas pasas deshidratadas (baja humedad), guisadas",
+    "alias": [
+      "ciruelas secas"
+    ]
+  },
+  "168166": {
+    "nombre": "Pasas con semillas",
+    "alias": [
+      "uvas pasas"
+    ]
+  },
+  "168167": {
+    "nombre": "Rambután, enlatado en almíbar",
+    "alias": []
+  },
+  "168169": {
+    "nombre": "Ruibarbo congelado, cocido, con azúcar",
+    "alias": []
+  },
+  "168170": {
+    "nombre": "Rosella (flor de jamaica), cruda",
+    "alias": [
+      "jamaica"
+    ]
+  },
+  "168171": {
+    "nombre": "Manzana rosa (pomarrosa), cruda",
+    "alias": [
+      "yambo"
+    ]
+  },
+  "168175": {
+    "nombre": "Anona (fruta del conde), cruda",
+    "alias": [
+      "saramuyo",
+      "sweetsop"
+    ]
+  },
+  "168176": {
+    "nombre": "Feijoa, cruda",
+    "alias": []
+  },
+  "168177": {
+    "nombre": "Pera asiática, cruda",
+    "alias": [
+      "nashi"
+    ]
+  },
+  "168178": {
+    "nombre": "Cóctel de frutas, enlatado, en almíbar espeso, escurrido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "168179": {
+    "nombre": "Arándanos azules, enlatados en almíbar ligero, escurridos",
+    "alias": [
+      "mirtilos",
+      "blueberries"
+    ]
+  },
+  "168180": {
+    "nombre": "Arándanos azules silvestres, enlatados en almíbar espeso, escurridos",
+    "alias": [
+      "mirtilos",
+      "blueberries"
+    ]
+  },
+  "168181": {
+    "nombre": "Duraznos, enlatados en almíbar espeso, escurridos",
+    "alias": [
+      "melocotones"
+    ]
+  },
+  "168182": {
+    "nombre": "Peras, enlatadas en almíbar espeso, escurridas",
+    "alias": []
+  },
+  "168183": {
+    "nombre": "Ciruelas, enlatadas en almíbar espeso, escurridas",
+    "alias": []
+  },
+  "168184": {
+    "nombre": "Mandarinas, enlatadas en su jugo, escurridas",
+    "alias": []
+  },
+  "168186": {
+    "nombre": "Néctar de pera, enlatado, con ácido ascórbico añadido",
+    "alias": []
+  },
+  "168187": {
+    "nombre": "Jugo de piña, enlatado o embotellado, sin azúcar, con ácido ascórbico añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "168188": {
+    "nombre": "Jugo de manzana, concentrado congelado, sin azúcar, sin diluir, con ácido ascórbico añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "168190": {
+    "nombre": "Yaca (jackfruit), enlatada en almíbar",
+    "alias": []
+  },
+  "168192": {
+    "nombre": "Durián, crudo o congelado",
+    "alias": []
+  },
+  "168193": {
+    "nombre": "Piña cruda, variedades tradicionales",
+    "alias": [
+      "ananá",
+      "ananas"
+    ]
+  },
+  "168194": {
+    "nombre": "Piña cruda, variedad extra dulce",
+    "alias": [
+      "ananá",
+      "ananas"
+    ]
+  },
+  "168196": {
+    "nombre": "Néctar de guanábana, enlatado",
+    "alias": [
+      "guanabana"
+    ]
+  },
+  "168197": {
+    "nombre": "Jugo de manzana y uva, con ácido ascórbico añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "168198": {
+    "nombre": "Jugo de manzana, uva y pera, con ácido ascórbico y calcio añadidos",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "168202": {
+    "nombre": "Manzana golden delicious, cruda, con cáscara",
+    "alias": []
+  },
+  "168205": {
+    "nombre": "Jugo de piña, enlatado, no de concentrado, sin azúcar, con vitaminas A, C y E añadidas",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "168207": {
+    "nombre": "Jugo de uva, enlatado o embotellado, sin azúcar, con ácido ascórbico y calcio añadidos",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "168210": {
+    "nombre": "Néctar de guayaba, con sucralosa, enlatado",
+    "alias": []
+  },
+  "168212": {
+    "nombre": "Mezcla de jugo de arándano rojo, 100 % jugo, embotellada, con vitamina C y calcio añadidos",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "168217": {
+    "nombre": "Concentrado de jugo de frambuesa",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
   },
   "168385": {
     "nombre": "Hojas de amaranto, crudas",
@@ -1158,6 +1538,274 @@
     "nombre": "Chips de taro",
     "alias": []
   },
+  "168867": {
+    "nombre": "Harina de maíz amarillo, desgerminada, enriquecida",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168868": {
+    "nombre": "Harina de maíz amarillo con leudante, cernida, natural, enriquecida",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168869": {
+    "nombre": "Harina de maíz amarillo con leudante, cernida, con harina de trigo añadida, enriquecida",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168870": {
+    "nombre": "Harina de maíz amarillo con leudante, desgerminada, enriquecida",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168872": {
+    "nombre": "Salvado de avena, crudo",
+    "alias": []
+  },
+  "168874": {
+    "nombre": "Quinua, sin cocer",
+    "alias": [
+      "quinoa"
+    ]
+  },
+  "168884": {
+    "nombre": "Centeno, grano",
+    "alias": []
+  },
+  "168885": {
+    "nombre": "Harina de centeno, oscura",
+    "alias": []
+  },
+  "168887": {
+    "nombre": "Harina de centeno, clara",
+    "alias": []
+  },
+  "168888": {
+    "nombre": "Harina de triticale, integral",
+    "alias": []
+  },
+  "168889": {
+    "nombre": "Trigo duro rojo de primavera",
+    "alias": []
+  },
+  "168890": {
+    "nombre": "Trigo duro rojo de invierno",
+    "alias": []
+  },
+  "168891": {
+    "nombre": "Trigo blando rojo de invierno",
+    "alias": []
+  },
+  "168892": {
+    "nombre": "Germen de trigo, crudo",
+    "alias": []
+  },
+  "168895": {
+    "nombre": "Harina de trigo blanca multiusos con leudante, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168896": {
+    "nombre": "Harina de trigo blanca para pan, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168898": {
+    "nombre": "Harina de arroz integral",
+    "alias": []
+  },
+  "168901": {
+    "nombre": "Pasta casera con huevo, cocida",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168902": {
+    "nombre": "Pasta casera sin huevo, cocida",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168903": {
+    "nombre": "Macarrones de verduras, enriquecidos, secos",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168904": {
+    "nombre": "Macarrones de verduras, enriquecidos, cocidos",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168905": {
+    "nombre": "Fideos chinos chow mein",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "168906": {
+    "nombre": "Fideos soba japoneses, secos",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "168908": {
+    "nombre": "Fideos somen japoneses, secos",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "168909": {
+    "nombre": "Fideos somen japoneses, cocidos",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "168911": {
+    "nombre": "Espagueti de espinaca, seco",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168912": {
+    "nombre": "Espagueti de espinaca, cocido",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168913": {
+    "nombre": "Harina de trigo para pan, sin enriquecer",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168915": {
+    "nombre": "Pasta integral (51 % trigo integral y resto sémola sin enriquecer), seca",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168916": {
+    "nombre": "Pasta integral (51 % trigo integral y resto sémola sin enriquecer), cocida",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168918": {
+    "nombre": "Teff, cocido",
+    "alias": []
+  },
+  "168919": {
+    "nombre": "Fideos de huevo, cocidos, enriquecidos, con sal añadida",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "168920": {
+    "nombre": "Maíz en grano, blanco",
+    "alias": [
+      "choclo seco"
+    ]
+  },
+  "168921": {
+    "nombre": "Harina de maíz morado, integral",
+    "alias": [
+      "harina de maiz morado"
+    ]
+  },
+  "168922": {
+    "nombre": "Harina de maíz blanco, desgerminada, enriquecida",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168923": {
+    "nombre": "Harina de maíz blanco con leudante, cernida, natural, enriquecida",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168924": {
+    "nombre": "Harina de maíz blanco con leudante, cernida, con harina de trigo añadida, enriquecida",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168925": {
+    "nombre": "Harina de maíz blanco con leudante, desgerminada, enriquecida",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168929": {
+    "nombre": "Harina de maíz amarillo, desgerminada, sin enriquecer",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "168933": {
+    "nombre": "Sémola, sin enriquecer",
+    "alias": []
+  },
+  "168934": {
+    "nombre": "Espagueti fortificado con proteína, cocido, enriquecido",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168936": {
+    "nombre": "Harina de trigo blanca multiusos, enriquecida, sin blanquear",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168937": {
+    "nombre": "Espagueti fortificado con proteína, seco, enriquecido",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "168938": {
+    "nombre": "Harina de trigo blanca (industrial), 10 % de proteína, sin blanquear, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168939": {
+    "nombre": "Harina de trigo blanca (industrial), 11,5 % de proteína, blanqueada, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168940": {
+    "nombre": "Harina de trigo blanca (industrial), 11,5 % de proteína, blanqueada, sin enriquecer",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168941": {
+    "nombre": "Harina de trigo blanca (industrial), 11,5 % de proteína, sin blanquear, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168942": {
+    "nombre": "Harina de trigo blanca (industrial), 13 % de proteína, blanqueada, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "168943": {
+    "nombre": "Harina de sorgo, integral",
+    "alias": []
+  },
   "168945": {
     "nombre": "Papa amarilla rallada tipo hash brown, con sal añadida en el proceso, congelada, sin preparar",
     "alias": [
@@ -1245,6 +1893,115 @@
   "169085": {
     "nombre": "Verduras mixtas (maíz, frijoles de lima, chícharos, ejotes, zanahoria), enlatadas, sin sal añadida",
     "alias": []
+  },
+  "169087": {
+    "nombre": "Lichis secos",
+    "alias": [
+      "litchis",
+      "lichi"
+    ]
+  },
+  "169088": {
+    "nombre": "Moras de Logan, congeladas",
+    "alias": []
+  },
+  "169090": {
+    "nombre": "Mangostán, enlatado en almíbar",
+    "alias": [
+      "mangostino"
+    ]
+  },
+  "169091": {
+    "nombre": "Mango seco, endulzado",
+    "alias": []
+  },
+  "169095": {
+    "nombre": "Aceitunas negras, enlatadas (jumbo a súper colosales)",
+    "alias": [
+      "olivas"
+    ]
+  },
+  "169100": {
+    "nombre": "Jugo de naranja refrigerado (incluye de concentrado)",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169101": {
+    "nombre": "Jugo de naranja refrigerado (incluye de concentrado), con calcio y vitamina D añadidos",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169102": {
+    "nombre": "Jugo de naranja, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169103": {
+    "nombre": "Cáscara de naranja, cruda",
+    "alias": [
+      "ralladura de naranja"
+    ]
+  },
+  "169104": {
+    "nombre": "Jugo de naranja y toronja, enlatado o embotellado, sin azúcar",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169110": {
+    "nombre": "Jugo de maracuyá amarillo, crudo",
+    "alias": [
+      "jugo de parchita",
+      "jugo de maracuya",
+      "jugo de granadilla"
+    ]
+  },
+  "169114": {
+    "nombre": "Duraznos con especias, enlatados en almíbar espeso, sólidos y líquido",
+    "alias": [
+      "melocotones"
+    ]
+  },
+  "169115": {
+    "nombre": "Duraznos secos sulfitados, guisados, con azúcar añadida",
+    "alias": [
+      "orejones",
+      "melocotones secos"
+    ]
+  },
+  "169117": {
+    "nombre": "Néctar de durazno, enlatado, con sucralosa, sin ácido ascórbico añadido",
+    "alias": [
+      "nectar de melocoton"
+    ]
+  },
+  "169122": {
+    "nombre": "Peras secas sulfitadas, guisadas, sin azúcar añadida",
+    "alias": []
+  },
+  "169123": {
+    "nombre": "Peras secas sulfitadas, guisadas, con azúcar añadida",
+    "alias": []
+  },
+  "169128": {
+    "nombre": "Jugo de piña, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169129": {
+    "nombre": "Pitanga (cereza de Surinam), cruda",
+    "alias": [
+      "cereza de cayena"
+    ]
   },
   "169138": {
     "nombre": "Brotes de frijol mungo, salteados",
@@ -1974,6 +2731,221 @@
       "chips"
     ]
   },
+  "169694": {
+    "nombre": "Harina de maíz nixtamalizado (masa), enriquecida, blanca",
+    "alias": [
+      "masa harina",
+      "harina para tortillas"
+    ]
+  },
+  "169695": {
+    "nombre": "Harina de maíz amarillo, desgerminada, sin enriquecer",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "169696": {
+    "nombre": "Harina de maíz nixtamalizado (masa), sin enriquecer, blanca",
+    "alias": [
+      "masa harina",
+      "harina para tortillas"
+    ]
+  },
+  "169699": {
+    "nombre": "Cuscús, seco",
+    "alias": [
+      "couscous"
+    ]
+  },
+  "169702": {
+    "nombre": "Mijo, crudo",
+    "alias": []
+  },
+  "169709": {
+    "nombre": "Arroz blanco de grano largo, precocido o instantáneo, enriquecido, seco",
+    "alias": []
+  },
+  "169710": {
+    "nombre": "Arroz blanco de grano largo, precocido o instantáneo, enriquecido, preparado",
+    "alias": []
+  },
+  "169712": {
+    "nombre": "Arroz blanco al vapor, de restaurante chino",
+    "alias": []
+  },
+  "169713": {
+    "nombre": "Salvado de arroz, crudo",
+    "alias": []
+  },
+  "169716": {
+    "nombre": "Sorgo, grano",
+    "alias": []
+  },
+  "169718": {
+    "nombre": "Triticale",
+    "alias": []
+  },
+  "169719": {
+    "nombre": "Trigo duro blanco",
+    "alias": []
+  },
+  "169720": {
+    "nombre": "Trigo blando blanco",
+    "alias": []
+  },
+  "169721": {
+    "nombre": "Trigo durum",
+    "alias": []
+  },
+  "169722": {
+    "nombre": "Salvado de trigo, crudo",
+    "alias": []
+  },
+  "169723": {
+    "nombre": "Harina de trigo blanca para pasteles, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "169724": {
+    "nombre": "Mezcla de harina de trigo blanca para tortillas, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "169725": {
+    "nombre": "Trigo germinado",
+    "alias": []
+  },
+  "169726": {
+    "nombre": "Arroz silvestre, crudo",
+    "alias": []
+  },
+  "169727": {
+    "nombre": "Pasta fresca refrigerada, natural, tal como se compra",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "169728": {
+    "nombre": "Pasta fresca refrigerada, natural, cocida",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "169729": {
+    "nombre": "Pasta fresca refrigerada, de espinaca, tal como se compra",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "169730": {
+    "nombre": "Pasta fresca refrigerada, de espinaca, cocida",
+    "alias": [
+      "pasta"
+    ]
+  },
+  "169731": {
+    "nombre": "Fideos de huevo, secos, enriquecidos",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "169732": {
+    "nombre": "Fideos de huevo, cocidos, enriquecidos",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "169733": {
+    "nombre": "Fideos de huevo con espinaca, secos, enriquecidos",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "169734": {
+    "nombre": "Fideos de huevo con espinaca, cocidos, enriquecidos",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "169735": {
+    "nombre": "Fideos planos crujientes, de restaurante chino",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "169739": {
+    "nombre": "Harina o harina gruesa de cebada",
+    "alias": []
+  },
+  "169740": {
+    "nombre": "Harina de malta de cebada",
+    "alias": []
+  },
+  "169741": {
+    "nombre": "Harina de avena, parcialmente sin salvado",
+    "alias": []
+  },
+  "169742": {
+    "nombre": "Fideos de arroz, secos",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "169745": {
+    "nombre": "Espelta, sin cocer",
+    "alias": []
+  },
+  "169746": {
+    "nombre": "Espelta, cocida",
+    "alias": []
+  },
+  "169747": {
+    "nombre": "Teff, sin cocer",
+    "alias": []
+  },
+  "169750": {
+    "nombre": "Harina de maíz blanco, integral",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "169752": {
+    "nombre": "Maíz pozolero (hominy) amarillo, enlatado",
+    "alias": [
+      "mote",
+      "nixtamal"
+    ]
+  },
+  "169754": {
+    "nombre": "Harina de trigo blanca multiusos, enriquecida, fortificada con calcio",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "169755": {
+    "nombre": "Fideos de huevo, secos, sin enriquecer",
+    "alias": [
+      "fideos"
+    ]
+  },
+  "169757": {
+    "nombre": "Arroz blanco de grano largo, regular, sin enriquecer, cocido sin sal",
+    "alias": []
+  },
+  "169761": {
+    "nombre": "Harina de trigo blanca multiusos, sin enriquecer",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "169762": {
+    "nombre": "Fideos de huevo, cocidos, sin enriquecer, con sal añadida",
+    "alias": [
+      "fideos"
+    ]
+  },
   "169763": {
     "nombre": "Papas amarillas asadas, con sal añadida en el proceso, congeladas, sin preparar",
     "alias": []
@@ -2049,6 +3021,135 @@
   "169893": {
     "nombre": "Trocitos de tocino vegetariano (sin carne)",
     "alias": []
+  },
+  "169907": {
+    "nombre": "Longanes secos",
+    "alias": []
+  },
+  "169909": {
+    "nombre": "Mamey de Santo Domingo (mamey amarillo), crudo",
+    "alias": [
+      "mamey amarillo"
+    ]
+  },
+  "169912": {
+    "nombre": "Bolitas de melón, congeladas",
+    "alias": [
+      "cantaloupe",
+      "melon"
+    ]
+  },
+  "169913": {
+    "nombre": "Moras (mulberries), crudas",
+    "alias": [
+      "morera"
+    ]
+  },
+  "169918": {
+    "nombre": "Naranjas crudas, de Florida",
+    "alias": []
+  },
+  "169919": {
+    "nombre": "Naranja cruda, con cáscara",
+    "alias": []
+  },
+  "169920": {
+    "nombre": "Jugo de naranja refrigerado (incluye de concentrado), con calcio añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169921": {
+    "nombre": "Jugo de naranja, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua, con calcio añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169922": {
+    "nombre": "Jugo de naranja, concentrado congelado, sin azúcar, sin diluir, con calcio añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169923": {
+    "nombre": "Jugo de naranja, concentrado congelado, sin azúcar, sin diluir",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169924": {
+    "nombre": "Mandarinas, enlatadas en almíbar ligero",
+    "alias": []
+  },
+  "169925": {
+    "nombre": "Jugo de mandarina, crudo",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "169927": {
+    "nombre": "Papaya enlatada, en almíbar espeso, escurrida",
+    "alias": [
+      "lechosa",
+      "fruta bomba"
+    ]
+  },
+  "169932": {
+    "nombre": "Duraznos deshidratados (baja humedad), sulfitados, sin cocer",
+    "alias": [
+      "orejones"
+    ]
+  },
+  "169933": {
+    "nombre": "Duraznos deshidratados (baja humedad), sulfitados, guisados",
+    "alias": [
+      "orejones"
+    ]
+  },
+  "169935": {
+    "nombre": "Duraznos secos sulfitados, guisados, sin azúcar añadida",
+    "alias": [
+      "orejones",
+      "melocotones secos"
+    ]
+  },
+  "169940": {
+    "nombre": "Néctar de pera, enlatado, sin ácido ascórbico añadido",
+    "alias": []
+  },
+  "169941": {
+    "nombre": "Caqui japonés, crudo",
+    "alias": [
+      "persimon",
+      "palosanto",
+      "kaki"
+    ]
+  },
+  "169942": {
+    "nombre": "Caqui japonés, seco",
+    "alias": [
+      "persimon",
+      "palosanto",
+      "kaki"
+    ]
+  },
+  "169943": {
+    "nombre": "Caqui americano (nativo), crudo",
+    "alias": [
+      "persimon"
+    ]
+  },
+  "169948": {
+    "nombre": "Jugo de piña, concentrado congelado, sin azúcar, sin diluir",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
   },
   "169953": {
     "nombre": "Frijoles de lima (pallares) inmaduros, congelados, tipo fordhook, sin preparar",
@@ -2823,6 +3924,32 @@
       "nachos"
     ]
   },
+  "170283": {
+    "nombre": "Cebada con cáscara (hulled)",
+    "alias": []
+  },
+  "170286": {
+    "nombre": "Trigo sarraceno",
+    "alias": [
+      "alforfon"
+    ]
+  },
+  "170288": {
+    "nombre": "Maíz en grano, amarillo",
+    "alias": [
+      "choclo seco"
+    ]
+  },
+  "170289": {
+    "nombre": "Salvado de maíz, crudo",
+    "alias": []
+  },
+  "170290": {
+    "nombre": "Harina de maíz amarillo, integral",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
   "170375": {
     "nombre": "Hojas de remolacha (betabel), crudas",
     "alias": []
@@ -3524,6 +4651,35 @@
       "mix de frutos secos"
     ]
   },
+  "170682": {
+    "nombre": "Amaranto, grano sin cocer",
+    "alias": [
+      "alegria"
+    ]
+  },
+  "170684": {
+    "nombre": "Harina de arrurruz",
+    "alias": [
+      "arrowroot"
+    ]
+  },
+  "170685": {
+    "nombre": "Trigo sarraceno tostado (kasha), seco",
+    "alias": [
+      "kasha"
+    ]
+  },
+  "170687": {
+    "nombre": "Harina de trigo sarraceno, grano entero",
+    "alias": []
+  },
+  "170688": {
+    "nombre": "Bulgur, seco",
+    "alias": [
+      "burgol",
+      "trigo bulgur"
+    ]
+  },
   "171141": {
     "nombre": "Sopa de frijoles negros, enlatada, condensada (sin diluir)",
     "alias": [
@@ -4059,6 +5215,86 @@
       "sopa de vaso"
     ]
   },
+  "171686": {
+    "nombre": "Acerola (cereza de las Antillas), cruda",
+    "alias": [
+      "acerola"
+    ]
+  },
+  "171687": {
+    "nombre": "Jugo de acerola, crudo",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "171690": {
+    "nombre": "Manzanas deshidratadas (baja humedad), sulfitadas, guisadas",
+    "alias": []
+  },
+  "171692": {
+    "nombre": "Manzanas secas sulfitadas, guisadas, sin azúcar añadida",
+    "alias": []
+  },
+  "171693": {
+    "nombre": "Manzanas secas sulfitadas, guisadas, con azúcar añadida",
+    "alias": []
+  },
+  "171702": {
+    "nombre": "Chabacanos (albaricoques) deshidratados (baja humedad), sulfitados, sin cocer",
+    "alias": [
+      "damascos",
+      "orejones"
+    ]
+  },
+  "171704": {
+    "nombre": "Néctar de chabacano (albaricoque), enlatado, con ácido ascórbico añadido",
+    "alias": [
+      "nectar de damasco"
+    ]
+  },
+  "171709": {
+    "nombre": "Zarzamoras, enlatadas en almíbar espeso, sólidos y líquido",
+    "alias": [
+      "moras"
+    ]
+  },
+  "171712": {
+    "nombre": "Moras boysen, enlatadas en almíbar espeso",
+    "alias": []
+  },
+  "171713": {
+    "nombre": "Moras boysen, congeladas, sin azúcar",
+    "alias": []
+  },
+  "171714": {
+    "nombre": "Fruta del pan (árbol del pan), cruda",
+    "alias": [
+      "pan de fruta",
+      "panapen"
+    ]
+  },
+  "171721": {
+    "nombre": "Manzanas silvestres (crabapples), crudas",
+    "alias": []
+  },
+  "171724": {
+    "nombre": "Pasas de Corinto (zante), secas",
+    "alias": [
+      "grosellas pasas"
+    ]
+  },
+  "171725": {
+    "nombre": "Anona (corazón de buey), cruda",
+    "alias": [
+      "anona",
+      "corazon de buey"
+    ]
+  },
+  "171727": {
+    "nombre": "Bayas de saúco, crudas",
+    "alias": []
+  },
   "171822": {
     "nombre": "Sopa de fideos ramen, cualquier sabor, deshidratada, reducida en grasa y sodio",
     "alias": [
@@ -4440,6 +5676,58 @@
       "jibia",
       "choco"
     ]
+  },
+  "172015": {
+    "nombre": "Harina de maíz blanco, desgerminada, sin enriquecer",
+    "alias": [
+      "harina de maiz"
+    ]
+  },
+  "172016": {
+    "nombre": "Harina de trigo blanca (industrial), 9 % de proteína, blanqueada, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "172017": {
+    "nombre": "Harina de trigo blanca (industrial), 9 % de proteína, blanqueada, sin enriquecer",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "172018": {
+    "nombre": "Harina de trigo blanca (industrial), 10 % de proteína, blanqueada, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "172019": {
+    "nombre": "Harina de trigo blanca (industrial), 10 % de proteína, blanqueada, sin enriquecer",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "172020": {
+    "nombre": "Harina de trigo blanca (industrial), 13 % de proteína, blanqueada, sin enriquecer",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "172021": {
+    "nombre": "Harina de trigo blanca (industrial), 15 % de proteína, blanqueada, enriquecida",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "172022": {
+    "nombre": "Harina de trigo blanca (industrial), 15 % de proteína, blanqueada, sin enriquecer",
+    "alias": [
+      "harina de trigo"
+    ]
+  },
+  "172023": {
+    "nombre": "Harina de mijo",
+    "alias": []
   },
   "172422": {
     "nombre": "Frijoles de lima (pallares) pequeños, semillas maduras, cocidos, hervidos, sin sal",
@@ -4943,6 +6231,74 @@
     "nombre": "Sopa de pollo con fideos, mezcla deshidratada, preparada con agua",
     "alias": []
   },
+  "173026": {
+    "nombre": "Cóctel de frutas (durazno, piña, pera, uva y cereza), enlatado, almíbar extra ligero, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "173027": {
+    "nombre": "Cóctel de frutas (durazno, piña, pera, uva y cereza), enlatado, almíbar ligero, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "173029": {
+    "nombre": "Cóctel de frutas (durazno, piña, pera, uva y cereza), enlatado, almíbar extra espeso, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "173031": {
+    "nombre": "Grosellas espinosas, enlatadas en almíbar ligero, sólidos y líquido",
+    "alias": []
+  },
+  "173032": {
+    "nombre": "Bayas de goji, secas",
+    "alias": [
+      "goji"
+    ]
+  },
+  "173034": {
+    "nombre": "Toronja blanca, cruda, de Florida",
+    "alias": [
+      "pomelo"
+    ]
+  },
+  "173038": {
+    "nombre": "Jugo de toronja rosada o roja, con calcio añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "173040": {
+    "nombre": "Uvas muscadine, crudas",
+    "alias": []
+  },
+  "173041": {
+    "nombre": "Jugo de uva, enlatado o embotellado, sin azúcar, con ácido ascórbico añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "173043": {
+    "nombre": "Uchuvas (physalis), crudas",
+    "alias": [
+      "aguaymanto",
+      "capuli",
+      "uvilla",
+      "physalis"
+    ]
+  },
+  "173045": {
+    "nombre": "Guayabas fresa, crudas",
+    "alias": []
+  },
   "173131": {
     "nombre": "Palomitas de microondas, 94 % libres de grasa",
     "alias": [
@@ -5160,6 +6516,16 @@
   "173232": {
     "nombre": "Té de hierbas (excepto manzanilla), preparado",
     "alias": []
+  },
+  "173262": {
+    "nombre": "Harina de sorgo, refinada, sin enriquecer",
+    "alias": []
+  },
+  "173265": {
+    "nombre": "Pasta sin gluten, de harina de maíz y arroz, cocida",
+    "alias": [
+      "pasta"
+    ]
   },
   "173647": {
     "nombre": "Agua de la llave",
@@ -5556,6 +6922,87 @@
       "cacahuates",
       "mani"
     ]
+  },
+  "173929": {
+    "nombre": "Manzana sin cáscara, cruda, cocida en microondas",
+    "alias": []
+  },
+  "173931": {
+    "nombre": "Manzanas deshidratadas (baja humedad), sulfitadas, sin cocer",
+    "alias": []
+  },
+  "173934": {
+    "nombre": "Jugo de manzana, concentrado congelado, sin azúcar, sin diluir, sin ácido ascórbico añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "173935": {
+    "nombre": "Jugo de manzana, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua, sin ácido ascórbico añadido",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "173940": {
+    "nombre": "Chabacanos (albaricoques) deshidratados (baja humedad), sulfitados, guisados",
+    "alias": [
+      "damascos",
+      "orejones"
+    ]
+  },
+  "173942": {
+    "nombre": "Chabacanos (albaricoques) secos sulfitados, guisados, sin azúcar añadida",
+    "alias": [
+      "damascos",
+      "orejones"
+    ]
+  },
+  "173943": {
+    "nombre": "Chabacanos (albaricoques) secos sulfitados, guisados, con azúcar añadida",
+    "alias": [
+      "damascos",
+      "orejones"
+    ]
+  },
+  "173947": {
+    "nombre": "Jugo de zarzamora, enlatado",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "173948": {
+    "nombre": "Arándanos azules, enlatados en almíbar espeso, sólidos y líquido",
+    "alias": [
+      "mirtilos",
+      "blueberries"
+    ]
+  },
+  "173952": {
+    "nombre": "Carissa (ciruela de Natal), cruda",
+    "alias": []
+  },
+  "173960": {
+    "nombre": "Cerezas dulces, enlatadas, sin hueso, en almíbar espeso, sólidos y líquido",
+    "alias": []
+  },
+  "173961": {
+    "nombre": "Salsa de arándano rojo, enlatada, endulzada",
+    "alias": [
+      "cranberry"
+    ]
+  },
+  "173962": {
+    "nombre": "Relish de arándano rojo y naranja, enlatado",
+    "alias": [
+      "cranberry"
+    ]
+  },
+  "173964": {
+    "nombre": "Grosellas rojas y blancas, crudas",
+    "alias": []
   },
   "174062": {
     "nombre": "Chowder de almejas estilo Nueva Inglaterra, enlatado, listo para servir",
@@ -6376,6 +7823,113 @@
   },
   "174650": {
     "nombre": "Barra de leche y cereal",
+    "alias": []
+  },
+  "174667": {
+    "nombre": "Cóctel de frutas (durazno, piña, pera, uva y cereza), enlatado, en agua, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "174668": {
+    "nombre": "Cóctel de frutas (durazno, piña, pera, uva y cereza), enlatado, en su jugo, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "174669": {
+    "nombre": "Ensalada de frutas (durazno, pera, chabacano, piña y cereza), enlatada, en agua, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "174670": {
+    "nombre": "Ensalada de frutas (durazno, pera, chabacano, piña y cereza), enlatada, en su jugo, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "174671": {
+    "nombre": "Ensalada de frutas (durazno, pera, chabacano, piña y cereza), enlatada, almíbar ligero, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "174672": {
+    "nombre": "Ensalada de frutas (durazno, pera, chabacano, piña y cereza), enlatada, almíbar extra espeso, sólidos y líquido",
+    "alias": [
+      "cocktail de frutas",
+      "macedonia"
+    ]
+  },
+  "174673": {
+    "nombre": "Toronja rosada y roja, cruda, de todas las áreas",
+    "alias": [
+      "pomelo"
+    ]
+  },
+  "174675": {
+    "nombre": "Toronja rosada y roja, cruda, de Florida",
+    "alias": [
+      "pomelo"
+    ]
+  },
+  "174676": {
+    "nombre": "Toronja blanca, cruda, de todas las áreas",
+    "alias": [
+      "pomelo"
+    ]
+  },
+  "174677": {
+    "nombre": "Toronja blanca, cruda, de California",
+    "alias": [
+      "pomelo"
+    ]
+  },
+  "174678": {
+    "nombre": "Jugo de toronja blanca, enlatado o embotellado, sin azúcar",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "174680": {
+    "nombre": "Jugo de toronja blanca, concentrado congelado, sin azúcar, sin diluir",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "174681": {
+    "nombre": "Jugo de toronja blanca, concentrado congelado, sin azúcar, diluido con 3 volúmenes de agua",
+    "alias": [
+      "jugo",
+      "zumo"
+    ]
+  },
+  "174682": {
+    "nombre": "Uvas americanas (de piel suelta), crudas",
+    "alias": []
+  },
+  "174684": {
+    "nombre": "Uvas Thompson sin semilla, enlatadas en agua, sólidos y líquido",
+    "alias": []
+  },
+  "174685": {
+    "nombre": "Uvas Thompson sin semilla, enlatadas en almíbar espeso, sólidos y líquido",
+    "alias": []
+  },
+  "174686": {
+    "nombre": "Salsa de guayaba, cocida",
+    "alias": []
+  },
+  "174687": {
+    "nombre": "Yaca (jackfruit), cruda",
     "alias": []
   },
   "174778": {
