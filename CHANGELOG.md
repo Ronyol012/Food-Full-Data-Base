@@ -1,5 +1,22 @@
 # Cambios
 
+## Sin publicar (borrador de 0.5.0)
+
+> **Estado:** las traducciones están en `src/traducciones.json`, pero `data/` **todavía no se regeneró** con ellas
+> (falta ejecutar `node scripts/build.mjs <SR Legacy>`). No hay etiqueta `v0.5.0`. Hasta regenerar y verificar, los
+> conteos de abajo son los de 0.4.0.
+
+**Traducción selectiva del nivel extendido.** 1.529 alimentos útiles que estaban `pendiente` pasan a `curada`:
+
+- Frutos secos y semillas, pescados y mariscos, bebidas, botanas, sopas y salsas, legumbres y derivados de la soya,
+  verduras y papas, frutas y jugos, cereales, harinas y pastas.
+- Son nombres **escritos a mano por Claude, sin revisión de hablantes nativos**: ninguno es `revisada`. Los más dudosos
+  están en [REVISION_v0.5.md](REVISION_v0.5.md).
+- En lo cocinado se distingue siempre **con sal / sin sal**, y en lo enlatado si es *condensado* o *preparado* (cambia
+  las calorías), *en almíbar*, *con azúcar añadida* o *enriquecida*.
+- **No se tradujeron** los cortes de res, cerdo y cordero por país, la comida infantil ni las marcas.
+- Los datos nutricionales de la USDA **no se tocaron**.
+
 ## 0.4.0 — 2026-11-03
 
 **Platos regionales calculados.**
