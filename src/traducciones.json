@@ -1,4 +1,132 @@
 {
+  "167537": {
+    "nombre": "Botana de maíz extruido, tipo papitas, natural",
+    "alias": []
+  },
+  "167538": {
+    "nombre": "Botana de maíz extruido, tipo papitas, sabor barbacoa",
+    "alias": []
+  },
+  "167539": {
+    "nombre": "Botana de maíz extruido, en forma de cono, natural",
+    "alias": []
+  },
+  "167543": {
+    "nombre": "Barra de granola dura, de almendra",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "167544": {
+    "nombre": "Barra de granola suave, sin cobertura, de pasas",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "167545": {
+    "nombre": "Barra de granola suave, cubierta de chocolate con leche, con chispas de chocolate",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "167547": {
+    "nombre": "Barra de granola suave, cubierta de chocolate con leche, de crema de cacahuate",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "167548": {
+    "nombre": "Barra de granola suave, sin cobertura, de crema de cacahuate y chispas de chocolate",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "167549": {
+    "nombre": "Palomitas de microondas con aceite, sabor regular, sin grasas trans",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "167550": {
+    "nombre": "Tortitas de palomitas de maíz",
+    "alias": [
+      "palomitas"
+    ]
+  },
+  "167551": {
+    "nombre": "Palomitas de maíz caramelizadas, con cacahuates",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "167552": {
+    "nombre": "Palomitas de maíz caramelizadas, sin cacahuates",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "167553": {
+    "nombre": "Papitas fritas de papa deshidratada, reducidas en grasa",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "167554": {
+    "nombre": "Papitas fritas de papa deshidratada, sabor crema agria y cebolla",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "167556": {
+    "nombre": "Pretzels duros con cobertura sabor chocolate",
+    "alias": []
+  },
+  "167557": {
+    "nombre": "Tortitas de arroz integral con ajonjolí",
+    "alias": [
+      "galletas de arroz"
+    ]
+  },
+  "167559": {
+    "nombre": "Totopos sabor queso nacho",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "167560": {
+    "nombre": "Totopos sabor ranch",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "167723": {
+    "nombre": "Sake (vino de arroz)",
+    "alias": [
+      "sake"
+    ]
+  },
   "167742": {
     "nombre": "Vieiras, cocidas al vapor",
     "alias": [
@@ -14,9 +142,134 @@
     "nombre": "Tortuga verde, cruda",
     "alias": []
   },
+  "167948": {
+    "nombre": "Botana de maíz extruido, sabor cebolla",
+    "alias": []
+  },
+  "167949": {
+    "nombre": "Botana de maíz extruido, tipo palitos o espirales, sabor queso",
+    "alias": []
+  },
+  "167951": {
+    "nombre": "Barra de arroz inflado con chispas de chocolate",
+    "alias": []
+  },
+  "167952": {
+    "nombre": "Barra de granola dura, con chispas de chocolate",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "167955": {
+    "nombre": "Barra de granola suave, sin cobertura, de crema de cacahuate",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "167958": {
+    "nombre": "Mezcla de botana oriental a base de arroz",
+    "alias": []
+  },
+  "167960": {
+    "nombre": "Palomitas de maíz sabor queso",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "167962": {
+    "nombre": "Papitas fritas sabor barbacoa",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "167963": {
+    "nombre": "Papitas fritas sabor crema agria y cebolla",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "167965": {
+    "nombre": "Pretzels duros integrales, con y sin sal",
+    "alias": []
+  },
+  "167966": {
+    "nombre": "Galleta de arroz integral, natural",
+    "alias": []
+  },
+  "167967": {
+    "nombre": "Tortitas de arroz integral con trigo sarraceno",
+    "alias": [
+      "galletas de arroz"
+    ]
+  },
+  "167968": {
+    "nombre": "Mezcla de frutos secos y frutas tipo trail mix, tropical",
+    "alias": [
+      "mix de frutos secos"
+    ]
+  },
+  "167969": {
+    "nombre": "Mezcla de frutos secos y semillas tipo trail mix, con chispas de chocolate y frutos secos con sal",
+    "alias": [
+      "mix de frutos secos"
+    ]
+  },
+  "167970": {
+    "nombre": "Totopos sabor taco",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "168095": {
+    "nombre": "Barra de granola suave, cubierta de chocolate con leche, de crema de cacahuate",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "168116": {
+    "nombre": "Totopos de maíz blanco, sin sal",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "168127": {
+    "nombre": "Botana de maíz extruido, tipo papitas, sin sal",
+    "alias": []
+  },
   "168129": {
     "nombre": "Medusa, seca y salada",
     "alias": []
+  },
+  "168137": {
+    "nombre": "Totopos ligeros (horneados con menos aceite)",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "168139": {
+    "nombre": "Palomitas de microondas, bajas en grasa y sodio",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
   },
   "168148": {
     "nombre": "Ancas de rana, crudas",
@@ -102,6 +355,139 @@
     "alias": [
       "tahine"
     ]
+  },
+  "168750": {
+    "nombre": "Piña colada, enlatada",
+    "alias": [
+      "pina colada"
+    ]
+  },
+  "168751": {
+    "nombre": "Leche de almendra endulzada, sabor vainilla, lista para beber",
+    "alias": [
+      "bebida de almendra"
+    ]
+  },
+  "168752": {
+    "nombre": "Piña colada, preparada (receta)",
+    "alias": [
+      "pina colada"
+    ]
+  },
+  "168753": {
+    "nombre": "Tequila sunrise, enlatado",
+    "alias": []
+  },
+  "168850": {
+    "nombre": "Palitos de carne de res ahumada (beef sticks)",
+    "alias": [
+      "carne seca",
+      "jerky"
+    ]
+  },
+  "168851": {
+    "nombre": "Chicharrón de cerdo sabor barbacoa",
+    "alias": [
+      "chicharron"
+    ]
+  },
+  "168853": {
+    "nombre": "Papitas fritas de papa deshidratada, natural",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "168854": {
+    "nombre": "Papas en palitos fritas (papa paja)",
+    "alias": [
+      "papitas paja"
+    ]
+  },
+  "168855": {
+    "nombre": "Tortitas de arroz integral con centeno",
+    "alias": [
+      "galletas de arroz"
+    ]
+  },
+  "168856": {
+    "nombre": "Palitos de ajonjolí a base de trigo, con sal",
+    "alias": []
+  },
+  "168857": {
+    "nombre": "Tortitas de maíz",
+    "alias": []
+  },
+  "168858": {
+    "nombre": "Totopos sabor nacho, reducidos en grasa",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "168859": {
+    "nombre": "Totopos bajos en grasa, horneados sin grasa",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "168860": {
+    "nombre": "Botana de maíz tipo queso, horneada, baja en grasa",
+    "alias": []
+  },
+  "168861": {
+    "nombre": "Barra de granola con relleno de fruta, sin grasa",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "168863": {
+    "nombre": "Totopos bajos en grasa, hechos con olestra, sabor queso nacho",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "168864": {
+    "nombre": "Papitas fritas de papa deshidratada, sin grasa, hechas con olestra",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "168865": {
+    "nombre": "Chips de taro",
+    "alias": []
+  },
+  "169044": {
+    "nombre": "Bebida de jugo de naranja",
+    "alias": []
+  },
+  "169046": {
+    "nombre": "Papitas de papa reconstituida, horneadas",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "169063": {
+    "nombre": "Barra de desayuno de avena, azúcar, pasas y coco",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "169071": {
+    "nombre": "Vino ligero",
+    "alias": []
   },
   "169406": {
     "nombre": "Tahini (pasta de sésamo) de semillas crudas sin cáscara",
@@ -217,6 +603,129 @@
     "nombre": "Frutos secos mixtos tostados en aceite, sin cacahuates, ligeramente salados",
     "alias": [
       "nueces mixtas"
+    ]
+  },
+  "169573": {
+    "nombre": "Daiquirí, enlatado",
+    "alias": [
+      "daiquiri"
+    ]
+  },
+  "169574": {
+    "nombre": "Daiquirí, preparado (receta)",
+    "alias": [
+      "daiquiri"
+    ]
+  },
+  "169575": {
+    "nombre": "Cerveza ligera, baja en carbohidratos",
+    "alias": []
+  },
+  "169636": {
+    "nombre": "Fruta deshidratada en láminas (fruit leather), con vitamina C",
+    "alias": [
+      "bocadillo de fruta"
+    ]
+  },
+  "169672": {
+    "nombre": "Maíz frito crujiente (cornnuts), sabor barbacoa",
+    "alias": [
+      "maiz frito",
+      "cancha"
+    ]
+  },
+  "169673": {
+    "nombre": "Barra de arroz inflado con almendra",
+    "alias": []
+  },
+  "169674": {
+    "nombre": "Barra de granola suave, sin cobertura, con chispas de chocolate",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "169675": {
+    "nombre": "Barra de granola suave, sin cobertura, con chocolate, galleta graham y malvavisco",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "169676": {
+    "nombre": "Barra de granola suave, sin cobertura, de nueces y pasas",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "169678": {
+    "nombre": "Papitas fritas de papa deshidratada, sabor queso",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "169680": {
+    "nombre": "Tortitas de arroz integral multigrano",
+    "alias": [
+      "galletas de arroz"
+    ]
+  },
+  "169681": {
+    "nombre": "Barra de granola dura, de crema de cacahuate",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "169682": {
+    "nombre": "Papitas fritas sabor queso",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "169683": {
+    "nombre": "Papitas fritas reducidas en grasa",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "169684": {
+    "nombre": "Papitas fritas sin grasa, hechas con olestra",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "169685": {
+    "nombre": "Palomitas de maíz caramelizadas, sin grasa",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "169686": {
+    "nombre": "Papitas fritas sin grasa, con sal",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "169863": {
+    "nombre": "Barra de granola con coco, cubierta de chocolate",
+    "alias": [
+      "barra de granola",
+      "barrita"
     ]
   },
   "170144": {
@@ -364,6 +873,86 @@
     "nombre": "Harina de ajonjolí (sésamo), alta en grasa",
     "alias": [
       "harina de sesamo"
+    ]
+  },
+  "170244": {
+    "nombre": "Botana de maíz extruido, tipo palitos o espirales, sabor queso, sin enriquecer",
+    "alias": []
+  },
+  "170245": {
+    "nombre": "Botana de maíz extruido, tipo papitas, sabor barbacoa, con masa enriquecida",
+    "alias": []
+  },
+  "170246": {
+    "nombre": "Palomitas de maíz hechas con aire caliente, sin sal",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "170247": {
+    "nombre": "Palomitas de maíz blanco hechas con aceite, con sal",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "170248": {
+    "nombre": "Papitas fritas naturales, con aceite de soya parcialmente hidrogenado, con sal",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "170249": {
+    "nombre": "Pretzels duros naturales, con harina enriquecida, sin sal",
+    "alias": []
+  },
+  "170250": {
+    "nombre": "Tortitas de arroz integral naturales, sin sal",
+    "alias": [
+      "galletas de arroz"
+    ]
+  },
+  "170251": {
+    "nombre": "Tortitas de arroz integral con trigo sarraceno, sin sal",
+    "alias": [
+      "galletas de arroz"
+    ]
+  },
+  "170252": {
+    "nombre": "Tortitas de arroz integral multigrano, sin sal",
+    "alias": [
+      "galletas de arroz"
+    ]
+  },
+  "170253": {
+    "nombre": "Papitas fritas sin sal, reducidas en grasa",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "170254": {
+    "nombre": "Totopos bajos en grasa, sin sal",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "170256": {
+    "nombre": "Totopos sabor nacho, con masa enriquecida",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
     ]
   },
   "170552": {
@@ -531,6 +1120,221 @@
     "alias": [
       "fruta de pan",
       "pana de pepita"
+    ]
+  },
+  "170647": {
+    "nombre": "Tortitas de maíz, muy bajas en sodio",
+    "alias": []
+  },
+  "170648": {
+    "nombre": "Papitas fritas naturales, con aceite de soya parcialmente hidrogenado, sin sal",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "170649": {
+    "nombre": "Papitas fritas naturales, sin sal",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "170650": {
+    "nombre": "Pretzels duros naturales, con harina sin enriquecer, con sal",
+    "alias": []
+  },
+  "170651": {
+    "nombre": "Pretzels duros naturales, con harina sin enriquecer, sin sal",
+    "alias": []
+  },
+  "170652": {
+    "nombre": "Tortitas de arroz integral con ajonjolí, sin sal",
+    "alias": [
+      "galletas de arroz"
+    ]
+  },
+  "170653": {
+    "nombre": "Palitos de ajonjolí a base de trigo, sin sal",
+    "alias": []
+  },
+  "170654": {
+    "nombre": "Mezcla de frutos secos tipo trail mix, sin sal",
+    "alias": [
+      "mix de frutos secos"
+    ]
+  },
+  "170655": {
+    "nombre": "Mezcla tipo trail mix con chispas de chocolate, frutos secos y semillas sin sal",
+    "alias": [
+      "mix de frutos secos"
+    ]
+  },
+  "171869": {
+    "nombre": "Agua tónica",
+    "alias": [
+      "tonica"
+    ]
+  },
+  "171875": {
+    "nombre": "Refresco gaseoso de lima (limeade), alto en cafeína",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "171876": {
+    "nombre": "Refresco de cola light con sacarina, con cafeína",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "171877": {
+    "nombre": "Café listo para beber con leche, vainilla, ligero, endulzado",
+    "alias": []
+  },
+  "171880": {
+    "nombre": "Café listo para beber con leche, endulzado",
+    "alias": []
+  },
+  "171881": {
+    "nombre": "Café preparado, mezcla tipo desayuno",
+    "alias": []
+  },
+  "171882": {
+    "nombre": "Jugo de almeja y tomate, enlatado",
+    "alias": [
+      "clamato"
+    ]
+  },
+  "171885": {
+    "nombre": "Té verde listo para beber, dietético",
+    "alias": []
+  },
+  "171886": {
+    "nombre": "Mezcla de cacao en polvo, sin azúcar añadida",
+    "alias": []
+  },
+  "171888": {
+    "nombre": "Té negro listo para beber, con limón, endulzado",
+    "alias": []
+  },
+  "171889": {
+    "nombre": "Café preparado con agua de la llave, descafeinado",
+    "alias": []
+  },
+  "171891": {
+    "nombre": "Café espresso de restaurante",
+    "alias": [
+      "espresso",
+      "expreso"
+    ]
+  },
+  "171893": {
+    "nombre": "Café instantáneo regular, en polvo",
+    "alias": []
+  },
+  "171894": {
+    "nombre": "Café instantáneo descafeinado, preparado con agua",
+    "alias": []
+  },
+  "171897": {
+    "nombre": "Café instantáneo con achicoria, en polvo",
+    "alias": []
+  },
+  "171902": {
+    "nombre": "Bebida de arándano rojo y uva, embotellada",
+    "alias": []
+  },
+  "171903": {
+    "nombre": "Cóctel de jugo de arándano rojo, embotellado",
+    "alias": []
+  },
+  "171905": {
+    "nombre": "Mezcla sabor ponche de huevo (eggnog), en polvo, preparada con leche entera",
+    "alias": []
+  },
+  "171906": {
+    "nombre": "Cerveza de mayor graduación alcohólica",
+    "alias": []
+  },
+  "171907": {
+    "nombre": "Licor de malta",
+    "alias": []
+  },
+  "171908": {
+    "nombre": "Vino rosado",
+    "alias": [
+      "vino rose"
+    ]
+  },
+  "171910": {
+    "nombre": "Té verde preparado, descafeinado",
+    "alias": []
+  },
+  "171911": {
+    "nombre": "Té verde listo para beber, sin azúcar",
+    "alias": []
+  },
+  "171912": {
+    "nombre": "Bebida de jugo de cítricos, concentrado congelado",
+    "alias": []
+  },
+  "171913": {
+    "nombre": "Bebida de jugo de cítricos, concentrado congelado, preparada con agua",
+    "alias": []
+  },
+  "171914": {
+    "nombre": "Ponche de frutas enlatado, sin nutrientes añadidos",
+    "alias": []
+  },
+  "171915": {
+    "nombre": "Ponche tropical, listo para beber",
+    "alias": []
+  },
+  "171916": {
+    "nombre": "Bebida de uva, enlatada",
+    "alias": []
+  },
+  "171919": {
+    "nombre": "Bebida destilada (ginebra, ron, vodka, whisky), 86 proof (43 % de alcohol)",
+    "alias": []
+  },
+  "171920": {
+    "nombre": "Bebida destilada (ginebra, ron, vodka, whisky), 90 proof (45 % de alcohol)",
+    "alias": []
+  },
+  "171921": {
+    "nombre": "Refresco gaseoso de chocolate",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "171925": {
+    "nombre": "Vino tinto de mesa, Merlot",
+    "alias": []
+  },
+  "171935": {
+    "nombre": "Bebida energética con vitaminas C, B2, B3, B6 y B12 (tipo Monster)",
+    "alias": [
+      "energizante"
+    ]
+  },
+  "171941": {
+    "nombre": "Horchata, como se sirve en restaurante",
+    "alias": []
+  },
+  "171946": {
+    "nombre": "Té de jamaica (flor de hibisco), preparado",
+    "alias": [
+      "jamaica",
+      "flor de jamaica",
+      "agua de jamaica",
+      "karkade"
     ]
   },
   "171950": {
@@ -718,6 +1522,267 @@
       "choco"
     ]
   },
+  "173131": {
+    "nombre": "Palomitas de microondas, 94 % libres de grasa",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "173140": {
+    "nombre": "Chips o crujientes de soya, con sal",
+    "alias": []
+  },
+  "173141": {
+    "nombre": "Palomitas de microondas, sabor regular (mantequilla), con aceite de palma",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "173142": {
+    "nombre": "Chips de plátano macho, con sal",
+    "alias": [
+      "tostones",
+      "mariquitas",
+      "chifles",
+      "platanitos"
+    ]
+  },
+  "173143": {
+    "nombre": "Totopos de maíz amarillo, naturales, con sal",
+    "alias": [
+      "totopos",
+      "tortilla chips",
+      "nachos"
+    ]
+  },
+  "173145": {
+    "nombre": "Barra de granola masticable, reducida en azúcar, todos los sabores",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "173146": {
+    "nombre": "Bocados de granola, sabores variados",
+    "alias": []
+  },
+  "173147": {
+    "nombre": "Chips de pan pita, con sal",
+    "alias": []
+  },
+  "173148": {
+    "nombre": "Barra de granola suave, de almendra, con cobertura de confitería",
+    "alias": [
+      "barra de granola",
+      "barrita"
+    ]
+  },
+  "173149": {
+    "nombre": "Barra alta en fibra, masticable, de avena y chocolate",
+    "alias": []
+  },
+  "173150": {
+    "nombre": "Chips de bagel, naturales",
+    "alias": []
+  },
+  "173152": {
+    "nombre": "Chips de yuca, con sal",
+    "alias": [
+      "yuca frita",
+      "mariquitas de yuca"
+    ]
+  },
+  "173155": {
+    "nombre": "Chips de arroz integral",
+    "alias": []
+  },
+  "173156": {
+    "nombre": "Pretzel duro cubierto de chocolate",
+    "alias": []
+  },
+  "173157": {
+    "nombre": "Chícharos tostados sabor wasabi",
+    "alias": [
+      "arvejas",
+      "guisantes"
+    ]
+  },
+  "173160": {
+    "nombre": "Galletas de camarón (krupuk)",
+    "alias": []
+  },
+  "173161": {
+    "nombre": "Galletas de arroz",
+    "alias": []
+  },
+  "173164": {
+    "nombre": "Whiskey sour, preparado con agua, whisky y mezcla en polvo",
+    "alias": []
+  },
+  "173168": {
+    "nombre": "Licor de crema de menta, 72 proof (36 % de alcohol)",
+    "alias": []
+  },
+  "173175": {
+    "nombre": "Bebida de açaí (asaí), fortificada",
+    "alias": [
+      "acai"
+    ]
+  },
+  "173177": {
+    "nombre": "Proteína de suero de leche en polvo, aislada",
+    "alias": [
+      "whey"
+    ]
+  },
+  "173178": {
+    "nombre": "Jugo de naranja ligero, sin pulpa",
+    "alias": []
+  },
+  "173181": {
+    "nombre": "Proteína de soya en polvo",
+    "alias": []
+  },
+  "173185": {
+    "nombre": "Vino de mesa (todos los tipos)",
+    "alias": []
+  },
+  "173187": {
+    "nombre": "Leche de almendra con chocolate, sin azúcar, larga vida, fortificada con vitaminas D2 y E",
+    "alias": [
+      "bebida de almendra"
+    ]
+  },
+  "173192": {
+    "nombre": "Vino tinto de mesa, Zinfandel",
+    "alias": []
+  },
+  "173199": {
+    "nombre": "Refresco gaseoso de crema (cream soda)",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "173200": {
+    "nombre": "Vino blanco de mesa, Riesling",
+    "alias": []
+  },
+  "173201": {
+    "nombre": "Vino blanco de mesa, Sauvignon Blanc",
+    "alias": []
+  },
+  "173203": {
+    "nombre": "Refresco gaseoso de uva",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "173209": {
+    "nombre": "Refresco gaseoso tipo pimienta (tipo Dr Pepper), con cafeína",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "173212": {
+    "nombre": "Té negro listo para beber, descafeinado",
+    "alias": []
+  },
+  "173213": {
+    "nombre": "Bebida de jugo de uva, enlatada",
+    "alias": []
+  },
+  "173214": {
+    "nombre": "Cóctel de jugo de arándano rojo",
+    "alias": []
+  },
+  "173216": {
+    "nombre": "Limonada, concentrado congelado, blanca",
+    "alias": []
+  },
+  "173223": {
+    "nombre": "Bebida de jugo de naranja y albaricoque, enlatada",
+    "alias": [
+      "chabacano",
+      "damasco"
+    ]
+  },
+  "173224": {
+    "nombre": "Bebida de jugo de piña y toronja, enlatada",
+    "alias": [
+      "pomelo"
+    ]
+  },
+  "173225": {
+    "nombre": "Bebida de jugo de piña y naranja, enlatada",
+    "alias": []
+  },
+  "173226": {
+    "nombre": "Malteada de vainilla, comida rápida",
+    "alias": [
+      "batido",
+      "licuado"
+    ]
+  },
+  "173230": {
+    "nombre": "Té instantáneo sin azúcar, en polvo",
+    "alias": []
+  },
+  "173232": {
+    "nombre": "Té de hierbas (excepto manzanilla), preparado",
+    "alias": []
+  },
+  "173647": {
+    "nombre": "Agua de la llave",
+    "alias": [
+      "agua del grifo",
+      "agua potable"
+    ]
+  },
+  "173648": {
+    "nombre": "Sustituto de café (bebida de cereal), en polvo, preparado con leche entera",
+    "alias": []
+  },
+  "173653": {
+    "nombre": "Cóctel de jugo de arándano rojo, concentrado congelado",
+    "alias": []
+  },
+  "173654": {
+    "nombre": "Cóctel de jugo de arándano rojo, concentrado congelado, preparado con agua",
+    "alias": []
+  },
+  "173662": {
+    "nombre": "Whiskey sour",
+    "alias": []
+  },
+  "173663": {
+    "nombre": "Bebida destilada (ginebra, ron, vodka, whisky), 94 proof (47 % de alcohol)",
+    "alias": []
+  },
+  "173664": {
+    "nombre": "Bebida destilada (ginebra, ron, vodka, whisky), 100 proof (50 % de alcohol)",
+    "alias": []
+  },
+  "173665": {
+    "nombre": "Licor de café, 63 proof (31,5 % de alcohol)",
+    "alias": []
+  },
+  "173666": {
+    "nombre": "Limonada rosa, concentrado congelado",
+    "alias": []
+  },
+  "173667": {
+    "nombre": "Limonada rosa, concentrado congelado, preparada con agua",
+    "alias": []
+  },
   "173668": {
     "nombre": "Arenque del Atlántico, ahumado (kippered)",
     "alias": []
@@ -832,6 +1897,145 @@
     "alias": [
       "salmon enlatado"
     ]
+  },
+  "174108": {
+    "nombre": "Bebida energética, cítrica",
+    "alias": [
+      "energizante"
+    ]
+  },
+  "174110": {
+    "nombre": "Vino blanco de mesa, Chardonnay",
+    "alias": []
+  },
+  "174111": {
+    "nombre": "Bebida de jugo de kiwi y fresa",
+    "alias": []
+  },
+  "174112": {
+    "nombre": "Bebida de jugo de manzana ligera, con vitamina C añadida",
+    "alias": []
+  },
+  "174116": {
+    "nombre": "Leche de coco endulzada, fortificada con calcio y vitaminas A, B12 y D2",
+    "alias": [
+      "bebida de coco"
+    ]
+  },
+  "174117": {
+    "nombre": "Jarabe de chocolate",
+    "alias": []
+  },
+  "174118": {
+    "nombre": "Jarabe de chocolate, preparado con leche entera",
+    "alias": []
+  },
+  "174119": {
+    "nombre": "Café helado listo para beber, moca, con leche",
+    "alias": []
+  },
+  "174120": {
+    "nombre": "Té oolong, preparado",
+    "alias": []
+  },
+  "174123": {
+    "nombre": "Mezcla de cacao en polvo, preparada con agua",
+    "alias": []
+  },
+  "174125": {
+    "nombre": "Café espresso de restaurante, descafeinado",
+    "alias": [
+      "espresso",
+      "expreso"
+    ]
+  },
+  "174128": {
+    "nombre": "Té verde listo para beber, endulzado",
+    "alias": []
+  },
+  "174130": {
+    "nombre": "Café instantáneo regular, preparado con agua",
+    "alias": []
+  },
+  "174131": {
+    "nombre": "Bebida de jugo de sábila (aloe vera), con vitamina C añadida",
+    "alias": [
+      "aloe vera"
+    ]
+  },
+  "174133": {
+    "nombre": "Café instantáneo descafeinado, en polvo",
+    "alias": []
+  },
+  "174138": {
+    "nombre": "Sustituto de café (bebida de cereal), en polvo",
+    "alias": []
+  },
+  "174139": {
+    "nombre": "Sustituto de café (bebida de cereal), preparado con agua",
+    "alias": []
+  },
+  "174140": {
+    "nombre": "Bebida de arándano rojo y manzana, embotellada",
+    "alias": []
+  },
+  "174141": {
+    "nombre": "Limonada alcohólica (cerveza de malta con sabor a limón)",
+    "alias": []
+  },
+  "174142": {
+    "nombre": "Bebida de arándano rojo y albaricoque, embotellada",
+    "alias": [
+      "chabacano",
+      "damasco"
+    ]
+  },
+  "174144": {
+    "nombre": "Té negro listo para beber",
+    "alias": []
+  },
+  "174145": {
+    "nombre": "Cerveza ligera de mayor graduación alcohólica",
+    "alias": []
+  },
+  "174151": {
+    "nombre": "Ponche de frutas con nutrientes añadidos, enlatado",
+    "alias": []
+  },
+  "174152": {
+    "nombre": "Ponche de frutas, concentrado congelado",
+    "alias": []
+  },
+  "174153": {
+    "nombre": "Ponche de frutas, concentrado congelado, preparado con agua",
+    "alias": []
+  },
+  "174155": {
+    "nombre": "Té negro preparado con agua destilada",
+    "alias": []
+  },
+  "174156": {
+    "nombre": "Té de manzanilla, preparado",
+    "alias": [
+      "manzanilla",
+      "camomila"
+    ]
+  },
+  "174157": {
+    "nombre": "Vino sin alcohol",
+    "alias": []
+  },
+  "174158": {
+    "nombre": "Agua embotellada, genérica",
+    "alias": []
+  },
+  "174175": {
+    "nombre": "Mezcla de jugo de verduras y frutas 100 %, con vitaminas A, C y E añadidas",
+    "alias": []
+  },
+  "174181": {
+    "nombre": "Mezcla para batido nutricional alto en proteína, en polvo",
+    "alias": []
   },
   "174184": {
     "nombre": "Lubina de agua dulce (bass), cruda",
@@ -1064,6 +2268,230 @@
   },
   "174251": {
     "nombre": "Reloj anaranjado (orange roughy), cocido con calor seco",
+    "alias": []
+  },
+  "174650": {
+    "nombre": "Barra de leche y cereal",
+    "alias": []
+  },
+  "174778": {
+    "nombre": "Palomitas de microondas, bajas en grasa",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "174783": {
+    "nombre": "Chips de camote, sin sal",
+    "alias": [
+      "batata",
+      "boniato"
+    ]
+  },
+  "174785": {
+    "nombre": "Palomitas de microondas, sabor regular (mantequilla), con aceite parcialmente hidrogenado",
+    "alias": [
+      "palomitas",
+      "pochoclo",
+      "canguil",
+      "cotufas"
+    ]
+  },
+  "174790": {
+    "nombre": "Pretzels suaves, sin sal",
+    "alias": []
+  },
+  "174796": {
+    "nombre": "Chips de verduras variadas",
+    "alias": []
+  },
+  "174804": {
+    "nombre": "Papitas fritas de papa deshidratada (preformadas), multigrano",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "174805": {
+    "nombre": "Papitas fritas ligeramente saladas",
+    "alias": [
+      "papitas",
+      "papas fritas",
+      "chips"
+    ]
+  },
+  "174806": {
+    "nombre": "Pretzels sin gluten, hechos con almidón de maíz y harina de papa",
+    "alias": []
+  },
+  "174810": {
+    "nombre": "Whiskey sour, enlatado",
+    "alias": []
+  },
+  "174817": {
+    "nombre": "Ron, 80 proof (40 % de alcohol)",
+    "alias": []
+  },
+  "174818": {
+    "nombre": "Vodka, 80 proof (40 % de alcohol)",
+    "alias": []
+  },
+  "174819": {
+    "nombre": "Whisky, 86 proof (43 % de alcohol)",
+    "alias": [
+      "whiskey"
+    ]
+  },
+  "174820": {
+    "nombre": "Leche de almendra con chocolate, lista para beber",
+    "alias": [
+      "bebida de almendra"
+    ]
+  },
+  "174821": {
+    "nombre": "Bebida energética con agua carbonatada y jarabe de maíz de alta fructosa",
+    "alias": [
+      "energizante"
+    ]
+  },
+  "174824": {
+    "nombre": "Chocolate en polvo, sin azúcar añadida",
+    "alias": []
+  },
+  "174828": {
+    "nombre": "Refresco gaseoso cítrico amarillo verdoso, con cafeína",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "174831": {
+    "nombre": "Agua de coco lista para beber, sin azúcar",
+    "alias": []
+  },
+  "174833": {
+    "nombre": "Vino tinto de mesa, Cabernet Sauvignon",
+    "alias": []
+  },
+  "174835": {
+    "nombre": "Vino tinto de mesa, Pinot Noir",
+    "alias": []
+  },
+  "174836": {
+    "nombre": "Vino tinto de mesa, Syrah",
+    "alias": []
+  },
+  "174841": {
+    "nombre": "Vino blanco de mesa, Pinot Grigio",
+    "alias": []
+  },
+  "174851": {
+    "nombre": "Refresco gaseoso de cola, sin cafeína",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "174853": {
+    "nombre": "Refresco gaseoso de cola, reducido en azúcar, con edulcorantes y cafeína",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "174854": {
+    "nombre": "Refresco gaseoso de naranja",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "174858": {
+    "nombre": "Limonada en polvo",
+    "alias": []
+  },
+  "174859": {
+    "nombre": "Limonada en polvo, preparada con agua",
+    "alias": []
+  },
+  "174860": {
+    "nombre": "Bebida sabor limonada en polvo",
+    "alias": []
+  },
+  "174861": {
+    "nombre": "Bebida sabor limonada en polvo, preparada con agua",
+    "alias": []
+  },
+  "174862": {
+    "nombre": "Limonada de lima (limeade), concentrado congelado, preparada con agua",
+    "alias": []
+  },
+  "174863": {
+    "nombre": "Bebida de malta (incluye cerveza sin alcohol)",
+    "alias": []
+  },
+  "174868": {
+    "nombre": "Bebida de naranja enlatada, con vitamina C añadida",
+    "alias": []
+  },
+  "174869": {
+    "nombre": "Mezcla sabor fresa en polvo",
+    "alias": []
+  },
+  "174870": {
+    "nombre": "Mezcla sabor fresa en polvo, preparada con leche entera",
+    "alias": []
+  },
+  "174871": {
+    "nombre": "Té negro preparado con agua de la llave, descafeinado",
+    "alias": []
+  },
+  "174873": {
+    "nombre": "Té instantáneo sin azúcar, preparado con agua",
+    "alias": []
+  },
+  "175089": {
+    "nombre": "Té instantáneo con limón, endulzado, en polvo",
+    "alias": []
+  },
+  "175090": {
+    "nombre": "Té instantáneo con limón, endulzado, preparado con agua",
+    "alias": []
+  },
+  "175093": {
+    "nombre": "Refresco gaseoso de cola, de comida rápida",
+    "alias": [
+      "gaseosa",
+      "soda"
+    ]
+  },
+  "175096": {
+    "nombre": "Agua de pozo",
+    "alias": []
+  },
+  "175098": {
+    "nombre": "Licor de café con crema, 34 proof (17 % de alcohol)",
+    "alias": []
+  },
+  "175102": {
+    "nombre": "Malteada de fresa, comida rápida",
+    "alias": [
+      "batido",
+      "licuado"
+    ]
+  },
+  "175103": {
+    "nombre": "Agua de la llave municipal",
+    "alias": [
+      "agua del grifo",
+      "agua potable"
+    ]
+  },
+  "175112": {
+    "nombre": "Vino de postre, seco",
     "alias": []
   },
   "175121": {
