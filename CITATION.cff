@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Si usas este dataset, cítalo así."
+title: "Alimentos ES: composición de alimentos en español"
+type: dataset
+version: 0.1.0
+date-released: 2026-11-03
+license: CC-BY-4.0
+authors:
+  - name: "Ronyol012 y colaboradores"
+abstract: "875 alimentos comunes con energía, proteína, carbohidratos y grasas por 100 g, con nombres en español. Valores de USDA FoodData Central, SR Legacy (dominio público); nombres, alias y selección bajo CC BY 4.0."
+keywords:
+  - food composition
+  - nutrition
+  - spanish
+  - composición de alimentos

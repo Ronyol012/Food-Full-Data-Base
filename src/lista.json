@@ -1,0 +1,4757 @@
+[
+ {
+  "es": "Huevo entero, crudo",
+  "usda": "Egg, whole, raw, fresh",
+  "alias": [
+   "huevos"
+  ],
+  "top": true
+ },
+ {
+  "es": "Huevo cocido (duro)",
+  "usda": "Egg, whole, cooked, hard-boiled",
+  "alias": [
+   "huevo duro",
+   "huevos cocidos"
+  ],
+  "top": true
+ },
+ {
+  "es": "Huevo frito",
+  "usda": "Egg, whole, cooked, fried",
+  "alias": [
+   "huevos fritos"
+  ],
+  "top": true
+ },
+ {
+  "es": "Huevo revuelto",
+  "usda": "Egg, whole, cooked, scrambled",
+  "alias": [
+   "huevos revueltos"
+  ],
+  "top": true
+ },
+ {
+  "es": "Clara de huevo, cruda",
+  "usda": "Egg, white, raw, fresh",
+  "alias": [
+   "claras"
+  ],
+  "top": true
+ },
+ {
+  "es": "Yema de huevo, cruda",
+  "usda": "Egg, yolk, raw, fresh",
+  "alias": [
+   "yemas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Leche entera",
+  "usda": "Milk, whole, 3.25% milkfat, with added vitamin D",
+  "alias": [
+   "leche"
+  ],
+  "top": true
+ },
+ {
+  "es": "Leche semidescremada (2 %)",
+  "usda": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+  "alias": [
+   "leche semi"
+  ],
+  "top": true
+ },
+ {
+  "es": "Leche descremada",
+  "usda": "Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",
+  "alias": [
+   "leche desnatada"
+  ],
+  "top": true
+ },
+ {
+  "es": "Leche en polvo entera",
+  "usda": "Milk, dry, whole, with added vitamin D",
+  "top": true
+ },
+ {
+  "es": "Yogur natural entero",
+  "usda": "Yogurt, plain, whole milk",
+  "alias": [
+   "yogurt",
+   "yoghurt"
+  ],
+  "top": true
+ },
+ {
+  "es": "Yogur natural descremado",
+  "usda": "Yogurt, plain, skim milk",
+  "alias": [
+   "yogurt descremado"
+  ],
+  "top": true
+ },
+ {
+  "es": "Yogur griego natural (bajo en grasa)",
+  "usda": "Yogurt, Greek, plain, lowfat",
+  "alias": [
+   "yogurt griego"
+  ],
+  "top": true
+ },
+ {
+  "es": "Queso cheddar",
+  "usda": "Cheese, cheddar, sharp, sliced",
+  "top": true
+ },
+ {
+  "es": "Queso mozzarella",
+  "usda": "Cheese, mozzarella, whole milk",
+  "top": true
+ },
+ {
+  "es": "Queso fresco",
+  "usda": "Cheese, fresh, queso fresco",
+  "alias": [
+   "queso blanco"
+  ],
+  "top": true
+ },
+ {
+  "es": "Queso parmesano",
+  "usda": "Cheese, parmesan, hard",
+  "top": true
+ },
+ {
+  "es": "Queso crema",
+  "usda": "Cheese, cream",
+  "top": true
+ },
+ {
+  "es": "Requesón / ricota",
+  "usda": "Cheese, ricotta, whole milk",
+  "alias": [
+   "ricotta",
+   "ricota"
+  ],
+  "top": true
+ },
+ {
+  "es": "Queso cottage",
+  "usda": "Cheese, cottage, creamed, large or small curd",
+  "top": true
+ },
+ {
+  "es": "Queso suizo (tipo Emmental)",
+  "usda": "Cheese, swiss",
+  "alias": [
+   "emmental"
+  ],
+  "top": true
+ },
+ {
+  "es": "Mantequilla",
+  "usda": "Butter, salted",
+  "top": true
+ },
+ {
+  "es": "Crema de leche (nata)",
+  "usda": "Cream, fluid, heavy whipping",
+  "alias": [
+   "nata",
+   "crema"
+  ],
+  "top": true
+ },
+ {
+  "es": "Helado de vainilla",
+  "usda": "Ice creams, vanilla",
+  "top": true
+ },
+ {
+  "es": "Pechuga de pollo, cocida",
+  "usda": "Chicken, broilers or fryers, breast, meat only, cooked, roasted",
+  "alias": [
+   "pollo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pechuga de pollo, cruda",
+  "usda": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+  "alias": [
+   "pollo crudo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Muslo de pollo, cocido",
+  "usda": "Chicken, broilers or fryers, thigh, meat only, cooked, roasted",
+  "alias": [
+   "pollo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pollo asado con piel",
+  "usda": "Chicken, broilers or fryers, meat and skin, cooked, roasted",
+  "alias": [
+   "pollo asado"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pavo, pechuga cocida",
+  "usda": "Turkey, whole, breast, meat only, cooked, roasted",
+  "alias": [
+   "pavo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Carne molida de res, cocida",
+  "usda": "Beef, ground, unspecified fat content, cooked",
+  "alias": [
+   "carne picada",
+   "molida"
+  ],
+  "top": true
+ },
+ {
+  "es": "Carne molida de res 85 % magra, cruda",
+  "usda": "Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)",
+  "alias": [
+   "carne picada"
+  ],
+  "top": true
+ },
+ {
+  "es": "Bistec de res (lomo), cocido",
+  "usda": "Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled",
+  "alias": [
+   "bistec",
+   "filete",
+   "res"
+  ],
+  "top": true
+ },
+ {
+  "es": "Bistec de res, crudo",
+  "usda": "Beef, top sirloin, steak, separable lean only, trimmed to 1/8\" fat, all grades, raw",
+  "top": true
+ },
+ {
+  "es": "Carne de res guisada",
+  "usda": "Beef, chuck, arm pot roast, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+  "alias": [
+   "estofado"
+  ],
+  "top": true
+ },
+ {
+  "es": "Costilla de res",
+  "usda": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, cooked, braised",
+  "top": true
+ },
+ {
+  "es": "Hígado de res, cocido",
+  "usda": "Beef, variety meats and by-products, liver, cooked, braised",
+  "alias": [
+   "higado"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cerdo, lomo asado",
+  "usda": "Pork, fresh, loin, whole, separable lean only, cooked, roasted",
+  "alias": [
+   "puerco",
+   "chancho"
+  ],
+  "top": true
+ },
+ {
+  "es": "Chuleta de cerdo, cocida",
+  "usda": "Pork, fresh, loin, center loin (chops), bone-in, separable lean only, cooked, broiled",
+  "alias": [
+   "puerco",
+   "chancho"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cerdo molido, cocido",
+  "usda": "Pork, fresh, ground, cooked",
+  "top": true
+ },
+ {
+  "es": "Tocino / panceta, cocido",
+  "usda": "Pork, cured, bacon, pre-sliced, cooked, pan-fried",
+  "alias": [
+   "bacon",
+   "beicon"
+  ],
+  "top": true
+ },
+ {
+  "es": "Jamón cocido",
+  "usda": "Ham, sliced, regular (approximately 11% fat)",
+  "alias": [
+   "jamon"
+  ],
+  "top": true
+ },
+ {
+  "es": "Chorizo, crudo",
+  "usda": "Sausage, pork, chorizo, link or ground, raw",
+  "top": true
+ },
+ {
+  "es": "Salchicha tipo Frankfurt",
+  "usda": "Frankfurter, beef, heated",
+  "alias": [
+   "hot dog",
+   "perro caliente"
+  ],
+  "top": true
+ },
+ {
+  "es": "Salchicha de cerdo, cocida",
+  "usda": "Pork sausage, link/patty, cooked, pan-fried",
+  "top": true
+ },
+ {
+  "es": "Cordero, pierna asada",
+  "usda": "Lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted",
+  "top": true
+ },
+ {
+  "es": "Salmón del Atlántico, cocido",
+  "usda": "Fish, salmon, Atlantic, farmed, cooked, dry heat",
+  "alias": [
+   "salmon"
+  ],
+  "top": true
+ },
+ {
+  "es": "Salmón del Atlántico, crudo",
+  "usda": "Fish, salmon, Atlantic, farmed, raw",
+  "alias": [
+   "salmon"
+  ],
+  "top": true
+ },
+ {
+  "es": "Atún en lata al natural",
+  "usda": "Fish, tuna, light, canned in water, without salt, drained solids",
+  "alias": [
+   "atun"
+  ],
+  "top": true
+ },
+ {
+  "es": "Atún en lata en aceite",
+  "usda": "Fish, tuna, light, canned in oil, drained solids",
+  "alias": [
+   "atun"
+  ],
+  "top": true
+ },
+ {
+  "es": "Sardinas en lata",
+  "usda": "Fish, sardine, Atlantic, canned in oil, drained solids with bone",
+  "top": true
+ },
+ {
+  "es": "Tilapia, cocida",
+  "usda": "Fish, tilapia, cooked, dry heat",
+  "top": true
+ },
+ {
+  "es": "Bacalao del Atlántico, cocido",
+  "usda": "Fish, cod, Atlantic, cooked, dry heat",
+  "alias": [
+   "bacalao",
+   "abadejo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Abadejo de Alaska (pollock), cocido",
+  "usda": "Fish, pollock, Alaska, cooked",
+  "alias": [
+   "pescado blanco",
+   "colin de alaska",
+   "carbonero"
+  ],
+  "top": true
+ },
+ {
+  "es": "Trucha, cocida",
+  "usda": "Fish, trout, rainbow, farmed, cooked, dry heat",
+  "top": true
+ },
+ {
+  "es": "Camarón / gamba, cocido",
+  "usda": "Crustaceans, shrimp, cooked",
+  "alias": [
+   "camarones",
+   "gambas",
+   "langostinos"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cangrejo, cocido",
+  "usda": "Crustaceans, crab, blue, cooked, moist heat",
+  "alias": [
+   "jaiba"
+  ],
+  "top": true
+ },
+ {
+  "es": "Calamar, crudo",
+  "usda": "Mollusks, squid, mixed species, raw",
+  "top": true
+ },
+ {
+  "es": "Almejas, cocidas",
+  "usda": "Mollusks, clam, mixed species, cooked, moist heat",
+  "top": true
+ },
+ {
+  "es": "Arroz blanco, cocido",
+  "usda": "Rice, white, long-grain, regular, enriched, cooked",
+  "alias": [
+   "arroz"
+  ],
+  "top": true
+ },
+ {
+  "es": "Arroz blanco, crudo",
+  "usda": "Rice, white, long-grain, regular, raw, enriched",
+  "alias": [
+   "arroz"
+  ],
+  "top": true
+ },
+ {
+  "es": "Arroz integral, cocido",
+  "usda": "Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",
+  "alias": [
+   "arroz"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pasta cocida",
+  "usda": "Pasta, cooked, enriched, without added salt",
+  "alias": [
+   "fideos",
+   "espagueti",
+   "tallarines",
+   "macarrones"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pasta cruda",
+  "usda": "Pasta, dry, enriched",
+  "alias": [
+   "fideos",
+   "espagueti"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pasta integral, cocida",
+  "usda": "Pasta, whole-wheat, cooked (Includes foods for USDA's Food Distribution Program)",
+  "top": true
+ },
+ {
+  "es": "Avena en hojuelas, cruda",
+  "usda": "Cereals, oats, regular and quick, not fortified, dry",
+  "alias": [
+   "avena",
+   "oatmeal"
+  ],
+  "top": true
+ },
+ {
+  "es": "Avena cocida (con agua)",
+  "usda": "Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt",
+  "alias": [
+   "avena"
+  ],
+  "top": true
+ },
+ {
+  "es": "Quinoa, cocida",
+  "usda": "Quinoa, cooked",
+  "alias": [
+   "quinua"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cuscús, cocido",
+  "usda": "Couscous, cooked",
+  "top": true
+ },
+ {
+  "es": "Maíz, granos cocidos",
+  "usda": "Corn, sweet, yellow, cooked, boiled, drained, without salt",
+  "alias": [
+   "elote",
+   "choclo",
+   "maiz"
+  ],
+  "top": true
+ },
+ {
+  "es": "Harina de maíz",
+  "usda": "Corn flour, whole-grain, white",
+  "alias": [
+   "harina de maiz"
+  ],
+  "top": true
+ },
+ {
+  "es": "Harina de trigo",
+  "usda": "Wheat flour, white, all-purpose, enriched, bleached",
+  "top": true
+ },
+ {
+  "es": "Pan blanco",
+  "usda": "Bread, white wheat",
+  "top": true
+ },
+ {
+  "es": "Pan integral",
+  "usda": "Bread, whole-wheat, commercially prepared",
+  "top": true
+ },
+ {
+  "es": "Pan de molde tostado",
+  "usda": "Bread, white, commercially prepared, toasted",
+  "alias": [
+   "tostada"
+  ],
+  "top": true
+ },
+ {
+  "es": "Baguette / pan francés",
+  "usda": "Bread, french or vienna (includes sourdough)",
+  "alias": [
+   "pan frances"
+  ],
+  "top": true
+ },
+ {
+  "es": "Tortilla de maíz",
+  "usda": "Tortillas, ready-to-bake or -fry, corn",
+  "alias": [
+   "tortillas",
+   "tortilla de maiz"
+  ],
+  "top": true
+ },
+ {
+  "es": "Tortilla de harina",
+  "usda": "Tortillas, ready-to-bake or -fry, flour, shelf stable",
+  "alias": [
+   "tortillas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pan pita",
+  "usda": "Bread, pita, white, enriched",
+  "top": true
+ },
+ {
+  "es": "Galletas saladas (crackers)",
+  "usda": "Crackers, standard snack-type, regular",
+  "alias": [
+   "galletas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Galletas dulces tipo María",
+  "usda": "Cookies, butter, commercially prepared, enriched",
+  "alias": [
+   "galletas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cereal de hojuelas de maíz (tipo corn flakes)",
+  "usda": "Cereals ready-to-eat, RALSTON Corn Flakes",
+  "alias": [
+   "cereal"
+  ],
+  "top": true
+ },
+ {
+  "es": "Granola",
+  "usda": "Cereals ready-to-eat, granola, homemade",
+  "top": true
+ },
+ {
+  "es": "Frijoles negros, cocidos",
+  "usda": "Beans, black, mature seeds, cooked, boiled, without salt",
+  "alias": [
+   "caraotas",
+   "porotos negros",
+   "frijol"
+  ],
+  "top": true
+ },
+ {
+  "es": "Frijoles rojos, cocidos",
+  "usda": "Beans, kidney, red, mature seeds, cooked, boiled, without salt",
+  "alias": [
+   "porotos",
+   "alubias",
+   "habichuelas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Frijoles pintos, cocidos",
+  "usda": "Beans, pinto, mature seeds, cooked, boiled, without salt",
+  "top": true
+ },
+ {
+  "es": "Frijoles refritos (enlatados)",
+  "usda": "Refried beans, canned, traditional style",
+  "top": true
+ },
+ {
+  "es": "Garbanzos, cocidos",
+  "usda": "Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",
+  "top": true
+ },
+ {
+  "es": "Lentejas, cocidas",
+  "usda": "Lentils, mature seeds, cooked, boiled, without salt",
+  "top": true
+ },
+ {
+  "es": "Guisantes / arvejas, cocidos",
+  "usda": "Peas, green, cooked, boiled, drained, without salt",
+  "alias": [
+   "chicharos",
+   "arvejas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Soya / soja, cocida",
+  "usda": "Soybeans, mature cooked, boiled, without salt",
+  "alias": [
+   "soja"
+  ],
+  "top": true
+ },
+ {
+  "es": "Tofu firme",
+  "usda": "Tofu, raw, firm, prepared with calcium sulfate",
+  "top": true
+ },
+ {
+  "es": "Hummus",
+  "usda": "Hummus, commercial",
+  "alias": [
+   "humus"
+  ],
+  "top": true
+ },
+ {
+  "es": "Papa / patata, cocida",
+  "usda": "Potatoes, boiled, cooked in skin, flesh, without salt",
+  "alias": [
+   "papa",
+   "patata"
+  ],
+  "top": true
+ },
+ {
+  "es": "Papa / patata, asada",
+  "usda": "Potatoes, baked, flesh and skin, without salt",
+  "alias": [
+   "patata"
+  ],
+  "top": true
+ },
+ {
+  "es": "Papas fritas congeladas (horneadas en casa)",
+  "usda": "Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated",
+  "alias": [
+   "papas fritas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Puré de papa",
+  "usda": "Potatoes, mashed, home-prepared, whole milk and margarine added",
+  "alias": [
+   "pure de papa",
+   "pure de patata"
+  ],
+  "top": true
+ },
+ {
+  "es": "Camote / batata, cocido",
+  "usda": "Sweet potato, cooked, baked in skin, flesh, without salt",
+  "alias": [
+   "boniato",
+   "batata"
+  ],
+  "top": true
+ },
+ {
+  "es": "Yuca, cruda",
+  "usda": "Cassava, raw",
+  "alias": [
+   "mandioca"
+  ],
+  "top": true
+ },
+ {
+  "es": "Plátano macho, verde, cocido",
+  "usda": "Plantains, green, boiled",
+  "alias": [
+   "platano",
+   "platano verde"
+  ],
+  "top": true
+ },
+ {
+  "es": "Plátano macho, maduro, frito",
+  "usda": "Plantains, yellow, fried, Latino restaurant",
+  "alias": [
+   "platano frito",
+   "maduros"
+  ],
+  "top": true
+ },
+ {
+  "es": "Plátano macho, amarillo, crudo",
+  "usda": "Plantains, yellow, raw",
+  "top": true
+ },
+ {
+  "es": "Ñame, cocido",
+  "usda": "Yam, cooked, boiled, drained, or baked, without salt",
+  "alias": [
+   "name"
+  ],
+  "top": true
+ },
+ {
+  "es": "Calabaza, cocida",
+  "usda": "Squash, winter, all varieties, cooked, baked, without salt",
+  "alias": [
+   "zapallo",
+   "ahuyama"
+  ],
+  "top": true
+ },
+ {
+  "es": "Tomate (jitomate), crudo",
+  "usda": "Tomatoes, red, ripe, raw, year round average",
+  "alias": [
+   "jitomate"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cebolla, cruda",
+  "usda": "Onions, raw",
+  "top": true
+ },
+ {
+  "es": "Ajo, crudo",
+  "usda": "Garlic, raw",
+  "top": true
+ },
+ {
+  "es": "Zanahoria, cruda",
+  "usda": "Carrots, raw",
+  "top": true
+ },
+ {
+  "es": "Lechuga romana",
+  "usda": "Lettuce, cos or romaine, raw",
+  "top": true
+ },
+ {
+  "es": "Lechuga iceberg",
+  "usda": "Lettuce, iceberg (includes crisphead types), raw",
+  "top": true
+ },
+ {
+  "es": "Espinaca, cruda",
+  "usda": "Spinach, raw",
+  "top": true
+ },
+ {
+  "es": "Espinaca, cocida",
+  "usda": "Spinach, cooked, boiled, drained, without salt",
+  "top": true
+ },
+ {
+  "es": "Brócoli, crudo",
+  "usda": "Broccoli, raw",
+  "alias": [
+   "brocoli"
+  ],
+  "top": true
+ },
+ {
+  "es": "Brócoli, cocido",
+  "usda": "Broccoli, cooked, boiled, drained, without salt",
+  "alias": [
+   "brocoli"
+  ],
+  "top": true
+ },
+ {
+  "es": "Coliflor, cruda",
+  "usda": "Cauliflower, raw",
+  "top": true
+ },
+ {
+  "es": "Repollo / col, crudo",
+  "usda": "Cabbage, raw",
+  "alias": [
+   "col"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pepino",
+  "usda": "Cucumber, with peel, raw",
+  "top": true
+ },
+ {
+  "es": "Pimiento rojo, crudo",
+  "usda": "Peppers, sweet, red, raw",
+  "alias": [
+   "pimenton",
+   "morron"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pimiento verde, crudo",
+  "usda": "Peppers, sweet, green, raw",
+  "alias": [
+   "pimenton",
+   "morron"
+  ],
+  "top": true
+ },
+ {
+  "es": "Chile jalapeño",
+  "usda": "Peppers, jalapeno, raw",
+  "alias": [
+   "jalapeno",
+   "chile"
+  ],
+  "top": true
+ },
+ {
+  "es": "Calabacín (zucchini), crudo",
+  "usda": "Squash, summer, zucchini, includes skin, raw",
+  "alias": [
+   "zucchini",
+   "zapallito"
+  ],
+  "top": true
+ },
+ {
+  "es": "Berenjena, cocida",
+  "usda": "Eggplant, cooked, boiled, drained, without salt",
+  "top": true
+ },
+ {
+  "es": "Champiñones",
+  "usda": "Mushrooms, white, raw",
+  "alias": [
+   "hongos",
+   "setas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Apio",
+  "usda": "Celery, raw",
+  "top": true
+ },
+ {
+  "es": "Remolacha / betabel, cocida",
+  "usda": "Beets, cooked, boiled, drained",
+  "alias": [
+   "betarraga",
+   "betabel"
+  ],
+  "top": true
+ },
+ {
+  "es": "Espárragos, cocidos",
+  "usda": "Asparagus, cooked, boiled, drained",
+  "alias": [
+   "esparragos"
+  ],
+  "top": true
+ },
+ {
+  "es": "Ejotes / judías verdes, cocidos",
+  "usda": "Beans, snap, green, cooked, boiled, drained, without salt",
+  "alias": [
+   "judias verdes",
+   "vainitas",
+   "habichuelas tiernas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cilantro, fresco",
+  "usda": "Coriander (cilantro) leaves, raw",
+  "top": true
+ },
+ {
+  "es": "Perejil, fresco",
+  "usda": "Parsley, fresh",
+  "top": true
+ },
+ {
+  "es": "Aceitunas negras (enlatadas)",
+  "usda": "Olives, ripe, canned (small-extra large)",
+  "alias": [
+   "olivas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Maíz dulce enlatado",
+  "usda": "Corn, sweet, yellow, canned, whole kernel, drained solids",
+  "alias": [
+   "elote",
+   "choclo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Nopal, cocido",
+  "usda": "Nopales, cooked, without salt",
+  "top": true
+ },
+ {
+  "es": "Aguacate (palta)",
+  "usda": "Avocados, raw, all commercial varieties",
+  "alias": [
+   "palta"
+  ],
+  "top": true
+ },
+ {
+  "es": "Salsa de tomate (kétchup)",
+  "usda": "Catsup",
+  "alias": [
+   "ketchup",
+   "catsup"
+  ],
+  "top": true
+ },
+ {
+  "es": "Puré de tomate enlatado",
+  "usda": "Tomato products, canned, sauce",
+  "alias": [
+   "salsa de tomate"
+  ],
+  "top": true
+ },
+ {
+  "es": "Plátano (banana)",
+  "usda": "Bananas, raw",
+  "alias": [
+   "banana",
+   "cambur",
+   "guineo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Manzana",
+  "usda": "Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",
+  "top": true
+ },
+ {
+  "es": "Naranja",
+  "usda": "Oranges, raw, all commercial varieties",
+  "top": true
+ },
+ {
+  "es": "Mandarina",
+  "usda": "Tangerines, (mandarin oranges), raw",
+  "top": true
+ },
+ {
+  "es": "Limón",
+  "usda": "Lemons, raw, without peel",
+  "alias": [
+   "limon"
+  ],
+  "top": true
+ },
+ {
+  "es": "Lima",
+  "usda": "Limes, raw",
+  "top": true
+ },
+ {
+  "es": "Fresas",
+  "usda": "Strawberries, raw",
+  "alias": [
+   "frutillas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Uvas",
+  "usda": "Grapes, red or green (European type, such as Thompson seedless), raw",
+  "top": true
+ },
+ {
+  "es": "Sandía",
+  "usda": "Watermelon, raw",
+  "alias": [
+   "sandia"
+  ],
+  "top": true
+ },
+ {
+  "es": "Melón (cantalupo)",
+  "usda": "Melons, cantaloupe, raw",
+  "alias": [
+   "melon"
+  ],
+  "top": true
+ },
+ {
+  "es": "Piña",
+  "usda": "Pineapple, raw, all varieties",
+  "alias": [
+   "ananá",
+   "anana"
+  ],
+  "top": true
+ },
+ {
+  "es": "Mango",
+  "usda": "Mangos, raw",
+  "top": true
+ },
+ {
+  "es": "Papaya",
+  "usda": "Papayas, raw",
+  "alias": [
+   "lechosa",
+   "fruta bomba"
+  ],
+  "top": true
+ },
+ {
+  "es": "Durazno / melocotón",
+  "usda": "Peaches, yellow, raw",
+  "alias": [
+   "melocoton"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pera",
+  "usda": "Pears, raw",
+  "top": true
+ },
+ {
+  "es": "Cerezas",
+  "usda": "Cherries, sweet, raw",
+  "top": true
+ },
+ {
+  "es": "Arándanos",
+  "usda": "Blueberries, raw",
+  "alias": [
+   "arandanos"
+  ],
+  "top": true
+ },
+ {
+  "es": "Frambuesas",
+  "usda": "Raspberries, raw",
+  "top": true
+ },
+ {
+  "es": "Kiwi",
+  "usda": "Kiwifruit, green, raw",
+  "top": true
+ },
+ {
+  "es": "Granada",
+  "usda": "Pomegranates, raw",
+  "top": true
+ },
+ {
+  "es": "Coco, pulpa fresca",
+  "usda": "Nuts, coconut meat, raw",
+  "top": true
+ },
+ {
+  "es": "Agua de coco",
+  "usda": "Nuts, coconut water (liquid from coconuts)",
+  "top": true
+ },
+ {
+  "es": "Dátiles",
+  "usda": "Dates, medjool",
+  "alias": [
+   "datiles"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pasas",
+  "usda": "Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",
+  "alias": [
+   "uvas pasas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Ciruela",
+  "usda": "Plums, raw",
+  "top": true
+ },
+ {
+  "es": "Higos",
+  "usda": "Figs, raw",
+  "top": true
+ },
+ {
+  "es": "Guayaba",
+  "usda": "Guavas, common, raw",
+  "top": true
+ },
+ {
+  "es": "Maracuyá (fruta de la pasión)",
+  "usda": "Passion-fruit, (granadilla), purple, raw",
+  "alias": [
+   "maracuya",
+   "parchita",
+   "granadilla"
+  ],
+  "top": true
+ },
+ {
+  "es": "Jugo de naranja",
+  "usda": "Orange juice, raw (Includes foods for USDA's Food Distribution Program)",
+  "alias": [
+   "zumo de naranja"
+  ],
+  "top": true
+ },
+ {
+  "es": "Jugo de manzana",
+  "usda": "Apple juice, canned or bottled, unsweetened, without added ascorbic acid",
+  "alias": [
+   "zumo de manzana"
+  ],
+  "top": true
+ },
+ {
+  "es": "Almendras",
+  "usda": "Nuts, almonds",
+  "top": true
+ },
+ {
+  "es": "Nueces",
+  "usda": "Nuts, walnuts, english",
+  "top": true
+ },
+ {
+  "es": "Cacahuates (maní)",
+  "usda": "Peanuts, all types, raw",
+  "alias": [
+   "mani"
+  ],
+  "top": true
+ },
+ {
+  "es": "Mantequilla de maní (con sal)",
+  "usda": "Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)",
+  "alias": [
+   "crema de cacahuate"
+  ],
+  "top": true
+ },
+ {
+  "es": "Anacardos (castañas de cajú)",
+  "usda": "Nuts, cashew nuts, raw",
+  "alias": [
+   "marañones",
+   "caju"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pistachos",
+  "usda": "Nuts, pistachio nuts, raw",
+  "top": true
+ },
+ {
+  "es": "Semillas de chía",
+  "usda": "Seeds, chia seeds, dried",
+  "alias": [
+   "chia"
+  ],
+  "top": true
+ },
+ {
+  "es": "Semillas de girasol",
+  "usda": "Seeds, sunflower seed kernels, dried",
+  "alias": [
+   "pipas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Semillas de calabaza",
+  "usda": "Seeds, pumpkin and squash seed kernels, dried",
+  "alias": [
+   "pepitas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Linaza",
+  "usda": "Seeds, flaxseed",
+  "top": true
+ },
+ {
+  "es": "Ajonjolí (sésamo)",
+  "usda": "Seeds, sesame seeds, whole, dried",
+  "alias": [
+   "sesamo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Aceite de oliva",
+  "usda": "Oil, olive, salad or cooking",
+  "top": true
+ },
+ {
+  "es": "Aceite de soya",
+  "usda": "Oil, soybean, salad or cooking",
+  "alias": [
+   "aceite vegetal"
+  ],
+  "top": true
+ },
+ {
+  "es": "Aceite de girasol",
+  "usda": "Oil, sunflower, linoleic, (approx. 65%)",
+  "top": true
+ },
+ {
+  "es": "Aceite de coco",
+  "usda": "Oil, coconut",
+  "top": true
+ },
+ {
+  "es": "Margarina en barra (con sal)",
+  "usda": "Margarine, regular, 80% fat, composite, stick, with salt",
+  "top": true
+ },
+ {
+  "es": "Mayonesa",
+  "usda": "Salad dressing, mayonnaise, regular",
+  "top": true
+ },
+ {
+  "es": "Azúcar blanca",
+  "usda": "Sugars, granulated",
+  "alias": [
+   "azucar"
+  ],
+  "top": true
+ },
+ {
+  "es": "Miel",
+  "usda": "Honey",
+  "top": true
+ },
+ {
+  "es": "Chocolate negro (70-85 %)",
+  "usda": "Chocolate, dark, 70-85% cacao solids",
+  "top": true
+ },
+ {
+  "es": "Chocolate con leche",
+  "usda": "Candies, milk chocolate",
+  "top": true
+ },
+ {
+  "es": "Mermelada",
+  "usda": "Jams and preserves",
+  "top": true
+ },
+ {
+  "es": "Galleta de chocolate",
+  "usda": "Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",
+  "alias": [
+   "cookies"
+  ],
+  "top": true
+ },
+ {
+  "es": "Bizcocho (pound cake)",
+  "usda": "Cake, pound, commercially prepared, other than all butter, enriched",
+  "alias": [
+   "pastel",
+   "torta",
+   "queque"
+  ],
+  "top": true
+ },
+ {
+  "es": "Dona (donut)",
+  "usda": "Doughnuts, cake-type, plain, sugared or glazed",
+  "alias": [
+   "donut",
+   "rosquilla"
+  ],
+  "top": true
+ },
+ {
+  "es": "Café negro",
+  "usda": "Beverages, coffee, brewed, prepared with tap water",
+  "alias": [
+   "cafe"
+  ],
+  "top": true
+ },
+ {
+  "es": "Té negro",
+  "usda": "Beverages, tea, black, brewed, prepared with tap water",
+  "alias": [
+   "te"
+  ],
+  "top": true
+ },
+ {
+  "es": "Refresco de cola",
+  "usda": "Beverages, carbonated, cola, regular",
+  "alias": [
+   "gaseosa",
+   "soda",
+   "coca cola"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cerveza",
+  "usda": "Alcoholic beverage, beer, regular, all",
+  "top": true
+ },
+ {
+  "es": "Vino tinto",
+  "usda": "Alcoholic beverage, wine, table, red",
+  "top": true
+ },
+ {
+  "es": "Licor destilado (ron, whisky, vodka)",
+  "usda": "Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",
+  "alias": [
+   "ron",
+   "whisky",
+   "vodka",
+   "tequila"
+  ],
+  "top": true
+ },
+ {
+  "es": "Leche de soya",
+  "usda": "Soymilk, original and vanilla, unfortified",
+  "alias": [
+   "leche de soja"
+  ],
+  "top": true
+ },
+ {
+  "es": "Leche de almendras sin azúcar",
+  "usda": "Beverages, almond milk, unsweetened, shelf stable",
+  "top": true
+ },
+ {
+  "es": "Proteína en polvo (suero)",
+  "usda": "Beverages, Protein powder whey based",
+  "alias": [
+   "whey"
+  ],
+  "top": true
+ },
+ {
+  "es": "Papas fritas de bolsa",
+  "usda": "Snacks, potato chips, plain, salted",
+  "alias": [
+   "papitas",
+   "patatas fritas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Palomitas de maíz",
+  "usda": "Snacks, popcorn, air-popped",
+  "alias": [
+   "pochoclo",
+   "cabritas",
+   "canguil",
+   "crispetas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pretzels",
+  "usda": "Snacks, pretzels, hard, plain, salted",
+  "top": true
+ },
+ {
+  "es": "Barra de granola",
+  "usda": "Snacks, granola bars, hard, plain",
+  "top": true
+ },
+ {
+  "es": "Nachos (totopos)",
+  "usda": "Snacks, tortilla chips, plain, white corn, salted",
+  "alias": [
+   "totopos",
+   "tortilla chips"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pizza de queso congelada, masa regular",
+  "usda": "Pizza, cheese topping, regular crust, frozen, cooked",
+  "top": true
+ },
+ {
+  "es": "Sopa de pollo con fideos",
+  "usda": "Soup, chunky chicken noodle, canned, ready-to-serve",
+  "top": true
+ },
+ {
+  "es": "Salsa de soya",
+  "usda": "Soy sauce made from soy and wheat (shoyu)",
+  "alias": [
+   "salsa de soja"
+  ],
+  "top": true
+ },
+ {
+  "es": "Mostaza",
+  "usda": "Mustard, prepared, yellow",
+  "top": true
+ },
+ {
+  "es": "Vinagre",
+  "usda": "Vinegar, distilled",
+  "top": true
+ },
+ {
+  "es": "Salsa picante (sriracha)",
+  "usda": "Sauce, hot chile, sriracha",
+  "top": true
+ },
+ {
+  "es": "Muslo de pollo (pierna), cocido",
+  "usda": "Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",
+  "alias": [
+   "pollo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Alitas de pollo, cocidas",
+  "usda": "Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",
+  "alias": [
+   "alas de pollo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pavo molido, cocido",
+  "usda": "Turkey, Ground, cooked",
+  "top": true
+ },
+ {
+  "es": "Salami",
+  "usda": "Salami, cooked, beef and pork",
+  "top": true
+ },
+ {
+  "es": "Mortadela",
+  "usda": "Bologna, beef and pork",
+  "top": true
+ },
+ {
+  "es": "Carne seca (cecina)",
+  "usda": "Beef, cured, dried",
+  "alias": [
+   "cecina",
+   "jerky",
+   "tasajo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pulpo, cocido",
+  "usda": "Mollusks, octopus, common, cooked, moist heat",
+  "top": true
+ },
+ {
+  "es": "Caballa (macarela), cocida",
+  "usda": "Fish, mackerel, Atlantic, cooked, dry heat",
+  "alias": [
+   "macarela"
+  ],
+  "top": true
+ },
+ {
+  "es": "Atún fresco, cocido",
+  "usda": "Fish, tuna, yellowfin, fresh, cooked, dry heat",
+  "top": true
+ },
+ {
+  "es": "Anchoas en lata",
+  "usda": "Fish, anchovy, european, canned in oil, drained solids",
+  "alias": [
+   "anchoa"
+  ],
+  "top": true
+ },
+ {
+  "es": "Bagre (pez gato), cocido",
+  "usda": "Fish, catfish, channel, farmed, cooked, dry heat",
+  "alias": [
+   "pez gato"
+  ],
+  "top": true
+ },
+ {
+  "es": "Lubina rayada / róbalo, cocida",
+  "usda": "Fish, bass, striped, cooked, dry heat",
+  "alias": [
+   "striped bass"
+  ],
+  "top": true
+ },
+ {
+  "es": "Fletán (halibut), cocido",
+  "usda": "Fish, halibut, Atlantic and Pacific, cooked, dry heat",
+  "alias": [
+   "halibut"
+  ],
+  "top": true
+ },
+ {
+  "es": "Pez espada, cocido",
+  "usda": "Fish, swordfish, cooked, dry heat",
+  "top": true
+ },
+ {
+  "es": "Queso feta",
+  "usda": "Cheese, feta",
+  "top": true
+ },
+ {
+  "es": "Queso de cabra",
+  "usda": "Cheese, goat, hard type",
+  "top": true
+ },
+ {
+  "es": "Queso provolone",
+  "usda": "Cheese, provolone",
+  "top": true
+ },
+ {
+  "es": "Leche con chocolate",
+  "usda": "Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D",
+  "top": true
+ },
+ {
+  "es": "Mantequilla sin sal",
+  "usda": "Butter, without salt",
+  "top": true
+ },
+ {
+  "es": "Bulgur, cocido",
+  "usda": "Bulgur, cooked",
+  "top": true
+ },
+ {
+  "es": "Cebada perlada, cocida",
+  "usda": "Barley, pearled, cooked",
+  "top": true
+ },
+ {
+  "es": "Mijo, cocido",
+  "usda": "Millet, cooked",
+  "top": true
+ },
+ {
+  "es": "Fideos de arroz, cocidos",
+  "usda": "Rice noodles, cooked",
+  "top": true
+ },
+ {
+  "es": "Pan de centeno",
+  "usda": "Bread, rye",
+  "top": true
+ },
+ {
+  "es": "Pan de hamburguesa",
+  "usda": "Rolls, hamburger or hotdog, plain",
+  "top": true
+ },
+ {
+  "es": "Croissant",
+  "usda": "Croissants, butter",
+  "top": true
+ },
+ {
+  "es": "Panqueques (hotcakes)",
+  "usda": "Pancakes, plain, prepared from recipe",
+  "alias": [
+   "pancakes",
+   "hotcakes"
+  ],
+  "top": true
+ },
+ {
+  "es": "Waffles congelados",
+  "usda": "Waffles, plain, frozen, ready-to-heat",
+  "top": true
+ },
+ {
+  "es": "Salvado de avena",
+  "usda": "Oat bran, cooked",
+  "top": true
+ },
+ {
+  "es": "Harina de maíz amarilla (cornmeal)",
+  "usda": "Cornmeal, whole-grain, yellow",
+  "top": true
+ },
+ {
+  "es": "Masa de maíz (nixtamalizada)",
+  "usda": "Corn flour, yellow, masa, enriched",
+  "alias": [
+   "masa"
+  ],
+  "top": true
+ },
+ {
+  "es": "Taco (tortilla dura)",
+  "usda": "Taco shells, baked",
+  "top": true
+ },
+ {
+  "es": "Tostada de maíz",
+  "usda": "Tostada shells, corn",
+  "top": true
+ },
+ {
+  "es": "Chayote, crudo",
+  "usda": "Chayote, fruit, raw",
+  "top": true
+ },
+ {
+  "es": "Jícama, cruda",
+  "usda": "Yambean (jicama), raw",
+  "alias": [
+   "jicama"
+  ],
+  "top": true
+ },
+ {
+  "es": "Tomatillo",
+  "usda": "Tomatillos, raw",
+  "alias": [
+   "tomate verde"
+  ],
+  "top": true
+ },
+ {
+  "es": "Chile rojo picante, crudo",
+  "usda": "Peppers, hot chili, red, raw",
+  "alias": [
+   "chile",
+   "aji"
+  ],
+  "top": true
+ },
+ {
+  "es": "Chile verde picante, crudo",
+  "usda": "Peppers, hot chili, green, raw",
+  "alias": [
+   "chile",
+   "aji"
+  ],
+  "top": true
+ },
+ {
+  "es": "Salsa mexicana (pico de gallo)",
+  "usda": "Sauce, salsa, ready-to-serve",
+  "alias": [
+   "salsa"
+  ],
+  "top": true
+ },
+ {
+  "es": "Taro (malanga), cocido",
+  "usda": "Taro, cooked, without salt",
+  "alias": [
+   "malanga",
+   "yautia"
+  ],
+  "top": true
+ },
+ {
+  "es": "Zapallo / calabaza (pumpkin), cocido",
+  "usda": "Pumpkin, cooked, boiled, drained, without salt",
+  "alias": [
+   "ahuyama",
+   "zapallo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Cebolla de verdeo / cebolleta",
+  "usda": "Onions, spring or scallions (includes tops and bulb), raw",
+  "alias": [
+   "cebollin",
+   "cebolla larga"
+  ],
+  "top": true
+ },
+ {
+  "es": "Puerro",
+  "usda": "Leeks, (bulb and lower leaf-portion), raw",
+  "top": true
+ },
+ {
+  "es": "Col rizada (kale)",
+  "usda": "Kale, raw",
+  "top": true
+ },
+ {
+  "es": "Acelga",
+  "usda": "Chard, swiss, raw",
+  "top": true
+ },
+ {
+  "es": "Rúcula",
+  "usda": "Arugula, raw",
+  "top": true
+ },
+ {
+  "es": "Rábano",
+  "usda": "Radishes, raw",
+  "top": true
+ },
+ {
+  "es": "Okra, cocida",
+  "usda": "Okra, cooked, boiled, drained, without salt",
+  "alias": [
+   "quimbombó",
+   "quimbombo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Alcachofa, cocida",
+  "usda": "Artichokes, (globe or french), cooked, boiled, drained, without salt",
+  "top": true
+ },
+ {
+  "es": "Chícharos en lata",
+  "usda": "Peas, green, canned, no salt added, drained solids",
+  "top": true
+ },
+ {
+  "es": "Chabacano / albaricoque",
+  "usda": "Apricots, raw",
+  "alias": [
+   "damasco",
+   "albaricoque"
+  ],
+  "top": true
+ },
+ {
+  "es": "Toronja / pomelo",
+  "usda": "Grapefruit, raw, pink and red and white, all areas",
+  "alias": [
+   "pomelo"
+  ],
+  "top": true
+ },
+ {
+  "es": "Lichi",
+  "usda": "Litchis, raw",
+  "alias": [
+   "lychee"
+  ],
+  "top": true
+ },
+ {
+  "es": "Tamarindo",
+  "usda": "Tamarinds, raw",
+  "top": true
+ },
+ {
+  "es": "Nuez de macadamia",
+  "usda": "Nuts, macadamia nuts, raw",
+  "top": true
+ },
+ {
+  "es": "Avellanas",
+  "usda": "Nuts, hazelnuts or filberts",
+  "top": true
+ },
+ {
+  "es": "Nuez pecana",
+  "usda": "Nuts, pecans",
+  "alias": [
+   "pecanas"
+  ],
+  "top": true
+ },
+ {
+  "es": "Nuez de Brasil",
+  "usda": "Nuts, brazilnuts, dried, unblanched",
+  "top": true
+ },
+ {
+  "es": "Aderezo ranch",
+  "usda": "Salad dressing, ranch dressing, regular",
+  "alias": [
+   "ranch"
+  ],
+  "top": true
+ },
+ {
+  "es": "Vinagre balsámico",
+  "usda": "Vinegar, balsamic",
+  "alias": [
+   "balsamico"
+  ],
+  "top": true
+ },
+ {
+  "es": "Azúcar morena",
+  "usda": "Sugars, brown",
+  "alias": [
+   "panela",
+   "piloncillo",
+   "azucar negra"
+  ],
+  "top": true
+ },
+ {
+  "es": "Jarabe de maple (miel de arce)",
+  "usda": "Syrups, maple",
+  "top": true
+ },
+ {
+  "es": "Cacao en polvo (sin azúcar)",
+  "usda": "Cocoa, dry powder, unsweetened",
+  "top": true
+ },
+ {
+  "es": "Helado de chocolate",
+  "usda": "Ice creams, chocolate",
+  "top": true
+ },
+ {
+  "es": "Caramelos duros",
+  "usda": "Candies, hard",
+  "top": true
+ },
+ {
+  "es": "Bebida energética (tipo Red Bull)",
+  "usda": "Beverages, Energy drink, RED BULL",
+  "alias": [
+   "red bull",
+   "monster"
+  ],
+  "top": true
+ },
+ {
+  "es": "Leche de coco (enlatada)",
+  "usda": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)",
+  "top": true
+ },
+ {
+  "es": "Salsa de tomate para pasta",
+  "usda": "Sauce, pasta, spaghetti/marinara, ready-to-serve",
+  "alias": [
+   "marinara"
+  ],
+  "top": true
+ },
+ {
+  "es": "Caldo de pollo",
+  "usda": "Soup, chicken broth, ready-to-serve",
+  "alias": [
+   "consome"
+  ],
+  "top": true
+ },
+ {
+  "es": "Crema agria (crema ácida)",
+  "usda": "Cream, sour, cultured",
+  "alias": [
+   "crema acida",
+   "sour cream"
+  ]
+ },
+ {
+  "es": "Carne molida de res 80 % magra, cruda",
+  "usda": "Beef, ground, 80% lean meat / 20% fat, raw",
+  "alias": [
+   "carne picada"
+  ]
+ },
+ {
+  "es": "Carne molida de res 90 % magra, cruda",
+  "usda": "Beef, ground, 90% lean meat / 10% fat, raw",
+  "alias": [
+   "carne picada"
+  ]
+ },
+ {
+  "es": "Carne molida de res 80 % magra, cocida",
+  "usda": "Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",
+  "alias": [
+   "carne picada"
+  ]
+ },
+ {
+  "es": "Carne molida de res 90 % magra, cocida",
+  "usda": "Beef, ground, 90% lean meat / 10% fat, crumbles, cooked, pan-browned",
+  "alias": [
+   "carne picada"
+  ]
+ },
+ {
+  "es": "Hamburguesa de res congelada, asada",
+  "usda": "Beef, ground, patties, frozen, cooked, broiled"
+ },
+ {
+  "es": "Ribeye / entrecot de res, asado",
+  "usda": "Beef, ribeye cap steak, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, grilled",
+  "alias": [
+   "entrecot",
+   "ojo de bife"
+  ]
+ },
+ {
+  "es": "Filete mignon / lomo fino de res, asado",
+  "usda": "Beef, tenderloin, steak, separable lean only, trimmed to 1/8\" fat, choice, cooked, broiled",
+  "alias": [
+   "solomillo",
+   "lomo fino"
+  ]
+ },
+ {
+  "es": "T-bone de res, asado",
+  "usda": "Beef, short loin, t-bone steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+ },
+ {
+  "es": "Falda de res (flank), asada",
+  "usda": "Beef, flank, steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled",
+  "alias": [
+   "arrachera",
+   "vacio"
+  ]
+ },
+ {
+  "es": "Pecho de res (brisket), cocido",
+  "usda": "Beef, brisket, flat half, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+ },
+ {
+  "es": "Round superior de res (top round), estofado",
+  "usda": "Beef, round, top round, separable lean only, trimmed to 0\" fat, choice, cooked, braised",
+  "alias": [
+   "cadera",
+   "tapa"
+  ]
+ },
+ {
+  "es": "Ojo de round de res (eye of round), asado",
+  "usda": "Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, roasted",
+  "alias": [
+   "peceto",
+   "bola de lomo"
+  ]
+ },
+ {
+  "es": "Carne de res para estofado (chuck), cocida",
+  "usda": "Beef, chuck, blade roast, separable lean only, trimmed to 0\" fat, all grades, cooked, braised"
+ },
+ {
+  "es": "Lengua de res, cocida",
+  "usda": "Beef, variety meats and by-products, tongue, cooked, simmered"
+ },
+ {
+  "es": "Corazón de res, cocido",
+  "usda": "Beef, variety meats and by-products, heart, cooked, simmered",
+  "alias": [
+   "corazon"
+  ]
+ },
+ {
+  "es": "Riñón de res, cocido",
+  "usda": "Beef, variety meats and by-products, kidneys, cooked, simmered",
+  "alias": [
+   "rinon"
+  ]
+ },
+ {
+  "es": "Tripas / mondongo de res, cocido",
+  "usda": "Beef, variety meats and by-products, tripe, cooked, simmered",
+  "alias": [
+   "mondongo",
+   "callos",
+   "menudo"
+  ]
+ },
+ {
+  "es": "Carne de res enlatada (corned beef)",
+  "usda": "Beef, cured, corned beef, canned"
+ },
+ {
+  "es": "Hamburguesa de res con pan (fast food)",
+  "usda": "Fast foods, hamburger, large, single patty, with condiments"
+ },
+ {
+  "es": "Lomo de cerdo, crudo",
+  "usda": "Pork, fresh, loin, whole, separable lean only, raw",
+  "alias": [
+   "puerco",
+   "chancho"
+  ]
+ },
+ {
+  "es": "Chuleta de cerdo, cruda",
+  "usda": "Pork, fresh, loin, center loin (chops), bone-in, separable lean only, raw"
+ },
+ {
+  "es": "Lomo de cerdo (tenderloin), asado",
+  "usda": "Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted",
+  "alias": [
+   "solomillo de cerdo"
+  ]
+ },
+ {
+  "es": "Paleta de cerdo, asada",
+  "usda": "Pork, fresh, shoulder, whole, separable lean only, cooked, roasted"
+ },
+ {
+  "es": "Pierna de cerdo, asada",
+  "usda": "Pork, fresh, leg (ham), whole, separable lean only, cooked, roasted",
+  "alias": [
+   "pernil"
+  ]
+ },
+ {
+  "es": "Costillas de cerdo, asadas",
+  "usda": "Pork, fresh, backribs, separable lean and fat, cooked, roasted",
+  "alias": [
+   "costillar"
+  ]
+ },
+ {
+  "es": "Panceta de cerdo, cruda",
+  "usda": "Pork, fresh, belly, raw"
+ },
+ {
+  "es": "Chicharrón de cerdo",
+  "usda": "Snacks, pork skins, plain",
+  "alias": [
+   "chicharron"
+  ]
+ },
+ {
+  "es": "Pechuga de pavo, rebanada (fiambre)",
+  "usda": "Turkey breast, sliced, prepackaged",
+  "alias": [
+   "jamon de pavo",
+   "fiambre de pavo"
+  ]
+ },
+ {
+  "es": "Tocino de pavo, cocido",
+  "usda": "Bacon, turkey, low sodium"
+ },
+ {
+  "es": "Hígado de cerdo, cocido",
+  "usda": "Pork, fresh, variety meats and by-products, liver, cooked, braised",
+  "alias": [
+   "higado"
+  ]
+ },
+ {
+  "es": "Salchicha de pavo",
+  "usda": "Frankfurter, turkey"
+ },
+ {
+  "es": "Salchicha de pollo",
+  "usda": "Frankfurter, chicken"
+ },
+ {
+  "es": "Salchichón / salami de cerdo",
+  "usda": "Salami, dry or hard, pork, beef"
+ },
+ {
+  "es": "Pepperoni",
+  "usda": "Pepperoni, beef and pork, sliced"
+ },
+ {
+  "es": "Longaniza / salchicha italiana, cocida",
+  "usda": "Sausage, Italian, pork, mild, cooked, pan-fried"
+ },
+ {
+  "es": "Mortadela de cerdo",
+  "usda": "Bologna, pork"
+ },
+ {
+  "es": "Pierna de cordero, cruda",
+  "usda": "Lamb, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4\" fat, choice, raw"
+ },
+ {
+  "es": "Chuleta de cordero, asada",
+  "usda": "Lamb, loin, separable lean only, trimmed to 1/4\" fat, choice, cooked, broiled"
+ },
+ {
+  "es": "Cordero molido, cocido",
+  "usda": "Lamb, ground, cooked, broiled"
+ },
+ {
+  "es": "Ternera, lomo asado",
+  "usda": "Veal, loin, separable lean only, cooked, roasted"
+ },
+ {
+  "es": "Ternera, escalope cocido",
+  "usda": "Veal, leg (top round), separable lean only, cooked, braised"
+ },
+ {
+  "es": "Conejo, asado",
+  "usda": "Game meat, rabbit, domesticated, composite of cuts, cooked, roasted"
+ },
+ {
+  "es": "Venado, asado",
+  "usda": "Game meat, deer, ground, cooked, pan-broiled",
+  "alias": [
+   "ciervo"
+  ]
+ },
+ {
+  "es": "Pato, asado con piel",
+  "usda": "Duck, domesticated, meat and skin, cooked, roasted"
+ },
+ {
+  "es": "Ganso, asado",
+  "usda": "Goose, domesticated, meat and skin, cooked, roasted"
+ },
+ {
+  "es": "Codorniz, asada",
+  "usda": "Quail, cooked, total edible"
+ },
+ {
+  "es": "Pollo entero, crudo",
+  "usda": "Chicken, broilers or fryers, meat and skin, raw"
+ },
+ {
+  "es": "Pollo, solo carne, cocido (mezcla)",
+  "usda": "Chicken, broilers or fryers, meat only, cooked, roasted"
+ },
+ {
+  "es": "Muslo de pollo con piel, asado",
+  "usda": "Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted"
+ },
+ {
+  "es": "Pechuga de pollo con piel, asada",
+  "usda": "Chicken, broilers or fryers, breast, meat and skin, cooked, roasted"
+ },
+ {
+  "es": "Pechuga de pollo a la plancha",
+  "usda": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled",
+  "alias": [
+   "pollo a la plancha"
+  ]
+ },
+ {
+  "es": "Pechuga de pollo hervida",
+  "usda": "Chicken, broilers or fryers, breast, meat only, cooked, stewed",
+  "alias": [
+   "pollo hervido",
+   "pollo cocido"
+  ]
+ },
+ {
+  "es": "Pollo frito empanizado",
+  "usda": "Chicken, broilers or fryers, breast, meat and skin, cooked, fried, batter"
+ },
+ {
+  "es": "Pollo frito sin empanizar",
+  "usda": "Chicken, broilers or fryers, breast, meat only, cooked, fried"
+ },
+ {
+  "es": "Alitas de pollo, crudas",
+  "usda": "Chicken, broilers or fryers, wing, meat and skin, raw"
+ },
+ {
+  "es": "Pierna de pollo, cruda",
+  "usda": "Chicken, broilers or fryers, drumstick, meat and skin, raw"
+ },
+ {
+  "es": "Hígado de pollo, cocido",
+  "usda": "Chicken, liver, all classes, cooked, simmered",
+  "alias": [
+   "higado"
+  ]
+ },
+ {
+  "es": "Molleja de pollo, cocida",
+  "usda": "Chicken, gizzard, all classes, cooked, simmered"
+ },
+ {
+  "es": "Pollo desmenuzado enlatado",
+  "usda": "Chicken, canned, meat only, with broth"
+ },
+ {
+  "es": "Pavo, pierna asada",
+  "usda": "Turkey, retail parts, drumstick, meat only, cooked, roasted"
+ },
+ {
+  "es": "Pavo, pechuga cruda",
+  "usda": "Turkey, whole, breast, meat only, raw"
+ },
+ {
+  "es": "Pavo molido, crudo",
+  "usda": "Turkey, Ground, raw"
+ },
+ {
+  "es": "Pavo, muslo asado",
+  "usda": "Turkey, retail parts, thigh, meat only, cooked, roasted"
+ },
+ {
+  "es": "Pavo asado entero con piel",
+  "usda": "Turkey, whole, meat and skin, cooked, roasted"
+ },
+ {
+  "es": "Salmón rosado en lata",
+  "usda": "Fish, salmon, pink, canned, drained solids",
+  "alias": [
+   "salmon enlatado"
+  ]
+ },
+ {
+  "es": "Salmón ahumado",
+  "usda": "Fish, salmon, chinook, smoked"
+ },
+ {
+  "es": "Salmón rojo (sockeye), cocido",
+  "usda": "Fish, salmon, sockeye, cooked, dry heat",
+  "alias": [
+   "salmon"
+  ]
+ },
+ {
+  "es": "Atún blanco en lata al natural",
+  "usda": "Fish, tuna, white, canned in water, drained solids",
+  "alias": [
+   "atun"
+  ]
+ },
+ {
+  "es": "Bacalao seco y salado",
+  "usda": "Fish, cod, Atlantic, dried and salted",
+  "alias": [
+   "bacalao salado"
+  ]
+ },
+ {
+  "es": "Eglefino (haddock), cocido",
+  "usda": "Fish, haddock, cooked, dry heat"
+ },
+ {
+  "es": "Lenguado, cocido",
+  "usda": "Fish, flatfish (flounder and sole species), cooked, dry heat"
+ },
+ {
+  "es": "Pargo / huachinango, cocido",
+  "usda": "Fish, snapper, mixed species, cooked, dry heat",
+  "alias": [
+   "huachinango",
+   "pargo"
+  ]
+ },
+ {
+  "es": "Dorado (mahi mahi), cocido",
+  "usda": "Fish, mahimahi, cooked, dry heat"
+ },
+ {
+  "es": "Arenque, cocido",
+  "usda": "Fish, herring, Atlantic, cooked, dry heat"
+ },
+ {
+  "es": "Arenque en escabeche",
+  "usda": "Fish, herring, Atlantic, pickled"
+ },
+ {
+  "es": "Perca, cocida",
+  "usda": "Fish, perch, mixed species, cooked, dry heat"
+ },
+ {
+  "es": "Carpa, cocida",
+  "usda": "Fish, carp, cooked, dry heat"
+ },
+ {
+  "es": "Anguila, cocida",
+  "usda": "Fish, eel, mixed species, cooked, dry heat"
+ },
+ {
+  "es": "Mero (garoupa), cocido",
+  "usda": "Fish, grouper, mixed species, cooked, dry heat"
+ },
+ {
+  "es": "Palitos de pescado",
+  "usda": "Fish, fish sticks, frozen, prepared"
+ },
+ {
+  "es": "Huevas de pescado, cocidas",
+  "usda": "Fish, roe, mixed species, cooked, dry heat"
+ },
+ {
+  "es": "Surimi",
+  "usda": "Fish, surimi",
+  "alias": [
+   "palitos de cangrejo"
+  ]
+ },
+ {
+  "es": "Camarón, crudo",
+  "usda": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",
+  "alias": [
+   "camarones",
+   "gambas"
+  ]
+ },
+ {
+  "es": "Camarón empanizado, frito",
+  "usda": "Crustaceans, shrimp, mixed species, cooked, breaded and fried"
+ },
+ {
+  "es": "Langosta, cocida",
+  "usda": "Crustaceans, lobster, northern, cooked, moist heat"
+ },
+ {
+  "es": "Cangrejo de Alaska, cocido",
+  "usda": "Crustaceans, crab, alaska king, cooked, moist heat"
+ },
+ {
+  "es": "Cangrejo, enlatado",
+  "usda": "Crustaceans, crab, blue, canned",
+  "alias": [
+   "jaiba"
+  ]
+ },
+ {
+  "es": "Ostras, cocidas",
+  "usda": "Mollusks, oyster, eastern, wild, cooked, moist heat",
+  "alias": [
+   "ostiones"
+  ]
+ },
+ {
+  "es": "Mejillones, cocidos",
+  "usda": "Mollusks, mussel, blue, cooked, moist heat",
+  "alias": [
+   "choritos"
+  ]
+ },
+ {
+  "es": "Vieiras, crudas",
+  "usda": "Mollusks, scallop, mixed species, raw",
+  "alias": [
+   "scallops",
+   "conchas de abanico"
+  ]
+ },
+ {
+  "es": "Calamar frito",
+  "usda": "Mollusks, squid, mixed species, cooked, fried",
+  "alias": [
+   "calamares fritos",
+   "rabas"
+  ]
+ },
+ {
+  "es": "Leche de cabra",
+  "usda": "Milk, goat, fluid, with added vitamin D"
+ },
+ {
+  "es": "Leche evaporada",
+  "usda": "Milk, canned, evaporated, with added vitamin A"
+ },
+ {
+  "es": "Leche condensada azucarada",
+  "usda": "Milk, canned, condensed, sweetened"
+ },
+ {
+  "es": "Leche baja en grasa (1 %)",
+  "usda": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D"
+ },
+ {
+  "es": "Leche descremada en polvo",
+  "usda": "Milk, dry, nonfat, regular, without added vitamin A and vitamin D",
+  "alias": [
+   "leche en polvo"
+  ]
+ },
+ {
+  "es": "Suero de leche (buttermilk, bajo en grasa)",
+  "usda": "Milk, buttermilk, fluid, cultured, lowfat"
+ },
+ {
+  "es": "Yogur con fruta (bajo en grasa)",
+  "usda": "Yogurt, fruit, low fat,9 g protein/8 oz",
+  "alias": [
+   "yogurt de fresa"
+  ]
+ },
+ {
+  "es": "Yogur de vainilla (bajo en grasa)",
+  "usda": "Yogurt, vanilla, low fat."
+ },
+ {
+  "es": "Queso azul",
+  "usda": "Cheese, blue",
+  "alias": [
+   "roquefort",
+   "gorgonzola"
+  ]
+ },
+ {
+  "es": "Queso brie",
+  "usda": "Cheese, brie"
+ },
+ {
+  "es": "Queso camembert",
+  "usda": "Cheese, camembert"
+ },
+ {
+  "es": "Queso gouda",
+  "usda": "Cheese, gouda"
+ },
+ {
+  "es": "Queso edam",
+  "usda": "Cheese, edam"
+ },
+ {
+  "es": "Queso Monterey Jack",
+  "usda": "Cheese, monterey"
+ },
+ {
+  "es": "Queso colby",
+  "usda": "Cheese, colby"
+ },
+ {
+  "es": "Queso americano procesado",
+  "usda": "Cheese, pasteurized process, American, without added vitamin D",
+  "alias": [
+   "queso de sandwich"
+  ]
+ },
+ {
+  "es": "Queso mozzarella bajo en humedad",
+  "usda": "Cheese, mozzarella, low moisture, part-skim"
+ },
+ {
+  "es": "Queso asadero",
+  "usda": "Cheese, mexican, queso asadero",
+  "alias": [
+   "queso oaxaca",
+   "queso para fundir"
+  ]
+ },
+ {
+  "es": "Queso chihuahua",
+  "usda": "Cheese, mexican, queso chihuahua",
+  "alias": [
+   "queso menonita"
+  ]
+ },
+ {
+  "es": "Queso cotija",
+  "usda": "Cheese, mexican, queso cotija"
+ },
+ {
+  "es": "Queso añejo",
+  "usda": "Cheese, mexican, queso anejo",
+  "alias": [
+   "queso anejo"
+  ]
+ },
+ {
+  "es": "Queso cottage bajo en grasa",
+  "usda": "Cheese, cottage, lowfat, 2% milkfat"
+ },
+ {
+  "es": "Crema ligera",
+  "usda": "Cream, fluid, light (coffee cream or table cream)"
+ },
+ {
+  "es": "Crema para batir",
+  "usda": "Cream, fluid, light whipping",
+  "alias": [
+   "nata para montar"
+  ]
+ },
+ {
+  "es": "Media crema (half & half)",
+  "usda": "Cream, fluid, half and half"
+ },
+ {
+  "es": "Huevo de codorniz, crudo",
+  "usda": "Egg, quail, whole, fresh, raw"
+ },
+ {
+  "es": "Huevo de pato, crudo",
+  "usda": "Egg, duck, whole, fresh, raw"
+ },
+ {
+  "es": "Omelette de huevo",
+  "usda": "Egg, whole, cooked, omelet",
+  "alias": [
+   "tortilla francesa"
+  ]
+ },
+ {
+  "es": "Huevo pochado",
+  "usda": "Egg, whole, cooked, poached",
+  "alias": [
+   "huevo escalfado"
+  ]
+ },
+ {
+  "es": "Sustituto de huevo líquido (sin grasa)",
+  "usda": "Egg substitute, liquid or frozen, fat free"
+ },
+ {
+  "es": "Ghee (mantequilla clarificada)",
+  "usda": "Butter oil, anhydrous"
+ },
+ {
+  "es": "Cebolla, cocida",
+  "usda": "Onions, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Aros de cebolla empanizados (congelados)",
+  "usda": "Onion rings, breaded, par fried, frozen, prepared, heated in oven"
+ },
+ {
+  "es": "Zanahoria, cocida",
+  "usda": "Carrots, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Zanahorias baby, crudas",
+  "usda": "Carrots, baby, raw"
+ },
+ {
+  "es": "Papa / patata, cruda",
+  "usda": "Potatoes, flesh and skin, raw",
+  "alias": [
+   "patata"
+  ]
+ },
+ {
+  "es": "Camote / batata, crudo",
+  "usda": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+  "alias": [
+   "boniato"
+  ]
+ },
+ {
+  "es": "Tomate, cocido",
+  "usda": "Tomatoes, red, ripe, cooked"
+ },
+ {
+  "es": "Tomate en lata",
+  "usda": "Tomatoes, red, ripe, canned, packed in tomato juice"
+ },
+ {
+  "es": "Pasta / concentrado de tomate",
+  "usda": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)"
+ },
+ {
+  "es": "Jugo de tomate",
+  "usda": "Tomato juice, canned, without salt added"
+ },
+ {
+  "es": "Tomate seco",
+  "usda": "Tomatoes, sun-dried"
+ },
+ {
+  "es": "Pepinillos (pickles) en vinagre",
+  "usda": "Pickles, cucumber, dill or kosher dill",
+  "alias": [
+   "pepinillos"
+  ]
+ },
+ {
+  "es": "Pimiento amarillo, crudo",
+  "usda": "Peppers, sweet, yellow, raw",
+  "alias": [
+   "pimenton amarillo"
+  ]
+ },
+ {
+  "es": "Chile serrano",
+  "usda": "Peppers, serrano, raw"
+ },
+ {
+  "es": "Jalapeño en lata",
+  "usda": "Peppers, jalapeno, canned, solids and liquids"
+ },
+ {
+  "es": "Coles de Bruselas, crudas",
+  "usda": "Brussels sprouts, raw",
+  "alias": [
+   "repollitos de bruselas"
+  ]
+ },
+ {
+  "es": "Coles de Bruselas, cocidas",
+  "usda": "Brussels sprouts, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Col china (bok choy), cruda",
+  "usda": "Cabbage, chinese (pak-choi), raw",
+  "alias": [
+   "pak choi"
+  ]
+ },
+ {
+  "es": "Col china (bok choy), cocida",
+  "usda": "Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Col morada (lombarda), cruda",
+  "usda": "Cabbage, red, raw",
+  "alias": [
+   "repollo morado",
+   "lombarda"
+  ]
+ },
+ {
+  "es": "Col rizada (kale), cocida",
+  "usda": "Kale, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Coliflor, cocida",
+  "usda": "Cauliflower, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Repollo / col, cocido",
+  "usda": "Cabbage, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Judías verdes, crudas",
+  "usda": "Beans, snap, green, raw",
+  "alias": [
+   "ejotes crudos"
+  ]
+ },
+ {
+  "es": "Calabacín (zucchini), cocido",
+  "usda": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Calabacita amarilla, cruda",
+  "usda": "Squash, summer, all varieties, raw"
+ },
+ {
+  "es": "Calabaza butternut, cruda",
+  "usda": "Squash, winter, butternut, raw"
+ },
+ {
+  "es": "Calabaza butternut, horneada",
+  "usda": "Squash, winter, butternut, cooked, baked, without salt"
+ },
+ {
+  "es": "Calabaza espagueti, cocida",
+  "usda": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt"
+ },
+ {
+  "es": "Calabaza bellota, horneada",
+  "usda": "Squash, winter, acorn, cooked, baked, without salt"
+ },
+ {
+  "es": "Berenjena, cruda",
+  "usda": "Eggplant, raw"
+ },
+ {
+  "es": "Champiñón, cocido",
+  "usda": "Mushrooms, white, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Portobello, crudo",
+  "usda": "Mushrooms, portabella, raw"
+ },
+ {
+  "es": "Shiitake, cocido",
+  "usda": "Mushrooms, shiitake, cooked, without salt"
+ },
+ {
+  "es": "Remolacha / betabel, cruda",
+  "usda": "Beets, raw",
+  "alias": [
+   "betarraga"
+  ]
+ },
+ {
+  "es": "Rábano daikon",
+  "usda": "Radishes, oriental, raw"
+ },
+ {
+  "es": "Nabo, cocido",
+  "usda": "Turnips, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Nabo, crudo",
+  "usda": "Turnips, raw"
+ },
+ {
+  "es": "Chirivía",
+  "usda": "Parsnips, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Espárragos, crudos",
+  "usda": "Asparagus, raw",
+  "alias": [
+   "esparragos"
+  ]
+ },
+ {
+  "es": "Escarola / endivia",
+  "usda": "Endive, raw"
+ },
+ {
+  "es": "Berros",
+  "usda": "Watercress, raw"
+ },
+ {
+  "es": "Lechuga mantequilla",
+  "usda": "Lettuce, butterhead (includes boston and bibb types), raw",
+  "alias": [
+   "lechuga criolla"
+  ]
+ },
+ {
+  "es": "Lechuga de hoja verde",
+  "usda": "Lettuce, green leaf, raw"
+ },
+ {
+  "es": "Lechuga de hoja roja",
+  "usda": "Lettuce, red leaf, raw"
+ },
+ {
+  "es": "Hojas de col verde (collard), cocidas",
+  "usda": "Collards, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Hojas de mostaza, cocidas",
+  "usda": "Mustard greens, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Hojas de nabo, cocidas",
+  "usda": "Turnip greens, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Acelga, cocida",
+  "usda": "Chard, swiss, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Hinojo, crudo",
+  "usda": "Fennel, bulb, raw"
+ },
+ {
+  "es": "Jengibre, crudo",
+  "usda": "Ginger root, raw"
+ },
+ {
+  "es": "Cebollino",
+  "usda": "Chives, raw"
+ },
+ {
+  "es": "Albahaca fresca",
+  "usda": "Basil, fresh"
+ },
+ {
+  "es": "Menta fresca",
+  "usda": "Spearmint, fresh",
+  "alias": [
+   "hierbabuena"
+  ]
+ },
+ {
+  "es": "Guisantes / arvejas, crudos",
+  "usda": "Peas, green, raw",
+  "alias": [
+   "chicharos crudos"
+  ]
+ },
+ {
+  "es": "Guisantes congelados, cocidos",
+  "usda": "Peas, green, frozen, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Elote / maíz dulce, crudo",
+  "usda": "Corn, sweet, yellow, raw",
+  "alias": [
+   "choclo crudo"
+  ]
+ },
+ {
+  "es": "Edamame (congelado, preparado)",
+  "usda": "Edamame, frozen, prepared"
+ },
+ {
+  "es": "Brotes de soya / frijol mungo",
+  "usda": "Mung beans, mature seeds, sprouted, raw",
+  "alias": [
+   "germinado de soja"
+  ]
+ },
+ {
+  "es": "Brotes de alfalfa",
+  "usda": "Alfalfa seeds, sprouted, raw"
+ },
+ {
+  "es": "Palmito en conserva",
+  "usda": "Hearts of palm, canned"
+ },
+ {
+  "es": "Brotes de bambú",
+  "usda": "Bamboo shoots, raw"
+ },
+ {
+  "es": "Castañas de agua",
+  "usda": "Waterchestnuts, chinese, (matai), raw"
+ },
+ {
+  "es": "Kimchi",
+  "usda": "Cabbage, kimchi"
+ },
+ {
+  "es": "Chucrut",
+  "usda": "Sauerkraut, canned, solids and liquids"
+ },
+ {
+  "es": "Aceitunas verdes",
+  "usda": "Olives, pickled, canned or bottled, green"
+ },
+ {
+  "es": "Manzana, sin piel",
+  "usda": "Apples, raw, without skin"
+ },
+ {
+  "es": "Manzana verde (Granny Smith)",
+  "usda": "Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)"
+ },
+ {
+  "es": "Compota de manzana",
+  "usda": "Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)",
+  "alias": [
+   "puré de manzana"
+  ]
+ },
+ {
+  "es": "Manzana deshidratada",
+  "usda": "Apples, dried, sulfured, uncooked"
+ },
+ {
+  "es": "Albaricoque seco / orejón",
+  "usda": "Apricots, dried, sulfured, uncooked",
+  "alias": [
+   "orejones",
+   "damascos secos"
+  ]
+ },
+ {
+  "es": "Albaricoque en lata",
+  "usda": "Apricots, canned, heavy syrup pack, with skin, solids and liquids"
+ },
+ {
+  "es": "Aguacate de Florida",
+  "usda": "Avocados, raw, Florida"
+ },
+ {
+  "es": "Plátano seco / banana chips",
+  "usda": "Bananas, dehydrated, or banana powder"
+ },
+ {
+  "es": "Moras",
+  "usda": "Blackberries, raw",
+  "alias": [
+   "zarzamoras"
+  ]
+ },
+ {
+  "es": "Arándanos rojos (cranberries), crudos",
+  "usda": "Cranberries, raw"
+ },
+ {
+  "es": "Arándanos rojos secos",
+  "usda": "Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)"
+ },
+ {
+  "es": "Grosellas",
+  "usda": "Currants, european black, raw"
+ },
+ {
+  "es": "Cerezas ácidas",
+  "usda": "Cherries, sour, red, raw"
+ },
+ {
+  "es": "Cerezas en almíbar",
+  "usda": "Cherries, sweet, canned, extra heavy syrup pack, solids and liquids"
+ },
+ {
+  "es": "Chirimoya",
+  "usda": "Cherimoya, raw"
+ },
+ {
+  "es": "Mandarina en lata",
+  "usda": "Tangerines, (mandarin oranges), canned, juice pack"
+ },
+ {
+  "es": "Naranja navel",
+  "usda": "Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)"
+ },
+ {
+  "es": "Naranja Valencia (California)",
+  "usda": "Oranges, raw, California, valencias"
+ },
+ {
+  "es": "Jugo de limón",
+  "usda": "Lemon juice, raw",
+  "alias": [
+   "zumo de limon"
+  ]
+ },
+ {
+  "es": "Jugo de lima",
+  "usda": "Lime juice, raw"
+ },
+ {
+  "es": "Jugo de toronja / pomelo",
+  "usda": "Grapefruit juice, white, raw"
+ },
+ {
+  "es": "Jugo de uva",
+  "usda": "Grape juice, canned or bottled, unsweetened, without added ascorbic acid"
+ },
+ {
+  "es": "Jugo de piña",
+  "usda": "Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid"
+ },
+ {
+  "es": "Jugo de arándano",
+  "usda": "Cranberry juice, unsweetened"
+ },
+ {
+  "es": "Jugo de zanahoria",
+  "usda": "Carrot juice, canned"
+ },
+ {
+  "es": "Néctar de durazno",
+  "usda": "Peach nectar, canned, with added ascorbic acid"
+ },
+ {
+  "es": "Néctar de mango",
+  "usda": "Mango nectar, canned"
+ },
+ {
+  "es": "Limonada (de concentrado congelado, preparada)",
+  "usda": "Lemonade, frozen concentrate, white, prepared with water"
+ },
+ {
+  "es": "Durazno en lata (almíbar)",
+  "usda": "Peaches, canned, heavy syrup pack, solids and liquids"
+ },
+ {
+  "es": "Durazno deshidratado",
+  "usda": "Peaches, dried, sulfured, uncooked"
+ },
+ {
+  "es": "Pera en lata",
+  "usda": "Pears, canned, heavy syrup pack, solids and liquids"
+ },
+ {
+  "es": "Pera deshidratada",
+  "usda": "Pears, dried, sulfured, uncooked"
+ },
+ {
+  "es": "Piña en lata (almíbar)",
+  "usda": "Pineapple, canned, heavy syrup pack, solids and liquids"
+ },
+ {
+  "es": "Piña en lata (jugo)",
+  "usda": "Pineapple, canned, juice pack, solids and liquids"
+ },
+ {
+  "es": "Coctel de frutas en lata",
+  "usda": "Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids"
+ },
+ {
+  "es": "Ciruelas pasas",
+  "usda": "Plums, dried (prunes), uncooked"
+ },
+ {
+  "es": "Jugo de ciruela",
+  "usda": "Prune juice, canned"
+ },
+ {
+  "es": "Higos secos",
+  "usda": "Figs, dried, uncooked"
+ },
+ {
+  "es": "Uvas pasas (Sultanas)",
+  "usda": "Raisins, golden, seedless"
+ },
+ {
+  "es": "Dátiles Deglet Noor",
+  "usda": "Dates, deglet noor"
+ },
+ {
+  "es": "Néctar de papaya",
+  "usda": "Papaya nectar, canned"
+ },
+ {
+  "es": "Kiwi dorado (SunGold)",
+  "usda": "Kiwifruit, ZESPRI SunGold, raw"
+ },
+ {
+  "es": "Níspero",
+  "usda": "Loquats, raw"
+ },
+ {
+  "es": "Melón verde (honeydew)",
+  "usda": "Melons, honeydew, raw"
+ },
+ {
+  "es": "Melón casaba",
+  "usda": "Melons, casaba, raw"
+ },
+ {
+  "es": "Nectarina",
+  "usda": "Nectarines, raw"
+ },
+ {
+  "es": "Membrillo",
+  "usda": "Quinces, raw"
+ },
+ {
+  "es": "Fruta de la pasión, jugo",
+  "usda": "Passion-fruit juice, purple, raw"
+ },
+ {
+  "es": "Pomelo (pummelo)",
+  "usda": "Pummelo, raw"
+ },
+ {
+  "es": "Carambola",
+  "usda": "Carambola, (starfruit), raw"
+ },
+ {
+  "es": "Frambuesas congeladas",
+  "usda": "Raspberries, frozen, red, sweetened"
+ },
+ {
+  "es": "Fresas congeladas",
+  "usda": "Strawberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)"
+ },
+ {
+  "es": "Mandarina Clementina",
+  "usda": "Clementines, raw"
+ },
+ {
+  "es": "Mamey / zapote",
+  "usda": "Sapote, mamey, raw"
+ },
+ {
+  "es": "Guanábana",
+  "usda": "Soursop, raw"
+ },
+ {
+  "es": "Tuna (fruto del nopal)",
+  "usda": "Prickly pears, raw",
+  "alias": [
+   "higo chumbo"
+  ]
+ },
+ {
+  "es": "Longan",
+  "usda": "Longans, raw"
+ },
+ {
+  "es": "Uva espina",
+  "usda": "Gooseberries, raw"
+ },
+ {
+  "es": "Aceite de aguacate",
+  "usda": "Oil, avocado"
+ },
+ {
+  "es": "Aguacate de California",
+  "usda": "Avocados, raw, California",
+  "alias": [
+   "palta de california"
+  ]
+ },
+ {
+  "es": "Plátano macho verde, frito",
+  "usda": "Plantains, green, fried",
+  "alias": [
+   "tostones"
+  ]
+ },
+ {
+  "es": "Coco rallado, seco",
+  "usda": "Nuts, coconut meat, dried (desiccated), sweetened, shredded"
+ },
+ {
+  "es": "Coco rallado sin azúcar",
+  "usda": "Nuts, coconut meat, dried (desiccated), not sweetened"
+ },
+ {
+  "es": "Crema de coco",
+  "usda": "Nuts, coconut cream, raw (liquid expressed from grated meat)"
+ },
+ {
+  "es": "Frijoles blancos (alubias), cocidos",
+  "usda": "Beans, white, mature seeds, cooked, boiled, without salt",
+  "alias": [
+   "judias blancas",
+   "alubias",
+   "porotos"
+  ]
+ },
+ {
+  "es": "Frijoles carita (ojo negro), cocidos",
+  "usda": "Cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, without salt",
+  "alias": [
+   "frijol de ojo negro"
+  ]
+ },
+ {
+  "es": "Frijoles blancos grandes (great northern), cocidos",
+  "usda": "Beans, great northern, mature seeds, cooked, boiled, without salt",
+  "alias": [
+   "cannellini"
+  ]
+ },
+ {
+  "es": "Frijoles de lima (habas), cocidos",
+  "usda": "Lima beans, large, mature seeds, cooked, boiled, without salt"
+ },
+ {
+  "es": "Frijoles azuki, cocidos",
+  "usda": "Beans, adzuki, mature seeds, cooked, boiled, without salt"
+ },
+ {
+  "es": "Frijoles mungo, cocidos",
+  "usda": "Mung beans, mature seeds, cooked, boiled, without salt"
+ },
+ {
+  "es": "Habas (fava), cocidas",
+  "usda": "Broadbeans (fava beans), mature seeds, cooked, boiled, without salt"
+ },
+ {
+  "es": "Frijoles negros, enlatados",
+  "usda": "Beans, black, mature seeds, canned, low sodium"
+ },
+ {
+  "es": "Frijoles rojos, enlatados",
+  "usda": "Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water"
+ },
+ {
+  "es": "Garbanzos, enlatados",
+  "usda": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids"
+ },
+ {
+  "es": "Lentejas, crudas",
+  "usda": "Lentils, raw"
+ },
+ {
+  "es": "Guisantes secos (partidos), cocidos",
+  "usda": "Peas, split, mature seeds, cooked, boiled, without salt"
+ },
+ {
+  "es": "Frijoles refritos, enlatados bajos en grasa",
+  "usda": "Refried beans, canned, vegetarian"
+ },
+ {
+  "es": "Frijoles horneados (baked beans)",
+  "usda": "Beans, baked, canned, plain or vegetarian"
+ },
+ {
+  "es": "Frijoles negros, crudos",
+  "usda": "Beans, black, mature seeds, raw"
+ },
+ {
+  "es": "Frijoles pintos, crudos",
+  "usda": "Beans, pinto, mature seeds, raw (Includes foods for USDA's Food Distribution Program)"
+ },
+ {
+  "es": "Garbanzos, crudos",
+  "usda": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw"
+ },
+ {
+  "es": "Soya (soja), cruda",
+  "usda": "Soybeans, mature seeds, raw"
+ },
+ {
+  "es": "Tofu blando",
+  "usda": "Tofu, raw, regular, prepared with calcium sulfate"
+ },
+ {
+  "es": "Tempeh",
+  "usda": "Tempeh"
+ },
+ {
+  "es": "Natto",
+  "usda": "Natto"
+ },
+ {
+  "es": "Miso",
+  "usda": "Miso"
+ },
+ {
+  "es": "Harina de soya",
+  "usda": "Soy flour, full-fat, raw"
+ },
+ {
+  "es": "Proteína de soya aislada",
+  "usda": "Soy protein isolate"
+ },
+ {
+  "es": "Cacahuates tostados (con sal)",
+  "usda": "Peanuts, all types, dry-roasted, with salt",
+  "alias": [
+   "mani tostado"
+  ]
+ },
+ {
+  "es": "Cacahuates hervidos (con sal)",
+  "usda": "Peanuts, all types, cooked, boiled, with salt",
+  "alias": [
+   "mani hervido"
+  ]
+ },
+ {
+  "es": "Almendras tostadas",
+  "usda": "Nuts, almonds, dry roasted, without salt added"
+ },
+ {
+  "es": "Mantequilla de almendra (con sal)",
+  "usda": "Nuts, almond butter, plain, with salt added"
+ },
+ {
+  "es": "Piñones",
+  "usda": "Nuts, pine nuts, dried",
+  "alias": [
+   "pinones"
+  ]
+ },
+ {
+  "es": "Castañas asadas",
+  "usda": "Nuts, chestnuts, european, roasted"
+ },
+ {
+  "es": "Mezcla de frutos secos (mix)",
+  "usda": "Snacks, trail mix, regular",
+  "alias": [
+   "trail mix"
+  ]
+ },
+ {
+  "es": "Semillas de cáñamo",
+  "usda": "Seeds, hemp seed, hulled",
+  "alias": [
+   "canamo"
+  ]
+ },
+ {
+  "es": "Tahini (pasta de sésamo)",
+  "usda": "Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)",
+  "alias": [
+   "tahine"
+  ]
+ },
+ {
+  "es": "Semillas de amapola",
+  "usda": "Spices, poppy seed"
+ },
+ {
+  "es": "Arroz blanco de grano corto, cocido",
+  "usda": "Rice, white, short-grain, enriched, cooked",
+  "alias": [
+   "arroz"
+  ]
+ },
+ {
+  "es": "Arroz parboilizado, cocido",
+  "usda": "Rice, white, long-grain, parboiled, enriched, cooked",
+  "alias": [
+   "arroz basmati"
+  ]
+ },
+ {
+  "es": "Arroz salvaje, cocido",
+  "usda": "Wild rice, cooked"
+ },
+ {
+  "es": "Arroz integral, crudo",
+  "usda": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)"
+ },
+ {
+  "es": "Arroz glutinoso, cocido",
+  "usda": "Rice, white, glutinous, unenriched, cooked",
+  "alias": [
+   "arroz pegajoso"
+  ]
+ },
+ {
+  "es": "Harina de arroz",
+  "usda": "Rice flour, white, unenriched"
+ },
+ {
+  "es": "Fideos de huevo, cocidos",
+  "usda": "Noodles, egg, unenriched, cooked, without added salt"
+ },
+ {
+  "es": "Fideos de soba, cocidos",
+  "usda": "Noodles, japanese, soba, cooked"
+ },
+ {
+  "es": "Lasaña de queso, congelada",
+  "usda": "Lasagna, cheese, frozen, prepared",
+  "alias": [
+   "lasagna"
+  ]
+ },
+ {
+  "es": "Avena instantánea (sobre)",
+  "usda": "Cereals, oats, instant, fortified, plain, dry"
+ },
+ {
+  "es": "Cereal de arroz inflado",
+  "usda": "Cereals ready-to-eat, rice, puffed, fortified"
+ },
+ {
+  "es": "Cereal de trigo inflado",
+  "usda": "Cereals ready-to-eat, wheat, puffed, fortified"
+ },
+ {
+  "es": "Cereal de avena en aros (tipo Cheerios)",
+  "usda": "Cereals ready-to-eat, GENERAL MILLS, CHEERIOS",
+  "alias": [
+   "cheerios"
+  ]
+ },
+ {
+  "es": "Trigo sarraceno (alforfón), cocido",
+  "usda": "Buckwheat groats, roasted, cooked"
+ },
+ {
+  "es": "Amaranto, cocido",
+  "usda": "Amaranth grain, cooked"
+ },
+ {
+  "es": "Centeno, harina",
+  "usda": "Rye flour, medium"
+ },
+ {
+  "es": "Harina de trigo integral",
+  "usda": "Wheat flour, whole-grain, soft wheat"
+ },
+ {
+  "es": "Harina de garbanzo",
+  "usda": "Chickpea flour (besan)"
+ },
+ {
+  "es": "Sémola de trigo",
+  "usda": "Semolina, enriched"
+ },
+ {
+  "es": "Cebada, cruda",
+  "usda": "Barley, pearled, raw"
+ },
+ {
+  "es": "Maicena (almidón de maíz)",
+  "usda": "Cornstarch",
+  "alias": [
+   "fecula de maiz"
+  ]
+ },
+ {
+  "es": "Tapioca",
+  "usda": "Tapioca, pearl, dry"
+ },
+ {
+  "es": "Mezcla para pan de maíz (en polvo, sin preparar)",
+  "usda": "Bread, cornbread, dry mix, enriched (includes corn muffin mix)",
+  "alias": [
+   "cornbread"
+  ]
+ },
+ {
+  "es": "Bagel",
+  "usda": "Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)"
+ },
+ {
+  "es": "Muffin de arándanos",
+  "usda": "Muffins, blueberry, commercially prepared (Includes mini-muffins)"
+ },
+ {
+  "es": "Muffin inglés",
+  "usda": "Muffins, English, plain, enriched, with ca prop (includes sourdough)"
+ },
+ {
+  "es": "Pay de manzana",
+  "usda": "Pie, apple, prepared from recipe",
+  "alias": [
+   "tarta de manzana"
+  ]
+ },
+ {
+  "es": "Pastel de chocolate con betún",
+  "usda": "Cake, chocolate, commercially prepared with chocolate frosting, in-store bakery",
+  "alias": [
+   "torta de chocolate"
+  ]
+ },
+ {
+  "es": "Cheesecake (pastel de queso)",
+  "usda": "Cake, cheesecake, commercially prepared",
+  "alias": [
+   "tarta de queso"
+  ]
+ },
+ {
+  "es": "Galletas de mantequilla de maní",
+  "usda": "Cookies, peanut butter sandwich, regular"
+ },
+ {
+  "es": "Galletas saladas tipo soda",
+  "usda": "Crackers, saltines (includes oyster, soda, soup)",
+  "alias": [
+   "galletas de soda"
+  ]
+ },
+ {
+  "es": "Galletas integrales saladas",
+  "usda": "Crackers, whole-wheat"
+ },
+ {
+  "es": "Panecillo de cena",
+  "usda": "Rolls, dinner, egg",
+  "alias": [
+   "bolillo",
+   "pan de mesa"
+  ]
+ },
+ {
+  "es": "Pan pumpernickel",
+  "usda": "Bread, pumpernickel"
+ },
+ {
+  "es": "Pan multigrano",
+  "usda": "Bread, multi-grain (includes whole-grain)"
+ },
+ {
+  "es": "Pan de ajo congelado",
+  "usda": "Garlic bread, frozen"
+ },
+ {
+  "es": "Panqueques congelados",
+  "usda": "Pancakes plain, frozen, ready-to-heat (includes buttermilk)"
+ },
+ {
+  "es": "Crutones",
+  "usda": "Croutons, plain"
+ },
+ {
+  "es": "Relleno de pan (stuffing), preparado",
+  "usda": "Bread, stuffing, dry mix, prepared"
+ },
+ {
+  "es": "Pastel de ángel",
+  "usda": "Cake, angelfood, commercially prepared"
+ },
+ {
+  "es": "Danés de queso",
+  "usda": "Danish pastry, cheese"
+ },
+ {
+  "es": "Rollitos de canela mini",
+  "usda": "Fast foods, miniature cinnamon rolls"
+ },
+ {
+  "es": "Pretzel suave",
+  "usda": "Pretzels, soft"
+ },
+ {
+  "es": "Gomitas (gominolas)",
+  "usda": "Candies, gumdrops, starch jelly pieces"
+ },
+ {
+  "es": "Jelly beans",
+  "usda": "Candies, jellybeans"
+ },
+ {
+  "es": "Malvaviscos (marshmallows)",
+  "usda": "Candies, marshmallows"
+ },
+ {
+  "es": "Caramelos blandos (caramels)",
+  "usda": "Candies, caramels",
+  "alias": [
+   "toffee blando"
+  ]
+ },
+ {
+  "es": "Fudge de vainilla con nueces",
+  "usda": "Candies, fudge, vanilla with nuts"
+ },
+ {
+  "es": "Crocante de cacahuate (peanut brittle)",
+  "usda": "Candies, peanut brittle, prepared-from-recipe",
+  "alias": [
+   "turron",
+   "garapinada"
+  ]
+ },
+ {
+  "es": "Pudín de chocolate, listo",
+  "usda": "Puddings, chocolate, ready-to-eat",
+  "alias": [
+   "budin"
+  ]
+ },
+ {
+  "es": "Pudín de vainilla, listo",
+  "usda": "Puddings, vanilla, ready-to-eat",
+  "alias": [
+   "budin"
+  ]
+ },
+ {
+  "es": "Gelatina en polvo (mezcla, sin preparar)",
+  "usda": "Gelatin desserts, dry mix",
+  "alias": [
+   "jello",
+   "gelatina"
+  ]
+ },
+ {
+  "es": "Yogur helado de vainilla",
+  "usda": "Frozen yogurts, vanilla, soft-serve"
+ },
+ {
+  "es": "Sorbete de naranja",
+  "usda": "Sherbet, orange"
+ },
+ {
+  "es": "Helado de fresa",
+  "usda": "Ice creams, strawberry"
+ },
+ {
+  "es": "Jarabe para panqueques",
+  "usda": "Syrups, table blends, pancake",
+  "alias": [
+   "sirope"
+  ]
+ },
+ {
+  "es": "Melaza",
+  "usda": "Molasses"
+ },
+ {
+  "es": "Chicle",
+  "usda": "Chewing gum",
+  "alias": [
+   "goma de mascar"
+  ]
+ },
+ {
+  "es": "Galletas de arroz inflado",
+  "usda": "Snacks, rice cakes, brown rice, corn",
+  "alias": [
+   "tortitas de arroz"
+  ]
+ },
+ {
+  "es": "Barra de granola suave",
+  "usda": "Snacks, granola bars, soft, uncoated, plain"
+ },
+ {
+  "es": "Palomitas con aceite",
+  "usda": "Snacks, popcorn, home-prepared, oil-popped, unsalted"
+ },
+ {
+  "es": "Jerky de res",
+  "usda": "Snacks, beef jerky, chopped and formed"
+ },
+ {
+  "es": "Fruta deshidratada en rollo",
+  "usda": "Snacks, fruit leather, rolls"
+ },
+ {
+  "es": "Chips de plátano",
+  "usda": "Snacks, banana chips"
+ },
+ {
+  "es": "Chocolate con leche y almendras",
+  "usda": "Candies, milk chocolate, with almonds"
+ },
+ {
+  "es": "Dulce de leche",
+  "usda": "Dulce de Leche",
+  "alias": [
+   "cajeta",
+   "manjar"
+  ]
+ },
+ {
+  "es": "Chocolate en polvo (mezcla instantánea)",
+  "usda": "Beverages, Cocoa mix, powder",
+  "alias": [
+   "cocoa",
+   "chocolate caliente"
+  ]
+ },
+ {
+  "es": "Manteca de cerdo",
+  "usda": "Lard"
+ },
+ {
+  "es": "Manteca vegetal (shortening)",
+  "usda": "Shortening, vegetable, household, composite"
+ },
+ {
+  "es": "Aceite de canola",
+  "usda": "Oil, canola"
+ },
+ {
+  "es": "Aceite de maíz",
+  "usda": "Oil, corn, industrial and retail, all purpose salad or cooking"
+ },
+ {
+  "es": "Aceite de maní",
+  "usda": "Oil, peanut, salad or cooking"
+ },
+ {
+  "es": "Aceite de ajonjolí",
+  "usda": "Oil, sesame, salad or cooking"
+ },
+ {
+  "es": "Aceite de cártamo",
+  "usda": "Oil, safflower, salad or cooking, linoleic, (over 70%)"
+ },
+ {
+  "es": "Aceite de palma",
+  "usda": "Oil, palm"
+ },
+ {
+  "es": "Mantequilla batida (con sal)",
+  "usda": "Butter, whipped, with salt"
+ },
+ {
+  "es": "Margarina untable",
+  "usda": "Margarine Spread, 40-49% fat, tub"
+ },
+ {
+  "es": "Aderezo italiano light",
+  "usda": "Salad dressing, italian dressing, reduced calorie"
+ },
+ {
+  "es": "Aderezo César light",
+  "usda": "Salad dressing, caesar, low calorie"
+ },
+ {
+  "es": "Aderezo francés",
+  "usda": "Salad dressing, french, home recipe"
+ },
+ {
+  "es": "Aderezo mil islas",
+  "usda": "Salad dressing, thousand island, commercial, regular"
+ },
+ {
+  "es": "Mayonesa light",
+  "usda": "Salad dressing, mayonnaise and mayonnaise-type, low calorie"
+ },
+ {
+  "es": "Salsa barbacoa (BBQ)",
+  "usda": "Sauce, barbecue"
+ },
+ {
+  "es": "Salsa teriyaki",
+  "usda": "Sauce, teriyaki, ready-to-serve"
+ },
+ {
+  "es": "Salsa hoisin",
+  "usda": "Sauce, hoisin, ready-to-serve"
+ },
+ {
+  "es": "Pesto",
+  "usda": "Sauce, pesto, ready-to-serve, refrigerated"
+ },
+ {
+  "es": "Salsa Worcestershire",
+  "usda": "Sauce, worcestershire"
+ },
+ {
+  "es": "Salsa de pescado",
+  "usda": "Sauce, fish, ready-to-serve"
+ },
+ {
+  "es": "Salsa de ostras",
+  "usda": "Sauce, oyster, ready-to-serve"
+ },
+ {
+  "es": "Salsa tártara",
+  "usda": "Sauce, tartar, ready-to-serve"
+ },
+ {
+  "es": "Salsa de queso",
+  "usda": "Sauce, cheese, ready-to-serve"
+ },
+ {
+  "es": "Salsa de carne (gravy) enlatada",
+  "usda": "Gravy, beef, canned, ready-to-serve"
+ },
+ {
+  "es": "Salsa para enchiladas roja",
+  "usda": "Sauce, enchilada, red, mild, ready to serve"
+ },
+ {
+  "es": "Salsa verde",
+  "usda": "Sauce, salsa, verde, ready-to-serve"
+ },
+ {
+  "es": "Salsa agridulce",
+  "usda": "Sauce, sweet and sour, ready-to-serve"
+ },
+ {
+  "es": "Canela molida",
+  "usda": "Spices, cinnamon, ground"
+ },
+ {
+  "es": "Pimienta negra",
+  "usda": "Spices, pepper, black"
+ },
+ {
+  "es": "Sal de mesa",
+  "usda": "Salt, table"
+ },
+ {
+  "es": "Ajo en polvo",
+  "usda": "Spices, garlic powder"
+ },
+ {
+  "es": "Cebolla en polvo",
+  "usda": "Spices, onion powder"
+ },
+ {
+  "es": "Chile en polvo",
+  "usda": "Spices, chili powder"
+ },
+ {
+  "es": "Comino",
+  "usda": "Spices, cumin seed"
+ },
+ {
+  "es": "Orégano seco",
+  "usda": "Spices, oregano, dried"
+ },
+ {
+  "es": "Pimentón (paprika)",
+  "usda": "Spices, paprika"
+ },
+ {
+  "es": "Cúrcuma",
+  "usda": "Spices, turmeric, ground"
+ },
+ {
+  "es": "Jengibre molido",
+  "usda": "Spices, ginger, ground"
+ },
+ {
+  "es": "Clavo de olor molido",
+  "usda": "Spices, cloves, ground"
+ },
+ {
+  "es": "Curry en polvo",
+  "usda": "Spices, curry powder"
+ },
+ {
+  "es": "Nuez moscada",
+  "usda": "Spices, nutmeg, ground"
+ },
+ {
+  "es": "Polvo de hornear",
+  "usda": "Leavening agents, baking powder, double-acting, straight phosphate"
+ },
+ {
+  "es": "Bicarbonato de sodio",
+  "usda": "Leavening agents, baking soda"
+ },
+ {
+  "es": "Vinagre de manzana",
+  "usda": "Vinegar, cider"
+ },
+ {
+  "es": "Vinagre de vino tinto",
+  "usda": "Vinegar, red wine"
+ },
+ {
+  "es": "Vino para cocinar",
+  "usda": "Alcoholic beverage, wine, cooking"
+ },
+ {
+  "es": "Refresco de limón-lima",
+  "usda": "Beverages, carbonated, lemon-lime soda, no caffeine",
+  "alias": [
+   "sprite",
+   "7up"
+  ]
+ },
+ {
+  "es": "Ginger ale",
+  "usda": "Beverages, carbonated, ginger ale"
+ },
+ {
+  "es": "Root beer",
+  "usda": "Beverages, carbonated, root beer"
+ },
+ {
+  "es": "Refresco de cola light",
+  "usda": "Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine",
+  "alias": [
+   "cola cero",
+   "coca cola zero",
+   "diet"
+  ]
+ },
+ {
+  "es": "Agua mineral con gas (soda)",
+  "usda": "Beverages, carbonated, club soda",
+  "alias": [
+   "agua con gas"
+  ]
+ },
+ {
+  "es": "Té verde",
+  "usda": "Beverages, tea, green, brewed, regular",
+  "alias": [
+   "te verde"
+  ]
+ },
+ {
+  "es": "Té instantáneo de limón sin azúcar",
+  "usda": "Beverages, tea, instant, lemon, unsweetened"
+ },
+ {
+  "es": "Bebida energética sin azúcar",
+  "usda": "Beverages, Energy Drink, sugar free"
+ },
+ {
+  "es": "Cerveza light",
+  "usda": "Alcoholic beverage, beer, light"
+ },
+ {
+  "es": "Vino blanco",
+  "usda": "Alcoholic beverage, wine, table, white"
+ },
+ {
+  "es": "Vino dulce (postre)",
+  "usda": "Alcoholic beverage, wine, dessert, sweet"
+ },
+ {
+  "es": "Licor de café",
+  "usda": "Alcoholic beverage, liqueur, coffee, 53 proof"
+ },
+ {
+  "es": "Leche de soya (todos los sabores)",
+  "usda": "Soymilk (All flavors), enhanced"
+ },
+ {
+  "es": "Leche de soya con chocolate",
+  "usda": "Soymilk, chocolate, unfortified"
+ },
+ {
+  "es": "Leche de arroz",
+  "usda": "Beverages, rice milk, unsweetened"
+ },
+ {
+  "es": "Batido de fresa y plátano (smoothie)",
+  "usda": "Fast foods, strawberry banana smoothie made with ice and low-fat yogurt"
+ },
+ {
+  "es": "Arepa de maíz",
+  "usda": "Restaurant, Latino, arepa (unleavened cornmeal bread)",
+  "alias": [
+   "arepas"
+  ]
+ },
+ {
+  "es": "Buñuelos",
+  "usda": "Restaurant, Latino, bunuelos (fried yeast bread)",
+  "alias": [
+   "bunuelos"
+  ]
+ },
+ {
+  "es": "Empanada de carne",
+  "usda": "Restaurant, Latino, empanadas, beef, prepared",
+  "alias": [
+   "empanadas"
+  ]
+ },
+ {
+  "es": "Pupusa de frijoles",
+  "usda": "Restaurant, Latino, pupusas con frijoles (pupusas, bean)",
+  "alias": [
+   "pupusas"
+  ]
+ },
+ {
+  "es": "Pupusa de queso",
+  "usda": "Restaurant, Latino, pupusas con queso (pupusas, cheese)",
+  "alias": [
+   "pupusas"
+  ]
+ },
+ {
+  "es": "Pupusa de cerdo (chicharrón)",
+  "usda": "Restaurant, Latino, pupusas del cerdo (pupusas, pork)",
+  "alias": [
+   "pupusas",
+   "chicharron"
+  ]
+ },
+ {
+  "es": "Tamal de maíz",
+  "usda": "Restaurant, Latino, tamale, corn",
+  "alias": [
+   "tamales",
+   "humita"
+  ]
+ },
+ {
+  "es": "Tamal de cerdo",
+  "usda": "Restaurant, Latino, tamale, pork",
+  "alias": [
+   "tamales"
+  ]
+ },
+ {
+  "es": "Tamal de queso",
+  "usda": "Restaurant, Mexican, cheese tamales",
+  "alias": [
+   "tamales"
+  ]
+ },
+ {
+  "es": "Pollo con arroz",
+  "usda": "Restaurant, Latino, chicken and rice, entree, prepared",
+  "alias": [
+   "arroz con pollo"
+  ]
+ },
+ {
+  "es": "Arroz con frijoles negros (moros y cristianos)",
+  "usda": "Restaurant, Latino, Arroz con frijoles negros (rice and black beans)",
+  "alias": [
+   "gallo pinto",
+   "moros y cristianos"
+  ]
+ },
+ {
+  "es": "Arroz con habichuelas coloradas",
+  "usda": "Restaurant, Latino, Arroz con habichuelas colorados (Rice And Red Beans)"
+ },
+ {
+  "es": "Arroz con gandules",
+  "usda": "Restaurant, Latino, Arroz con grandules (rice and pigeonpeas)",
+  "alias": [
+   "arroz con guandules"
+  ]
+ },
+ {
+  "es": "Arroz con leche",
+  "usda": "Restaurant, Latino, arroz con leche (rice pudding)"
+ },
+ {
+  "es": "Sopa de frijol negro",
+  "usda": "Restaurant, Latino, black bean soup"
+ },
+ {
+  "es": "Sopa de mondongo (callos)",
+  "usda": "Restaurant, Latino, tripe soup",
+  "alias": [
+   "mondongo"
+  ]
+ },
+ {
+  "es": "Taco suave de carne molida",
+  "usda": "Restaurant, Mexican, soft taco with ground beef, cheese and lettuce"
+ },
+ {
+  "es": "Taco duro de res",
+  "usda": "Fast foods, taco with beef, cheese and lettuce, hard shell"
+ },
+ {
+  "es": "Quesadilla de queso",
+  "usda": "Restaurant, Mexican, cheese quesadilla"
+ },
+ {
+  "es": "Quesadilla de pollo",
+  "usda": "Fast foods, quesadilla, with chicken"
+ },
+ {
+  "es": "Enchilada de queso",
+  "usda": "Restaurant, Mexican, cheese enchilada"
+ },
+ {
+  "es": "Arroz a la mexicana",
+  "usda": "Restaurant, Mexican, spanish rice",
+  "alias": [
+   "arroz rojo"
+  ]
+ },
+ {
+  "es": "Frijoles refritos (restaurante)",
+  "usda": "Restaurant, Mexican, refried beans"
+ },
+ {
+  "es": "Nachos con queso",
+  "usda": "Fast foods, nachos, with cheese"
+ },
+ {
+  "es": "Burrito de res y frijoles",
+  "usda": "Burrito, beef and bean, microwaved"
+ },
+ {
+  "es": "Taquitos de pollo y queso (congelados)",
+  "usda": "Taquitos, frozen, chicken and cheese, oven-heated",
+  "alias": [
+   "flautas"
+  ]
+ },
+ {
+  "es": "Espagueti con salsa de carne",
+  "usda": "Restaurant, Italian, spaghetti with meat sauce"
+ },
+ {
+  "es": "Espagueti con salsa de tomate",
+  "usda": "Restaurant, Italian, spaghetti with pomodoro sauce (no meat)"
+ },
+ {
+  "es": "Lasaña de carne",
+  "usda": "Restaurant, Italian, lasagna with meat"
+ },
+ {
+  "es": "Ravioles de queso con salsa marinara",
+  "usda": "Restaurant, Italian, cheese ravioli with marinara sauce"
+ },
+ {
+  "es": "Pollo a la parmesana",
+  "usda": "Restaurant, Italian, chicken parmesan without pasta"
+ },
+ {
+  "es": "Arroz frito (chino), sin carne",
+  "usda": "Restaurant, Chinese, fried rice, without meat"
+ },
+ {
+  "es": "Pollo agridulce",
+  "usda": "Restaurant, Chinese, sweet and sour chicken"
+ },
+ {
+  "es": "Pollo kung pao",
+  "usda": "Restaurant, Chinese, kung pao chicken"
+ },
+ {
+  "es": "Chow mein de pollo",
+  "usda": "Restaurant, Chinese, chicken chow mein"
+ },
+ {
+  "es": "Rollitos primavera (egg rolls)",
+  "usda": "Restaurant, Chinese, egg rolls, assorted"
+ },
+ {
+  "es": "Hamburguesa sencilla",
+  "usda": "Fast foods, hamburger; single, regular patty; plain"
+ },
+ {
+  "es": "Hamburguesa con queso",
+  "usda": "Fast foods, cheeseburger; single, regular patty; plain"
+ },
+ {
+  "es": "Papas fritas (comida rápida)",
+  "usda": "Fast foods, potato, french fried in vegetable oil"
+ },
+ {
+  "es": "Sándwich de pollo crujiente",
+  "usda": "Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise"
+ },
+ {
+  "es": "Sándwich de pescado",
+  "usda": "Fast foods, fish sandwich, with tartar sauce"
+ },
+ {
+  "es": "Sándwich submarino de pavo",
+  "usda": "Fast foods, submarine sandwich, turkey breast on white bread with lettuce and tomato"
+ },
+ {
+  "es": "Sándwich submarino de atún",
+  "usda": "Fast foods, submarine sandwich, tuna on white bread with lettuce and tomato"
+ },
+ {
+  "es": "Sándwich de rosbif",
+  "usda": "Fast foods, roast beef sandwich, plain"
+ },
+ {
+  "es": "Pollo frito, muslo con piel y empanizado",
+  "usda": "Fast Foods, Fried Chicken, Thigh, meat and skin and breading"
+ },
+ {
+  "es": "Pollo frito, pechuga sin piel",
+  "usda": "Fast Foods, Fried Chicken, Breast, meat only, skin and breading removed"
+ },
+ {
+  "es": "Alitas de pollo fritas",
+  "usda": "Fast Foods, Fried Chicken, Wing, meat and skin and breading"
+ },
+ {
+  "es": "Pizza de queso congelada, masa delgada",
+  "usda": "Pizza, cheese topping, thin crust, frozen, cooked"
+ },
+ {
+  "es": "Pizza de pepperoni (cadena)",
+  "usda": "Fast Food, Pizza Chain, 14\" pizza, pepperoni topping, thin crust"
+ },
+ {
+  "es": "Ensalada de col (coleslaw)",
+  "usda": "Fast foods, coleslaw"
+ },
+ {
+  "es": "Aros de cebolla fritos",
+  "usda": "Fast foods, onion rings, breaded and fried"
+ },
+ {
+  "es": "Macarrones con queso (preparados)",
+  "usda": "Macaroni and cheese, box mix with cheese sauce, prepared"
+ },
+ {
+  "es": "Chili con carne y frijoles (enlatado)",
+  "usda": "Chili con carne with beans, canned entree"
+ },
+ {
+  "es": "Estofado de res (enlatado)",
+  "usda": "Beef stew, canned entree"
+ },
+ {
+  "es": "Pastel de pollo (pot pie, congelado)",
+  "usda": "Chicken pot pie, frozen entree, prepared"
+ },
+ {
+  "es": "Tortellini frescos de queso",
+  "usda": "Tortellini, pasta with cheese filling, fresh-refrigerated, as purchased"
+ },
+ {
+  "es": "Nuggets de pollo (precocidos, congelados)",
+  "usda": "Chicken, nuggets, white meat, precooked, frozen, not reheated"
+ },
+ {
+  "es": "Yogur con fruta y granola (parfait, bajo en grasa)",
+  "usda": "Yogurt parfait, lowfat, with fruit and granola"
+ },
+ {
+  "es": "Roast beef de fiambre",
+  "usda": "Roast beef, deli style, prepackaged, sliced",
+  "alias": [
+   "rosbif"
+  ]
+ },
+ {
+  "es": "Pastrami de pavo",
+  "usda": "Pastrami, turkey"
+ },
+ {
+  "es": "Paté de hígado (liverwurst)",
+  "usda": "Liverwurst spread",
+  "alias": [
+   "pate"
+  ]
+ },
+ {
+  "es": "Salchicha de res fresca, cocida",
+  "usda": "Sausage, beef, fresh, cooked"
+ },
+ {
+  "es": "Bratwurst, cocida",
+  "usda": "Bratwurst, pork, cooked"
+ },
+ {
+  "es": "Knackwurst",
+  "usda": "Knackwurst, knockwurst, pork, beef"
+ },
+ {
+  "es": "Albahaca seca",
+  "usda": "Spices, basil, dried"
+ },
+ {
+  "es": "Tomillo seco",
+  "usda": "Spices, thyme, dried"
+ },
+ {
+  "es": "Romero seco",
+  "usda": "Spices, rosemary, dried"
+ },
+ {
+  "es": "Laurel",
+  "usda": "Spices, bay leaf",
+  "alias": [
+   "hoja de laurel"
+  ]
+ },
+ {
+  "es": "Salvia molida",
+  "usda": "Spices, sage, ground"
+ },
+ {
+  "es": "Cardamomo",
+  "usda": "Spices, cardamom"
+ },
+ {
+  "es": "Semillas de cilantro",
+  "usda": "Spices, coriander seed"
+ },
+ {
+  "es": "Semillas de hinojo",
+  "usda": "Spices, fennel seed"
+ },
+ {
+  "es": "Eneldo seco",
+  "usda": "Spices, dill weed, dried"
+ },
+ {
+  "es": "Pimienta de Jamaica (allspice)",
+  "usda": "Spices, allspice, ground",
+  "alias": [
+   "pimienta gorda"
+  ]
+ },
+ {
+  "es": "Azafrán",
+  "usda": "Spices, saffron"
+ },
+ {
+  "es": "Pimienta de cayena",
+  "usda": "Spices, pepper, red or cayenne"
+ },
+ {
+  "es": "Mostaza molida",
+  "usda": "Spices, mustard seed, ground"
+ },
+ {
+  "es": "Perejil seco",
+  "usda": "Spices, parsley, dried"
+ },
+ {
+  "es": "Cilantro seco",
+  "usda": "Spices, coriander leaf, dried"
+ },
+ {
+  "es": "Zanahorias enlatadas",
+  "usda": "Carrots, canned, regular pack, drained solids"
+ },
+ {
+  "es": "Ejotes enlatados",
+  "usda": "Beans, snap, green, canned, regular pack, drained solids",
+  "alias": [
+   "judias verdes en lata"
+  ]
+ },
+ {
+  "es": "Champiñones enlatados",
+  "usda": "Mushrooms, canned, drained solids"
+ },
+ {
+  "es": "Espinacas enlatadas",
+  "usda": "Spinach, canned, regular pack, drained solids"
+ },
+ {
+  "es": "Espinacas congeladas, cocidas",
+  "usda": "Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Brócoli congelado, cocido",
+  "usda": "Broccoli, frozen, chopped, cooked, boiled, drained, without salt",
+  "alias": [
+   "brocoli"
+  ]
+ },
+ {
+  "es": "Maíz congelado, cocido",
+  "usda": "Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt",
+  "alias": [
+   "elote desgranado"
+  ]
+ },
+ {
+  "es": "Mezcla de verduras congelada, cocida",
+  "usda": "Vegetables, mixed, frozen, cooked, boiled, drained, without salt"
+ },
+ {
+  "es": "Mezcla de verduras enlatada",
+  "usda": "Vegetables, mixed, canned, drained solids"
+ },
+ {
+  "es": "Remolacha / betabel enlatada",
+  "usda": "Beets, canned, drained solids"
+ },
+ {
+  "es": "Papas enlatadas",
+  "usda": "Potatoes, canned, drained solids"
+ },
+ {
+  "es": "Ensalada de papa con huevo",
+  "usda": "Potato salad with egg"
+ },
+ {
+  "es": "Tortitas de papa",
+  "usda": "Potato pancakes"
+ },
+ {
+  "es": "Sopa de tomate (condensada)",
+  "usda": "Soup, tomato, canned, condensed"
+ },
+ {
+  "es": "Crema de champiñones (condensada)",
+  "usda": "Soup, cream of mushroom, canned, condensed"
+ },
+ {
+  "es": "Caldo de pollo (condensado)",
+  "usda": "Soup, chicken broth, canned, condensed"
+ },
+ {
+  "es": "Minestrone",
+  "usda": "Soup, minestrone, canned, condensed"
+ },
+ {
+  "es": "Sopa de lentejas con jamón",
+  "usda": "Soup, lentil with ham, canned, ready-to-serve"
+ },
+ {
+  "es": "Caldo de res en cubo (seco)",
+  "usda": "Soup, beef broth, cubed, dry"
+ },
+ {
+  "es": "Caldo de pollo en cubo o polvo (seco)",
+  "usda": "Soup, chicken broth or bouillon, dry"
+ },
+ {
+  "es": "Sopa wonton",
+  "usda": "Soup, wonton, Chinese restaurant"
+ },
+ {
+  "es": "Pan integral tostado",
+  "usda": "Bread, whole-wheat, prepared from recipe, toasted"
+ },
+ {
+  "es": "Pan de huevo",
+  "usda": "Bread, egg"
+ },
+ {
+  "es": "Pan de pasas",
+  "usda": "Bread, raisin, enriched"
+ },
+ {
+  "es": "Pan pita integral",
+  "usda": "Bread, pita, whole-wheat"
+ },
+ {
+  "es": "Naan",
+  "usda": "Bread, naan, plain, commercially prepared, refrigerated"
+ },
+ {
+  "es": "Pan italiano",
+  "usda": "Bread, Italian"
+ },
+ {
+  "es": "Pan de avena",
+  "usda": "Bread, oatmeal"
+ },
+ {
+  "es": "Pan de centeno tostado",
+  "usda": "Bread, rye, toasted"
+ },
+ {
+  "es": "Mezcla para flan (en polvo, sin preparar)",
+  "usda": "Flan, caramel custard, dry mix"
+ },
+ {
+  "es": "Mezcla para natillas (en polvo, sin preparar)",
+  "usda": "Egg custards, dry mix"
+ },
+ {
+  "es": "Pay de nuez pecana",
+  "usda": "Pie, pecan, prepared from recipe"
+ },
+ {
+  "es": "Mezcla para masa de pay (en polvo, sin preparar)",
+  "usda": "Pie crust, standard-type, dry mix"
+ },
+ {
+  "es": "Cono de helado",
+  "usda": "Ice cream cones, cake or wafer-type"
+ },
+ {
+  "es": "Toffee",
+  "usda": "Candies, toffee, prepared-from-recipe"
+ },
+ {
+  "es": "Trufas de chocolate",
+  "usda": "Candies, truffles, prepared-from-recipe"
+ },
+ {
+  "es": "Barra de cereal con fruta",
+  "usda": "Breakfast bar, corn flake crust with fruit"
+ },
+ {
+  "es": "Chocolate de mesa mexicano",
+  "usda": "Baking chocolate, mexican, squares"
+ },
+ {
+  "es": "Sémola de maíz blanca (grits)",
+  "usda": "Cereals, corn grits, white, regular and quick, enriched, dry"
+ },
+ {
+  "es": "Maíz pozolero (hominy), enlatado",
+  "usda": "Hominy, canned, white",
+  "alias": [
+   "mote",
+   "nixtamal"
+  ]
+ },
+ {
+  "es": "Falafel",
+  "usda": "Falafel, home-prepared"
+ },
+ {
+  "es": "Yogur natural bajo en grasa",
+  "usda": "Yogurt, plain, low fat"
+ },
+ {
+  "es": "Queso suizo bajo en grasa",
+  "usda": "Cheese, swiss, low fat"
+ },
+ {
+  "es": "Queso parmesano rallado",
+  "usda": "Cheese, parmesan, grated"
+ },
+ {
+  "es": "Queso romano",
+  "usda": "Cheese, romano"
+ },
+ {
+  "es": "Ricotta semidescremada",
+  "usda": "Cheese, ricotta, part skim milk"
+ },
+ {
+  "es": "Queso muenster",
+  "usda": "Cheese, muenster"
+ },
+ {
+  "es": "Queso gruyère",
+  "usda": "Cheese, gruyere"
+ },
+ {
+  "es": "Queso fontina",
+  "usda": "Cheese, fontina"
+ },
+ {
+  "es": "Mezcla de quesos mexicanos",
+  "usda": "Cheese, Mexican blend"
+ },
+ {
+  "es": "Leche con chocolate (baja en grasa)",
+  "usda": "Milk, chocolate, lowfat, reduced sugar"
+ },
+ {
+  "es": "Ponche de huevo (eggnog)",
+  "usda": "Eggnog",
+  "alias": [
+   "rompope"
+  ]
+ },
+ {
+  "es": "Leche de coco, cruda",
+  "usda": "Nuts, coconut milk, raw (liquid expressed from grated meat and water)"
+ },
+ {
+  "es": "Huevo entero en polvo",
+  "usda": "Egg, whole, dried"
+ },
+ {
+  "es": "Burrito congelado de res y frijoles",
+  "usda": "Burrito, beef and bean, frozen"
+ },
+ {
+  "es": "Sazonador para tacos",
+  "usda": "Seasoning mix, dry, taco, original"
+ },
+ {
+  "es": "Merlán (whiting), cocido",
+  "usda": "Fish, whiting, mixed species, cooked, dry heat",
+  "alias": [
+   "pescadilla",
+   "merluza"
+  ]
+ },
+ {
+  "es": "Lucioperca (walleye), cocida",
+  "usda": "Fish, pike, walleye, cooked, dry heat"
+ },
+ {
+  "es": "Eperlano, crudo",
+  "usda": "Fish, smelt, rainbow, raw"
+ },
+ {
+  "es": "Mújol (lisa), cocido",
+  "usda": "Fish, mullet, striped, cooked, dry heat",
+  "alias": [
+   "lisa"
+  ]
+ },
+ {
+  "es": "Anjova (bluefish), cocida",
+  "usda": "Fish, bluefish, cooked, dry heat"
+ },
+ {
+  "es": "Palometa (pompano), cocida",
+  "usda": "Fish, pompano, florida, cooked, dry heat"
+ },
+ {
+  "es": "Pez roca (rockfish), cocido",
+  "usda": "Fish, rockfish, Pacific, mixed species, cooked, dry heat"
+ },
+ {
+  "es": "Pescado blanco (whitefish), cocido",
+  "usda": "Fish, whitefish, mixed species, cooked, dry heat"
+ },
+ {
+  "es": "Esturión, cocido",
+  "usda": "Fish, sturgeon, mixed species, cooked, dry heat"
+ },
+ {
+  "es": "Blanquillo (tilefish), cocido",
+  "usda": "Fish, tilefish, cooked, dry heat"
+ },
+ {
+  "es": "Bacalao negro (sablefish), cocido",
+  "usda": "Fish, sablefish, cooked, dry heat"
+ },
+ {
+  "es": "Atún rojo (bluefin), cocido",
+  "usda": "Fish, tuna, fresh, bluefin, cooked, dry heat",
+  "alias": [
+   "atun"
+  ]
+ },
+ {
+  "es": "Salmón coho, cocido",
+  "usda": "Fish, salmon, coho, farmed, cooked, dry heat",
+  "alias": [
+   "salmon"
+  ]
+ },
+ {
+  "es": "Salmón keta (chum), cocido",
+  "usda": "Fish, salmon, chum, cooked, dry heat",
+  "alias": [
+   "salmon"
+  ]
+ },
+ {
+  "es": "Trucha arcoíris silvestre, cocida",
+  "usda": "Fish, trout, rainbow, wild, cooked, dry heat"
+ },
+ {
+  "es": "Bacalao del Pacífico, cocido",
+  "usda": "Fish, cod, Pacific, cooked"
+ },
+ {
+  "es": "Lubina negra (sea bass), cocida",
+  "usda": "Fish, sea bass, mixed species, cooked, dry heat"
+ },
+ {
+  "es": "Rape, cocido",
+  "usda": "Fish, monkfish, cooked, dry heat"
+ },
+ {
+  "es": "Anchoas, crudas",
+  "usda": "Fish, anchovy, european, raw"
+ },
+ {
+  "es": "Bisonte molido, cocido",
+  "usda": "Game meat, bison, ground, cooked, pan-broiled",
+  "alias": [
+   "búfalo",
+   "bufalo"
+  ]
+ },
+ {
+  "es": "Alce, asado",
+  "usda": "Game meat, elk, cooked, roasted"
+ },
+ {
+  "es": "Jabalí, asado",
+  "usda": "Game meat, boar, wild, cooked, roasted",
+  "alias": [
+   "jabali"
+  ]
+ },
+ {
+  "es": "Cerdo molido 96 % magro, cocido",
+  "usda": "Pork, ground, 96% lean / 4% fat, cooked, crumbles"
+ },
+ {
+  "es": "Solomillo de cerdo con grasa, asado",
+  "usda": "Pork, fresh, loin, tenderloin, separable lean and fat, cooked, broiled"
+ },
+ {
+  "es": "Costillas de cerdo (spareribs), estofadas",
+  "usda": "Pork, fresh, spareribs, separable lean and fat, cooked, braised"
+ },
+ {
+  "es": "Jamón entero curado, asado (magro)",
+  "usda": "Pork, cured, ham, whole, separable lean only, roasted"
+ },
+ {
+  "es": "Lengua de cerdo, cruda",
+  "usda": "Pork, fresh, variety meats and by-products, tongue, raw"
+ },
+ {
+  "es": "Riñón de cerdo, cocido",
+  "usda": "Pork, fresh, variety meats and by-products, kidneys, cooked, braised",
+  "alias": [
+   "rinon"
+  ]
+ },
+ {
+  "es": "Sesos de cerdo, crudos",
+  "usda": "Pork, fresh, variety meats and by-products, brain, raw"
+ },
+ {
+  "es": "Paleta de cordero, estofada",
+  "usda": "Lamb, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4\" fat, choice, cooked, braised"
+ },
+ {
+  "es": "Costillar de cordero, asado",
+  "usda": "Lamb, rib, separable lean only, trimmed to 1/4\" fat, choice, cooked, roasted"
+ },
+ {
+  "es": "Chambarete de cordero, crudo",
+  "usda": "Lamb, foreshank, separable lean only, trimmed to 1/4\" fat, choice, raw"
+ },
+ {
+  "es": "Ternera molida, asada",
+  "usda": "Veal, ground, cooked, broiled"
+ },
+ {
+  "es": "Paleta de ternera, estofada",
+  "usda": "Veal, shoulder, whole (arm and blade), separable lean only, cooked, braised"
+ },
+ {
+  "es": "Lomo de ternera, estofado",
+  "usda": "Veal, sirloin, separable lean only, cooked, braised"
+ },
+ {
+  "es": "Filete de ternera (cutlet), crudo",
+  "usda": "Veal, leg, top round, cap off, cutlet, boneless, raw"
+ },
+ {
+  "es": "Bola baja de res (bottom round), estofada",
+  "usda": "Beef, round, bottom round, steak, separable lean only, trimmed to 0\" fat, choice, cooked, braised"
+ },
+ {
+  "es": "Chambarete de res, cocido",
+  "usda": "Beef, shank crosscuts, separable lean only, trimmed to 1/4\" fat, choice, cooked, simmered"
+ },
+ {
+  "es": "Callos de res, crudos",
+  "usda": "Beef, variety meats and by-products, tripe, raw"
+ },
+ {
+  "es": "Hígado de res, crudo",
+  "usda": "Beef, variety meats and by-products, liver, raw"
+ },
+ {
+  "es": "Hamburguesa de res 95 % magra, cocida",
+  "usda": "Beef, ground, 95% lean meat / 5% fat, patty, cooked, pan-broiled"
+ },
+ {
+  "es": "Hamburguesa de res 85 % magra, asada",
+  "usda": "Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled"
+ },
+ {
+  "es": "Carne molida de res 75 % magra, cruda",
+  "usda": "Beef, ground, 75% lean meat / 25% fat, raw"
+ },
+ {
+  "es": "Lomo fino de res (tenderloin), asado",
+  "usda": "Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, choice, cooked, roasted"
+ },
+ {
+  "es": "Porterhouse de res, asado",
+  "usda": "Beef, short loin, porterhouse steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled"
+ }
+]

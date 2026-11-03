@@ -1,0 +1,5 @@
+# Los datos de la USDA se descargan aparte (ver README): no se suben.
+FoodData_Central_*/
+*.zip
+node_modules/
+.DS_Store
