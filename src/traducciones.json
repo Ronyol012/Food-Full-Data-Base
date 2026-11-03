@@ -1,1 +1,1220 @@
-{}
+{
+  "167742": {
+    "nombre": "Vieiras, cocidas al vapor",
+    "alias": [
+      "callo de hacha",
+      "escalopas"
+    ]
+  },
+  "167744": {
+    "nombre": "Caracol, crudo",
+    "alias": []
+  },
+  "167745": {
+    "nombre": "Tortuga verde, cruda",
+    "alias": []
+  },
+  "168129": {
+    "nombre": "Medusa, seca y salada",
+    "alias": []
+  },
+  "168148": {
+    "nombre": "Ancas de rana, crudas",
+    "alias": []
+  },
+  "168588": {
+    "nombre": "Mantequilla de almendra, sin sal",
+    "alias": [
+      "crema de almendra"
+    ]
+  },
+  "168589": {
+    "nombre": "Castañas japonesas, cocidas al vapor",
+    "alias": []
+  },
+  "168590": {
+    "nombre": "Castañas japonesas, asadas",
+    "alias": []
+  },
+  "168591": {
+    "nombre": "Semillas de loto, crudas",
+    "alias": []
+  },
+  "168592": {
+    "nombre": "Almendras con miel, tostadas (con piel)",
+    "alias": []
+  },
+  "168593": {
+    "nombre": "Semillas de girasol peladas, tostadas en aceite, con sal",
+    "alias": [
+      "pipas"
+    ]
+  },
+  "168594": {
+    "nombre": "Semillas de girasol peladas, tostadas, con sal",
+    "alias": [
+      "pipas"
+    ]
+  },
+  "168595": {
+    "nombre": "Mantequilla de semillas de girasol, con sal",
+    "alias": []
+  },
+  "168596": {
+    "nombre": "Almendras tostadas en seco, con sal",
+    "alias": []
+  },
+  "168597": {
+    "nombre": "Mantequilla de anacardo, con sal",
+    "alias": [
+      "crema de marañón",
+      "crema de cajú"
+    ]
+  },
+  "168598": {
+    "nombre": "Nueces de macadamia tostadas en seco, con sal",
+    "alias": []
+  },
+  "168599": {
+    "nombre": "Frutos secos mixtos tostados en seco, con cacahuates, con sal",
+    "alias": [
+      "nueces mixtas"
+    ]
+  },
+  "168600": {
+    "nombre": "Frutos secos mixtos tostados en aceite, con cacahuates, con sal",
+    "alias": [
+      "nueces mixtas"
+    ]
+  },
+  "168601": {
+    "nombre": "Semillas de calabaza con cáscara, tostadas, con sal",
+    "alias": [
+      "pepitas"
+    ]
+  },
+  "168602": {
+    "nombre": "Almendras tostadas en aceite, ligeramente saladas",
+    "alias": []
+  },
+  "168604": {
+    "nombre": "Tahini (pasta de sésamo), tipo de semilla no especificado",
+    "alias": [
+      "tahine"
+    ]
+  },
+  "169406": {
+    "nombre": "Tahini (pasta de sésamo) de semillas crudas sin cáscara",
+    "alias": [
+      "tahine"
+    ]
+  },
+  "169407": {
+    "nombre": "Semillas de sandía peladas, secas",
+    "alias": []
+  },
+  "169408": {
+    "nombre": "Castañas japonesas, secas",
+    "alias": []
+  },
+  "169409": {
+    "nombre": "Leche de coco, congelada",
+    "alias": []
+  },
+  "169410": {
+    "nombre": "Tahini (pasta de sésamo) de semillas crudas, molido en piedra",
+    "alias": [
+      "tahine"
+    ]
+  },
+  "169412": {
+    "nombre": "Ajonjolí (sésamo) pelado, seco",
+    "alias": [
+      "sesamo"
+    ]
+  },
+  "169413": {
+    "nombre": "Castañas japonesas, crudas",
+    "alias": []
+  },
+  "169415": {
+    "nombre": "Semillas de calabaza peladas, tostadas, con sal",
+    "alias": [
+      "pepitas"
+    ]
+  },
+  "169416": {
+    "nombre": "Ajonjolí (sésamo) pelado, tostado, con sal",
+    "alias": [
+      "sesamo"
+    ]
+  },
+  "169417": {
+    "nombre": "Semillas de girasol peladas, tostadas en seco, con sal (de la cáscara)",
+    "alias": [
+      "pipas"
+    ]
+  },
+  "169418": {
+    "nombre": "Semillas de girasol peladas, tostadas en seco, con sal",
+    "alias": [
+      "pipas"
+    ]
+  },
+  "169419": {
+    "nombre": "Almendras tostadas en aceite, con sal",
+    "alias": []
+  },
+  "169420": {
+    "nombre": "Almendras tostadas en aceite, con sal y sabor ahumado",
+    "alias": []
+  },
+  "169421": {
+    "nombre": "Anacardos tostados en seco, con sal",
+    "alias": [
+      "marañones",
+      "caju",
+      "nuez de la india"
+    ]
+  },
+  "169422": {
+    "nombre": "Anacardos tostados en aceite, con sal",
+    "alias": [
+      "marañones",
+      "caju",
+      "nuez de la india"
+    ]
+  },
+  "169423": {
+    "nombre": "Frutos secos mixtos tostados en aceite, sin cacahuates, con sal",
+    "alias": [
+      "nueces mixtas"
+    ]
+  },
+  "169424": {
+    "nombre": "Nuez pecana tostada en seco, con sal",
+    "alias": [
+      "pecanas"
+    ]
+  },
+  "169425": {
+    "nombre": "Nuez pecana tostada en aceite, con sal",
+    "alias": [
+      "pecanas"
+    ]
+  },
+  "169426": {
+    "nombre": "Pistachos tostados en seco, con sal",
+    "alias": []
+  },
+  "169427": {
+    "nombre": "Frutos secos mixtos tostados en aceite, con cacahuates, ligeramente salados",
+    "alias": [
+      "nueces mixtas"
+    ]
+  },
+  "169428": {
+    "nombre": "Frutos secos mixtos tostados en aceite, sin cacahuates, ligeramente salados",
+    "alias": [
+      "nueces mixtas"
+    ]
+  },
+  "170144": {
+    "nombre": "Semillas de árbol del pan, crudas",
+    "alias": [
+      "fruta de pan",
+      "pana de pepita"
+    ]
+  },
+  "170145": {
+    "nombre": "Semillas de árbol del pan, hervidas",
+    "alias": [
+      "fruta de pan",
+      "pana de pepita"
+    ]
+  },
+  "170149": {
+    "nombre": "Semillas de loto, secas",
+    "alias": []
+  },
+  "170151": {
+    "nombre": "Ajonjolí (sésamo) entero, tostado",
+    "alias": [
+      "sesamo"
+    ]
+  },
+  "170152": {
+    "nombre": "Ajonjolí (sésamo) pelado, tostado, sin sal",
+    "alias": [
+      "sesamo"
+    ]
+  },
+  "170153": {
+    "nombre": "Harina de ajonjolí (sésamo), parcialmente desgrasada",
+    "alias": [
+      "harina de sesamo"
+    ]
+  },
+  "170154": {
+    "nombre": "Semillas de girasol peladas, tostadas, sin sal",
+    "alias": [
+      "pipas"
+    ]
+  },
+  "170155": {
+    "nombre": "Mantequilla de semillas de girasol, sin sal",
+    "alias": []
+  },
+  "170156": {
+    "nombre": "Harina de semillas de girasol, parcialmente desgrasada",
+    "alias": []
+  },
+  "170157": {
+    "nombre": "Bellotas, crudas",
+    "alias": []
+  },
+  "170159": {
+    "nombre": "Almendras tostadas en aceite, sin sal",
+    "alias": []
+  },
+  "170160": {
+    "nombre": "Pasta de almendra",
+    "alias": []
+  },
+  "170161": {
+    "nombre": "Hayucos (nueces de haya), secos",
+    "alias": []
+  },
+  "170163": {
+    "nombre": "Mantequilla de anacardo, sin sal",
+    "alias": [
+      "crema de marañón",
+      "crema de cajú"
+    ]
+  },
+  "170164": {
+    "nombre": "Castañas chinas, crudas",
+    "alias": []
+  },
+  "170165": {
+    "nombre": "Castañas chinas, secas",
+    "alias": []
+  },
+  "170166": {
+    "nombre": "Castañas chinas, cocidas al vapor",
+    "alias": []
+  },
+  "170167": {
+    "nombre": "Castañas europeas, secas, peladas",
+    "alias": []
+  },
+  "170168": {
+    "nombre": "Castañas europeas, cocidas al vapor",
+    "alias": []
+  },
+  "170171": {
+    "nombre": "Crema de coco, enlatada, azucarada",
+    "alias": []
+  },
+  "170175": {
+    "nombre": "Nueces de ginkgo, secas",
+    "alias": []
+  },
+  "170176": {
+    "nombre": "Nueces de ginkgo, enlatadas",
+    "alias": []
+  },
+  "170177": {
+    "nombre": "Nueces de nogal americano (hickory), secas",
+    "alias": []
+  },
+  "170179": {
+    "nombre": "Nueces de macadamia tostadas en seco, sin sal",
+    "alias": []
+  },
+  "170180": {
+    "nombre": "Frutos secos formulados a base de trigo, sin sabor, con sal",
+    "alias": []
+  },
+  "170183": {
+    "nombre": "Nuez pecana tostada en seco, sin sal",
+    "alias": [
+      "pecanas"
+    ]
+  },
+  "170185": {
+    "nombre": "Pistachos tostados en seco, sin sal",
+    "alias": []
+  },
+  "170186": {
+    "nombre": "Nuez negra (nogal negro), seca",
+    "alias": []
+  },
+  "170188": {
+    "nombre": "Semillas de calabaza con cáscara, tostadas, sin sal",
+    "alias": [
+      "pepitas"
+    ]
+  },
+  "170191": {
+    "nombre": "Pasta de ajonjolí (sésamo)",
+    "alias": []
+  },
+  "170192": {
+    "nombre": "Harina de ajonjolí (sésamo), alta en grasa",
+    "alias": [
+      "harina de sesamo"
+    ]
+  },
+  "170552": {
+    "nombre": "Semillas de ramón (capomo), crudas",
+    "alias": [
+      "capomo",
+      "ojite",
+      "ramon"
+    ]
+  },
+  "170553": {
+    "nombre": "Semillas de ramón (capomo), secas",
+    "alias": [
+      "capomo",
+      "ojite",
+      "ramon"
+    ]
+  },
+  "170557": {
+    "nombre": "Semillas de calabaza peladas, tostadas, sin sal",
+    "alias": [
+      "pepitas"
+    ]
+  },
+  "170558": {
+    "nombre": "Semillas de cártamo peladas, secas",
+    "alias": [
+      "alazor"
+    ]
+  },
+  "170560": {
+    "nombre": "Harina de ajonjolí (sésamo), baja en grasa",
+    "alias": [
+      "harina de sesamo"
+    ]
+  },
+  "170563": {
+    "nombre": "Semillas de girasol peladas, tostadas en seco, sin sal",
+    "alias": [
+      "pipas"
+    ]
+  },
+  "170564": {
+    "nombre": "Semillas de girasol peladas, tostadas en aceite, sin sal",
+    "alias": [
+      "pipas"
+    ]
+  },
+  "170565": {
+    "nombre": "Bellotas, secas",
+    "alias": []
+  },
+  "170566": {
+    "nombre": "Harina de bellota, con toda su grasa",
+    "alias": []
+  },
+  "170568": {
+    "nombre": "Almendras peladas (blanqueadas)",
+    "alias": []
+  },
+  "170570": {
+    "nombre": "Nogal ceniciento (butternut), seco",
+    "alias": []
+  },
+  "170571": {
+    "nombre": "Anacardos tostados en seco, sin sal",
+    "alias": [
+      "marañones",
+      "caju",
+      "nuez de la india"
+    ]
+  },
+  "170572": {
+    "nombre": "Anacardos tostados en aceite, sin sal",
+    "alias": [
+      "marañones",
+      "caju",
+      "nuez de la india"
+    ]
+  },
+  "170573": {
+    "nombre": "Castañas chinas, asadas",
+    "alias": []
+  },
+  "170574": {
+    "nombre": "Castañas europeas, crudas, con cáscara interna",
+    "alias": []
+  },
+  "170575": {
+    "nombre": "Castañas europeas, crudas, peladas",
+    "alias": []
+  },
+  "170576": {
+    "nombre": "Castañas europeas, secas, sin pelar",
+    "alias": []
+  },
+  "170577": {
+    "nombre": "Coco rallado azucarado, en hojuelas, empacado",
+    "alias": []
+  },
+  "170578": {
+    "nombre": "Coco rallado azucarado, en hojuelas, enlatado",
+    "alias": []
+  },
+  "170579": {
+    "nombre": "Coco rallado seco, tostado",
+    "alias": []
+  },
+  "170582": {
+    "nombre": "Avellanas peladas (blanqueadas)",
+    "alias": []
+  },
+  "170583": {
+    "nombre": "Avellanas tostadas en seco, sin sal",
+    "alias": []
+  },
+  "170584": {
+    "nombre": "Nueces de ginkgo, crudas",
+    "alias": []
+  },
+  "170585": {
+    "nombre": "Frutos secos mixtos tostados en seco, con cacahuates, sin sal",
+    "alias": [
+      "nueces mixtas"
+    ]
+  },
+  "170587": {
+    "nombre": "Frutos secos mixtos tostados en aceite, con cacahuates, sin sal",
+    "alias": [
+      "nueces mixtas"
+    ]
+  },
+  "170588": {
+    "nombre": "Frutos secos mixtos tostados en aceite, sin cacahuates, sin sal",
+    "alias": [
+      "nueces mixtas"
+    ]
+  },
+  "170589": {
+    "nombre": "Nuez pecana tostada en aceite, sin sal",
+    "alias": [
+      "pecanas"
+    ]
+  },
+  "170590": {
+    "nombre": "Nueces pili, secas",
+    "alias": []
+  },
+  "170592": {
+    "nombre": "Piñones (de pino piñonero), secos",
+    "alias": []
+  },
+  "170593": {
+    "nombre": "Nueces confitadas (glaseadas)",
+    "alias": []
+  },
+  "170594": {
+    "nombre": "Nueces tostadas en seco, con sal",
+    "alias": [
+      "nuez de castilla"
+    ]
+  },
+  "170595": {
+    "nombre": "Semillas de árbol del pan, tostadas",
+    "alias": [
+      "fruta de pan",
+      "pana de pepita"
+    ]
+  },
+  "171950": {
+    "nombre": "Lota (burbot), cruda",
+    "alias": []
+  },
+  "171951": {
+    "nombre": "Pez mantequilla (butterfish), crudo",
+    "alias": []
+  },
+  "171953": {
+    "nombre": "Ciso (cisco), crudo",
+    "alias": []
+  },
+  "171954": {
+    "nombre": "Ciso (cisco), ahumado",
+    "alias": []
+  },
+  "171957": {
+    "nombre": "Roncador del Atlántico (croaker), empanizado y frito",
+    "alias": [
+      "corvina"
+    ]
+  },
+  "171958": {
+    "nombre": "Brosmio (cusk), crudo",
+    "alias": []
+  },
+  "171960": {
+    "nombre": "Roncador de agua dulce (drum), crudo",
+    "alias": []
+  },
+  "171961": {
+    "nombre": "Gefilte fish (albóndigas de pescado), comercial, receta dulce",
+    "alias": []
+  },
+  "171965": {
+    "nombre": "Fletán negro (de Groenlandia), crudo",
+    "alias": [
+      "halibut"
+    ]
+  },
+  "171967": {
+    "nombre": "Tortitas de cangrejo azul, receta casera",
+    "alias": []
+  },
+  "171968": {
+    "nombre": "Cangrejo dungeness, crudo",
+    "alias": [
+      "jaiba"
+    ]
+  },
+  "171969": {
+    "nombre": "Cangrejo de las nieves (queen), crudo",
+    "alias": [
+      "jaiba"
+    ]
+  },
+  "171971": {
+    "nombre": "Camarón, cocido con calor húmedo (puede contener aditivos que retienen humedad)",
+    "alias": [
+      "camarones",
+      "gambas",
+      "langostinos"
+    ]
+  },
+  "171972": {
+    "nombre": "Camarón, enlatado",
+    "alias": [
+      "camarones",
+      "gambas"
+    ]
+  },
+  "171973": {
+    "nombre": "Camarón de imitación, hecho de surimi",
+    "alias": [
+      "gulas"
+    ]
+  },
+  "171974": {
+    "nombre": "Almejas, empanizadas y fritas",
+    "alias": []
+  },
+  "171976": {
+    "nombre": "Almejas, enlatadas, solo sólidos escurridos",
+    "alias": []
+  },
+  "171977": {
+    "nombre": "Almejas, enlatadas, solo el líquido",
+    "alias": []
+  },
+  "171978": {
+    "nombre": "Ostras del Atlántico (silvestres), crudas",
+    "alias": [
+      "ostiones"
+    ]
+  },
+  "171979": {
+    "nombre": "Ostras del Atlántico, empanizadas y fritas",
+    "alias": [
+      "ostiones"
+    ]
+  },
+  "171981": {
+    "nombre": "Ostras del Atlántico, enlatadas",
+    "alias": [
+      "ostiones"
+    ]
+  },
+  "171983": {
+    "nombre": "Buccino (caracola), crudo",
+    "alias": []
+  },
+  "171984": {
+    "nombre": "Buccino (caracola), cocido con calor húmedo",
+    "alias": []
+  },
+  "171985": {
+    "nombre": "Salmón chinook ahumado (lox), regular",
+    "alias": [
+      "salmon ahumado"
+    ]
+  },
+  "171989": {
+    "nombre": "Lubina de agua dulce (bass), cocida con calor seco",
+    "alias": []
+  },
+  "171990": {
+    "nombre": "Bacalao del Pacífico, cocido con calor seco (puede contener aditivos que retienen humedad)",
+    "alias": [
+      "bacalao"
+    ]
+  },
+  "171991": {
+    "nombre": "Brosmio (cusk), cocido con calor seco",
+    "alias": []
+  },
+  "171993": {
+    "nombre": "Roncador de agua dulce (drum), cocido con calor seco",
+    "alias": []
+  },
+  "171994": {
+    "nombre": "Caballa del Pacífico y jurel, cocidos con calor seco",
+    "alias": [
+      "macarela",
+      "caballa"
+    ]
+  },
+  "171995": {
+    "nombre": "Sábalo de leche (milkfish), cocido con calor seco",
+    "alias": [
+      "bangus"
+    ]
+  },
+  "172002": {
+    "nombre": "Pez de agua dulce (sucker blanco), cocido con calor seco",
+    "alias": []
+  },
+  "172003": {
+    "nombre": "Pez luna (pumpkinseed), cocido con calor seco",
+    "alias": []
+  },
+  "172007": {
+    "nombre": "Cangrejo dungeness, cocido con calor húmedo",
+    "alias": [
+      "jaiba"
+    ]
+  },
+  "172008": {
+    "nombre": "Cangrejo de las nieves (queen), cocido con calor húmedo",
+    "alias": [
+      "jaiba"
+    ]
+  },
+  "172009": {
+    "nombre": "Langosta espinosa, cocida con calor húmedo",
+    "alias": [
+      "langosta"
+    ]
+  },
+  "172010": {
+    "nombre": "Sepia (choco), cocida con calor húmedo",
+    "alias": [
+      "jibia",
+      "choco"
+    ]
+  },
+  "173668": {
+    "nombre": "Arenque del Atlántico, ahumado (kippered)",
+    "alias": []
+  },
+  "173670": {
+    "nombre": "Maruca (ling), cruda",
+    "alias": []
+  },
+  "173671": {
+    "nombre": "Lingcod, crudo",
+    "alias": []
+  },
+  "173672": {
+    "nombre": "Caballa del Pacífico y jurel, crudos",
+    "alias": [
+      "macarela",
+      "caballa"
+    ]
+  },
+  "173673": {
+    "nombre": "Carite (caballa española), crudo",
+    "alias": [
+      "sierra",
+      "macarela"
+    ]
+  },
+  "173674": {
+    "nombre": "Carite (caballa española), cocido con calor seco",
+    "alias": [
+      "sierra",
+      "macarela"
+    ]
+  },
+  "173675": {
+    "nombre": "Sábalo de leche (milkfish), crudo",
+    "alias": [
+      "bangus"
+    ]
+  },
+  "173677": {
+    "nombre": "Pez de mar (ocean pout), crudo",
+    "alias": []
+  },
+  "173680": {
+    "nombre": "Lucio del norte, crudo",
+    "alias": []
+  },
+  "173681": {
+    "nombre": "Abadejo de Alaska, cocido con calor seco (puede contener aditivos que retienen humedad)",
+    "alias": [
+      "merluza de alaska",
+      "colin"
+    ]
+  },
+  "173682": {
+    "nombre": "Pámpano de Florida, crudo",
+    "alias": [
+      "pampano"
+    ]
+  },
+  "173690": {
+    "nombre": "Salmón rosado, enlatado, todo el contenido de la lata",
+    "alias": [
+      "salmon enlatado"
+    ]
+  },
+  "173695": {
+    "nombre": "Corvina (seatrout), cruda",
+    "alias": []
+  },
+  "173696": {
+    "nombre": "Sábalo americano (shad), crudo",
+    "alias": []
+  },
+  "173700": {
+    "nombre": "Pez spot (corvina spot), crudo",
+    "alias": []
+  },
+  "173709": {
+    "nombre": "Atún claro en lata al natural, sólidos escurridos",
+    "alias": [
+      "atun"
+    ]
+  },
+  "173710": {
+    "nombre": "Rodaballo europeo, crudo",
+    "alias": []
+  },
+  "173714": {
+    "nombre": "Bagre de canal silvestre, cocido con calor seco",
+    "alias": [
+      "pez gato",
+      "siluro"
+    ]
+  },
+  "173720": {
+    "nombre": "Caracola (conch), al horno o asada",
+    "alias": [
+      "caracol"
+    ]
+  },
+  "173721": {
+    "nombre": "Nuggets de salmón empanizados, congelados, calentados",
+    "alias": []
+  },
+  "173722": {
+    "nombre": "Nuggets de salmón, cocidos antes de la compra, sin calentar",
+    "alias": []
+  },
+  "173723": {
+    "nombre": "Salmón rojo (sockeye), enlatado, sólidos escurridos, sin piel ni espinas",
+    "alias": [
+      "salmon enlatado"
+    ]
+  },
+  "174184": {
+    "nombre": "Lubina de agua dulce (bass), cruda",
+    "alias": []
+  },
+  "174186": {
+    "nombre": "Bagre de canal silvestre, crudo",
+    "alias": [
+      "pez gato",
+      "siluro"
+    ]
+  },
+  "174187": {
+    "nombre": "Bagre de canal, empanizado y frito",
+    "alias": [
+      "pez gato",
+      "siluro"
+    ]
+  },
+  "174188": {
+    "nombre": "Caviar, negro y rojo, granulado",
+    "alias": [
+      "huevas de pescado"
+    ]
+  },
+  "174189": {
+    "nombre": "Bacalao del Atlántico, enlatado, sólidos y líquido",
+    "alias": [
+      "bacalao"
+    ]
+  },
+  "174191": {
+    "nombre": "Bacalao del Pacífico, crudo (puede haber sido congelado)",
+    "alias": [
+      "bacalao"
+    ]
+  },
+  "174192": {
+    "nombre": "Roncador del Atlántico (croaker), crudo",
+    "alias": [
+      "corvina"
+    ]
+  },
+  "174196": {
+    "nombre": "Lenguado y platija, crudos",
+    "alias": [
+      "lenguado",
+      "platija"
+    ]
+  },
+  "174200": {
+    "nombre": "Fletán del Atlántico y del Pacífico, crudo",
+    "alias": [
+      "halibut"
+    ]
+  },
+  "174203": {
+    "nombre": "Cangrejo de Alaska de imitación, hecho de surimi",
+    "alias": [
+      "kanikama",
+      "palitos de cangrejo"
+    ]
+  },
+  "174204": {
+    "nombre": "Cangrejo azul, crudo",
+    "alias": [
+      "jaiba"
+    ]
+  },
+  "174206": {
+    "nombre": "Cangrejo de río silvestre, crudo",
+    "alias": [
+      "langostino de rio",
+      "acocil"
+    ]
+  },
+  "174207": {
+    "nombre": "Cangrejo de río silvestre, cocido con calor húmedo",
+    "alias": [
+      "langostino de rio",
+      "acocil"
+    ]
+  },
+  "174208": {
+    "nombre": "Langosta del norte, cruda",
+    "alias": [
+      "langosta"
+    ]
+  },
+  "174211": {
+    "nombre": "Langosta espinosa, cruda",
+    "alias": [
+      "langosta"
+    ]
+  },
+  "174212": {
+    "nombre": "Abulón, crudo",
+    "alias": [
+      "oreja de mar"
+    ]
+  },
+  "174213": {
+    "nombre": "Abulón, frito",
+    "alias": [
+      "oreja de mar"
+    ]
+  },
+  "174214": {
+    "nombre": "Almejas, crudas",
+    "alias": []
+  },
+  "174215": {
+    "nombre": "Sepia (choco), cruda",
+    "alias": [
+      "jibia",
+      "choco"
+    ]
+  },
+  "174216": {
+    "nombre": "Mejillones azules, crudos",
+    "alias": [
+      "choritos"
+    ]
+  },
+  "174218": {
+    "nombre": "Pulpo, crudo",
+    "alias": []
+  },
+  "174219": {
+    "nombre": "Ostras del Pacífico, crudas",
+    "alias": [
+      "ostiones"
+    ]
+  },
+  "174221": {
+    "nombre": "Vieiras, empanizadas y fritas",
+    "alias": [
+      "callo de hacha",
+      "escalopas"
+    ]
+  },
+  "174222": {
+    "nombre": "Vieira de imitación, hecha de surimi",
+    "alias": []
+  },
+  "174224": {
+    "nombre": "Salmón keta (chum), enlatado, sin sal, sólidos escurridos con espinas",
+    "alias": [
+      "salmon enlatado"
+    ]
+  },
+  "174225": {
+    "nombre": "Salmón rosado, enlatado, sin sal, sólidos con espinas y líquido",
+    "alias": [
+      "salmon enlatado"
+    ]
+  },
+  "174226": {
+    "nombre": "Salmón rojo (sockeye), enlatado, sin sal, sólidos escurridos con espinas",
+    "alias": [
+      "salmon enlatado"
+    ]
+  },
+  "174230": {
+    "nombre": "Lota (burbot), cocida con calor seco",
+    "alias": []
+  },
+  "174231": {
+    "nombre": "Pez mantequilla (butterfish), cocido con calor seco",
+    "alias": []
+  },
+  "174232": {
+    "nombre": "Fletán negro (de Groenlandia), cocido con calor seco",
+    "alias": [
+      "halibut"
+    ]
+  },
+  "174234": {
+    "nombre": "Maruca (ling), cocida con calor seco",
+    "alias": []
+  },
+  "174235": {
+    "nombre": "Lingcod, cocido con calor seco",
+    "alias": []
+  },
+  "174236": {
+    "nombre": "Carite real (king mackerel), cocido con calor seco",
+    "alias": [
+      "sierra",
+      "carite"
+    ]
+  },
+  "174238": {
+    "nombre": "Pez de mar (ocean pout), cocido con calor seco",
+    "alias": []
+  },
+  "174241": {
+    "nombre": "Scup (besugo americano), cocido con calor seco",
+    "alias": []
+  },
+  "174242": {
+    "nombre": "Corvina (seatrout), cocida con calor seco",
+    "alias": []
+  },
+  "174243": {
+    "nombre": "Sábalo americano (shad), cocido con calor seco",
+    "alias": []
+  },
+  "174244": {
+    "nombre": "Pez spot (corvina spot), cocido con calor seco",
+    "alias": []
+  },
+  "174245": {
+    "nombre": "Rodaballo europeo, cocido con calor seco",
+    "alias": []
+  },
+  "174247": {
+    "nombre": "Pez lobo del Atlántico, cocido con calor seco",
+    "alias": []
+  },
+  "174248": {
+    "nombre": "Medregal (yellowtail), cocido con calor seco",
+    "alias": []
+  },
+  "174250": {
+    "nombre": "Ostras del Pacífico, cocidas con calor húmedo",
+    "alias": [
+      "ostiones"
+    ]
+  },
+  "174251": {
+    "nombre": "Reloj anaranjado (orange roughy), cocido con calor seco",
+    "alias": []
+  },
+  "175121": {
+    "nombre": "Jurel en lata, sólidos escurridos",
+    "alias": []
+  },
+  "175122": {
+    "nombre": "Carite real (king mackerel), crudo",
+    "alias": [
+      "sierra",
+      "carite"
+    ]
+  },
+  "175125": {
+    "nombre": "Rosado del Atlántico (ocean perch), crudo",
+    "alias": []
+  },
+  "175126": {
+    "nombre": "Rosado del Atlántico (ocean perch), cocido con calor seco",
+    "alias": []
+  },
+  "175127": {
+    "nombre": "Lucio del norte, cocido con calor seco",
+    "alias": []
+  },
+  "175128": {
+    "nombre": "Lucioperca (walleye), crudo",
+    "alias": []
+  },
+  "175130": {
+    "nombre": "Abadejo de Alaska, crudo (puede contener aditivos que retienen humedad)",
+    "alias": [
+      "merluza de alaska",
+      "colin"
+    ]
+  },
+  "175133": {
+    "nombre": "Reloj anaranjado (orange roughy), crudo",
+    "alias": []
+  },
+  "175135": {
+    "nombre": "Salmón keta (chum), enlatado, sólidos escurridos con espinas",
+    "alias": [
+      "salmon enlatado"
+    ]
+  },
+  "175140": {
+    "nombre": "Sardina del Pacífico en lata, en salsa de tomate, sólidos escurridos con espinas",
+    "alias": [
+      "sardinas"
+    ]
+  },
+  "175141": {
+    "nombre": "Scup (besugo americano), crudo",
+    "alias": []
+  },
+  "175143": {
+    "nombre": "Tiburón, cocido, rebozado y frito",
+    "alias": []
+  },
+  "175144": {
+    "nombre": "Sheepshead, crudo",
+    "alias": []
+  },
+  "175145": {
+    "nombre": "Sheepshead, cocido con calor seco",
+    "alias": []
+  },
+  "175150": {
+    "nombre": "Pez de agua dulce (sucker blanco), crudo",
+    "alias": []
+  },
+  "175151": {
+    "nombre": "Pez luna (pumpkinseed), crudo",
+    "alias": []
+  },
+  "175160": {
+    "nombre": "Ensalada de atún",
+    "alias": [
+      "atun"
+    ]
+  },
+  "175162": {
+    "nombre": "Pez lobo del Atlántico, crudo",
+    "alias": []
+  },
+  "175163": {
+    "nombre": "Medregal (yellowtail), crudo",
+    "alias": []
+  },
+  "175164": {
+    "nombre": "Cangrejo de Alaska, crudo",
+    "alias": [
+      "jaiba"
+    ]
+  },
+  "175165": {
+    "nombre": "Bagre de canal de cultivo, crudo",
+    "alias": [
+      "pez gato",
+      "siluro"
+    ]
+  },
+  "175169": {
+    "nombre": "Cangrejo de río de cultivo, crudo",
+    "alias": [
+      "langostino de rio",
+      "acocil"
+    ]
+  },
+  "175170": {
+    "nombre": "Cangrejo de río de cultivo, cocido con calor húmedo",
+    "alias": [
+      "langostino de rio",
+      "acocil"
+    ]
+  },
+  "175171": {
+    "nombre": "Ostras del Atlántico (silvestres), cocidas con calor seco",
+    "alias": [
+      "ostiones"
+    ]
+  },
+  "175172": {
+    "nombre": "Ostras del Atlántico de cultivo, crudas",
+    "alias": [
+      "ostiones"
+    ]
+  },
+  "175173": {
+    "nombre": "Ostras del Atlántico de cultivo, cocidas con calor seco",
+    "alias": [
+      "ostiones"
+    ]
+  },
+  "175174": {
+    "nombre": "Salmón rojo (sockeye), enlatado, todo el contenido de la lata",
+    "alias": [
+      "salmon enlatado"
+    ]
+  },
+  "175179": {
+    "nombre": "Camarón, crudo",
+    "alias": [
+      "camarones",
+      "gambas",
+      "langostinos"
+    ]
+  },
+  "175181": {
+    "nombre": "Trucha de arroyo (brook), cruda",
+    "alias": []
+  }
+}
