@@ -2,7 +2,7 @@
 
 Composición de alimentos **en español**: 875 alimentos comunes con calorías, proteína, carbohidratos y
 grasas por 100 g, en CSV y JSON. Libre para usar, también en productos comerciales, citando la fuente
-([CC BY 4.0](LICENSE)).
+([CC BY 4.0](LICENSE)). **Datos: CC BY 4.0. Código (`scripts/`): [MIT](LICENSE-CODE).**
 
 > **Versión 0.1.0 — en revisión.** Los nombres en español son una traducción sin revisar por hablantes
 > nativos de cada país. Ver [REVISION.md](REVISION.md): ayuda bienvenida.
@@ -56,6 +56,7 @@ Fija siempre una versión (`@v0.1.0`) en lugar de `@main`: los nombres pueden co
 - **Valores nutricionales:** [USDA FoodData Central](https://fdc.nal.usda.gov/), conjunto **SR Legacy**
   (abril de 2018, versión final). La USDA lo publica como **dominio público (CC0 1.0)**.
 - **Nombres en español, alias, selección y orden:** trabajo de este proyecto, bajo **CC BY 4.0**.
+- **Código** (`scripts/`, flujos de GitHub): **MIT** ([LICENSE-CODE](LICENSE-CODE)).
 - **No incluye datos de Open Food Facts** (licencia ODbL con share-alike). Ver [NOTICE.md](NOTICE.md).
 
 ### Cómo citarlo

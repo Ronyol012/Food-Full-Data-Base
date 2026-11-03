@@ -18,6 +18,11 @@ La traducción de los nombres, los alias, la elección de qué alimentos incluir
 proyecto y se publican bajo **Creative Commons Atribución 4.0 Internacional** (texto completo en
 [LICENSE](LICENSE)). Se pueden copiar, modificar y usar, también comercialmente, con atribución.
 
+## Código — MIT
+
+Los scripts (`scripts/`) y los flujos de `.github/` se publican bajo licencia **MIT** ([LICENSE-CODE](LICENSE-CODE)).
+La licencia CC BY 4.0 de [LICENSE](LICENSE) se aplica a los datos, no al código.
+
 ## Open Food Facts — no incluido
 
 Este dataset **no contiene datos de [Open Food Facts](https://world.openfoodfacts.org)**. Su base de datos
