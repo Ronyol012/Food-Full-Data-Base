@@ -1,8 +1,19 @@
 # Revisión de nombres
 
+> **Estado a 0.3.0:** de 7.793 alimentos, **0 `revisada`**, 875 `curada`, 674 `automatica` y 6.244 `pendiente`.
+
 Los nombres en español de la versión 0.1.0 son una **traducción hecha sin revisión de hablantes nativos** de
 cada país. El español de México, Colombia, Argentina, España o Chile llama distinto a la misma comida, y un
 nombre que suena natural en un sitio puede confundir en otro. Esta página explica qué conviene revisar.
+
+## Los tres estados que hay que revisar
+
+- **`curada`** (875, el núcleo): nombres escritos a mano. Revisarlos es lo más valioso.
+- **`automatica`** (674): generados con vocabulario cerrado y concordancia. Son correctos en gramática pero pueden sonar
+  poco naturales ("Pescado, salmón, del Atlántico, silvestre, cocido, calor seco"). Si un patrón está mal (por ejemplo un
+  calificativo que concuerda mal), corregir una entrada de `src/vocabulario.json` arregla **todos** los alimentos que la usan.
+- **`pendiente`** (6.244): sin traducir. Se puede aportar un nombre en `src/traducciones.json`
+  (`{ "<fdc_id>": { "nombre": "…", "alias": ["…"] } }`).
 
 ## Cómo ayudar
 

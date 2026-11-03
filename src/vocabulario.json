@@ -1,0 +1,1020 @@
+{
+ "cabezas": {
+  "Potatoes": [
+   "Papas",
+   "f",
+   "p"
+  ],
+  "Beans": [
+   "Frijoles",
+   "m",
+   "p"
+  ],
+  "Peas": [
+   "Guisantes",
+   "m",
+   "p"
+  ],
+  "Corn": [
+   "Maíz",
+   "m",
+   "s"
+  ],
+  "Squash": [
+   "Calabaza",
+   "f",
+   "s"
+  ],
+  "Peppers": [
+   "Pimientos",
+   "m",
+   "p"
+  ],
+  "Mushrooms": [
+   "Champiñones",
+   "m",
+   "p"
+  ],
+  "Cabbage": [
+   "Repollo",
+   "m",
+   "s"
+  ],
+  "Onions": [
+   "Cebollas",
+   "f",
+   "p"
+  ],
+  "Apples": [
+   "Manzanas",
+   "f",
+   "p"
+  ],
+  "Apricots": [
+   "Albaricoques",
+   "m",
+   "p"
+  ],
+  "Pears": [
+   "Peras",
+   "f",
+   "p"
+  ],
+  "Cherries": [
+   "Cerezas",
+   "f",
+   "p"
+  ],
+  "Peaches": [
+   "Duraznos",
+   "m",
+   "p"
+  ],
+  "Plums": [
+   "Ciruelas",
+   "f",
+   "p"
+  ],
+  "Blueberries": [
+   "Arándanos",
+   "m",
+   "p"
+  ],
+  "Raspberries": [
+   "Frambuesas",
+   "f",
+   "p"
+  ],
+  "Strawberries": [
+   "Fresas",
+   "f",
+   "p"
+  ],
+  "Blackberries": [
+   "Moras",
+   "f",
+   "p"
+  ],
+  "Grapes": [
+   "Uvas",
+   "f",
+   "p"
+  ],
+  "Oranges": [
+   "Naranjas",
+   "f",
+   "p"
+  ],
+  "Tangerines": [
+   "Mandarinas",
+   "f",
+   "p"
+  ],
+  "Pineapple": [
+   "Piña",
+   "f",
+   "s"
+  ],
+  "Figs": [
+   "Higos",
+   "m",
+   "p"
+  ],
+  "Broccoli": [
+   "Brócoli",
+   "m",
+   "s"
+  ],
+  "Tomatoes": [
+   "Tomates",
+   "m",
+   "p"
+  ],
+  "Carrots": [
+   "Zanahorias",
+   "f",
+   "p"
+  ],
+  "Spinach": [
+   "Espinacas",
+   "f",
+   "p"
+  ],
+  "Cauliflower": [
+   "Coliflor",
+   "f",
+   "s"
+  ],
+  "Asparagus": [
+   "Espárragos",
+   "m",
+   "p"
+  ],
+  "Beets": [
+   "Remolachas",
+   "f",
+   "p"
+  ],
+  "Kale": [
+   "Col rizada",
+   "f",
+   "s"
+  ],
+  "Collards": [
+   "Hojas de col verde",
+   "f",
+   "p"
+  ],
+  "Okra": [
+   "Okra",
+   "f",
+   "s"
+  ],
+  "Radishes": [
+   "Rábanos",
+   "m",
+   "p"
+  ],
+  "Turnips": [
+   "Nabos",
+   "m",
+   "p"
+  ],
+  "Turnip greens": [
+   "Hojas de nabo",
+   "f",
+   "p"
+  ],
+  "Mustard greens": [
+   "Hojas de mostaza",
+   "f",
+   "p"
+  ],
+  "Lettuce": [
+   "Lechuga",
+   "f",
+   "s"
+  ],
+  "Leeks": [
+   "Puerros",
+   "m",
+   "p"
+  ],
+  "Artichokes": [
+   "Alcachofas",
+   "f",
+   "p"
+  ],
+  "Eggplant": [
+   "Berenjena",
+   "f",
+   "s"
+  ],
+  "Brussels sprouts": [
+   "Coles de Bruselas",
+   "f",
+   "p"
+  ],
+  "Pumpkin": [
+   "Calabaza (pumpkin)",
+   "f",
+   "s"
+  ],
+  "Plantains": [
+   "Plátanos machos",
+   "m",
+   "p"
+  ],
+  "Taro": [
+   "Taro",
+   "m",
+   "s"
+  ],
+  "Sweet potato": [
+   "Camote",
+   "m",
+   "s"
+  ],
+  "Lentils": [
+   "Lentejas",
+   "f",
+   "p"
+  ],
+  "Mung beans": [
+   "Frijoles mungo",
+   "m",
+   "p"
+  ],
+  "Lima beans": [
+   "Frijoles de lima",
+   "m",
+   "p"
+  ],
+  "Soybeans": [
+   "Soya",
+   "f",
+   "s"
+  ],
+  "Tofu": [
+   "Tofu",
+   "m",
+   "s"
+  ],
+  "Rice": [
+   "Arroz",
+   "m",
+   "s"
+  ],
+  "Pasta": [
+   "Pasta",
+   "f",
+   "s"
+  ],
+  "Noodles": [
+   "Fideos",
+   "m",
+   "p"
+  ],
+  "Spaghetti": [
+   "Espagueti",
+   "m",
+   "s"
+  ],
+  "Wheat flour": [
+   "Harina de trigo",
+   "f",
+   "s"
+  ],
+  "Corn flour": [
+   "Harina de maíz",
+   "f",
+   "s"
+  ],
+  "Cornmeal": [
+   "Harina de maíz (cornmeal)",
+   "f",
+   "s"
+  ],
+  "Peanuts": [
+   "Cacahuates",
+   "m",
+   "p"
+  ],
+  "Butter": [
+   "Mantequilla",
+   "f",
+   "s"
+  ],
+  "Cream": [
+   "Crema",
+   "f",
+   "s"
+  ],
+  "Sour cream": [
+   "Crema agria",
+   "f",
+   "s"
+  ],
+  "Yogurt": [
+   "Yogur",
+   "m",
+   "s"
+  ],
+  "Milk": [
+   "Leche",
+   "f",
+   "s"
+  ],
+  "Cheese": [
+   "Queso",
+   "m",
+   "s"
+  ],
+  "Bread": [
+   "Pan",
+   "m",
+   "s"
+  ],
+  "Rolls": [
+   "Panecillos",
+   "m",
+   "p"
+  ],
+  "Muffins": [
+   "Muffins",
+   "m",
+   "p"
+  ],
+  "Bagels": [
+   "Bagels",
+   "m",
+   "p"
+  ],
+  "Pancakes": [
+   "Panqueques",
+   "m",
+   "p"
+  ],
+  "Waffles": [
+   "Waffles",
+   "m",
+   "p"
+  ],
+  "Tortillas": [
+   "Tortillas",
+   "f",
+   "p"
+  ],
+  "Oil": [
+   "Aceite",
+   "m",
+   "s"
+  ],
+  "Margarine": [
+   "Margarina",
+   "f",
+   "s"
+  ],
+  "Shortening": [
+   "Manteca vegetal",
+   "f",
+   "s"
+  ],
+  "Mayonnaise": [
+   "Mayonesa",
+   "f",
+   "s"
+  ],
+  "Ham": [
+   "Jamón",
+   "m",
+   "s"
+  ],
+  "Bacon": [
+   "Tocino",
+   "m",
+   "s"
+  ],
+  "Bologna": [
+   "Mortadela",
+   "f",
+   "s"
+  ],
+  "Salami": [
+   "Salami",
+   "m",
+   "s"
+  ],
+  "Frankfurter": [
+   "Salchicha tipo Frankfurt",
+   "f",
+   "s"
+  ],
+  "Duck": [
+   "Pato",
+   "m",
+   "s"
+  ],
+  "Goose": [
+   "Ganso",
+   "m",
+   "s"
+  ],
+  "Quail": [
+   "Codorniz",
+   "f",
+   "s"
+  ],
+  "Pheasant": [
+   "Faisán",
+   "m",
+   "s"
+  ],
+  "Elk": [
+   "Alce",
+   "m",
+   "s"
+  ],
+  "Peanut butter": [
+   "Mantequilla de maní",
+   "f",
+   "s"
+  ],
+  "Pickles": [
+   "Pepinillos en vinagre",
+   "m",
+   "p"
+  ],
+  "Seaweed": [
+   "Algas",
+   "f",
+   "p"
+  ],
+  "Bamboo shoots": [
+   "Brotes de bambú",
+   "m",
+   "p"
+  ],
+  "Chickpeas": [
+   "Garbanzos",
+   "m",
+   "p"
+  ],
+  "Cowpeas": [
+   "Caupíes",
+   "m",
+   "p"
+  ],
+  "Grapefruit": [
+   "Toronja",
+   "f",
+   "s"
+  ],
+  "Raisins": [
+   "Pasas",
+   "f",
+   "p"
+  ],
+  "Dates": [
+   "Dátiles",
+   "m",
+   "p"
+  ],
+  "Lemons": [
+   "Limones",
+   "m",
+   "p"
+  ],
+  "Limes": [
+   "Limas",
+   "f",
+   "p"
+  ],
+  "Melons": [
+   "Melones",
+   "m",
+   "p"
+  ],
+  "Cucumber": [
+   "Pepino",
+   "m",
+   "s"
+  ],
+  "Celery": [
+   "Apio",
+   "m",
+   "s"
+  ],
+  "Garlic": [
+   "Ajo",
+   "m",
+   "s"
+  ],
+  "Ginger root": [
+   "Jengibre",
+   "m",
+   "s"
+  ],
+  "Parsley": [
+   "Perejil",
+   "m",
+   "s"
+  ],
+  "Rhubarb": [
+   "Ruibarbo",
+   "m",
+   "s"
+  ],
+  "Chicken": [
+   "Pollo",
+   "m",
+   "s"
+  ],
+  "Turkey": [
+   "Pavo",
+   "m",
+   "s"
+  ],
+  "Pork sausage": [
+   "Salchicha de cerdo",
+   "f",
+   "s"
+  ],
+  "Gravy": [
+   "Salsa de carne (gravy)",
+   "f",
+   "s"
+  ],
+  "Fish oil": [
+   "Aceite de pescado",
+   "m",
+   "s"
+  ],
+  "Mollusks": [
+   "Moluscos",
+   "m",
+   "p"
+  ],
+  "Crustaceans": [
+   "Crustáceos",
+   "m",
+   "p"
+  ],
+  "Sausage": [
+   "Embutido",
+   "m",
+   "s"
+  ],
+  "Tomato products": [
+   "Productos de tomate",
+   "m",
+   "p"
+  ],
+  "Tomato juice": [
+   "Jugo de tomate",
+   "m",
+   "s"
+  ],
+  "Orange juice": [
+   "Jugo de naranja",
+   "m",
+   "s"
+  ],
+  "Grapefruit juice": [
+   "Jugo de toronja",
+   "m",
+   "s"
+  ],
+  "Apple juice": [
+   "Jugo de manzana",
+   "m",
+   "s"
+  ],
+  "Pineapple juice": [
+   "Jugo de piña",
+   "m",
+   "s"
+  ],
+  "Applesauce": [
+   "Compota de manzana",
+   "f",
+   "s"
+  ],
+  "Ice cream": [
+   "Helado",
+   "m",
+   "s"
+  ],
+  "Ice creams": [
+   "Helados",
+   "m",
+   "p"
+  ],
+  "Soymilk": [
+   "Leche de soya",
+   "f",
+   "s"
+  ],
+  "Whey": [
+   "Suero de leche",
+   "m",
+   "s"
+  ],
+  "Pie crust": [
+   "Masa para pay",
+   "f",
+   "s"
+  ],
+  "Doughnuts": [
+   "Donas",
+   "f",
+   "p"
+  ],
+  "Danish pastry": [
+   "Pan danés",
+   "m",
+   "s"
+  ],
+  "Biscuits": [
+   "Bizcochos",
+   "m",
+   "p"
+  ],
+  "Crackers": [
+   "Galletas saladas",
+   "f",
+   "p"
+  ],
+  "Cookies": [
+   "Galletas",
+   "f",
+   "p"
+  ],
+  "Cake": [
+   "Pastel",
+   "m",
+   "s"
+  ],
+  "Pie": [
+   "Pay",
+   "m",
+   "s"
+  ],
+  "Puddings": [
+   "Pudines",
+   "m",
+   "p"
+  ],
+  "Syrups": [
+   "Jarabes",
+   "m",
+   "p"
+  ],
+  "Sugars": [
+   "Azúcares",
+   "m",
+   "p"
+  ],
+  "Fish": [
+   "Pescado",
+   "m",
+   "s"
+  ],
+  "Nuts": [
+   "Frutos secos",
+   "m",
+   "p"
+  ],
+  "Seeds": [
+   "Semillas",
+   "f",
+   "p"
+  ],
+  "Ducks": [
+   "Patos",
+   "m",
+   "p"
+  ],
+  "Rabbit": [
+   "Conejo",
+   "m",
+   "s"
+  ],
+  "Chicken, canned": [
+   "Pollo enlatado",
+   "m",
+   "s"
+  ],
+  "Beans, snap": [
+   "Ejotes",
+   "m",
+   "p"
+  ]
+ },
+ "calificativos": {
+  "raw": "crudo",
+  "cooked": "cocido",
+  "boiled": "hervido",
+  "drained": "escurrido",
+  "fresh": "fresco",
+  "dried": "seco",
+  "roasted": "asado",
+  "baked": "horneado",
+  "fried": "frito",
+  "steamed": "al vapor",
+  "broiled": "a la parrilla",
+  "grilled": "a la plancha",
+  "braised": "estofado",
+  "stewed": "guisado",
+  "smoked": "ahumado",
+  "toasted": "tostado",
+  "pan-fried": "frito en sartén",
+  "frozen": "congelado",
+  "canned": "enlatado",
+  "cured": "curado",
+  "sprouted": "germinado",
+  "heated": "calentado",
+  "unheated": "sin calentar",
+  "prepared": "preparado",
+  "unprepared": "sin preparar",
+  "uncooked": "sin cocinar",
+  "whole": "entero",
+  "sliced": "en rebanadas",
+  "ground": "molido",
+  "shredded": "rallado",
+  "chopped": "picado",
+  "boneless": "=sin hueso",
+  "bone-in": "=con hueso",
+  "without salt": "=sin sal",
+  "with salt": "=con sal",
+  "no salt added": "=sin sal añadida",
+  "with salt added": "=con sal añadida",
+  "low sodium": "~bajo en sodio",
+  "reduced sodium": "~reducido en sodio",
+  "reduced fat": "~reducido en grasa",
+  "lowfat": "~bajo en grasa",
+  "low fat": "~bajo en grasa",
+  "nonfat": "=sin grasa",
+  "fat free": "=sin grasa",
+  "fat-free": "=sin grasa",
+  "low calorie": "~bajo en calorías",
+  "enriched": "enriquecido",
+  "unenriched": "sin enriquecer",
+  "not fortified": "=sin fortificar",
+  "fortified": "fortificado",
+  "plain": "natural",
+  "sweetened": "endulzado",
+  "unsweetened": "sin endulzar",
+  "with skin": "=con piel",
+  "without skin": "=sin piel",
+  "skinless": "sin piel",
+  "mature seeds": "=semillas maduras",
+  "immature seeds": "=semillas inmaduras",
+  "solids and liquids": "=sólidos y líquidos",
+  "drained solids": "=sólidos escurridos",
+  "heavy syrup pack": "=en almíbar espeso",
+  "light syrup pack": "=en almíbar ligero",
+  "juice pack": "=en jugo",
+  "water pack": "=en agua",
+  "regular pack": "=envase regular",
+  "extra heavy syrup pack": "=en almíbar extra espeso",
+  "canned in water": "=en lata, en agua",
+  "canned in oil": "=en lata, en aceite",
+  "without added ascorbic acid": "=sin ácido ascórbico añadido",
+  "with added ascorbic acid": "=con ácido ascórbico añadido",
+  "dry mix": "=mezcla en polvo",
+  "dry": "seco",
+  "powder": "=en polvo",
+  "instant": "instantáneo",
+  "condensed": "condensado",
+  "ready-to-serve": "~listo para servir",
+  "reconstituted": "reconstituido",
+  "white": "blanco",
+  "yellow": "amarillo",
+  "red": "rojo",
+  "green": "verde",
+  "black": "negro",
+  "brown": "integral",
+  "pink": "rosado",
+  "orange": "naranja",
+  "purple": "morado",
+  "sweet": "dulce",
+  "sour": "agrio",
+  "wild": "silvestre",
+  "small": "pequeño",
+  "large": "grande",
+  "medium": "mediano",
+  "pinto": "pinto",
+  "kidney": "=tipo kidney",
+  "navy": "=tipo navy",
+  "great northern": "=great northern",
+  "small white": "=blancos pequeños",
+  "french": "=de estilo francés",
+  "swiss": "=suizo",
+  "cheddar": "=cheddar",
+  "mozzarella": "=mozzarella",
+  "parmesan": "=parmesano",
+  "provolone": "=provolone",
+  "blue": "=azul",
+  "brie": "=brie",
+  "camembert": "=camembert",
+  "cottage": "=cottage",
+  "cream": "=crema",
+  "feta": "=feta",
+  "gouda": "=gouda",
+  "edam": "=edam",
+  "ricotta": "=ricotta",
+  "romano": "=romano",
+  "muenster": "=muenster",
+  "colby": "=colby",
+  "american": "=americano",
+  "whole milk": "=de leche entera",
+  "skim milk": "=de leche descremada",
+  "part skim milk": "=de leche semidescremada",
+  "part-skim": "semidescremado",
+  "low moisture": "~bajo en humedad",
+  "creamed": "=cremoso",
+  "salted": "salado",
+  "unsalted": "sin sal",
+  "without added salt": "=sin sal añadida",
+  "with added salt": "=con sal añadida",
+  "cooked, boiled": "=cocido, hervido",
+  "all types": "=todos los tipos",
+  "commercially prepared": "~preparado comercialmente",
+  "prepared from recipe": "~preparado con receta",
+  "prepared-from-recipe": "~preparado con receta",
+  "home-prepared": "~preparado en casa",
+  "chocolate": "=de chocolate",
+  "vanilla": "=de vainilla",
+  "lemon": "=de limón",
+  "strawberry": "=de fresa",
+  "cinnamon": "=de canela",
+  "oatmeal": "=de avena",
+  "corn": "=de maíz",
+  "wheat": "=de trigo",
+  "rye": "=de centeno",
+  "soy": "=de soya",
+  "not reconstituted": "=sin reconstituir",
+  "fluid": "líquido",
+  "bottled": "embotellado",
+  "industrial": "=industrial",
+  "table": "=de mesa",
+  "salad or cooking": "=para ensalada o cocinar",
+  "light": "ligero",
+  "dark": "oscuro",
+  "regular": "regular",
+  "refrigerated dough": "=masa refrigerada",
+  "refrigerated": "refrigerado",
+  "ready-to-heat": "~listo para calentar",
+  "microwaved": "~cocido en microondas",
+  "reheated": "recalentado",
+  "precooked": "precocido",
+  "rinsed in tap water": "~enjuagado con agua de la llave",
+  "with calcium": "=con calcio",
+  "with vitamin D": "=con vitamina D",
+  "with added vitamin D": "=con vitamina D añadida",
+  "with added vitamin A and vitamin D": "=con vitamina A y D añadidas",
+  "with iron": "=con hierro",
+  "with added calcium": "=con calcio añadido",
+  "salmon": "=salmón",
+  "tuna": "=atún",
+  "cod": "=bacalao",
+  "trout": "=trucha",
+  "tilapia": "=tilapia",
+  "haddock": "=eglefino",
+  "halibut": "=fletán",
+  "herring": "=arenque",
+  "mackerel": "=caballa",
+  "sardine": "=sardina",
+  "catfish": "=bagre",
+  "bass": "=lubina",
+  "perch": "=perca",
+  "pollock": "=abadejo",
+  "shark": "=tiburón",
+  "swordfish": "=pez espada",
+  "carp": "=carpa",
+  "eel": "=anguila",
+  "whitefish": "=corégono",
+  "sturgeon": "=esturión",
+  "snapper": "=pargo",
+  "grouper": "=mero",
+  "mahimahi": "=dorado (mahi mahi)",
+  "anchovy": "=anchoa",
+  "mullet": "=mújol",
+  "pike": "=lucio",
+  "bluefish": "=anjova",
+  "pompano": "=palometa",
+  "rockfish": "=pez roca",
+  "monkfish": "=rape",
+  "sablefish": "=bacalao negro",
+  "whiting": "=merlán",
+  "smelt": "=eperlano",
+  "tilefish": "=blanquillo",
+  "roe": "=huevas",
+  "sea bass": "=lubina negra",
+  "striped": "=rayada",
+  "atlantic": "=del Atlántico",
+  "pacific": "=del Pacífico",
+  "alaska": "=de Alaska",
+  "farmed": "=de cultivo",
+  "mixed species": "=especies mixtas",
+  "dry heat": "=calor seco",
+  "moist heat": "=calor húmedo",
+  "chinook": "=chinook",
+  "coho": "=coho",
+  "sockeye": "=sockeye",
+  "chum": "=keta",
+  "rainbow": "=arcoíris",
+  "yellowfin": "=aleta amarilla",
+  "bluefin": "=aleta azul",
+  "skipjack": "=listado",
+  "albacore": "=albacora",
+  "canned in oil, drained solids": "=en lata, en aceite, sólidos escurridos",
+  "broilers or fryers": "=de engorde (broilers o fryers)",
+  "meat only": "=solo carne",
+  "meat and skin": "=carne con piel",
+  "breast": "=pechuga",
+  "thigh": "=muslo",
+  "drumstick": "=pierna",
+  "wing": "=ala",
+  "back": "=espalda",
+  "dark meat": "=carne oscura",
+  "light meat": "=carne clara",
+  "giblets": "=menudencias",
+  "liver": "=hígado",
+  "gizzard": "=molleja",
+  "neck": "=cuello",
+  "skin": "=solo la piel",
+  "all classes": "=todas las clases",
+  "retail parts": "=cortes de venta al por menor",
+  "with added solution": "=con solución añadida",
+  "stewing": "=para guisar",
+  "roasting": "=para asar",
+  "batter": "=rebozado",
+  "from whole bird": "=del ave entera",
+  "domesticated": "=doméstico",
+  "heart": "=corazón",
+  "tongue": "=lengua",
+  "simmered": "~cocido a fuego lento",
+  "sulfured": "sulfitado",
+  "bleached": "blanqueado",
+  "long-grain": "=de grano largo",
+  "short-grain": "=de grano corto",
+  "medium-grain": "=de grano medio",
+  "glutinous": "=glutinoso",
+  "parboiled": "parbolizado",
+  "summer": "=de verano",
+  "winter": "=de invierno",
+  "all varieties": "=todas las variedades",
+  "butternut": "=butternut",
+  "acorn": "=bellota",
+  "spaghetti": "=espagueti",
+  "zucchini": "=calabacín",
+  "crookneck": "=cuello torcido",
+  "hubbard": "=hubbard",
+  "mashed": "en puré",
+  "french fried": "=frito a la francesa",
+  "whole-wheat": "=de trigo integral",
+  "whole grain": "=integral",
+  "chocolate chip": "=con chispas de chocolate",
+  "gluten-free": "=sin gluten",
+  "frozen concentrate": "=concentrado congelado",
+  "prepared with water": "~preparado con agua",
+  "prepared with whole milk": "~preparado con leche entera",
+  "prepared with 2% milk": "~preparado con leche al 2 %",
+  "prepared with equal volume water": "~preparado con igual volumen de agua",
+  "salt added in processing": "=con sal añadida en el procesado",
+  "ready-to-drink": "~listo para beber",
+  "includes skin": "=incluye la piel",
+  "without skin and bones": "=sin piel ni huesos",
+  "cooked, dry heat": "=cocido, calor seco",
+  "peeled": "pelado",
+  "unpeeled": "sin pelar",
+  "kernels": "=granos",
+  "kernels on cob": "=granos en la mazorca",
+  "cream style": "=estilo crema",
+  "whole kernel": "=granos enteros",
+  "cut": "cortado",
+  "cuts": "=en cortes",
+  "halves": "=en mitades",
+  "pieces": "=en trozos",
+  "chunks": "=en trozos grandes",
+  "stems": "=tallos",
+  "leaves": "=hojas",
+  "florets": "=floretes",
+  "spears": "=puntas",
+  "sections": "=en gajos",
+  "sauce": "=con salsa",
+  "in tomato sauce": "=en salsa de tomate",
+  "pickled": "encurtido",
+  "sun-dried": "=secado al sol",
+  "dehydrated": "deshidratado",
+  "freeze-dried": "liofilizado",
+  "low-sodium": "~bajo en sodio",
+  "with seasoning": "=con sazonador",
+  "seasoned": "sazonado",
+  "breaded": "empanizado",
+  "battered": "rebozado",
+  "stuffed": "relleno"
+ }
+}

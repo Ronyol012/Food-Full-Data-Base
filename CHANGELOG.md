@@ -1,5 +1,26 @@
 # Cambios
 
+## 0.3.0 — 2026-11-03
+
+**Todo SR Legacy, en dos niveles.** Ahora el dataset cubre los 7.793 alimentos de USDA SR Legacy.
+
+- **Nivel extendido** (`data/extendido.csv|json`, `data/porciones_extendido.csv`): los otros 6.918 alimentos, con el mismo
+  esquema que el núcleo, 28 columnas nutricionales y 12.270 porciones.
+- **Columna `traduccion`** (`curada` | `automatica` | `pendiente`, y `revisada` cuando la haya): del total,
+  875 curadas (el núcleo), 674 automáticas, 6.244 pendientes. **Ninguna está revisada todavía.**
+- **Traducción automática de nombres** con vocabulario cerrado (`scripts/nombres.mjs`, `src/vocabulario.json`): hace
+  concordar género y número y devuelve `null` si cualquier segmento no está en el vocabulario. Excluye marcas. Un nombre
+  `pendiente` tiene `nombre` vacío; úsese `descripcion_usda`.
+- **Columna `categoria`** (las 25 categorías de la USDA, en español) y columna `nivel` (`nucleo` | `extendido`), también en el núcleo.
+- **`src/traducciones.json`**: aporta un nombre a mano para un alimento del nivel extendido (queda `curada`).
+- Porciones traducidas: 9.801 de 14.431 (68 %).
+- El verificador revisa los dos niveles, las reglas de `traduccion`, y distingue avisos (rarezas plausibles de la fuente)
+  de errores (valores absurdos). Corrige un error propio de v0.2: las grasas trans son un subconjunto de las mono y
+  poliinsaturadas en la USDA y no deben sumarse aparte.
+- **Cambio de posición de columnas:** `categoria`, `traduccion` y `nivel` se insertan tras `descripcion_usda`, así que el
+  CSV del núcleo cambia de posiciones. Los nombres y significados de las columnas existentes no cambian; quien lea por
+  posición debe actualizarse.
+
 ## 0.2.0 — 2026-11-03
 
 - **Nutrientes nuevos** (todos de la misma fuente, USDA SR Legacy): agua, fibra, azúcares, grasa saturada,
