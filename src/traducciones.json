@@ -121,6 +121,16 @@
       "nachos"
     ]
   },
+  "167719": {
+    "nombre": "Pollo vegetariano (sin carne), empanizado y frito",
+    "alias": [
+      "pollo de soya"
+    ]
+  },
+  "167722": {
+    "nombre": "Yogur de tofu",
+    "alias": []
+  },
   "167723": {
     "nombre": "Sake (vino de arroz)",
     "alias": [
@@ -236,6 +246,12 @@
     "alias": [
       "barra de granola",
       "barrita"
+    ]
+  },
+  "168106": {
+    "nombre": "Papad (galleta india de lentejas)",
+    "alias": [
+      "papadam"
     ]
   },
   "168116": {
@@ -485,8 +501,38 @@
       "barrita"
     ]
   },
+  "169065": {
+    "nombre": "Frijoles con chile, estilo barbacoa y rancho, cocidos",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "169066": {
+    "nombre": "Rebanadas de fiambre vegetariano (sin carne)",
+    "alias": []
+  },
+  "169067": {
+    "nombre": "Albóndigas vegetarianas (sin carne)",
+    "alias": []
+  },
+  "169068": {
+    "nombre": "Filetes vegetarianos",
+    "alias": []
+  },
+  "169069": {
+    "nombre": "Pasta untable para sándwich vegetariana (sin carne)",
+    "alias": []
+  },
   "169071": {
     "nombre": "Vino ligero",
+    "alias": []
+  },
+  "169083": {
+    "nombre": "Cuajada de soya (queso de soya)",
     "alias": []
   },
   "169406": {
@@ -727,6 +773,38 @@
       "barra de granola",
       "barrita"
     ]
+  },
+  "169884": {
+    "nombre": "Fideos vermicelli de soya",
+    "alias": []
+  },
+  "169885": {
+    "nombre": "Líquido de frijoles rojos (kidney) estofados",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "169886": {
+    "nombre": "Pollo vegetariano (sin carne)",
+    "alias": [
+      "pollo de soya"
+    ]
+  },
+  "169887": {
+    "nombre": "Salchicha vegetariana (sin carne)",
+    "alias": []
+  },
+  "169888": {
+    "nombre": "Pastel de carne o hamburguesas vegetarianas",
+    "alias": []
+  },
+  "169893": {
+    "nombre": "Trocitos de tocino vegetariano (sin carne)",
+    "alias": []
   },
   "170144": {
     "nombre": "Semillas de árbol del pan, crudas",
@@ -2089,6 +2167,286 @@
       "choco"
     ]
   },
+  "172422": {
+    "nombre": "Frijoles de lima (pallares) pequeños, semillas maduras, cocidos, hervidos, sin sal",
+    "alias": [
+      "pallares",
+      "alubias de lima"
+    ]
+  },
+  "172423": {
+    "nombre": "Altramuces (chochos), semillas maduras, crudos",
+    "alias": [
+      "lupinos",
+      "chochos",
+      "tarwi"
+    ]
+  },
+  "172424": {
+    "nombre": "Altramuces (chochos), semillas maduras, cocidos, hervidos, sin sal",
+    "alias": [
+      "lupinos",
+      "chochos",
+      "tarwi"
+    ]
+  },
+  "172425": {
+    "nombre": "Frijol polilla (moth bean), semillas maduras, crudo",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "172426": {
+    "nombre": "Frijol polilla (moth bean), semillas maduras, cocido, hervido, sin sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "172427": {
+    "nombre": "Frijol mungo negro (urad), semillas maduras, cocido, hervido, sin sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "172428": {
+    "nombre": "Chícharos verdes partidos, semillas maduras, crudos",
+    "alias": [
+      "arvejas partidas",
+      "guisantes partidos"
+    ]
+  },
+  "172431": {
+    "nombre": "Cacahuates (maní) tipo Spanish, tostados en aceite, con sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "172432": {
+    "nombre": "Cacahuates (maní) tipo Valencia, crudos",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "172433": {
+    "nombre": "Cacahuates (maní) tipo Valencia, tostados en aceite, con sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "172434": {
+    "nombre": "Cacahuates (maní) tipo Virginia, crudos",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "172435": {
+    "nombre": "Harina de cacahuate (maní), baja en grasa",
+    "alias": []
+  },
+  "172436": {
+    "nombre": "Gandules (guandú), semillas maduras, crudos",
+    "alias": [
+      "guandul",
+      "guandules",
+      "frijol de palo",
+      "chicharo de paloma"
+    ]
+  },
+  "172437": {
+    "nombre": "Gandules (guandú), semillas maduras, cocidos, hervidos, sin sal",
+    "alias": [
+      "guandul",
+      "guandules",
+      "frijol de palo"
+    ]
+  },
+  "172439": {
+    "nombre": "Tocino vegetariano (sin carne)",
+    "alias": []
+  },
+  "172441": {
+    "nombre": "Soya (frijol de soya), semillas maduras, tostada en seco",
+    "alias": [
+      "soja",
+      "edamame seco"
+    ]
+  },
+  "172444": {
+    "nombre": "Harina de soya, baja en grasa",
+    "alias": [
+      "harina de soja"
+    ]
+  },
+  "172445": {
+    "nombre": "Harina de soya, desgrasada, cruda",
+    "alias": [
+      "harina de soja"
+    ]
+  },
+  "172447": {
+    "nombre": "Concentrado de proteína de soya, extracción con alcohol",
+    "alias": []
+  },
+  "172448": {
+    "nombre": "Tofu firme, preparado con sulfato de calcio y cloruro de magnesio (nigari)",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "172449": {
+    "nombre": "Tofu suave, preparado con sulfato de calcio y cloruro de magnesio (nigari)",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "172450": {
+    "nombre": "Tofu seco-congelado (koyadofu)",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "172452": {
+    "nombre": "Okara (pulpa de soya)",
+    "alias": []
+  },
+  "172453": {
+    "nombre": "Frijol alado, semillas maduras, cocido, hervido, sin sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "172454": {
+    "nombre": "Hummus, casero",
+    "alias": [
+      "humus",
+      "hummus",
+      "crema de garbanzo"
+    ]
+  },
+  "172456": {
+    "nombre": "Bebida de soya, original y vainilla, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "172457": {
+    "nombre": "Pasta untable de cacahuate (maní), reducida en azúcar",
+    "alias": [
+      "crema de cacahuate",
+      "mantequilla de mani"
+    ]
+  },
+  "172458": {
+    "nombre": "Crema de cacahuate (maní) suave, reducida en grasa",
+    "alias": [
+      "crema de cacahuate",
+      "mantequilla de mani"
+    ]
+  },
+  "172459": {
+    "nombre": "Crema de cacahuate (maní) suave, fortificada con vitaminas y minerales",
+    "alias": [
+      "crema de cacahuate",
+      "mantequilla de mani"
+    ]
+  },
+  "172460": {
+    "nombre": "Crema de cacahuate (maní) con trozos, fortificada con vitaminas y minerales",
+    "alias": [
+      "crema de cacahuate",
+      "mantequilla de mani"
+    ]
+  },
+  "172465": {
+    "nombre": "Frijoles refritos, enlatados, sin grasa",
+    "alias": [
+      "frijoles volteados",
+      "frijoles fritos"
+    ]
+  },
+  "172466": {
+    "nombre": "Frijoles rojos refritos (volteados), enlatados",
+    "alias": [
+      "frijoles volteados",
+      "frijoles fritos"
+    ]
+  },
+  "172467": {
+    "nombre": "Tempeh, cocido",
+    "alias": []
+  },
+  "172469": {
+    "nombre": "Crema de cacahuate (maní) con trozos, sin sal",
+    "alias": [
+      "crema de cacahuate",
+      "mantequilla de mani"
+    ]
+  },
+  "172470": {
+    "nombre": "Crema de cacahuate (maní) suave, sin sal",
+    "alias": [
+      "crema de cacahuate",
+      "mantequilla de mani"
+    ]
+  },
+  "172471": {
+    "nombre": "Crema de cacahuate (maní) cremosa, con omega-3",
+    "alias": [
+      "crema de cacahuate",
+      "mantequilla de mani"
+    ]
+  },
+  "172472": {
+    "nombre": "Gandules (guandú), semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "guandul",
+      "guandules",
+      "frijol de palo"
+    ]
+  },
+  "172473": {
+    "nombre": "Salsa de soya (shoyu) de soya y trigo, baja en sodio",
+    "alias": [
+      "salsa de soja"
+    ]
+  },
+  "172474": {
+    "nombre": "Salsa de soya reducida en sodio, de proteína vegetal hidrolizada",
+    "alias": [
+      "salsa de soja"
+    ]
+  },
+  "172477": {
+    "nombre": "Frijol alado, semillas maduras, cocido, hervido, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
   "172879": {
     "nombre": "Salsa de ciruela, lista para servir",
     "alias": []
@@ -2687,6 +3045,244 @@
       "salmon enlatado"
     ]
   },
+  "173727": {
+    "nombre": "Frijoles adzuki, semillas maduras, crudos",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173729": {
+    "nombre": "Frijoles adzuki, semillas maduras, enlatados, endulzados",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173730": {
+    "nombre": "Yokan (dulce japonés de frijol adzuki y azúcar)",
+    "alias": []
+  },
+  "173731": {
+    "nombre": "Frijoles horneados, caseros",
+    "alias": [
+      "frijoles al horno",
+      "alubias"
+    ]
+  },
+  "173732": {
+    "nombre": "Frijoles horneados, enlatados, con cerdo y salsa dulce",
+    "alias": [
+      "frijoles al horno",
+      "alubias"
+    ]
+  },
+  "173733": {
+    "nombre": "Frijoles horneados, enlatados, con cerdo y salsa de tomate",
+    "alias": [
+      "frijoles al horno",
+      "alubias"
+    ]
+  },
+  "173736": {
+    "nombre": "Frijoles cranberry (romano), semillas maduras, cocidos, hervidos, sin sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173737": {
+    "nombre": "Frijoles cranberry (romano), semillas maduras, enlatados",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173742": {
+    "nombre": "Frijoles rojos (kidney) tipo California, semillas maduras, crudos",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173743": {
+    "nombre": "Frijoles rojos (kidney) tipo California, semillas maduras, cocidos, hervidos, sin sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173754": {
+    "nombre": "Habas, semillas maduras, enlatadas",
+    "alias": [
+      "habas secas"
+    ]
+  },
+  "173755": {
+    "nombre": "Harina de algarroba",
+    "alias": []
+  },
+  "173758": {
+    "nombre": "Caupí (frijol de ojo negro), semillas maduras, crudo",
+    "alias": [
+      "frijol caupi",
+      "frijol de carita",
+      "ojo de cabra"
+    ]
+  },
+  "173760": {
+    "nombre": "Caupí (frijol de ojo negro), semillas maduras, enlatado, natural",
+    "alias": [
+      "frijol caupi",
+      "frijol de carita",
+      "ojo de cabra"
+    ]
+  },
+  "173761": {
+    "nombre": "Caupí (frijol de ojo negro), semillas maduras, enlatado, con cerdo",
+    "alias": [
+      "frijol caupi",
+      "frijol de carita",
+      "ojo de cabra"
+    ]
+  },
+  "173766": {
+    "nombre": "Bebida de soya, original y vainilla, ligera, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "173767": {
+    "nombre": "Bebida de soya, chocolate y otros sabores, ligera, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "173768": {
+    "nombre": "Bebida de soya, original y vainilla, ligera, sin azúcar, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "173769": {
+    "nombre": "Bebida de soya, todos los sabores, baja en grasa, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "173789": {
+    "nombre": "Frijoles adzuki, semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173793": {
+    "nombre": "Frijoles rojos (kidney) tipo California, semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173798": {
+    "nombre": "Habas, semillas maduras, cocidas, hervidas, con sal",
+    "alias": [
+      "habas secas"
+    ]
+  },
+  "173799": {
+    "nombre": "Garbanzos, semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "garbanzos"
+    ]
+  },
+  "173801": {
+    "nombre": "Garbanzos, semillas maduras, enlatados, escurridos y enjuagados con agua de la llave",
+    "alias": [
+      "garbanzos"
+    ]
+  },
+  "173803": {
+    "nombre": "Frijoles de lima (pallares) pequeños, semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "pallares",
+      "alubias de lima"
+    ]
+  },
+  "173804": {
+    "nombre": "Altramuces (chochos), semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "lupinos",
+      "chochos",
+      "tarwi"
+    ]
+  },
+  "173805": {
+    "nombre": "Frijol polilla (moth bean), semillas maduras, cocido, hervido, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "173806": {
+    "nombre": "Cacahuates (maní) de todos los tipos, tostados en seco, sin sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "173807": {
+    "nombre": "Cacahuates (maní) tipo Spanish, tostados en aceite, sin sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "173808": {
+    "nombre": "Cacahuates (maní) tipo Valencia, tostados en aceite, sin sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "173809": {
+    "nombre": "Cacahuates (maní) tipo Virginia, tostados en aceite, sin sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
   "174062": {
     "nombre": "Chowder de almejas estilo Nueva Inglaterra, enlatado, listo para servir",
     "alias": [
@@ -3108,6 +3704,201 @@
   "174251": {
     "nombre": "Reloj anaranjado (orange roughy), cocido con calor seco",
     "alias": []
+  },
+  "174255": {
+    "nombre": "Frijoles de lima (pallares) pequeños, semillas maduras, crudos",
+    "alias": [
+      "pallares",
+      "alubias de lima"
+    ]
+  },
+  "174258": {
+    "nombre": "Fideos chinos transparentes (de frijol mungo), deshidratados",
+    "alias": [
+      "fideos de celofan"
+    ]
+  },
+  "174259": {
+    "nombre": "Frijol mungo negro (urad), semillas maduras, crudo",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "174261": {
+    "nombre": "Cacahuates (maní) de todos los tipos, tostados en aceite, con sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "174263": {
+    "nombre": "Cacahuates (maní) tipo Spanish, crudos",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "174264": {
+    "nombre": "Cacahuates (maní) tipo Virginia, tostados en aceite, con sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
+  },
+  "174265": {
+    "nombre": "Crema de cacahuate (maní) con trozos, con sal",
+    "alias": [
+      "crema de cacahuate",
+      "mantequilla de mani"
+    ]
+  },
+  "174267": {
+    "nombre": "Harina de cacahuate (maní), desgrasada",
+    "alias": []
+  },
+  "174268": {
+    "nombre": "Extensor de carne",
+    "alias": []
+  },
+  "174269": {
+    "nombre": "Salchicha vegetariana (sin carne)",
+    "alias": []
+  },
+  "174274": {
+    "nombre": "Harina de soya, con toda su grasa, tostada",
+    "alias": [
+      "harina de soja"
+    ]
+  },
+  "174275": {
+    "nombre": "Harina de soya, desgrasada",
+    "alias": [
+      "harina de soja"
+    ]
+  },
+  "174278": {
+    "nombre": "Salsa de soya sin trigo (tamari)",
+    "alias": [
+      "salsa de soja"
+    ]
+  },
+  "174279": {
+    "nombre": "Salsa de soya de proteína vegetal hidrolizada",
+    "alias": [
+      "salsa de soja"
+    ]
+  },
+  "174280": {
+    "nombre": "Tofu salado y fermentado (fuyu)",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "174281": {
+    "nombre": "Frijol espárrago (yardlong), semillas maduras, crudo",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "174282": {
+    "nombre": "Frijol espárrago (yardlong), semillas maduras, cocido, hervido, sin sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "174283": {
+    "nombre": "Frijol alado, semillas maduras, crudo",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "174284": {
+    "nombre": "Lentejas rojas o rosadas, crudas",
+    "alias": []
+  },
+  "174287": {
+    "nombre": "Hamburguesas vegetarianas o de soya, sin preparar",
+    "alias": [
+      "hamburguesas veganas"
+    ]
+  },
+  "174290": {
+    "nombre": "Tofu extra firme, preparado con nigari",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "174291": {
+    "nombre": "Tofu duro, preparado con nigari",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "174295": {
+    "nombre": "Bebida de soya de chocolate, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "174298": {
+    "nombre": "Frijoles refritos, enlatados, tradicionales, reducidos en sodio",
+    "alias": [
+      "frijoles volteados",
+      "frijoles fritos"
+    ]
+  },
+  "174301": {
+    "nombre": "Concentrado de proteína de soya, lavado con ácido",
+    "alias": []
+  },
+  "174302": {
+    "nombre": "Aislado de proteína de soya, tipo potásico",
+    "alias": []
+  },
+  "174303": {
+    "nombre": "Tofu seco-congelado (koyadofu), preparado con sulfato de calcio",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "174304": {
+    "nombre": "Tofu frito, preparado con sulfato de calcio",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "174305": {
+    "nombre": "Tofu salado y fermentado (fuyu), preparado con sulfato de calcio",
+    "alias": [
+      "tofu"
+    ]
+  },
+  "174306": {
+    "nombre": "Frijol espárrago (yardlong), semillas maduras, cocido, hervido, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
   },
   "174522": {
     "nombre": "Sopa de pollo con champiñones, enlatada, condensada (sin diluir)",
@@ -3691,5 +4482,239 @@
   "175181": {
     "nombre": "Trucha de arroyo (brook), cruda",
     "alias": []
+  },
+  "175183": {
+    "nombre": "Frijoles horneados, enlatados, con carne de res",
+    "alias": [
+      "frijoles al horno",
+      "alubias"
+    ]
+  },
+  "175184": {
+    "nombre": "Frijoles horneados, enlatados, con salchichas",
+    "alias": [
+      "frijoles al horno",
+      "alubias"
+    ]
+  },
+  "175185": {
+    "nombre": "Frijoles horneados, enlatados, con cerdo",
+    "alias": [
+      "frijoles al horno",
+      "alubias"
+    ]
+  },
+  "175186": {
+    "nombre": "Frijoles negros, semillas maduras, crudos",
+    "alias": [
+      "porotos negros",
+      "caraotas negras"
+    ]
+  },
+  "175187": {
+    "nombre": "Frijoles negros, semillas maduras, cocidos, hervidos, sin sal",
+    "alias": [
+      "porotos negros",
+      "caraotas negras"
+    ]
+  },
+  "175188": {
+    "nombre": "Frijoles negros, semillas maduras, enlatados",
+    "alias": [
+      "porotos negros",
+      "caraotas negras"
+    ]
+  },
+  "175189": {
+    "nombre": "Frijoles cranberry (romano), semillas maduras, crudos",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175196": {
+    "nombre": "Frijoles rojos (kidney) tipo royal red, semillas maduras, crudos",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175197": {
+    "nombre": "Frijoles rojos (kidney) tipo royal red, semillas maduras, cocidos, hervidos, sin sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175205": {
+    "nombre": "Habas, semillas maduras, crudas",
+    "alias": [
+      "habas secas"
+    ]
+  },
+  "175206": {
+    "nombre": "Garbanzos, semillas maduras, enlatados, sólidos y líquido",
+    "alias": [
+      "garbanzos"
+    ]
+  },
+  "175207": {
+    "nombre": "Chili con frijoles, enlatado",
+    "alias": [
+      "chile con carne"
+    ]
+  },
+  "175208": {
+    "nombre": "Caupí catjang, semillas maduras, crudo",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "175209": {
+    "nombre": "Caupí catjang, semillas maduras, cocido, hervido, sin sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "175210": {
+    "nombre": "Frijol jacinto (lablab), semillas maduras, crudo",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175211": {
+    "nombre": "Frijol jacinto (lablab), semillas maduras, cocido, hervido, sin sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175215": {
+    "nombre": "Bebida de soya, todos los sabores, sin azúcar, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "175216": {
+    "nombre": "Bebida de soya, todos los sabores, sin grasa, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "175217": {
+    "nombre": "Bebida de soya de chocolate, sin grasa, con calcio y vitaminas A y D añadidos",
+    "alias": [
+      "bebida de soya",
+      "leche de soya"
+    ]
+  },
+  "175239": {
+    "nombre": "Frijoles negros, semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "porotos negros",
+      "caraotas negras"
+    ]
+  },
+  "175240": {
+    "nombre": "Frijoles cranberry (romano), semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175244": {
+    "nombre": "Frijoles rojos (kidney) tipo royal red, semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175245": {
+    "nombre": "Frijoles rojos (kidney), semillas maduras, enlatados, sólidos y líquido, bajos en sodio",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175250": {
+    "nombre": "Garbanzos, semillas maduras, enlatados, sólidos y líquido, bajos en sodio",
+    "alias": [
+      "garbanzos"
+    ]
+  },
+  "175251": {
+    "nombre": "Caupí catjang, semillas maduras, cocido, hervido, con sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "175252": {
+    "nombre": "Caupí (frijol de ojo negro), semillas maduras, cocido, hervido, con sal",
+    "alias": [
+      "frijol caupi",
+      "frijol de carita",
+      "ojo de cabra"
+    ]
+  },
+  "175253": {
+    "nombre": "Frijol jacinto (lablab), semillas maduras, cocido, hervido, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175256": {
+    "nombre": "Frijol mungo negro (urad), semillas maduras, cocido, hervido, con sal",
+    "alias": [
+      "frijoles",
+      "porotos",
+      "judias",
+      "caraotas",
+      "habichuelas"
+    ]
+  },
+  "175257": {
+    "nombre": "Chícharos partidos, semillas maduras, cocidos, hervidos, con sal",
+    "alias": [
+      "arvejas partidas",
+      "guisantes partidos"
+    ]
+  },
+  "175258": {
+    "nombre": "Cacahuates (maní) de todos los tipos, tostados en aceite, sin sal",
+    "alias": [
+      "cacahuates",
+      "mani"
+    ]
   }
 }
