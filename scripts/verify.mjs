@@ -8,11 +8,14 @@
 import { readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { calcular } from './recetas.mjs';
+import { SPEC } from './esquema.mjs';
 const here = dirname(fileURLToPath(import.meta.url));
 const read = f => readFileSync(join(here, '..', 'data', f), 'utf8');
 const niveles = [
   { nombre: 'nucleo', json: JSON.parse(read('alimentos.json')), csv: read('alimentos.csv').trim().split('\n'), pcsv: read('porciones.csv').trim().split('\n'), prefijo: 'es-' },
-  { nombre: 'extendido', json: JSON.parse(read('extendido.json')), csv: read('extendido.csv').trim().split('\n'), pcsv: read('porciones_extendido.csv').trim().split('\n'), prefijo: 'ex-' }
+  { nombre: 'extendido', json: JSON.parse(read('extendido.json')), csv: read('extendido.csv').trim().split('\n'), pcsv: read('porciones_extendido.csv').trim().split('\n'), prefijo: 'ex-' },
+  { nombre: 'receta', json: JSON.parse(read('recetas.json')), csv: read('recetas.csv').trim().split('\n'), pcsv: read('porciones_recetas.csv').trim().split('\n'), prefijo: 'rc-' }
 ];
 const fail = [], aviso = [], avisoGrasa = [];
 
@@ -34,6 +37,30 @@ const TOPE = {
   colesterol_mg: 5000, sodio_mg: 40000, potasio_mg: 20000, calcio_mg: 10000, hierro_mg: 200, magnesio_mg: 2000, fosforo_mg: 15000, zinc_mg: 300,
   vitamina_a_ug: 30000, vitamina_c_mg: 6000, vitamina_d_ug: 500, vitamina_e_mg: 500, vitamina_k_ug: 5000, vitamina_b12_ug: 500, folato_ug: 10000, cafeina_mg: 6000
 };
+// Recetas: se RECALCULAN desde sus ingredientes y se comparan con lo guardado. Si no coinciden, el archivo está
+// desactualizado (se cambió el núcleo o src/recetas.json y no se volvió a ejecutar build-recetas.mjs).
+const nucleoPorFdc = new Map(niveles[0].json.alimentos.map(a => [a.fdc_id, a]));
+const extendidoPorFdc = new Map(niveles[1].json.alimentos.map(a => [a.fdc_id, a]));
+function verificarReceta(a, fail) {
+  const r = a.receta, w = a.nombre;
+  if (!r || r.estimacion !== true) { fail.push(`${w}: una receta debe llevar estimacion: true`); return; }
+  if (!r.metodo || !r.paises?.length) fail.push(`${w}: falta el método o los países`);
+  if (!r.ingredientes?.length) { fail.push(`${w}: sin ingredientes`); return; }
+  const resolver = ing => nucleoPorFdc.get(ing.fdc_id) || extendidoPorFdc.get(ing.fdc_id);
+  const ings = r.ingredientes.map(i => ({ alimento: i.alimento, fdc_id: i.fdc_id, g: i.gramos }));
+  for (const i of ings) if (!resolver(i)) { fail.push(`${w}: el ingrediente ${i.alimento} (fdc_id ${i.fdc_id}) no existe en los datos`); return; }
+  const c = calcular({ nombre: w, raciones: r.raciones, peso_final_g: r.peso_final_g, ingredientes: ings }, resolver);
+  for (const k of Object.keys(SPEC)) {
+    if (c.por_100g[k] !== a[k]) fail.push(`${w}: ${k} por 100 g guardado (${a[k]}) no coincide con el recalculado (${c.por_100g[k]}): ejecuta scripts/build-recetas.mjs`);
+    if (c.por_racion[k] !== r.por_racion[k]) fail.push(`${w}: ${k} por ración guardado no coincide con el recalculado: ejecuta scripts/build-recetas.mjs`);
+  }
+  if (c.ratio_peso < 0.5 || c.ratio_peso > 2.5) fail.push(`${w}: el peso final (${r.peso_final_g} g) es ${c.ratio_peso}× la suma de ingredientes (${c.suma_ingredientes_g} g): fuera de lo creíble`);
+  if (!(c.peso_racion_g >= 20 && c.peso_racion_g <= 2000)) fail.push(`${w}: ración de ${c.peso_racion_g} g`);
+  if (!(a.energia_kcal >= 20 && a.energia_kcal <= 900)) fail.push(`${w}: ${a.energia_kcal} kcal por 100 g`);
+  const kr = r.por_racion.energia_kcal;
+  if (!(kr >= 30 && kr <= 2500)) fail.push(`${w}: ${kr} kcal por ración`);
+}
+
 const ids = new Set(), names = new Set(), fdc = new Set();
 const NUCL = ['energia_kcal', 'proteina_g', 'carbohidratos_g', 'grasas_g'];
 const estados = { curada: 0, automatica: 0, pendiente: 0 }; let total = 0, totalPorc = 0;
@@ -43,22 +70,24 @@ for (const nv of niveles) {
   if (nv.json.nivel !== nv.nombre) fail.push(`${nv.nombre}: el JSON dice que es el nivel "${nv.json.nivel}"`);
   for (const a of alimentos) {
     const w = a.nombre ?? a.descripcion_usda;
+    if (nv.nombre === 'receta') verificarReceta(a, fail);
     total++;
     if (ids.has(a.id)) fail.push('id repetido: ' + a.id); ids.add(a.id);
     if (!a.id.startsWith(nv.prefijo)) fail.push(`id con prefijo equivocado en ${nv.nombre}: ${a.id}`);
-    if (fdc.has(a.fdc_id)) fail.push(`fdc_id repetido (${a.fdc_id}): ${w}`); fdc.add(a.fdc_id);
-    if (!a.descripcion_usda) fail.push('falta la descripción de la USDA: ' + a.id);
+    if (a.fdc_id != null) { if (fdc.has(a.fdc_id)) fail.push(`fdc_id repetido (${a.fdc_id}): ${w}`); fdc.add(a.fdc_id); }
+    else if (nv.nombre !== 'receta') fail.push('falta el fdc_id: ' + a.id);
+    if (!a.descripcion_usda && nv.nombre !== 'receta') fail.push('falta la descripción de la USDA: ' + a.id);
     if (a.nivel !== nv.nombre) fail.push(`nivel incoherente (${a.nivel}): ${w}`);
     if (!a.categoria) fail.push('sin categoría: ' + w);
     if (!(a.traduccion in estados)) fail.push(`traduccion desconocida (${a.traduccion}): ${w}`); else estados[a.traduccion]++;
     if (a.traduccion === 'pendiente' ? a.nombre !== null : !a.nombre || a.nombre.length < 3) fail.push(`nombre incoherente con traduccion=${a.traduccion}: ${w}`);
-    if (nv.nombre === 'nucleo' && a.traduccion !== 'curada') fail.push('el núcleo solo puede ser "curada": ' + w);
+    if (nv.nombre !== 'extendido' && a.traduccion !== 'curada') fail.push('el núcleo y las recetas solo pueden ser "curada": ' + w);
     if (a.traduccion === 'curada' || a.traduccion === 'automatica') {
       if (names.has(a.nombre)) fail.push('nombre repetido: ' + a.nombre); names.add(a.nombre);
     }
     for (const [k, max] of Object.entries(TOPE)) {
       if (!(k in a)) { fail.push(`falta la columna ${k}: ${w}`); continue; }
-      if (a[k] == null) { if (nv.nombre === 'nucleo' && NUCL.includes(k)) fail.push(`${k} vacío: ${w}`); continue; }
+      if (a[k] == null) { if (nv.nombre !== 'extendido' && NUCL.includes(k)) fail.push(`${k} vacío: ${w}`); continue; }
       if (!(a[k] >= 0 && a[k] <= max)) fail.push(`${k} fuera de rango (${a[k]}): ${w}`);
     }
     const n = k => a[k] ?? 0;

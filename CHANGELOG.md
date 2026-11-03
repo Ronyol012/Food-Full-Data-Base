@@ -1,5 +1,21 @@
 # Cambios
 
+## 0.4.0 — 2026-11-03
+
+**Platos regionales calculados.**
+
+- **28 recetas** (`data/recetas.*`, `src/recetas.json`) de Venezuela, Colombia, Costa Rica, Nicaragua, Honduras, México,
+  Puerto Rico, República Dominicana, España, Perú, Argentina, Chile y Uruguay. Cada una lista sus ingredientes en
+  gramos y sus nutrientes se calculan sumando los del núcleo. Mismo esquema que un alimento (por 100 g + "1 ración").
+- **Son estimaciones**: recetas estándar simplificadas, peso final estimado, sin pérdidas por cocción. Un nutriente no
+  medido en algún ingrediente queda en `null` en el plato.
+- El **agua** de un plato se calcula por conservación de la masa (peso final menos lo que no es agua), no sumando el agua
+  de los ingredientes.
+- `verify.mjs` recalcula cada receta desde sus ingredientes y falla si el archivo está desactualizado.
+- `scripts/esquema.mjs`: el esquema nutricional, compartido entre `build.mjs` y `build-recetas.mjs`. Regenerar el núcleo y
+  el extendido con el refactor produce datos idénticos a 0.3.0 (solo cambia el número de versión).
+- Pruebas del calculador de recetas, incluida la regla de "no medido".
+
 ## 0.3.0 — 2026-11-03
 
 **Todo SR Legacy, en dos niveles.** Ahora el dataset cubre los 7.793 alimentos de USDA SR Legacy.

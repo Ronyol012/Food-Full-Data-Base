@@ -1,22 +1,23 @@
 # Alimentos ES
 
 Composición de alimentos **en español**, en dos niveles: un **núcleo de 875** alimentos comunes con nombre curado y un
-**nivel extendido con los otros 6.918** de USDA SR Legacy (7.793 en total). Calorías, macros y **más de 20 nutrientes**
+**nivel extendido con los otros 6.918** de USDA SR Legacy (7.793 en total), más **28 platos regionales calculados**. Calorías, macros y **más de 20 nutrientes**
 por 100 g, y **14.431 porciones** en gramos ("1 huevo grande = 50 g"), en CSV y JSON. Libre para usar, también en productos comerciales, citando la fuente
 ([CC BY 4.0](LICENSE)). **Datos: CC BY 4.0. Código (`scripts/`): [MIT](LICENSE-CODE).**
 
-> **Versión 0.3.0 — en revisión.** Ningún nombre ha sido revisado todavía por hablantes nativos. Del total,
+> **Versión 0.4.0 — en revisión.** Ningún nombre ha sido revisado todavía por hablantes nativos. Del total,
 > **875 tienen nombre curado a mano, 674 un nombre automático y 6.244 siguen sin traducir** (se identifican por su
 > descripción original en inglés). Ver [REVISION.md](REVISION.md): ayuda bienvenida.
 
 ## Qué hay
 
-Dos **niveles** con exactamente las mismas columnas, para que se puedan concatenar:
+Tres **niveles** con exactamente las mismas columnas, para que se puedan concatenar:
 
 | Nivel | Qué es | Alimentos | Archivos |
 |---|---|---|---|
 | **Núcleo** | Los alimentos cotidianos, con nombre en español escrito a mano y alias regionales | 875 | `data/alimentos.csv`, `data/alimentos.json`, `data/porciones.csv` |
 | **Extendido** | El resto de SR Legacy | 6.918 | `data/extendido.csv`, `data/extendido.json`, `data/porciones_extendido.csv` |
+| **Recetas** | Platos regionales calculados desde sus ingredientes (**estimaciones**) | 28 | `data/recetas.csv`, `data/recetas.json`, `data/porciones_recetas.csv`, `data/recetas_ingredientes.csv`, `data/recetas_detalle.csv` |
 
 Otros archivos: `src/lista.json` (el núcleo: nombre en español → descripción **exacta** de la USDA), `src/traducciones.json`
 (nombres aportados a mano para el nivel extendido), `src/vocabulario.json` y `src/categorias.json`, y en `scripts/` el
@@ -39,6 +40,30 @@ está en `src/vocabulario.json`, y hace concordar género y número ("Frijoles, 
 solo segmento no está, devuelve `null` y el alimento queda `pendiente`: no se traduce a medias ni se adivina. Se excluyen
 las marcas, y por eso lo más frecuente en `pendiente` son los cortes de res, cerdo, cordero y ternera (cuyo nombre
 cambia según el país), la comida infantil, las bebidas, las botanas y las cadenas de comida rápida.
+
+### Recetas (platos regionales)
+
+28 platos (pabellón criollo, arepas, gallo pinto, casado, baleadas, tacos, chilaquiles, pozole, mofongo, tortilla
+española, lomo saltado, milanesa, empanadas…) **calculados sumando los nutrientes de sus ingredientes**, que ya están en
+el núcleo. Tienen el mismo esquema que un alimento (valores por 100 g y una porción "1 ración"), así que se tratan igual.
+
+- `data/recetas.csv` / `recetas.json`: los platos, con las mismas columnas que `alimentos.csv` (`nivel` = `receta`).
+  En el JSON, cada plato trae además `receta`: países, raciones, peso final, método, nota, ingredientes en gramos y los
+  nutrientes **por ración**.
+- `data/recetas_ingredientes.csv`: una fila por ingrediente (`receta_id`, `alimento`, `fdc_id`, `gramos`).
+- `data/recetas_detalle.csv`: países, raciones, pesos, método y nota de cada plato.
+
+**Son estimaciones, y hay que leerlas como tales:**
+- Son recetas **estándar y simplificadas**, escritas por este proyecto: no son las de nadie en particular, y cada país y
+  cada casa las prepara distinto. Cada una lleva una `nota` con lo que simplifica.
+- El **peso final** es una estimación (incluye el agua añadida y descuenta la que se evapora). El **agua** del plato se
+  calcula por conservación de la masa, no sumando el agua de los ingredientes.
+- **No se descuentan pérdidas de nutrientes** por cocción (vitaminas, etc.).
+- Siempre que se puede se usan ingredientes **ya cocinados** (arroz cocido, frijoles cocidos) para no tener que estimar
+  cuánto agua se pierde al cocinar.
+- **Un nutriente que algún ingrediente no tiene medido queda en `null` en el plato**; no se suma solo lo medido.
+- `verify.mjs` **recalcula cada receta** desde sus ingredientes y falla si lo guardado no coincide, para que ningún
+  archivo quede desactualizado al cambiar el núcleo.
 
 ### Categoría (`categoria`)
 
@@ -98,7 +123,7 @@ masculino ("taza, picado") porque describen el alimento, no la unidad.
 Desde GitHub, sin instalar nada (jsDelivr sirve los archivos con CORS):
 
 ```js
-const r = await fetch('https://cdn.jsdelivr.net/gh/Ronyol012/Food-Full-Data-Base@v0.3.0/data/alimentos.json');
+const r = await fetch('https://cdn.jsdelivr.net/gh/Ronyol012/Food-Full-Data-Base@v0.4.0/data/alimentos.json');
 const { alimentos } = await r.json();      // el núcleo; el extendido está en data/extendido.json
 const pollo = alimentos.find(a => a.nombre.startsWith('Pechuga de pollo, cocida'));
 // → { energia_kcal: 165, proteina_g: 31, carbohidratos_g: 0, grasas_g: 3.6, … }
@@ -110,7 +135,7 @@ df = pd.read_csv('data/alimentos.csv')
 df[df.nombre.str.contains('arepa', case=False)]
 ```
 
-Fija siempre una versión (`@v0.3.0`) en lugar de `@main`: los nombres pueden corregirse entre versiones.
+Fija siempre una versión (`@v0.4.0`) en lugar de `@main`: los nombres pueden corregirse entre versiones.
 
 ## Origen de los datos y licencia
 
@@ -122,7 +147,7 @@ Fija siempre una versión (`@v0.3.0`) en lugar de `@main`: los nombres pueden co
 
 ### Cómo citarlo
 
-> Alimentos ES (v0.3.0). Composición de alimentos en español, a partir de USDA FoodData Central, SR Legacy.
+> Alimentos ES (v0.4.0). Composición de alimentos en español, a partir de USDA FoodData Central, SR Legacy.
 > CC BY 4.0. https://github.com/Ronyol012/Food-Full-Data-Base
 
 Hay un archivo [CITATION.cff](CITATION.cff) que GitHub muestra como "Cite this repository".
@@ -147,7 +172,8 @@ Hay un archivo [CITATION.cff](CITATION.cff) que GitHub muestra como "Cite this r
 ## Reconstruirlo
 
 1. Descarga **SR Legacy → CSV** de <https://fdc.nal.usda.gov/download-datasets/> y descomprímelo.
-2. `node scripts/build.mjs /ruta/a/FoodData_Central_sr_legacy_food_csv_2018-04` (genera los dos niveles)
+2. `node scripts/build.mjs /ruta/a/FoodData_Central_sr_legacy_food_csv_2018-04` (genera núcleo y extendido)
+   `node scripts/build-recetas.mjs` (genera las recetas; no necesita la USDA)
 3. `node scripts/verify.mjs` y `node --test test/*.test.mjs`
 
 (El zip de Foundation Foods publicado en octubre de 2026 trae solo tablas de laboratorio, sin `food.csv` ni
@@ -162,11 +188,11 @@ que uses a menudo.
 
 ## In English
 
-**Alimentos ES** is a free, Spanish-language food composition table in two tiers: a **core of 875** everyday foods with
+**Alimentos ES** is a free, Spanish-language food composition table in two tiers plus 28 calculated regional dishes (estimates): a **core of 875** everyday foods with
 hand-written Spanish names, and an **extended tier with the other 6,918** foods of USDA SR Legacy (7,793 in total), with
 energy, macros and 20+ nutrients per 100 g and 14,431 portion sizes in grams (CSV and JSON). Each food has a `traduccion`
 status: 875 `curada`, 674 `automatica` (closed vocabulary), 6,244 `pendiente` (not translated; use `descripcion_usda`). A blank cell means *not measured*, not 0. Nutrient values come from the USDA FoodData Central
 SR Legacy dataset (public domain, CC0 1.0); the Spanish names, aliases and curation are licensed
 **CC BY 4.0**. Every row keeps the exact USDA description and `fdc_id`, so it can be traced and extended.
-Version 0.3.0: the translations are unreviewed by native speakers from different countries — see
+Version 0.4.0: the translations are unreviewed by native speakers from different countries — see
 [REVISION.md](REVISION.md). Not nutritional or medical advice.

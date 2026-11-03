@@ -2,12 +2,12 @@ cff-version: 1.2.0
 message: "Si usas este dataset, cítalo así."
 title: "Alimentos ES: composición de alimentos en español"
 type: dataset
-version: 0.3.0
+version: 0.4.0
 date-released: 2026-11-03
 license: CC-BY-4.0
 authors:
   - name: "Ronyol012 y colaboradores"
-abstract: "7.793 alimentos de USDA SR Legacy en dos niveles (núcleo de 875 con nombre curado y nivel extendido), con energía, macros y más de 20 nutrientes por 100 g y 14.431 porciones. Nombres en español: 875 curados, 674 automáticos y 6.244 pendientes de traducir. Valores de USDA FoodData Central, SR Legacy (dominio público); nombres, alias y selección bajo CC BY 4.0."
+abstract: "7.793 alimentos de USDA SR Legacy en dos niveles (núcleo de 875 con nombre curado y nivel extendido), con energía, macros y más de 20 nutrientes por 100 g y 14.431 porciones. Nombres en español: 875 curados, 674 automáticos y 6.244 pendientes de traducir. Incluye 28 platos regionales calculados (estimaciones). Valores de USDA FoodData Central, SR Legacy (dominio público); nombres, alias y selección bajo CC BY 4.0."
 repository-code: "https://github.com/Ronyol012/Food-Full-Data-Base"
 keywords:
   - food composition

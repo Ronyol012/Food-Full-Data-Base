@@ -1,0 +1,3549 @@
+{
+ "version": "0.4.0",
+ "por": "100 g",
+ "licencia": "CC BY 4.0",
+ "nivel": "receta",
+ "fuente": "Recetas estándar simplificadas de este proyecto: ingredientes en gramos, nutrientes calculados con los valores del núcleo (USDA SR Legacy).",
+ "nota": "ESTIMACIONES. No descuentan pérdidas de nutrientes por cocción y el peso final es una estimación. Un nutriente en null no está medido en algún ingrediente: no es 0.",
+ "alimentos": [
+  {
+   "id": "rc-0001",
+   "fdc_id": null,
+   "nombre": "Arepa de maíz (2 unidades)",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 166,
+   "proteina_g": 3.3,
+   "carbohidratos_g": 31.4,
+   "grasas_g": 3.5,
+   "agua_g": 60.72,
+   "fibra_g": 2.98,
+   "azucares_g": 0.26,
+   "grasa_saturada_g": 0.53,
+   "grasa_monoinsaturada_g": 0.85,
+   "grasa_poliinsaturada_g": 1.85,
+   "grasa_trans_g": null,
+   "colesterol_mg": 0,
+   "sodio_mg": 251.6,
+   "potasio_mg": 117.2,
+   "calcio_mg": 2.6,
+   "hierro_mg": 1.41,
+   "magnesio_mg": 51.8,
+   "fosforo_mg": 98.4,
+   "zinc_mg": 0.74,
+   "vitamina_a_ug": 4.5,
+   "vitamina_c_mg": 0,
+   "vitamina_d_ug": 0,
+   "vitamina_e_mg": 0.34,
+   "vitamina_k_ug": 3.9,
+   "vitamina_b12_ug": 0,
+   "folato_ug": 10.2,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "arepas"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 245
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Venezuela",
+     "Colombia"
+    ],
+    "raciones": 1,
+    "peso_final_g": 245,
+    "peso_racion_g": 245,
+    "estimacion": true,
+    "metodo": "Mezclar la harina con unos 160 g de agua y la sal, formar dos arepas y dorarlas en plancha o sartén.",
+    "nota": "Se usa harina de maíz común: la harina precocida para arepas tiene valores muy parecidos pero no es idéntica. El agua no aporta nutrientes pero cuenta en el peso final.",
+    "ingredientes": [
+     {
+      "alimento": "Harina de maíz amarilla (cornmeal)",
+      "fdc_id": 169697,
+      "gramos": 100
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 5
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1.5
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 406,
+     "proteina_g": 8.1,
+     "carbohidratos_g": 76.9,
+     "grasas_g": 8.6,
+     "agua_g": 148.76,
+     "fibra_g": 7.3,
+     "azucares_g": 0.64,
+     "grasa_saturada_g": 1.29,
+     "grasa_monoinsaturada_g": 2.09,
+     "grasa_poliinsaturada_g": 4.53,
+     "grasa_trans_g": null,
+     "colesterol_mg": 0,
+     "sodio_mg": 616.4,
+     "potasio_mg": 287.1,
+     "calcio_mg": 6.4,
+     "hierro_mg": 3.46,
+     "magnesio_mg": 127,
+     "fosforo_mg": 241,
+     "zinc_mg": 1.82,
+     "vitamina_a_ug": 11,
+     "vitamina_c_mg": 0,
+     "vitamina_d_ug": 0,
+     "vitamina_e_mg": 0.83,
+     "vitamina_k_ug": 9.5,
+     "vitamina_b12_ug": 0,
+     "folato_ug": 25,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0002",
+   "fdc_id": null,
+   "nombre": "Arepa con queso (1 unidad)",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 224,
+   "proteina_g": 7.7,
+   "carbohidratos_g": 24.9,
+   "grasas_g": 10.9,
+   "agua_g": 54.53,
+   "fibra_g": 2.28,
+   "azucares_g": 0.85,
+   "grasa_saturada_g": 5.73,
+   "grasa_monoinsaturada_g": 2.76,
+   "grasa_poliinsaturada_g": 0.94,
+   "grasa_trans_g": null,
+   "colesterol_mg": 27.5,
+   "sodio_mg": 488.5,
+   "potasio_mg": 126.9,
+   "calcio_mg": 162.1,
+   "hierro_mg": 1.14,
+   "magnesio_mg": 46.5,
+   "fosforo_mg": 184.5,
+   "zinc_mg": 1.3,
+   "vitamina_a_ug": 92.1,
+   "vitamina_c_mg": 0,
+   "vitamina_d_ug": 0.8,
+   "vitamina_e_mg": 0.32,
+   "vitamina_k_ug": 0.6,
+   "vitamina_b12_ug": 0.48,
+   "folato_ug": 9.9,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 160
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Venezuela",
+     "Colombia"
+    ],
+    "raciones": 1,
+    "peso_final_g": 160,
+    "peso_racion_g": 160,
+    "estimacion": true,
+    "metodo": "Una arepa de 50 g de harina, abierta y rellena con queso fresco y mantequilla.",
+    "nota": "Simplificada: el queso y la mantequilla pueden variar mucho.",
+    "ingredientes": [
+     {
+      "alimento": "Harina de maíz amarilla (cornmeal)",
+      "fdc_id": 169697,
+      "gramos": 50
+     },
+     {
+      "alimento": "Queso fresco",
+      "fdc_id": 172223,
+      "gramos": 45
+     },
+     {
+      "alimento": "Mantequilla",
+      "fdc_id": 173410,
+      "gramos": 6
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 359,
+     "proteina_g": 12.2,
+     "carbohidratos_g": 39.8,
+     "grasas_g": 17.4,
+     "agua_g": 87.24,
+     "fibra_g": 3.65,
+     "azucares_g": 1.37,
+     "grasa_saturada_g": 9.16,
+     "grasa_monoinsaturada_g": 4.42,
+     "grasa_poliinsaturada_g": 1.5,
+     "grasa_trans_g": null,
+     "colesterol_mg": 44,
+     "sodio_mg": 781.6,
+     "potasio_mg": 203.1,
+     "calcio_mg": 259.4,
+     "hierro_mg": 1.82,
+     "magnesio_mg": 74.4,
+     "fosforo_mg": 295.2,
+     "zinc_mg": 2.08,
+     "vitamina_a_ug": 147.3,
+     "vitamina_c_mg": 0,
+     "vitamina_d_ug": 1.2,
+     "vitamina_e_mg": 0.52,
+     "vitamina_k_ug": 1,
+     "vitamina_b12_ug": 0.77,
+     "folato_ug": 15.8,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0003",
+   "fdc_id": null,
+   "nombre": "Pabellón criollo",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 163,
+   "proteina_g": 10.2,
+   "carbohidratos_g": 19.1,
+   "grasas_g": 4.9,
+   "agua_g": 65.04,
+   "fibra_g": 2.4,
+   "azucares_g": 3.76,
+   "grasa_saturada_g": 1.26,
+   "grasa_monoinsaturada_g": 1.53,
+   "grasa_poliinsaturada_g": 1.54,
+   "grasa_trans_g": null,
+   "colesterol_mg": null,
+   "sodio_mg": 121.6,
+   "potasio_mg": 234.6,
+   "calcio_mg": 13.7,
+   "hierro_mg": 1.49,
+   "magnesio_mg": 29.3,
+   "fosforo_mg": 92.5,
+   "zinc_mg": 2.13,
+   "vitamina_a_ug": 16.5,
+   "vitamina_c_mg": null,
+   "vitamina_d_ug": null,
+   "vitamina_e_mg": 0.66,
+   "vitamina_k_ug": 9.7,
+   "vitamina_b12_ug": null,
+   "folato_ug": null,
+   "alcohol_g": null,
+   "cafeina_mg": null,
+   "alias": [
+    "pabellon",
+    "caraotas",
+    "carne mechada"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 540
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Venezuela"
+    ],
+    "raciones": 1,
+    "peso_final_g": 540,
+    "peso_racion_g": 540,
+    "estimacion": true,
+    "metodo": "Arroz blanco, caraotas negras, carne mechada con sofrito y tajadas de plátano maduro frito.",
+    "nota": "La carne mechada se aproxima con carne de res guisada (otro corte, sin deshilachar). El sofrito se añade en crudo con su aceite.",
+    "ingredientes": [
+     {
+      "alimento": "Arroz blanco, cocido",
+      "fdc_id": 168878,
+      "gramos": 150
+     },
+     {
+      "alimento": "Frijoles negros, cocidos",
+      "fdc_id": 173735,
+      "gramos": 100
+     },
+     {
+      "alimento": "Carne de res guisada",
+      "fdc_id": 170615,
+      "gramos": 120
+     },
+     {
+      "alimento": "Plátano macho, maduro, frito",
+      "fdc_id": 168200,
+      "gramos": 80
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 25
+     },
+     {
+      "alimento": "Pimiento rojo, crudo",
+      "fdc_id": 170108,
+      "gramos": 15
+     },
+     {
+      "alimento": "Tomate (jitomate), crudo",
+      "fdc_id": 170457,
+      "gramos": 30
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 10
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1.5
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 878,
+     "proteina_g": 54.8,
+     "carbohidratos_g": 103,
+     "grasas_g": 26.3,
+     "agua_g": 351.2,
+     "fibra_g": 12.96,
+     "azucares_g": 20.28,
+     "grasa_saturada_g": 6.79,
+     "grasa_monoinsaturada_g": 8.26,
+     "grasa_poliinsaturada_g": 8.33,
+     "grasa_trans_g": null,
+     "colesterol_mg": null,
+     "sodio_mg": 656.6,
+     "potasio_mg": 1266.9,
+     "calcio_mg": 73.8,
+     "hierro_mg": 8.07,
+     "magnesio_mg": 158,
+     "fosforo_mg": 499.6,
+     "zinc_mg": 11.53,
+     "vitamina_a_ug": 89,
+     "vitamina_c_mg": null,
+     "vitamina_d_ug": null,
+     "vitamina_e_mg": 3.56,
+     "vitamina_k_ug": 52.3,
+     "vitamina_b12_ug": null,
+     "folato_ug": null,
+     "alcohol_g": null,
+     "cafeina_mg": null
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g",
+     "colesterol_mg",
+     "vitamina_c_mg",
+     "vitamina_d_ug",
+     "vitamina_b12_ug",
+     "folato_ug",
+     "alcohol_g",
+     "cafeina_mg"
+    ]
+   }
+  },
+  {
+   "id": "rc-0004",
+   "fdc_id": null,
+   "nombre": "Bandeja paisa (versión sencilla)",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 167,
+   "proteina_g": 9.2,
+   "carbohidratos_g": 14.7,
+   "grasas_g": 7.8,
+   "agua_g": 67.03,
+   "fibra_g": 2.14,
+   "azucares_g": 2.16,
+   "grasa_saturada_g": 2.13,
+   "grasa_monoinsaturada_g": 3.37,
+   "grasa_poliinsaturada_g": 1.63,
+   "grasa_trans_g": null,
+   "colesterol_mg": null,
+   "sodio_mg": 201.5,
+   "potasio_mg": 222.7,
+   "calcio_mg": 17.6,
+   "hierro_mg": 1.35,
+   "magnesio_mg": 20.7,
+   "fosforo_mg": 87.2,
+   "zinc_mg": 1.25,
+   "vitamina_a_ug": 25,
+   "vitamina_c_mg": null,
+   "vitamina_d_ug": null,
+   "vitamina_e_mg": 0.59,
+   "vitamina_k_ug": 9.1,
+   "vitamina_b12_ug": null,
+   "folato_ug": null,
+   "alcohol_g": null,
+   "cafeina_mg": null,
+   "alias": [
+    "bandeja paisa"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 650
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Colombia"
+    ],
+    "raciones": 1,
+    "peso_final_g": 650,
+    "peso_racion_g": 650,
+    "estimacion": true,
+    "metodo": "Arroz, frijoles, carne molida, chicharrón, huevo frito, plátano maduro y aguacate en un mismo plato.",
+    "nota": "La bandeja paisa completa lleva también chorizo, arepa y morcilla; aquí es una versión reducida.",
+    "ingredientes": [
+     {
+      "alimento": "Arroz blanco, cocido",
+      "fdc_id": 168878,
+      "gramos": 150
+     },
+     {
+      "alimento": "Frijoles rojos, cocidos",
+      "fdc_id": 175194,
+      "gramos": 100
+     },
+     {
+      "alimento": "Carne molida de res, cocida",
+      "fdc_id": 172161,
+      "gramos": 80
+     },
+     {
+      "alimento": "Chicharrón de cerdo",
+      "fdc_id": 167961,
+      "gramos": 30
+     },
+     {
+      "alimento": "Huevo frito",
+      "fdc_id": 173423,
+      "gramos": 50
+     },
+     {
+      "alimento": "Plátano macho, maduro, frito",
+      "fdc_id": 168200,
+      "gramos": 60
+     },
+     {
+      "alimento": "Aguacate (palta)",
+      "fdc_id": 171705,
+      "gramos": 60
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 8
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1.5
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 1084,
+     "proteina_g": 60.1,
+     "carbohidratos_g": 95.6,
+     "grasas_g": 50.7,
+     "agua_g": 435.69,
+     "fibra_g": 13.94,
+     "azucares_g": 14.05,
+     "grasa_saturada_g": 13.86,
+     "grasa_monoinsaturada_g": 21.91,
+     "grasa_poliinsaturada_g": 10.59,
+     "grasa_trans_g": null,
+     "colesterol_mg": null,
+     "sodio_mg": 1309.6,
+     "potasio_mg": 1447.3,
+     "calcio_mg": 114.2,
+     "hierro_mg": 8.8,
+     "magnesio_mg": 134.8,
+     "fosforo_mg": 566.9,
+     "zinc_mg": 8.15,
+     "vitamina_a_ug": 162.5,
+     "vitamina_c_mg": null,
+     "vitamina_d_ug": null,
+     "vitamina_e_mg": 3.8,
+     "vitamina_k_ug": 59,
+     "vitamina_b12_ug": null,
+     "folato_ug": null,
+     "alcohol_g": null,
+     "cafeina_mg": null
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g",
+     "colesterol_mg",
+     "vitamina_c_mg",
+     "vitamina_d_ug",
+     "vitamina_b12_ug",
+     "folato_ug",
+     "alcohol_g",
+     "cafeina_mg"
+    ]
+   }
+  },
+  {
+   "id": "rc-0005",
+   "fdc_id": null,
+   "nombre": "Arroz con pollo",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 146,
+   "proteina_g": 8.9,
+   "carbohidratos_g": 15.9,
+   "grasas_g": 4.9,
+   "agua_g": 69.57,
+   "fibra_g": 0.96,
+   "azucares_g": 1.12,
+   "grasa_saturada_g": 1.08,
+   "grasa_monoinsaturada_g": 1.55,
+   "grasa_poliinsaturada_g": 1.92,
+   "grasa_trans_g": null,
+   "colesterol_mg": 38,
+   "sodio_mg": 173.9,
+   "potasio_mg": 147.6,
+   "calcio_mg": 12.9,
+   "hierro_mg": 1.06,
+   "magnesio_mg": 17.2,
+   "fosforo_mg": 99.6,
+   "zinc_mg": 0.9,
+   "vitamina_a_ug": 73.5,
+   "vitamina_c_mg": 7.6,
+   "vitamina_d_ug": 0.1,
+   "vitamina_e_mg": 0.43,
+   "vitamina_k_ug": 8.6,
+   "vitamina_b12_ug": 0.12,
+   "folato_ug": 56,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 420
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Colombia",
+     "Venezuela",
+     "Perú"
+    ],
+    "raciones": 1,
+    "peso_final_g": 420,
+    "peso_racion_g": 420,
+    "estimacion": true,
+    "metodo": "Arroz con trozos de pollo, verduras y sofrito, en un mismo plato.",
+    "nota": "Cada país lo prepara distinto (cilantro, cerveza, achiote…); aquí es una base común.",
+    "ingredientes": [
+     {
+      "alimento": "Arroz blanco, cocido",
+      "fdc_id": 168878,
+      "gramos": 200
+     },
+     {
+      "alimento": "Muslo de pollo, cocido",
+      "fdc_id": 172388,
+      "gramos": 120
+     },
+     {
+      "alimento": "Zanahoria, cocida",
+      "fdc_id": 170394,
+      "gramos": 30
+     },
+     {
+      "alimento": "Guisantes / arvejas, cocidos",
+      "fdc_id": 170420,
+      "gramos": 30
+     },
+     {
+      "alimento": "Pimiento rojo, crudo",
+      "fdc_id": 170108,
+      "gramos": 20
+     },
+     {
+      "alimento": "Cebolla, cocida",
+      "fdc_id": 170001,
+      "gramos": 20
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 10
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1.5
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 613,
+     "proteina_g": 37.5,
+     "carbohidratos_g": 66.8,
+     "grasas_g": 20.7,
+     "agua_g": 292.21,
+     "fibra_g": 4.05,
+     "azucares_g": 4.7,
+     "grasa_saturada_g": 4.54,
+     "grasa_monoinsaturada_g": 6.51,
+     "grasa_poliinsaturada_g": 8.08,
+     "grasa_trans_g": null,
+     "colesterol_mg": 159.6,
+     "sodio_mg": 730.3,
+     "potasio_mg": 620.1,
+     "calcio_mg": 54.1,
+     "hierro_mg": 4.46,
+     "magnesio_mg": 72.1,
+     "fosforo_mg": 418.3,
+     "zinc_mg": 3.8,
+     "vitamina_a_ug": 308.6,
+     "vitamina_c_mg": 31.9,
+     "vitamina_d_ug": 0.2,
+     "vitamina_e_mg": 1.79,
+     "vitamina_k_ug": 36,
+     "vitamina_b12_ug": 0.5,
+     "folato_ug": 235.3,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0006",
+   "fdc_id": null,
+   "nombre": "Gallo pinto",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 137,
+   "proteina_g": 4.9,
+   "carbohidratos_g": 23.3,
+   "grasas_g": 2.7,
+   "agua_g": 68,
+   "fibra_g": 3.8,
+   "azucares_g": 0.5,
+   "grasa_saturada_g": 0.47,
+   "grasa_monoinsaturada_g": 0.6,
+   "grasa_poliinsaturada_g": 1.49,
+   "grasa_trans_g": null,
+   "colesterol_mg": 0,
+   "sodio_mg": 153.7,
+   "potasio_mg": 177.3,
+   "calcio_mg": 17.9,
+   "hierro_mg": 1.44,
+   "magnesio_mg": 34.4,
+   "fosforo_mg": 78.2,
+   "zinc_mg": 0.69,
+   "vitamina_a_ug": 4.7,
+   "vitamina_c_mg": 3.9,
+   "vitamina_d_ug": 0,
+   "vitamina_e_mg": 0.6,
+   "vitamina_k_ug": 9.6,
+   "vitamina_b12_ug": 0,
+   "folato_ug": 106.3,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "gallo pinto"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 255
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Costa Rica",
+     "Nicaragua"
+    ],
+    "raciones": 1,
+    "peso_final_g": 255,
+    "peso_racion_g": 255,
+    "estimacion": true,
+    "metodo": "Arroz y frijoles negros salteados con sofrito de cebolla, pimiento y cilantro.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Arroz blanco, cocido",
+      "fdc_id": 168878,
+      "gramos": 120
+     },
+     {
+      "alimento": "Frijoles negros, cocidos",
+      "fdc_id": 173735,
+      "gramos": 100
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 6
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 15
+     },
+     {
+      "alimento": "Pimiento verde, crudo",
+      "fdc_id": 170427,
+      "gramos": 10
+     },
+     {
+      "alimento": "Cilantro, fresco",
+      "fdc_id": 169997,
+      "gramos": 3
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 350,
+     "proteina_g": 12.5,
+     "carbohidratos_g": 59.5,
+     "grasas_g": 6.9,
+     "agua_g": 173.39,
+     "fibra_g": 9.69,
+     "azucares_g": 1.28,
+     "grasa_saturada_g": 1.19,
+     "grasa_monoinsaturada_g": 1.54,
+     "grasa_poliinsaturada_g": 3.8,
+     "grasa_trans_g": null,
+     "colesterol_mg": 0,
+     "sodio_mg": 392.1,
+     "potasio_mg": 452.1,
+     "calcio_mg": 45.7,
+     "hierro_mg": 3.66,
+     "magnesio_mg": 87.7,
+     "fosforo_mg": 199.4,
+     "zinc_mg": 1.76,
+     "vitamina_a_ug": 11.9,
+     "vitamina_c_mg": 10,
+     "vitamina_d_ug": 0,
+     "vitamina_e_mg": 1.52,
+     "vitamina_k_ug": 24.4,
+     "vitamina_b12_ug": 0,
+     "folato_ug": 271.1,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0007",
+   "fdc_id": null,
+   "nombre": "Casado costarricense",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 126,
+   "proteina_g": 8.3,
+   "carbohidratos_g": 17.2,
+   "grasas_g": 2.6,
+   "agua_g": 71.16,
+   "fibra_g": 2.08,
+   "azucares_g": 2.97,
+   "grasa_saturada_g": 0.6,
+   "grasa_monoinsaturada_g": 0.76,
+   "grasa_poliinsaturada_g": 1.03,
+   "grasa_trans_g": null,
+   "colesterol_mg": null,
+   "sodio_mg": 87.3,
+   "potasio_mg": 225.2,
+   "calcio_mg": 12.4,
+   "hierro_mg": 0.88,
+   "magnesio_mg": 27.5,
+   "fosforo_mg": 91.9,
+   "zinc_mg": 0.54,
+   "vitamina_a_ug": 12.3,
+   "vitamina_c_mg": null,
+   "vitamina_d_ug": null,
+   "vitamina_e_mg": 0.5,
+   "vitamina_k_ug": 12.2,
+   "vitamina_b12_ug": null,
+   "folato_ug": null,
+   "alcohol_g": null,
+   "cafeina_mg": null,
+   "alias": [
+    "casado"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 520
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Costa Rica"
+    ],
+    "raciones": 1,
+    "peso_final_g": 520,
+    "peso_racion_g": 520,
+    "estimacion": true,
+    "metodo": "Arroz, frijoles, pollo a la plancha, plátano maduro frito y ensalada de repollo y tomate.",
+    "nota": "El casado cambia con la proteína que lleve (carne, pescado); aquí se usa pollo.",
+    "ingredientes": [
+     {
+      "alimento": "Arroz blanco, cocido",
+      "fdc_id": 168878,
+      "gramos": 150
+     },
+     {
+      "alimento": "Frijoles negros, cocidos",
+      "fdc_id": 173735,
+      "gramos": 80
+     },
+     {
+      "alimento": "Pechuga de pollo a la plancha",
+      "fdc_id": 171534,
+      "gramos": 100
+     },
+     {
+      "alimento": "Plátano macho, maduro, frito",
+      "fdc_id": 168200,
+      "gramos": 60
+     },
+     {
+      "alimento": "Repollo / col, crudo",
+      "fdc_id": 169975,
+      "gramos": 40
+     },
+     {
+      "alimento": "Tomate (jitomate), crudo",
+      "fdc_id": 170457,
+      "gramos": 30
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 5
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 653,
+     "proteina_g": 43.3,
+     "carbohidratos_g": 89.2,
+     "grasas_g": 13.7,
+     "agua_g": 370.05,
+     "fibra_g": 10.84,
+     "azucares_g": 15.46,
+     "grasa_saturada_g": 3.12,
+     "grasa_monoinsaturada_g": 3.93,
+     "grasa_poliinsaturada_g": 5.35,
+     "grasa_trans_g": null,
+     "colesterol_mg": null,
+     "sodio_mg": 454.2,
+     "potasio_mg": 1170.9,
+     "calcio_mg": 64.4,
+     "hierro_mg": 4.58,
+     "magnesio_mg": 143.1,
+     "fosforo_mg": 477.9,
+     "zinc_mg": 2.8,
+     "vitamina_a_ug": 64.2,
+     "vitamina_c_mg": null,
+     "vitamina_d_ug": null,
+     "vitamina_e_mg": 2.59,
+     "vitamina_k_ug": 63.7,
+     "vitamina_b12_ug": null,
+     "folato_ug": null,
+     "alcohol_g": null,
+     "cafeina_mg": null
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g",
+     "colesterol_mg",
+     "vitamina_c_mg",
+     "vitamina_d_ug",
+     "vitamina_b12_ug",
+     "folato_ug",
+     "alcohol_g",
+     "cafeina_mg"
+    ]
+   }
+  },
+  {
+   "id": "rc-0008",
+   "fdc_id": null,
+   "nombre": "Baleadas (2 unidades)",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 223,
+   "proteina_g": 8.1,
+   "carbohidratos_g": 26.9,
+   "grasas_g": 9.5,
+   "agua_g": 53.27,
+   "fibra_g": 2.35,
+   "azucares_g": 2.03,
+   "grasa_saturada_g": 3.69,
+   "grasa_monoinsaturada_g": 3.19,
+   "grasa_poliinsaturada_g": 1.36,
+   "grasa_trans_g": 0.22,
+   "colesterol_mg": 16.2,
+   "sodio_mg": 560.8,
+   "potasio_mg": 202.8,
+   "calcio_mg": 171.9,
+   "hierro_mg": 1.97,
+   "magnesio_mg": 26,
+   "fosforo_mg": 187.3,
+   "zinc_mg": 0.86,
+   "vitamina_a_ug": 45.3,
+   "vitamina_c_mg": 2.2,
+   "vitamina_d_ug": 0.4,
+   "vitamina_e_mg": 0.49,
+   "vitamina_k_ug": 2.9,
+   "vitamina_b12_ug": 0.26,
+   "folato_ug": 86.1,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "baleada"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 280
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Honduras"
+    ],
+    "raciones": 1,
+    "peso_final_g": 280,
+    "peso_racion_g": 280,
+    "estimacion": true,
+    "metodo": "Dos tortillas de harina rellenas de frijoles refritos, queso y crema.",
+    "nota": "Se usan frijoles refritos enlatados y crema agria como aproximación.",
+    "ingredientes": [
+     {
+      "alimento": "Tortilla de harina",
+      "fdc_id": 167535,
+      "gramos": 120
+     },
+     {
+      "alimento": "Frijoles refritos (enlatados)",
+      "fdc_id": 172438,
+      "gramos": 100
+     },
+     {
+      "alimento": "Queso fresco",
+      "fdc_id": 172223,
+      "gramos": 40
+     },
+     {
+      "alimento": "Crema agria (crema ácida)",
+      "fdc_id": 171257,
+      "gramos": 30
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 625,
+     "proteina_g": 22.6,
+     "carbohidratos_g": 75.3,
+     "grasas_g": 26.5,
+     "agua_g": 149.16,
+     "fibra_g": 6.58,
+     "azucares_g": 5.68,
+     "grasa_saturada_g": 10.32,
+     "grasa_monoinsaturada_g": 8.92,
+     "grasa_poliinsaturada_g": 3.8,
+     "grasa_trans_g": 0.6,
+     "colesterol_mg": 45.3,
+     "sodio_mg": 1570.1,
+     "potasio_mg": 567.7,
+     "calcio_mg": 481.3,
+     "hierro_mg": 5.53,
+     "magnesio_mg": 72.8,
+     "fosforo_mg": 524.4,
+     "zinc_mg": 2.4,
+     "vitamina_a_ug": 126.8,
+     "vitamina_c_mg": 6.3,
+     "vitamina_d_ug": 1.1,
+     "vitamina_e_mg": 1.38,
+     "vitamina_k_ug": 8,
+     "vitamina_b12_ug": 0.74,
+     "folato_ug": 241.2,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": []
+   }
+  },
+  {
+   "id": "rc-0009",
+   "fdc_id": null,
+   "nombre": "Tacos de carne asada (3 unidades)",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 171,
+   "proteina_g": 15.4,
+   "carbohidratos_g": 16,
+   "grasas_g": 5,
+   "agua_g": 63.04,
+   "fibra_g": 2.44,
+   "azucares_g": 1.19,
+   "grasa_saturada_g": 1.8,
+   "grasa_monoinsaturada_g": 1.8,
+   "grasa_poliinsaturada_g": 0.61,
+   "grasa_trans_g": null,
+   "colesterol_mg": 38.4,
+   "sodio_mg": 151.2,
+   "potasio_mg": 282.2,
+   "calcio_mg": 37.9,
+   "hierro_mg": 1.41,
+   "magnesio_mg": 37.7,
+   "fosforo_mg": 208.7,
+   "zinc_mg": 2.92,
+   "vitamina_a_ug": 9.5,
+   "vitamina_c_mg": 3.8,
+   "vitamina_d_ug": null,
+   "vitamina_e_mg": 0.39,
+   "vitamina_k_ug": 9.8,
+   "vitamina_b12_ug": 0.84,
+   "folato_ug": 10.5,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "tacos de arrachera",
+    "tacos de carne asada"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 250
+    }
+   ],
+   "receta": {
+    "paises": [
+     "México"
+    ],
+    "raciones": 1,
+    "peso_final_g": 250,
+    "peso_racion_g": 250,
+    "estimacion": true,
+    "metodo": "Tres tortillas de maíz con carne asada picada, cebolla, cilantro, limón y salsa.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Tortilla de maíz",
+      "fdc_id": 175036,
+      "gramos": 78
+     },
+     {
+      "alimento": "Falda de res (flank), asada",
+      "fdc_id": 168611,
+      "gramos": 120
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 25
+     },
+     {
+      "alimento": "Cilantro, fresco",
+      "fdc_id": 169997,
+      "gramos": 6
+     },
+     {
+      "alimento": "Jugo de lima",
+      "fdc_id": 168156,
+      "gramos": 8
+     },
+     {
+      "alimento": "Salsa verde",
+      "fdc_id": 171824,
+      "gramos": 30
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 428,
+     "proteina_g": 38.6,
+     "carbohidratos_g": 39.9,
+     "grasas_g": 12.6,
+     "agua_g": 157.6,
+     "fibra_g": 6.11,
+     "azucares_g": 2.98,
+     "grasa_saturada_g": 4.5,
+     "grasa_monoinsaturada_g": 4.49,
+     "grasa_poliinsaturada_g": 1.51,
+     "grasa_trans_g": null,
+     "colesterol_mg": 96,
+     "sodio_mg": 378,
+     "potasio_mg": 705.5,
+     "calcio_mg": 94.8,
+     "hierro_mg": 3.53,
+     "magnesio_mg": 94.2,
+     "fosforo_mg": 521.7,
+     "zinc_mg": 7.31,
+     "vitamina_a_ug": 23.7,
+     "vitamina_c_mg": 9.6,
+     "vitamina_d_ug": null,
+     "vitamina_e_mg": 0.98,
+     "vitamina_k_ug": 24.5,
+     "vitamina_b12_ug": 2.09,
+     "folato_ug": 26.4,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g",
+     "vitamina_d_ug"
+    ]
+   }
+  },
+  {
+   "id": "rc-0010",
+   "fdc_id": null,
+   "nombre": "Tacos al pastor (3 unidades)",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 167,
+   "proteina_g": 12.6,
+   "carbohidratos_g": 16,
+   "grasas_g": 6,
+   "agua_g": 64.55,
+   "fibra_g": 2.41,
+   "azucares_g": 2.15,
+   "grasa_saturada_g": 1.67,
+   "grasa_monoinsaturada_g": 2.15,
+   "grasa_poliinsaturada_g": 1.55,
+   "grasa_trans_g": null,
+   "colesterol_mg": 30,
+   "sodio_mg": 136.7,
+   "potasio_mg": 277.1,
+   "calcio_mg": 36.1,
+   "hierro_mg": 0.92,
+   "magnesio_mg": 36.1,
+   "fosforo_mg": 192.1,
+   "zinc_mg": 1.38,
+   "vitamina_a_ug": 9.8,
+   "vitamina_c_mg": 8.2,
+   "vitamina_d_ug": 0.3,
+   "vitamina_e_mg": 0.38,
+   "vitamina_k_ug": 11.2,
+   "vitamina_b12_ug": 0.27,
+   "folato_ug": 7.8,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 270
+    }
+   ],
+   "receta": {
+    "paises": [
+     "México"
+    ],
+    "raciones": 1,
+    "peso_final_g": 270,
+    "peso_racion_g": 270,
+    "estimacion": true,
+    "metodo": "Tres tortillas con cerdo asado marinado, piña, cebolla, cilantro y salsa.",
+    "nota": "El adobo no se desglosa en ingredientes; el cerdo es lomo asado.",
+    "ingredientes": [
+     {
+      "alimento": "Tortilla de maíz",
+      "fdc_id": 175036,
+      "gramos": 78
+     },
+     {
+      "alimento": "Cerdo, lomo asado",
+      "fdc_id": 168233,
+      "gramos": 100
+     },
+     {
+      "alimento": "Piña",
+      "fdc_id": 169124,
+      "gramos": 30
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 25
+     },
+     {
+      "alimento": "Cilantro, fresco",
+      "fdc_id": 169997,
+      "gramos": 6
+     },
+     {
+      "alimento": "Salsa verde",
+      "fdc_id": 171824,
+      "gramos": 30
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 4
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 452,
+     "proteina_g": 33.9,
+     "carbohidratos_g": 43.2,
+     "grasas_g": 16.2,
+     "agua_g": 174.28,
+     "fibra_g": 6.5,
+     "azucares_g": 5.8,
+     "grasa_saturada_g": 4.5,
+     "grasa_monoinsaturada_g": 5.79,
+     "grasa_poliinsaturada_g": 4.2,
+     "grasa_trans_g": null,
+     "colesterol_mg": 81,
+     "sodio_mg": 369,
+     "potasio_mg": 748.2,
+     "calcio_mg": 97.6,
+     "hierro_mg": 2.49,
+     "magnesio_mg": 97.5,
+     "fosforo_mg": 518.8,
+     "zinc_mg": 3.74,
+     "vitamina_a_ug": 26.4,
+     "vitamina_c_mg": 22.1,
+     "vitamina_d_ug": 0.7,
+     "vitamina_e_mg": 1.04,
+     "vitamina_k_ug": 30.3,
+     "vitamina_b12_ug": 0.73,
+     "folato_ug": 21.2,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0011",
+   "fdc_id": null,
+   "nombre": "Chilaquiles verdes con pollo",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 193,
+   "proteina_g": 11.2,
+   "carbohidratos_g": 17.2,
+   "grasas_g": 8.9,
+   "agua_g": 60.95,
+   "fibra_g": 1.93,
+   "azucares_g": 2.05,
+   "grasa_saturada_g": 2.8,
+   "grasa_monoinsaturada_g": 2.35,
+   "grasa_poliinsaturada_g": 2.48,
+   "grasa_trans_g": null,
+   "colesterol_mg": 32.1,
+   "sodio_mg": 540.9,
+   "potasio_mg": 215.9,
+   "calcio_mg": 91.2,
+   "hierro_mg": 0.82,
+   "magnesio_mg": 34.7,
+   "fosforo_mg": 161.8,
+   "zinc_mg": 0.93,
+   "vitamina_a_ug": 31.6,
+   "vitamina_c_mg": 5.4,
+   "vitamina_d_ug": 0.1,
+   "vitamina_e_mg": 1,
+   "vitamina_k_ug": 9.9,
+   "vitamina_b12_ug": 0.3,
+   "folato_ug": 8.5,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "chilaquiles"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 300
+    }
+   ],
+   "receta": {
+    "paises": [
+     "México"
+    ],
+    "raciones": 1,
+    "peso_final_g": 300,
+    "peso_racion_g": 300,
+    "estimacion": true,
+    "metodo": "Totopos bañados en salsa verde con pollo deshebrado, crema, queso y cebolla.",
+    "nota": "Los totopos son de bolsa (fritos).",
+    "ingredientes": [
+     {
+      "alimento": "Nachos (totopos)",
+      "fdc_id": 167558,
+      "gramos": 60
+     },
+     {
+      "alimento": "Salsa verde",
+      "fdc_id": 171824,
+      "gramos": 120
+     },
+     {
+      "alimento": "Pechuga de pollo hervida",
+      "fdc_id": 171478,
+      "gramos": 80
+     },
+     {
+      "alimento": "Crema agria (crema ácida)",
+      "fdc_id": 171257,
+      "gramos": 25
+     },
+     {
+      "alimento": "Queso cotija",
+      "fdc_id": 170898,
+      "gramos": 20
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 15
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 578,
+     "proteina_g": 33.5,
+     "carbohidratos_g": 51.7,
+     "grasas_g": 26.8,
+     "agua_g": 182.86,
+     "fibra_g": 5.78,
+     "azucares_g": 6.16,
+     "grasa_saturada_g": 8.41,
+     "grasa_monoinsaturada_g": 7.04,
+     "grasa_poliinsaturada_g": 7.43,
+     "grasa_trans_g": null,
+     "colesterol_mg": 96.4,
+     "sodio_mg": 1622.8,
+     "potasio_mg": 647.8,
+     "calcio_mg": 273.5,
+     "hierro_mg": 2.44,
+     "magnesio_mg": 104,
+     "fosforo_mg": 485.4,
+     "zinc_mg": 2.79,
+     "vitamina_a_ug": 94.8,
+     "vitamina_c_mg": 16.1,
+     "vitamina_d_ug": 0.2,
+     "vitamina_e_mg": 3,
+     "vitamina_k_ug": 29.8,
+     "vitamina_b12_ug": 0.9,
+     "folato_ug": 25.5,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0012",
+   "fdc_id": null,
+   "nombre": "Huevos rancheros",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 127,
+   "proteina_g": 6.1,
+   "carbohidratos_g": 11.1,
+   "grasas_g": 6.6,
+   "agua_g": 74.89,
+   "fibra_g": 2.11,
+   "azucares_g": 1.06,
+   "grasa_saturada_g": 1.67,
+   "grasa_monoinsaturada_g": 2.33,
+   "grasa_poliinsaturada_g": 2.1,
+   "grasa_trans_g": null,
+   "colesterol_mg": 114.6,
+   "sodio_mg": 272.3,
+   "potasio_mg": 191.1,
+   "calcio_mg": 41.5,
+   "hierro_mg": 1.12,
+   "magnesio_mg": 25,
+   "fosforo_mg": 134.8,
+   "zinc_mg": 0.76,
+   "vitamina_a_ug": 66.5,
+   "vitamina_c_mg": 1.7,
+   "vitamina_d_ug": 0.6,
+   "vitamina_e_mg": 0.77,
+   "vitamina_k_ug": 5.4,
+   "vitamina_b12_ug": 0.28,
+   "folato_ug": 18.5,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "huevos rancheros"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 350
+    }
+   ],
+   "receta": {
+    "paises": [
+     "México"
+    ],
+    "raciones": 1,
+    "peso_final_g": 350,
+    "peso_racion_g": 350,
+    "estimacion": true,
+    "metodo": "Dos huevos fritos sobre tortillas de maíz con salsa, acompañados de frijoles refritos.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Huevo frito",
+      "fdc_id": 173423,
+      "gramos": 100
+     },
+     {
+      "alimento": "Tortilla de maíz",
+      "fdc_id": 175036,
+      "gramos": 52
+     },
+     {
+      "alimento": "Frijoles refritos (enlatados)",
+      "fdc_id": 172438,
+      "gramos": 80
+     },
+     {
+      "alimento": "Salsa mexicana (pico de gallo)",
+      "fdc_id": 174524,
+      "gramos": 60
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 5
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 443,
+     "proteina_g": 21.5,
+     "carbohidratos_g": 38.8,
+     "grasas_g": 23,
+     "agua_g": 262.1,
+     "fibra_g": 7.38,
+     "azucares_g": 3.7,
+     "grasa_saturada_g": 5.85,
+     "grasa_monoinsaturada_g": 8.17,
+     "grasa_poliinsaturada_g": 7.36,
+     "grasa_trans_g": null,
+     "colesterol_mg": 401,
+     "sodio_mg": 953,
+     "potasio_mg": 668.9,
+     "calcio_mg": 145.3,
+     "hierro_mg": 3.94,
+     "magnesio_mg": 87.4,
+     "fosforo_mg": 471.7,
+     "zinc_mg": 2.64,
+     "vitamina_a_ug": 232.8,
+     "vitamina_c_mg": 5.9,
+     "vitamina_d_ug": 2.2,
+     "vitamina_e_mg": 2.7,
+     "vitamina_k_ug": 19.1,
+     "vitamina_b12_ug": 0.97,
+     "folato_ug": 64.8,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0013",
+   "fdc_id": null,
+   "nombre": "Quesadillas de queso (2 unidades)",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 321,
+   "proteina_g": 12.7,
+   "carbohidratos_g": 30.4,
+   "grasas_g": 15.6,
+   "agua_g": 38.19,
+   "fibra_g": 1.41,
+   "azucares_g": 1.56,
+   "grasa_saturada_g": 6.33,
+   "grasa_monoinsaturada_g": 5.61,
+   "grasa_poliinsaturada_g": 2.92,
+   "grasa_trans_g": null,
+   "colesterol_mg": 37.1,
+   "sodio_mg": 650.7,
+   "potasio_mg": 108.6,
+   "calcio_mg": 329.2,
+   "hierro_mg": 2.13,
+   "magnesio_mg": 21.5,
+   "fosforo_mg": 281.6,
+   "zinc_mg": 1.4,
+   "vitamina_a_ug": 19.4,
+   "vitamina_c_mg": 0,
+   "vitamina_d_ug": 0.2,
+   "vitamina_e_mg": 0.78,
+   "vitamina_k_ug": 7.6,
+   "vitamina_b12_ug": 0.35,
+   "folato_ug": 113.4,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "quesadilla"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 170
+    }
+   ],
+   "receta": {
+    "paises": [
+     "México"
+    ],
+    "raciones": 1,
+    "peso_final_g": 170,
+    "peso_racion_g": 170,
+    "estimacion": true,
+    "metodo": "Dos tortillas de harina rellenas de queso para fundir y doradas en sartén.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Tortilla de harina",
+      "fdc_id": 167535,
+      "gramos": 100
+     },
+     {
+      "alimento": "Queso asadero",
+      "fdc_id": 173437,
+      "gramos": 60
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 4
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 546,
+     "proteina_g": 21.6,
+     "carbohidratos_g": 51.8,
+     "grasas_g": 26.6,
+     "agua_g": 64.93,
+     "fibra_g": 2.4,
+     "azucares_g": 2.66,
+     "grasa_saturada_g": 10.77,
+     "grasa_monoinsaturada_g": 9.54,
+     "grasa_poliinsaturada_g": 4.97,
+     "grasa_trans_g": null,
+     "colesterol_mg": 63,
+     "sodio_mg": 1106.2,
+     "potasio_mg": 184.6,
+     "calcio_mg": 559.6,
+     "hierro_mg": 3.63,
+     "magnesio_mg": 36.6,
+     "fosforo_mg": 478.8,
+     "zinc_mg": 2.38,
+     "vitamina_a_ug": 33,
+     "vitamina_c_mg": 0,
+     "vitamina_d_ug": 0.3,
+     "vitamina_e_mg": 1.33,
+     "vitamina_k_ug": 13,
+     "vitamina_b12_ug": 0.6,
+     "folato_ug": 192.8,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0014",
+   "fdc_id": null,
+   "nombre": "Guacamole",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 111,
+   "proteina_g": 1.6,
+   "carbohidratos_g": 7.5,
+   "grasas_g": 9.4,
+   "agua_g": 79.65,
+   "fibra_g": 4.78,
+   "azucares_g": 1.4,
+   "grasa_saturada_g": 1.37,
+   "grasa_monoinsaturada_g": 6.27,
+   "grasa_poliinsaturada_g": 1.18,
+   "grasa_trans_g": 0,
+   "colesterol_mg": 0,
+   "sodio_mg": 254.3,
+   "potasio_mg": 384.9,
+   "calcio_mg": 13.7,
+   "hierro_mg": 0.48,
+   "magnesio_mg": 22.6,
+   "fosforo_mg": 42.2,
+   "zinc_mg": 0.47,
+   "vitamina_a_ug": 19.9,
+   "vitamina_c_mg": 12.2,
+   "vitamina_d_ug": 0,
+   "vitamina_e_mg": 1.49,
+   "vitamina_k_ug": 21.7,
+   "vitamina_b12_ug": 0,
+   "folato_ug": 58.1,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 78.3
+    }
+   ],
+   "receta": {
+    "paises": [
+     "México"
+    ],
+    "raciones": 3,
+    "peso_final_g": 235,
+    "peso_racion_g": 78.3,
+    "estimacion": true,
+    "metodo": "Aguacate machacado con cebolla, tomate, cilantro, chile, limón y sal.",
+    "nota": "Tres raciones de unos 78 g.",
+    "ingredientes": [
+     {
+      "alimento": "Aguacate (palta)",
+      "fdc_id": 171705,
+      "gramos": 150
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 20
+     },
+     {
+      "alimento": "Tomate (jitomate), crudo",
+      "fdc_id": 170457,
+      "gramos": 40
+     },
+     {
+      "alimento": "Cilantro, fresco",
+      "fdc_id": 169997,
+      "gramos": 5
+     },
+     {
+      "alimento": "Jugo de lima",
+      "fdc_id": 168156,
+      "gramos": 10
+     },
+     {
+      "alimento": "Chile serrano",
+      "fdc_id": 169395,
+      "gramos": 5
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1.5
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 87,
+     "proteina_g": 1.3,
+     "carbohidratos_g": 5.8,
+     "grasas_g": 7.4,
+     "agua_g": 62.39,
+     "fibra_g": 3.75,
+     "azucares_g": 1.1,
+     "grasa_saturada_g": 1.07,
+     "grasa_monoinsaturada_g": 4.91,
+     "grasa_poliinsaturada_g": 0.93,
+     "grasa_trans_g": 0,
+     "colesterol_mg": 0,
+     "sodio_mg": 199.2,
+     "potasio_mg": 301.5,
+     "calcio_mg": 10.8,
+     "hierro_mg": 0.37,
+     "magnesio_mg": 17.7,
+     "fosforo_mg": 33.1,
+     "zinc_mg": 0.37,
+     "vitamina_a_ug": 15.6,
+     "vitamina_c_mg": 9.5,
+     "vitamina_d_ug": 0,
+     "vitamina_e_mg": 1.17,
+     "vitamina_k_ug": 17,
+     "vitamina_b12_ug": 0,
+     "folato_ug": 45.5,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": []
+   }
+  },
+  {
+   "id": "rc-0015",
+   "fdc_id": null,
+   "nombre": "Pozole rojo",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 75,
+   "proteina_g": 7.2,
+   "carbohidratos_g": 5.5,
+   "grasas_g": 2.6,
+   "agua_g": 83.87,
+   "fibra_g": 1.23,
+   "azucares_g": 0.99,
+   "grasa_saturada_g": 0.83,
+   "grasa_monoinsaturada_g": 1.05,
+   "grasa_poliinsaturada_g": 0.35,
+   "grasa_trans_g": null,
+   "colesterol_mg": 18.5,
+   "sodio_mg": 248.7,
+   "potasio_mg": 133.4,
+   "calcio_mg": 15.7,
+   "hierro_mg": 0.65,
+   "magnesio_mg": 13.7,
+   "fosforo_mg": 71.2,
+   "zinc_mg": 0.94,
+   "vitamina_a_ug": 11.7,
+   "vitamina_c_mg": 2.6,
+   "vitamina_d_ug": 0.2,
+   "vitamina_e_mg": 0.39,
+   "vitamina_k_ug": 5.3,
+   "vitamina_b12_ug": 0.17,
+   "folato_ug": 3.9,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "pozole"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 410
+    }
+   ],
+   "receta": {
+    "paises": [
+     "México"
+    ],
+    "raciones": 1,
+    "peso_final_g": 410,
+    "peso_racion_g": 410,
+    "estimacion": true,
+    "metodo": "Caldo con maíz pozolero y cerdo, sazonado con chile, y servido con repollo, cebolla y limón.",
+    "nota": "Receta muy simplificada: el pozole tradicional lleva cabeza de cerdo y chiles secos.",
+    "ingredientes": [
+     {
+      "alimento": "Maíz pozolero (hominy), enlatado",
+      "fdc_id": 169701,
+      "gramos": 120
+     },
+     {
+      "alimento": "Cerdo, lomo asado",
+      "fdc_id": 168233,
+      "gramos": 90
+     },
+     {
+      "alimento": "Caldo de pollo",
+      "fdc_id": 174536,
+      "gramos": 150
+     },
+     {
+      "alimento": "Chile en polvo",
+      "fdc_id": 171319,
+      "gramos": 3
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 15
+     },
+     {
+      "alimento": "Repollo / col, crudo",
+      "fdc_id": 169975,
+      "gramos": 20
+     },
+     {
+      "alimento": "Jugo de lima",
+      "fdc_id": 168156,
+      "gramos": 5
+     },
+     {
+      "alimento": "Orégano seco",
+      "fdc_id": 171328,
+      "gramos": 0.5
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 306,
+     "proteina_g": 29.3,
+     "carbohidratos_g": 22.6,
+     "grasas_g": 10.5,
+     "agua_g": 343.88,
+     "fibra_g": 5.03,
+     "azucares_g": 4.05,
+     "grasa_saturada_g": 3.41,
+     "grasa_monoinsaturada_g": 4.3,
+     "grasa_poliinsaturada_g": 1.43,
+     "grasa_trans_g": null,
+     "colesterol_mg": 75.9,
+     "sodio_mg": 1019.5,
+     "potasio_mg": 546.9,
+     "calcio_mg": 64.2,
+     "hierro_mg": 2.66,
+     "magnesio_mg": 56,
+     "fosforo_mg": 292.1,
+     "zinc_mg": 3.85,
+     "vitamina_a_ug": 47.8,
+     "vitamina_c_mg": 10.9,
+     "vitamina_d_ug": 0.6,
+     "vitamina_e_mg": 1.58,
+     "vitamina_k_ug": 21.8,
+     "vitamina_b12_ug": 0.69,
+     "folato_ug": 16.1,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0016",
+   "fdc_id": null,
+   "nombre": "Desayuno de huevos con frijoles y tortilla",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 156,
+   "proteina_g": 8.2,
+   "carbohidratos_g": 14.4,
+   "grasas_g": 7.5,
+   "agua_g": 68.55,
+   "fibra_g": 2.47,
+   "azucares_g": 1.09,
+   "grasa_saturada_g": 2.64,
+   "grasa_monoinsaturada_g": 2.57,
+   "grasa_poliinsaturada_g": 1.52,
+   "grasa_trans_g": null,
+   "colesterol_mg": 115.4,
+   "sodio_mg": 243.9,
+   "potasio_mg": 202.3,
+   "calcio_mg": 97,
+   "hierro_mg": 1.25,
+   "magnesio_mg": 32.2,
+   "fosforo_mg": 190,
+   "zinc_mg": 1.07,
+   "vitamina_a_ug": 81.7,
+   "vitamina_c_mg": 1.9,
+   "vitamina_d_ug": 0.9,
+   "vitamina_e_mg": 0.57,
+   "vitamina_k_ug": 2.3,
+   "vitamina_b12_ug": 0.43,
+   "folato_ug": 19.4,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 252
+    }
+   ],
+   "receta": {
+    "paises": [
+     "México",
+     "Centroamérica"
+    ],
+    "raciones": 1,
+    "peso_final_g": 252,
+    "peso_racion_g": 252,
+    "estimacion": true,
+    "metodo": "Huevos revueltos con frijoles refritos, tortillas de maíz y queso fresco.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Huevo revuelto",
+      "fdc_id": 172187,
+      "gramos": 100
+     },
+     {
+      "alimento": "Frijoles refritos (enlatados)",
+      "fdc_id": 172438,
+      "gramos": 80
+     },
+     {
+      "alimento": "Tortilla de maíz",
+      "fdc_id": 175036,
+      "gramos": 52
+     },
+     {
+      "alimento": "Queso fresco",
+      "fdc_id": 172223,
+      "gramos": 20
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 394,
+     "proteina_g": 20.6,
+     "carbohidratos_g": 36.3,
+     "grasas_g": 18.9,
+     "agua_g": 172.75,
+     "fibra_g": 6.24,
+     "azucares_g": 2.74,
+     "grasa_saturada_g": 6.66,
+     "grasa_monoinsaturada_g": 6.47,
+     "grasa_poliinsaturada_g": 3.82,
+     "grasa_trans_g": null,
+     "colesterol_mg": 290.8,
+     "sodio_mg": 614.6,
+     "potasio_mg": 509.7,
+     "calcio_mg": 244.5,
+     "hierro_mg": 3.14,
+     "magnesio_mg": 81.2,
+     "fosforo_mg": 478.9,
+     "zinc_mg": 2.7,
+     "vitamina_a_ug": 205.8,
+     "vitamina_c_mg": 4.8,
+     "vitamina_d_ug": 2.3,
+     "vitamina_e_mg": 1.44,
+     "vitamina_k_ug": 5.9,
+     "vitamina_b12_ug": 1.1,
+     "folato_ug": 48.8,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0017",
+   "fdc_id": null,
+   "nombre": "Mofongo",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 359,
+   "proteina_g": 10.9,
+   "carbohidratos_g": 39.3,
+   "grasas_g": 17.3,
+   "agua_g": 29.85,
+   "fibra_g": 2.79,
+   "azucares_g": 2.87,
+   "grasa_saturada_g": 5.12,
+   "grasa_monoinsaturada_g": 8.03,
+   "grasa_poliinsaturada_g": 3.03,
+   "grasa_trans_g": null,
+   "colesterol_mg": null,
+   "sodio_mg": 490.5,
+   "potasio_mg": 407,
+   "calcio_mg": 11.8,
+   "hierro_mg": 0.72,
+   "magnesio_mg": 47.8,
+   "fosforo_mg": 51.1,
+   "zinc_mg": 0.29,
+   "vitamina_a_ug": 49,
+   "vitamina_c_mg": 3.4,
+   "vitamina_d_ug": null,
+   "vitamina_e_mg": null,
+   "vitamina_k_ug": null,
+   "vitamina_b12_ug": null,
+   "folato_ug": null,
+   "alcohol_g": null,
+   "cafeina_mg": null,
+   "alias": [
+    "mofongo"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 191
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Puerto Rico",
+     "República Dominicana"
+    ],
+    "raciones": 1,
+    "peso_final_g": 191,
+    "peso_racion_g": 191,
+    "estimacion": true,
+    "metodo": "Plátano verde frito, machacado con ajo, chicharrón y aceite.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Plátano macho verde, frito",
+      "fdc_id": 168199,
+      "gramos": 150
+     },
+     {
+      "alimento": "Chicharrón de cerdo",
+      "fdc_id": 167961,
+      "gramos": 30
+     },
+     {
+      "alimento": "Ajo, crudo",
+      "fdc_id": 169230,
+      "gramos": 4
+     },
+     {
+      "alimento": "Aceite de oliva",
+      "fdc_id": 171413,
+      "gramos": 6
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 686,
+     "proteina_g": 20.9,
+     "carbohidratos_g": 75.1,
+     "grasas_g": 33.1,
+     "agua_g": 57.01,
+     "fibra_g": 5.33,
+     "azucares_g": 5.49,
+     "grasa_saturada_g": 9.78,
+     "grasa_monoinsaturada_g": 15.34,
+     "grasa_poliinsaturada_g": 5.78,
+     "grasa_trans_g": null,
+     "colesterol_mg": null,
+     "sodio_mg": 936.8,
+     "potasio_mg": 777.3,
+     "calcio_mg": 22.5,
+     "hierro_mg": 1.37,
+     "magnesio_mg": 91.3,
+     "fosforo_mg": 97.6,
+     "zinc_mg": 0.56,
+     "vitamina_a_ug": 93.6,
+     "vitamina_c_mg": 6.5,
+     "vitamina_d_ug": null,
+     "vitamina_e_mg": null,
+     "vitamina_k_ug": null,
+     "vitamina_b12_ug": null,
+     "folato_ug": null,
+     "alcohol_g": null,
+     "cafeina_mg": null
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g",
+     "colesterol_mg",
+     "vitamina_d_ug",
+     "vitamina_e_mg",
+     "vitamina_k_ug",
+     "vitamina_b12_ug",
+     "folato_ug",
+     "alcohol_g",
+     "cafeina_mg"
+    ]
+   }
+  },
+  {
+   "id": "rc-0018",
+   "fdc_id": null,
+   "nombre": "Tortilla española de patata",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 155,
+   "proteina_g": 6,
+   "carbohidratos_g": 10.2,
+   "grasas_g": 10.1,
+   "agua_g": 72.15,
+   "fibra_g": 1.25,
+   "azucares_g": 1,
+   "grasa_saturada_g": 2.11,
+   "grasa_monoinsaturada_g": 6.09,
+   "grasa_poliinsaturada_g": 1.43,
+   "grasa_trans_g": null,
+   "colesterol_mg": 143.1,
+   "sodio_mg": 257,
+   "potasio_mg": 286.1,
+   "calcio_mg": 30.2,
+   "hierro_mg": 1.15,
+   "magnesio_mg": 17.4,
+   "fosforo_mg": 108.4,
+   "zinc_mg": 0.67,
+   "vitamina_a_ug": 61.5,
+   "vitamina_c_mg": 10.9,
+   "vitamina_d_ug": 0.8,
+   "vitamina_e_mg": 1.33,
+   "vitamina_k_ug": 5,
+   "vitamina_b12_ug": 0.34,
+   "folato_ug": 27.7,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "tortilla de patata",
+    "tortilla de papas"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 195
+    }
+   ],
+   "receta": {
+    "paises": [
+     "España"
+    ],
+    "raciones": 2,
+    "peso_final_g": 390,
+    "peso_racion_g": 195,
+    "estimacion": true,
+    "metodo": "Patata y cebolla fritas en aceite, mezcladas con huevo batido y cuajadas en sartén.",
+    "nota": "Solo se cuenta el aceite que se queda en la tortilla (unos 25 g), no el de toda la fritura. Dos raciones de unos 195 g.",
+    "ingredientes": [
+     {
+      "alimento": "Papa / patata, cruda",
+      "fdc_id": 170026,
+      "gramos": 200
+     },
+     {
+      "alimento": "Huevo entero, crudo",
+      "fdc_id": 171287,
+      "gramos": 150
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 40
+     },
+     {
+      "alimento": "Aceite de oliva",
+      "fdc_id": 171413,
+      "gramos": 25
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 2
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 303,
+     "proteina_g": 11.8,
+     "carbohidratos_g": 19.9,
+     "grasas_g": 19.7,
+     "agua_g": 140.69,
+     "fibra_g": 2.44,
+     "azucares_g": 1.95,
+     "grasa_saturada_g": 4.11,
+     "grasa_monoinsaturada_g": 11.87,
+     "grasa_poliinsaturada_g": 2.79,
+     "grasa_trans_g": null,
+     "colesterol_mg": 279,
+     "sodio_mg": 501.1,
+     "potasio_mg": 557.9,
+     "calcio_mg": 59,
+     "hierro_mg": 2.24,
+     "magnesio_mg": 34,
+     "fosforo_mg": 211.3,
+     "zinc_mg": 1.3,
+     "vitamina_a_ug": 120,
+     "vitamina_c_mg": 21.2,
+     "vitamina_d_ug": 1.5,
+     "vitamina_e_mg": 2.6,
+     "vitamina_k_ug": 9.8,
+     "vitamina_b12_ug": 0.67,
+     "folato_ug": 54.1,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0019",
+   "fdc_id": null,
+   "nombre": "Gazpacho andaluz",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 61,
+   "proteina_g": 1.3,
+   "carbohidratos_g": 5.7,
+   "grasas_g": 4.1,
+   "agua_g": 88.01,
+   "fibra_g": 1.48,
+   "azucares_g": 2.62,
+   "grasa_saturada_g": 0.58,
+   "grasa_monoinsaturada_g": 2.82,
+   "grasa_poliinsaturada_g": 0.51,
+   "grasa_trans_g": null,
+   "colesterol_mg": 0,
+   "sodio_mg": 133.5,
+   "potasio_mg": 221.7,
+   "calcio_mg": 37.8,
+   "hierro_mg": 0.49,
+   "magnesio_mg": 12.1,
+   "fosforo_mg": 27.9,
+   "zinc_mg": 0.21,
+   "vitamina_a_ug": 34.1,
+   "vitamina_c_mg": 17.1,
+   "vitamina_d_ug": 0,
+   "vitamina_e_mg": 1.01,
+   "vitamina_k_ug": 11.5,
+   "vitamina_b12_ug": 0,
+   "folato_ug": 19.4,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 262.5
+    }
+   ],
+   "receta": {
+    "paises": [
+     "España"
+    ],
+    "raciones": 4,
+    "peso_final_g": 1050,
+    "peso_racion_g": 262.5,
+    "estimacion": true,
+    "metodo": "Todo triturado en frío y colado. Cuatro raciones de unos 260 g.",
+    "nota": "El peso final es menor que la suma por las pieles y semillas que se quitan.",
+    "ingredientes": [
+     {
+      "alimento": "Tomate (jitomate), crudo",
+      "fdc_id": 170457,
+      "gramos": 800
+     },
+     {
+      "alimento": "Pepino",
+      "fdc_id": 168409,
+      "gramos": 150
+     },
+     {
+      "alimento": "Pimiento verde, crudo",
+      "fdc_id": 170427,
+      "gramos": 80
+     },
+     {
+      "alimento": "Ajo, crudo",
+      "fdc_id": 169230,
+      "gramos": 5
+     },
+     {
+      "alimento": "Aceite de oliva",
+      "fdc_id": 171413,
+      "gramos": 40
+     },
+     {
+      "alimento": "Vinagre",
+      "fdc_id": 172237,
+      "gramos": 15
+     },
+     {
+      "alimento": "Pan blanco",
+      "fdc_id": 167532,
+      "gramos": 40
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 3
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 160,
+     "proteina_g": 3.4,
+     "carbohidratos_g": 14.9,
+     "grasas_g": 10.7,
+     "agua_g": 231.03,
+     "fibra_g": 3.87,
+     "azucares_g": 6.88,
+     "grasa_saturada_g": 1.53,
+     "grasa_monoinsaturada_g": 7.4,
+     "grasa_poliinsaturada_g": 1.34,
+     "grasa_trans_g": null,
+     "colesterol_mg": 0,
+     "sodio_mg": 350.3,
+     "potasio_mg": 582.1,
+     "calcio_mg": 99.2,
+     "hierro_mg": 1.28,
+     "magnesio_mg": 31.8,
+     "fosforo_mg": 73.4,
+     "zinc_mg": 0.55,
+     "vitamina_a_ug": 89.5,
+     "vitamina_c_mg": 44.9,
+     "vitamina_d_ug": 0,
+     "vitamina_e_mg": 2.64,
+     "vitamina_k_ug": 30.2,
+     "vitamina_b12_ug": 0,
+     "folato_ug": 50.9,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0020",
+   "fdc_id": null,
+   "nombre": "Lomo saltado",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 143,
+   "proteina_g": 8.4,
+   "carbohidratos_g": 15.3,
+   "grasas_g": 5.2,
+   "agua_g": 70.2,
+   "fibra_g": 0.88,
+   "azucares_g": 0.92,
+   "grasa_saturada_g": 1.34,
+   "grasa_monoinsaturada_g": 1.65,
+   "grasa_poliinsaturada_g": 1.58,
+   "grasa_trans_g": null,
+   "colesterol_mg": 19.2,
+   "sodio_mg": 189.5,
+   "potasio_mg": 241.9,
+   "calcio_mg": 13.7,
+   "hierro_mg": 1,
+   "magnesio_mg": 17.9,
+   "fosforo_mg": 90.7,
+   "zinc_mg": 1.5,
+   "vitamina_a_ug": 5,
+   "vitamina_c_mg": 4.3,
+   "vitamina_d_ug": null,
+   "vitamina_e_mg": 0.41,
+   "vitamina_k_ug": 6.5,
+   "vitamina_b12_ug": 0.42,
+   "folato_ug": 40.2,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 500
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Perú"
+    ],
+    "raciones": 1,
+    "peso_final_g": 500,
+    "peso_racion_g": 500,
+    "estimacion": true,
+    "metodo": "Carne salteada con cebolla y tomate, aliñada con soya y vinagre, servida con papas fritas y arroz.",
+    "nota": "Las papas fritas son las congeladas horneadas, no fritas de cero.",
+    "ingredientes": [
+     {
+      "alimento": "Falda de res (flank), asada",
+      "fdc_id": 168611,
+      "gramos": 120
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 60
+     },
+     {
+      "alimento": "Tomate (jitomate), crudo",
+      "fdc_id": 170457,
+      "gramos": 60
+     },
+     {
+      "alimento": "Papas fritas congeladas (horneadas en casa)",
+      "fdc_id": 169264,
+      "gramos": 100
+     },
+     {
+      "alimento": "Arroz blanco, cocido",
+      "fdc_id": 168878,
+      "gramos": 150
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 10
+     },
+     {
+      "alimento": "Salsa de soya",
+      "fdc_id": 174277,
+      "gramos": 10
+     },
+     {
+      "alimento": "Vinagre",
+      "fdc_id": 172237,
+      "gramos": 5
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 715,
+     "proteina_g": 42.2,
+     "carbohidratos_g": 76.3,
+     "grasas_g": 26.2,
+     "agua_g": 351,
+     "fibra_g": 4.42,
+     "azucares_g": 4.61,
+     "grasa_saturada_g": 6.72,
+     "grasa_monoinsaturada_g": 8.25,
+     "grasa_poliinsaturada_g": 7.88,
+     "grasa_trans_g": null,
+     "colesterol_mg": 96,
+     "sodio_mg": 947.5,
+     "potasio_mg": 1209.5,
+     "calcio_mg": 68.4,
+     "hierro_mg": 5.02,
+     "magnesio_mg": 89.6,
+     "fosforo_mg": 453.3,
+     "zinc_mg": 7.51,
+     "vitamina_a_ug": 25.2,
+     "vitamina_c_mg": 21.3,
+     "vitamina_d_ug": null,
+     "vitamina_e_mg": 2.06,
+     "vitamina_k_ug": 32.5,
+     "vitamina_b12_ug": 2.09,
+     "folato_ug": 201.1,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g",
+     "vitamina_d_ug"
+    ]
+   }
+  },
+  {
+   "id": "rc-0021",
+   "fdc_id": null,
+   "nombre": "Milanesa de pollo",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 266,
+   "proteina_g": 25,
+   "carbohidratos_g": 9.4,
+   "grasas_g": 13.6,
+   "agua_g": 49.43,
+   "fibra_g": 1.95,
+   "azucares_g": 1.13,
+   "grasa_saturada_g": 2.63,
+   "grasa_monoinsaturada_g": 3.45,
+   "grasa_poliinsaturada_g": 6.18,
+   "grasa_trans_g": 0.07,
+   "colesterol_mg": 134,
+   "sodio_mg": 403,
+   "potasio_mg": 355.7,
+   "calcio_mg": 160,
+   "hierro_mg": 1.7,
+   "magnesio_mg": 33.2,
+   "fosforo_mg": 251.5,
+   "zinc_mg": 1.06,
+   "vitamina_a_ug": 37.3,
+   "vitamina_c_mg": 0,
+   "vitamina_d_ug": 0.4,
+   "vitamina_e_mg": 1.52,
+   "vitamina_k_ug": 18.4,
+   "vitamina_b12_ug": 0.35,
+   "folato_ug": 51.1,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "milanesa"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 165
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Argentina",
+     "Uruguay",
+     "Paraguay"
+    ],
+    "raciones": 1,
+    "peso_final_g": 165,
+    "peso_racion_g": 165,
+    "estimacion": true,
+    "metodo": "Pechuga aplanada, pasada por huevo y pan rallado y frita.",
+    "nota": "El pan rallado se aproxima con pan blanco. El peso final es menor que el crudo porque la pechuga pierde agua al freírse.",
+    "ingredientes": [
+     {
+      "alimento": "Pechuga de pollo, cruda",
+      "fdc_id": 171077,
+      "gramos": 150
+     },
+     {
+      "alimento": "Huevo entero, crudo",
+      "fdc_id": 171287,
+      "gramos": 30
+     },
+     {
+      "alimento": "Pan blanco",
+      "fdc_id": 167532,
+      "gramos": 35
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 15
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 439,
+     "proteina_g": 41.3,
+     "carbohidratos_g": 15.6,
+     "grasas_g": 22.5,
+     "agua_g": 81.56,
+     "fibra_g": 3.22,
+     "azucares_g": 1.86,
+     "grasa_saturada_g": 4.35,
+     "grasa_monoinsaturada_g": 5.69,
+     "grasa_poliinsaturada_g": 10.2,
+     "grasa_trans_g": 0.12,
+     "colesterol_mg": 221.1,
+     "sodio_mg": 665,
+     "potasio_mg": 586.9,
+     "calcio_mg": 263.9,
+     "hierro_mg": 2.8,
+     "magnesio_mg": 54.7,
+     "fosforo_mg": 415,
+     "zinc_mg": 1.74,
+     "vitamina_a_ug": 61.5,
+     "vitamina_c_mg": 0,
+     "vitamina_d_ug": 0.6,
+     "vitamina_e_mg": 2.51,
+     "vitamina_k_ug": 30.4,
+     "vitamina_b12_ug": 0.58,
+     "folato_ug": 84.3,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": []
+   }
+  },
+  {
+   "id": "rc-0022",
+   "fdc_id": null,
+   "nombre": "Empanadas de carne al horno (3 unidades)",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 286,
+   "proteina_g": 12.2,
+   "carbohidratos_g": 27.7,
+   "grasas_g": 13.8,
+   "agua_g": 45.41,
+   "fibra_g": 1.51,
+   "azucares_g": 1.03,
+   "grasa_saturada_g": 6,
+   "grasa_monoinsaturada_g": 4.43,
+   "grasa_poliinsaturada_g": 1.97,
+   "grasa_trans_g": null,
+   "colesterol_mg": 67.6,
+   "sodio_mg": 141.2,
+   "potasio_mg": 209.3,
+   "calcio_mg": 25.4,
+   "hierro_mg": 2.85,
+   "magnesio_mg": 19.9,
+   "fosforo_mg": 127.2,
+   "zinc_mg": 2.16,
+   "vitamina_a_ug": 73.3,
+   "vitamina_c_mg": 1.4,
+   "vitamina_d_ug": 0.2,
+   "vitamina_e_mg": 0.78,
+   "vitamina_k_ug": 5.5,
+   "vitamina_b12_ug": 0.91,
+   "folato_ug": 106.6,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "empanadas"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 270
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Argentina",
+     "Chile"
+    ],
+    "raciones": 1,
+    "peso_final_g": 270,
+    "peso_racion_g": 270,
+    "estimacion": true,
+    "metodo": "Masa de harina y grasa rellena de carne molida, cebolla, huevo y aceitunas; horneadas.",
+    "nota": "Es una receta casera; las de panadería suelen llevar más grasa.",
+    "ingredientes": [
+     {
+      "alimento": "Harina de trigo",
+      "fdc_id": 168894,
+      "gramos": 90
+     },
+     {
+      "alimento": "Mantequilla",
+      "fdc_id": 173410,
+      "gramos": 20
+     },
+     {
+      "alimento": "Carne molida de res 90 % magra, cruda",
+      "fdc_id": 174030,
+      "gramos": 100
+     },
+     {
+      "alimento": "Cebolla, cruda",
+      "fdc_id": 170000,
+      "gramos": 50
+     },
+     {
+      "alimento": "Huevo cocido (duro)",
+      "fdc_id": 173424,
+      "gramos": 20
+     },
+     {
+      "alimento": "Aceitunas verdes",
+      "fdc_id": 169096,
+      "gramos": 10
+     },
+     {
+      "alimento": "Pimentón (paprika)",
+      "fdc_id": 171329,
+      "gramos": 1
+     },
+     {
+      "alimento": "Comino",
+      "fdc_id": 170923,
+      "gramos": 1
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 6
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 772,
+     "proteina_g": 32.9,
+     "carbohidratos_g": 74.9,
+     "grasas_g": 37.2,
+     "agua_g": 122.61,
+     "fibra_g": 4.06,
+     "azucares_g": 2.78,
+     "grasa_saturada_g": 16.2,
+     "grasa_monoinsaturada_g": 11.95,
+     "grasa_poliinsaturada_g": 5.32,
+     "grasa_trans_g": null,
+     "colesterol_mg": 182.6,
+     "sodio_mg": 381.2,
+     "potasio_mg": 565.2,
+     "calcio_mg": 68.6,
+     "hierro_mg": 7.69,
+     "magnesio_mg": 53.7,
+     "fosforo_mg": 343.4,
+     "zinc_mg": 5.83,
+     "vitamina_a_ug": 197.9,
+     "vitamina_c_mg": 3.8,
+     "vitamina_d_ug": 0.5,
+     "vitamina_e_mg": 2.1,
+     "vitamina_k_ug": 14.8,
+     "vitamina_b12_ug": 2.47,
+     "folato_ug": 287.7,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0023",
+   "fdc_id": null,
+   "nombre": "Arroz con leche casero",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 149,
+   "proteina_g": 4,
+   "carbohidratos_g": 26.6,
+   "grasas_g": 3,
+   "agua_g": 65.85,
+   "fibra_g": 0.37,
+   "azucares_g": 12.91,
+   "grasa_saturada_g": 1.63,
+   "grasa_monoinsaturada_g": 0.73,
+   "grasa_poliinsaturada_g": 0.2,
+   "grasa_trans_g": null,
+   "colesterol_mg": 8.6,
+   "sodio_mg": 37.8,
+   "potasio_mg": 134.3,
+   "calcio_mg": 104.6,
+   "hierro_mg": 0.79,
+   "magnesio_mg": 13,
+   "fosforo_mg": 91.9,
+   "zinc_mg": 0.51,
+   "vitamina_a_ug": 39.5,
+   "vitamina_c_mg": 0,
+   "vitamina_d_ug": 1.1,
+   "vitamina_e_mg": 0.09,
+   "vitamina_k_ug": 0.4,
+   "vitamina_b12_ug": 0.39,
+   "folato_ug": 70.6,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 175
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Colombia",
+     "España",
+     "México"
+    ],
+    "raciones": 2,
+    "peso_final_g": 350,
+    "peso_racion_g": 175,
+    "estimacion": true,
+    "metodo": "Arroz cocido lentamente en leche con azúcar y canela. Dos raciones de unos 175 g.",
+    "nota": "El arroz crudo absorbe leche y parte se evapora.",
+    "ingredientes": [
+     {
+      "alimento": "Arroz blanco, crudo",
+      "fdc_id": 168877,
+      "gramos": 60
+     },
+     {
+      "alimento": "Leche entera",
+      "fdc_id": 171265,
+      "gramos": 300
+     },
+     {
+      "alimento": "Azúcar blanca",
+      "fdc_id": 169655,
+      "gramos": 30
+     },
+     {
+      "alimento": "Canela molida",
+      "fdc_id": 171320,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 260,
+     "proteina_g": 7,
+     "carbohidratos_g": 46.6,
+     "grasas_g": 5.2,
+     "agua_g": 115.24,
+     "fibra_g": 0.66,
+     "azucares_g": 22.59,
+     "grasa_saturada_g": 2.86,
+     "grasa_monoinsaturada_g": 1.28,
+     "grasa_poliinsaturada_g": 0.35,
+     "grasa_trans_g": null,
+     "colesterol_mg": 15,
+     "sodio_mg": 66.2,
+     "potasio_mg": 235,
+     "calcio_mg": 183.1,
+     "hierro_mg": 1.39,
+     "magnesio_mg": 22.8,
+     "fosforo_mg": 160.8,
+     "zinc_mg": 0.89,
+     "vitamina_a_ug": 69.1,
+     "vitamina_c_mg": 0,
+     "vitamina_d_ug": 2,
+     "vitamina_e_mg": 0.15,
+     "vitamina_k_ug": 0.6,
+     "vitamina_b12_ug": 0.68,
+     "folato_ug": 123.6,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0024",
+   "fdc_id": null,
+   "nombre": "Licuado de plátano con leche",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 78,
+   "proteina_g": 2.5,
+   "carbohidratos_g": 13,
+   "grasas_g": 2.3,
+   "agua_g": 81.64,
+   "fibra_g": 0.82,
+   "azucares_g": 9.81,
+   "grasa_saturada_g": 1.27,
+   "grasa_monoinsaturada_g": 0.54,
+   "grasa_poliinsaturada_g": 0.15,
+   "grasa_trans_g": null,
+   "colesterol_mg": 6.6,
+   "sodio_mg": 28.6,
+   "potasio_mg": 199.9,
+   "calcio_mg": 75.9,
+   "hierro_mg": 0.1,
+   "magnesio_mg": 15.1,
+   "fosforo_mg": 62.2,
+   "zinc_mg": 0.29,
+   "vitamina_a_ug": 31.2,
+   "vitamina_c_mg": 2.7,
+   "vitamina_d_ug": 0.9,
+   "vitamina_e_mg": 0.08,
+   "vitamina_k_ug": 0.4,
+   "vitamina_b12_ug": 0.3,
+   "folato_ug": 9.6,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "batido de banana"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 380
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Latinoamérica"
+    ],
+    "raciones": 1,
+    "peso_final_g": 380,
+    "peso_racion_g": 380,
+    "estimacion": true,
+    "metodo": "Plátano, leche y azúcar licuados.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Plátano (banana)",
+      "fdc_id": 173944,
+      "gramos": 120
+     },
+     {
+      "alimento": "Leche entera",
+      "fdc_id": 171265,
+      "gramos": 250
+     },
+     {
+      "alimento": "Azúcar blanca",
+      "fdc_id": 169655,
+      "gramos": 10
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 298,
+     "proteina_g": 9.3,
+     "carbohidratos_g": 49.4,
+     "grasas_g": 8.6,
+     "agua_g": 310.22,
+     "fibra_g": 3.12,
+     "azucares_g": 37.28,
+     "grasa_saturada_g": 4.81,
+     "grasa_monoinsaturada_g": 2.06,
+     "grasa_poliinsaturada_g": 0.58,
+     "grasa_trans_g": null,
+     "colesterol_mg": 25,
+     "sodio_mg": 108.8,
+     "potasio_mg": 759.8,
+     "calcio_mg": 288.6,
+     "hierro_mg": 0.39,
+     "magnesio_mg": 57.4,
+     "fosforo_mg": 236.4,
+     "zinc_mg": 1.11,
+     "vitamina_a_ug": 118.6,
+     "vitamina_c_mg": 10.4,
+     "vitamina_d_ug": 3.3,
+     "vitamina_e_mg": 0.3,
+     "vitamina_k_ug": 1.4,
+     "vitamina_b12_ug": 1.13,
+     "folato_ug": 36.5,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0025",
+   "fdc_id": null,
+   "nombre": "Avena con leche y plátano",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 120,
+   "proteina_g": 4.1,
+   "carbohidratos_g": 19.8,
+   "grasas_g": 3.1,
+   "agua_g": 72.12,
+   "fibra_g": 2.05,
+   "azucares_g": 8.69,
+   "grasa_saturada_g": 1.42,
+   "grasa_monoinsaturada_g": 0.81,
+   "grasa_poliinsaturada_g": 0.45,
+   "grasa_trans_g": null,
+   "colesterol_mg": 6.7,
+   "sodio_mg": 29.8,
+   "potasio_mg": 211,
+   "calcio_mg": 86.8,
+   "hierro_mg": 0.68,
+   "magnesio_mg": 30.7,
+   "fosforo_mg": 115.4,
+   "zinc_mg": 0.78,
+   "vitamina_a_ug": 31.3,
+   "vitamina_c_mg": 1.8,
+   "vitamina_d_ug": 0.9,
+   "vitamina_e_mg": 0.13,
+   "vitamina_k_ug": 0.7,
+   "vitamina_b12_ug": 0.3,
+   "folato_ug": 11.7,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [
+    "avena"
+   ],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 300
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Latinoamérica"
+    ],
+    "raciones": 1,
+    "peso_final_g": 300,
+    "peso_racion_g": 300,
+    "estimacion": true,
+    "metodo": "Avena cocida en leche, con plátano en rodajas, miel y canela.",
+    "nota": "La avena absorbe leche; el peso final es aproximado.",
+    "ingredientes": [
+     {
+      "alimento": "Avena en hojuelas, cruda",
+      "fdc_id": 173904,
+      "gramos": 40
+     },
+     {
+      "alimento": "Leche entera",
+      "fdc_id": 171265,
+      "gramos": 200
+     },
+     {
+      "alimento": "Plátano (banana)",
+      "fdc_id": 173944,
+      "gramos": 60
+     },
+     {
+      "alimento": "Miel",
+      "fdc_id": 169640,
+      "gramos": 10
+     },
+     {
+      "alimento": "Canela molida",
+      "fdc_id": 171320,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 360,
+     "proteina_g": 12.4,
+     "carbohidratos_g": 59.4,
+     "grasas_g": 9.4,
+     "agua_g": 216.36,
+     "fibra_g": 6.15,
+     "azucares_g": 26.07,
+     "grasa_saturada_g": 4.25,
+     "grasa_monoinsaturada_g": 2.43,
+     "grasa_poliinsaturada_g": 1.36,
+     "grasa_trans_g": null,
+     "colesterol_mg": 20,
+     "sodio_mg": 89.5,
+     "potasio_mg": 633.1,
+     "calcio_mg": 260.4,
+     "hierro_mg": 2.04,
+     "magnesio_mg": 92.2,
+     "fosforo_mg": 346.2,
+     "zinc_mg": 2.33,
+     "vitamina_a_ug": 94,
+     "vitamina_c_mg": 5.3,
+     "vitamina_d_ug": 2.6,
+     "vitamina_e_mg": 0.39,
+     "vitamina_k_ug": 2,
+     "vitamina_b12_ug": 0.9,
+     "folato_ug": 35.1,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0026",
+   "fdc_id": null,
+   "nombre": "Sopa de lentejas casera",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 66,
+   "proteina_g": 3.5,
+   "carbohidratos_g": 10.3,
+   "grasas_g": 1.5,
+   "agua_g": 83.69,
+   "fibra_g": 3.03,
+   "azucares_g": 1.44,
+   "grasa_saturada_g": 0.2,
+   "grasa_monoinsaturada_g": 0.94,
+   "grasa_poliinsaturada_g": 0.21,
+   "grasa_trans_g": null,
+   "colesterol_mg": 0.8,
+   "sodio_mg": 241.5,
+   "potasio_mg": 200.2,
+   "calcio_mg": 12.2,
+   "hierro_mg": 1.16,
+   "magnesio_mg": 15.9,
+   "fosforo_mg": 68.1,
+   "zinc_mg": 0.49,
+   "vitamina_a_ug": 71,
+   "vitamina_c_mg": 2.7,
+   "vitamina_d_ug": 0,
+   "vitamina_e_mg": 0.32,
+   "vitamina_k_ug": 2.7,
+   "vitamina_b12_ug": 0.01,
+   "folato_ug": 59.9,
+   "alcohol_g": 0,
+   "cafeina_mg": 0,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 480
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Latinoamérica",
+     "España"
+    ],
+    "raciones": 1,
+    "peso_final_g": 480,
+    "peso_racion_g": 480,
+    "estimacion": true,
+    "metodo": "Lentejas con zanahoria, papa y cebolla en caldo.",
+    "nota": "Se usa caldo de pollo listo para servir.",
+    "ingredientes": [
+     {
+      "alimento": "Lentejas, cocidas",
+      "fdc_id": 172421,
+      "gramos": 150
+     },
+     {
+      "alimento": "Zanahoria, cocida",
+      "fdc_id": 170394,
+      "gramos": 40
+     },
+     {
+      "alimento": "Papa / patata, cocida",
+      "fdc_id": 170438,
+      "gramos": 60
+     },
+     {
+      "alimento": "Cebolla, cocida",
+      "fdc_id": 170001,
+      "gramos": 30
+     },
+     {
+      "alimento": "Caldo de pollo",
+      "fdc_id": 174536,
+      "gramos": 200
+     },
+     {
+      "alimento": "Aceite de oliva",
+      "fdc_id": 171413,
+      "gramos": 6
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 318,
+     "proteina_g": 16.6,
+     "carbohidratos_g": 49.4,
+     "grasas_g": 7.2,
+     "agua_g": 401.7,
+     "fibra_g": 14.55,
+     "azucares_g": 6.91,
+     "grasa_saturada_g": 0.96,
+     "grasa_monoinsaturada_g": 4.52,
+     "grasa_poliinsaturada_g": 1,
+     "grasa_trans_g": null,
+     "colesterol_mg": 4,
+     "sodio_mg": 1159.2,
+     "potasio_mg": 960.8,
+     "calcio_mg": 58.4,
+     "hierro_mg": 5.57,
+     "magnesio_mg": 76.5,
+     "fosforo_mg": 326.9,
+     "zinc_mg": 2.37,
+     "vitamina_a_ug": 340.8,
+     "vitamina_c_mg": 13.1,
+     "vitamina_d_ug": 0,
+     "vitamina_e_mg": 1.53,
+     "vitamina_k_ug": 13.1,
+     "vitamina_b12_ug": 0.04,
+     "folato_ug": 287.6,
+     "alcohol_g": 0,
+     "cafeina_mg": 0
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g"
+    ]
+   }
+  },
+  {
+   "id": "rc-0027",
+   "fdc_id": null,
+   "nombre": "Ensalada de atún",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 85,
+   "proteina_g": 10.7,
+   "carbohidratos_g": 2.1,
+   "grasas_g": 3.8,
+   "agua_g": 83.74,
+   "fibra_g": 0.73,
+   "azucares_g": 1.05,
+   "grasa_saturada_g": 0.57,
+   "grasa_monoinsaturada_g": 2.51,
+   "grasa_poliinsaturada_g": 0.54,
+   "grasa_trans_g": null,
+   "colesterol_mg": 12,
+   "sodio_mg": 23,
+   "potasio_mg": 214,
+   "calcio_mg": 15.3,
+   "hierro_mg": 0.92,
+   "magnesio_mg": 17.7,
+   "fosforo_mg": 79.4,
+   "zinc_mg": 0.42,
+   "vitamina_a_ug": null,
+   "vitamina_c_mg": 4.9,
+   "vitamina_d_ug": null,
+   "vitamina_e_mg": null,
+   "vitamina_k_ug": null,
+   "vitamina_b12_ug": 1.2,
+   "folato_ug": 33.3,
+   "alcohol_g": null,
+   "cafeina_mg": null,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 300
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Latinoamérica",
+     "España"
+    ],
+    "raciones": 1,
+    "peso_final_g": 300,
+    "peso_racion_g": 300,
+    "estimacion": true,
+    "metodo": "Atún con lechuga, tomate y pepino, aliñada con aceite y limón.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Atún en lata al natural",
+      "fdc_id": 171986,
+      "gramos": 120
+     },
+     {
+      "alimento": "Lechuga romana",
+      "fdc_id": 169247,
+      "gramos": 60
+     },
+     {
+      "alimento": "Tomate (jitomate), crudo",
+      "fdc_id": 170457,
+      "gramos": 60
+     },
+     {
+      "alimento": "Pepino",
+      "fdc_id": 168409,
+      "gramos": 40
+     },
+     {
+      "alimento": "Aceite de oliva",
+      "fdc_id": 171413,
+      "gramos": 10
+     },
+     {
+      "alimento": "Jugo de limón",
+      "fdc_id": 167747,
+      "gramos": 8
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 256,
+     "proteina_g": 32.2,
+     "carbohidratos_g": 6.3,
+     "grasas_g": 11.3,
+     "agua_g": 251.21,
+     "fibra_g": 2.2,
+     "azucares_g": 3.16,
+     "grasa_saturada_g": 1.72,
+     "grasa_monoinsaturada_g": 7.52,
+     "grasa_poliinsaturada_g": 1.62,
+     "grasa_trans_g": null,
+     "colesterol_mg": 36,
+     "sodio_mg": 68.9,
+     "potasio_mg": 641.9,
+     "calcio_mg": 46,
+     "hierro_mg": 2.75,
+     "magnesio_mg": 53.1,
+     "fosforo_mg": 238.2,
+     "zinc_mg": 1.25,
+     "vitamina_a_ug": null,
+     "vitamina_c_mg": 14.8,
+     "vitamina_d_ug": null,
+     "vitamina_e_mg": null,
+     "vitamina_k_ug": null,
+     "vitamina_b12_ug": 3.59,
+     "folato_ug": 99.8,
+     "alcohol_g": null,
+     "cafeina_mg": null
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g",
+     "vitamina_a_ug",
+     "vitamina_d_ug",
+     "vitamina_e_mg",
+     "vitamina_k_ug",
+     "alcohol_g",
+     "cafeina_mg"
+    ]
+   }
+  },
+  {
+   "id": "rc-0028",
+   "fdc_id": null,
+   "nombre": "Arroz con frijoles y huevo frito",
+   "descripcion_usda": null,
+   "categoria": "Platos regionales",
+   "traduccion": "curada",
+   "nivel": "receta",
+   "energia_kcal": 161,
+   "proteina_g": 5.4,
+   "carbohidratos_g": 23.9,
+   "grasas_g": 4.7,
+   "agua_g": 64.88,
+   "fibra_g": 2.95,
+   "azucares_g": 3.59,
+   "grasa_saturada_g": 1.13,
+   "grasa_monoinsaturada_g": 1.53,
+   "grasa_poliinsaturada_g": 1.64,
+   "grasa_trans_g": null,
+   "colesterol_mg": null,
+   "sodio_mg": 130.8,
+   "potasio_mg": 207.3,
+   "calcio_mg": 20.2,
+   "hierro_mg": 1.37,
+   "magnesio_mg": 32,
+   "fosforo_mg": 88.9,
+   "zinc_mg": 0.71,
+   "vitamina_a_ug": 39.2,
+   "vitamina_c_mg": null,
+   "vitamina_d_ug": null,
+   "vitamina_e_mg": 0.7,
+   "vitamina_k_ug": 9,
+   "vitamina_b12_ug": null,
+   "folato_ug": null,
+   "alcohol_g": null,
+   "cafeina_mg": null,
+   "alias": [],
+   "basico": false,
+   "porciones": [
+    {
+     "cantidad": 1,
+     "medida_es": "ración",
+     "medida_en": "serving",
+     "gramos": 380
+    }
+   ],
+   "receta": {
+    "paises": [
+     "Latinoamérica"
+    ],
+    "raciones": 1,
+    "peso_final_g": 380,
+    "peso_racion_g": 380,
+    "estimacion": true,
+    "metodo": "Plato sencillo de arroz, frijoles, huevo frito y plátano maduro.",
+    "nota": "",
+    "ingredientes": [
+     {
+      "alimento": "Arroz blanco, cocido",
+      "fdc_id": 168878,
+      "gramos": 150
+     },
+     {
+      "alimento": "Frijoles negros, cocidos",
+      "fdc_id": 173735,
+      "gramos": 100
+     },
+     {
+      "alimento": "Huevo frito",
+      "fdc_id": 173423,
+      "gramos": 50
+     },
+     {
+      "alimento": "Plátano macho, maduro, frito",
+      "fdc_id": 168200,
+      "gramos": 60
+     },
+     {
+      "alimento": "Aceite de soya",
+      "fdc_id": 171411,
+      "gramos": 5
+     },
+     {
+      "alimento": "Sal de mesa",
+      "fdc_id": 173468,
+      "gramos": 1
+     }
+    ],
+    "por_racion": {
+     "energia_kcal": 611,
+     "proteina_g": 20.6,
+     "carbohidratos_g": 90.9,
+     "grasas_g": 17.9,
+     "agua_g": 246.56,
+     "fibra_g": 11.22,
+     "azucares_g": 13.65,
+     "grasa_saturada_g": 4.29,
+     "grasa_monoinsaturada_g": 5.81,
+     "grasa_poliinsaturada_g": 6.23,
+     "grasa_trans_g": null,
+     "colesterol_mg": null,
+     "sodio_mg": 497.2,
+     "potasio_mg": 787.8,
+     "calcio_mg": 76.8,
+     "hierro_mg": 5.22,
+     "magnesio_mg": 121.5,
+     "fosforo_mg": 337.8,
+     "zinc_mg": 2.7,
+     "vitamina_a_ug": 149.1,
+     "vitamina_c_mg": null,
+     "vitamina_d_ug": null,
+     "vitamina_e_mg": 2.65,
+     "vitamina_k_ug": 34.4,
+     "vitamina_b12_ug": null,
+     "folato_ug": null,
+     "alcohol_g": null,
+     "cafeina_mg": null
+    },
+    "nutrientes_no_medidos": [
+     "grasa_trans_g",
+     "colesterol_mg",
+     "vitamina_c_mg",
+     "vitamina_d_ug",
+     "vitamina_b12_ug",
+     "folato_ug",
+     "alcohol_g",
+     "cafeina_mg"
+    ]
+   }
+  }
+ ]
+}

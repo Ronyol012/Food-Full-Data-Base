@@ -1,0 +1,29 @@
+receta_id,nombre,paises,raciones,peso_final_g,peso_racion_g,metodo,nota
+rc-0001,Arepa de maíz (2 unidades),Venezuela; Colombia,1,245,245,"Mezclar la harina con unos 160 g de agua y la sal, formar dos arepas y dorarlas en plancha o sartén.",Se usa harina de maíz común: la harina precocida para arepas tiene valores muy parecidos pero no es idéntica. El agua no aporta nutrientes pero cuenta en el peso final.
+rc-0002,Arepa con queso (1 unidad),Venezuela; Colombia,1,160,160,"Una arepa de 50 g de harina, abierta y rellena con queso fresco y mantequilla.",Simplificada: el queso y la mantequilla pueden variar mucho.
+rc-0003,Pabellón criollo,Venezuela,1,540,540,"Arroz blanco, caraotas negras, carne mechada con sofrito y tajadas de plátano maduro frito.","La carne mechada se aproxima con carne de res guisada (otro corte, sin deshilachar). El sofrito se añade en crudo con su aceite."
+rc-0004,Bandeja paisa (versión sencilla),Colombia,1,650,650,"Arroz, frijoles, carne molida, chicharrón, huevo frito, plátano maduro y aguacate en un mismo plato.","La bandeja paisa completa lleva también chorizo, arepa y morcilla; aquí es una versión reducida."
+rc-0005,Arroz con pollo,Colombia; Venezuela; Perú,1,420,420,"Arroz con trozos de pollo, verduras y sofrito, en un mismo plato.","Cada país lo prepara distinto (cilantro, cerveza, achiote…); aquí es una base común."
+rc-0006,Gallo pinto,Costa Rica; Nicaragua,1,255,255,"Arroz y frijoles negros salteados con sofrito de cebolla, pimiento y cilantro.",
+rc-0007,Casado costarricense,Costa Rica,1,520,520,"Arroz, frijoles, pollo a la plancha, plátano maduro frito y ensalada de repollo y tomate.","El casado cambia con la proteína que lleve (carne, pescado); aquí se usa pollo."
+rc-0008,Baleadas (2 unidades),Honduras,1,280,280,"Dos tortillas de harina rellenas de frijoles refritos, queso y crema.",Se usan frijoles refritos enlatados y crema agria como aproximación.
+rc-0009,Tacos de carne asada (3 unidades),México,1,250,250,"Tres tortillas de maíz con carne asada picada, cebolla, cilantro, limón y salsa.",
+rc-0010,Tacos al pastor (3 unidades),México,1,270,270,"Tres tortillas con cerdo asado marinado, piña, cebolla, cilantro y salsa.",El adobo no se desglosa en ingredientes; el cerdo es lomo asado.
+rc-0011,Chilaquiles verdes con pollo,México,1,300,300,"Totopos bañados en salsa verde con pollo deshebrado, crema, queso y cebolla.",Los totopos son de bolsa (fritos).
+rc-0012,Huevos rancheros,México,1,350,350,"Dos huevos fritos sobre tortillas de maíz con salsa, acompañados de frijoles refritos.",
+rc-0013,Quesadillas de queso (2 unidades),México,1,170,170,Dos tortillas de harina rellenas de queso para fundir y doradas en sartén.,
+rc-0014,Guacamole,México,3,235,78.3,"Aguacate machacado con cebolla, tomate, cilantro, chile, limón y sal.",Tres raciones de unos 78 g.
+rc-0015,Pozole rojo,México,1,410,410,"Caldo con maíz pozolero y cerdo, sazonado con chile, y servido con repollo, cebolla y limón.",Receta muy simplificada: el pozole tradicional lleva cabeza de cerdo y chiles secos.
+rc-0016,Desayuno de huevos con frijoles y tortilla,México; Centroamérica,1,252,252,"Huevos revueltos con frijoles refritos, tortillas de maíz y queso fresco.",
+rc-0017,Mofongo,Puerto Rico; República Dominicana,1,191,191,"Plátano verde frito, machacado con ajo, chicharrón y aceite.",
+rc-0018,Tortilla española de patata,España,2,390,195,"Patata y cebolla fritas en aceite, mezcladas con huevo batido y cuajadas en sartén.","Solo se cuenta el aceite que se queda en la tortilla (unos 25 g), no el de toda la fritura. Dos raciones de unos 195 g."
+rc-0019,Gazpacho andaluz,España,4,1050,262.5,Todo triturado en frío y colado. Cuatro raciones de unos 260 g.,El peso final es menor que la suma por las pieles y semillas que se quitan.
+rc-0020,Lomo saltado,Perú,1,500,500,"Carne salteada con cebolla y tomate, aliñada con soya y vinagre, servida con papas fritas y arroz.","Las papas fritas son las congeladas horneadas, no fritas de cero."
+rc-0021,Milanesa de pollo,Argentina; Uruguay; Paraguay,1,165,165,"Pechuga aplanada, pasada por huevo y pan rallado y frita.",El pan rallado se aproxima con pan blanco. El peso final es menor que el crudo porque la pechuga pierde agua al freírse.
+rc-0022,Empanadas de carne al horno (3 unidades),Argentina; Chile,1,270,270,"Masa de harina y grasa rellena de carne molida, cebolla, huevo y aceitunas; horneadas.",Es una receta casera; las de panadería suelen llevar más grasa.
+rc-0023,Arroz con leche casero,Colombia; España; México,2,350,175,Arroz cocido lentamente en leche con azúcar y canela. Dos raciones de unos 175 g.,El arroz crudo absorbe leche y parte se evapora.
+rc-0024,Licuado de plátano con leche,Latinoamérica,1,380,380,"Plátano, leche y azúcar licuados.",
+rc-0025,Avena con leche y plátano,Latinoamérica,1,300,300,"Avena cocida en leche, con plátano en rodajas, miel y canela.",La avena absorbe leche; el peso final es aproximado.
+rc-0026,Sopa de lentejas casera,Latinoamérica; España,1,480,480,"Lentejas con zanahoria, papa y cebolla en caldo.",Se usa caldo de pollo listo para servir.
+rc-0027,Ensalada de atún,Latinoamérica; España,1,300,300,"Atún con lechuga, tomate y pepino, aliñada con aceite y limón.",
+rc-0028,Arroz con frijoles y huevo frito,Latinoamérica,1,380,380,"Plato sencillo de arroz, frijoles, huevo frito y plátano maduro.",

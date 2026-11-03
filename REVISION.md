@@ -15,6 +15,14 @@ nombre que suena natural en un sitio puede confundir en otro. Esta página expli
 - **`pendiente`** (6.244): sin traducir. Se puede aportar un nombre en `src/traducciones.json`
   (`{ "<fdc_id>": { "nombre": "…", "alias": ["…"] } }`).
 
+## Las recetas (v0.4.0)
+
+Las 28 recetas son **estimaciones mías**, no recetas verificadas. Lo más útil que se puede hacer:
+- **Corregir cantidades** que no sean razonables para un plato de tu país (`src/recetas.json`), o decir qué se cambia.
+- **Corregir el nombre o los países** de un plato.
+- **Aportar platos nuevos** que se coman de verdad donde vives (ver [CONTRIBUTING.md](CONTRIBUTING.md)).
+Cada receta lleva su `nota` con lo que simplifica; si esa simplificación te parece excesiva, cuéntalo.
+
 ## Cómo ayudar
 
 Abre un *issue* con: el nombre actual, el que usarías, **tu país** y, si puedes, por qué. Con eso se corrige el

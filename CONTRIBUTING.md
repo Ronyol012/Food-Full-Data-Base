@@ -1,6 +1,6 @@
 # Contribuir
 
-Gracias por ayudar. Hay cuatro formas, de más fácil a más trabajosa.
+Gracias por ayudar. Hay cinco formas, de más fácil a más trabajosa.
 
 ## 1. Corregir un nombre o añadir un alias
 
@@ -46,7 +46,36 @@ mismas reglas de nombre de arriba (frase normal, primero el alimento, decir si e
 Si lo que está mal es un **patrón** (por ejemplo, un calificativo traducido o concordado mal), corrígelo en
 `src/vocabulario.json` y se arregla en todos los alimentos que lo usan; no hace falta editarlos uno por uno.
 
-## 4. Añadir una fuente nueva (otros países)
+## 4. Añadir o corregir una receta
+
+Las recetas están en `src/recetas.json`. Cada ingrediente se escribe con el **nombre exacto de un alimento del núcleo**
+(`alimento`) y los gramos (`g`), o con su `fdc_id`:
+
+```json
+{
+  "id": "rc-0029", "nombre": "Arepa reina pepiada (1 unidad)", "paises": ["Venezuela"],
+  "raciones": 1, "peso_final_g": 200,
+  "ingredientes": [
+    { "alimento": "Harina de maíz amarilla (cornmeal)", "g": 50 },
+    { "alimento": "Pechuga de pollo hervida", "g": 70 },
+    { "alimento": "Aguacate (palta)", "g": 40 }
+  ],
+  "metodo": "Arepa abierta y rellena de pollo desmenuzado con aguacate.",
+  "nota": "Qué simplifica esta receta."
+}
+```
+
+Reglas para que sea honesta: usa ingredientes **ya cocinados** siempre que puedas; el `peso_final_g` incluye el agua
+añadida y descuenta lo que se evapora (el script se detiene si es físicamente imposible); y la `nota` debe decir qué se
+simplifica. Después:
+
+```bash
+node scripts/build-recetas.mjs
+node scripts/verify.mjs
+node --test test/*.test.mjs
+```
+
+## 5. Añadir una fuente nueva (otros países)
 
 Es lo más valioso y lo más delicado. Antes de añadir datos de otra tabla (BEDCA, CIQUAL, tablas
 latinoamericanas…) hay que comprobar su **licencia**: debe permitir redistribuir y mezclar con CC BY 4.0.

@@ -1,0 +1,1102 @@
+[
+ {
+  "nombre": "Arepa de maíz (2 unidades)",
+  "paises": [
+   "Venezuela",
+   "Colombia"
+  ],
+  "raciones": 1,
+  "peso_final_g": 245,
+  "ingredientes": [
+   {
+    "alimento": "Harina de maíz amarilla (cornmeal)",
+    "g": 100
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 5
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1.5
+   }
+  ],
+  "metodo": "Mezclar la harina con unos 160 g de agua y la sal, formar dos arepas y dorarlas en plancha o sartén.",
+  "nota": "Se usa harina de maíz común: la harina precocida para arepas tiene valores muy parecidos pero no es idéntica. El agua no aporta nutrientes pero cuenta en el peso final.",
+  "alias": [
+   "arepas"
+  ],
+  "id": "rc-0001"
+ },
+ {
+  "nombre": "Arepa con queso (1 unidad)",
+  "paises": [
+   "Venezuela",
+   "Colombia"
+  ],
+  "raciones": 1,
+  "peso_final_g": 160,
+  "ingredientes": [
+   {
+    "alimento": "Harina de maíz amarilla (cornmeal)",
+    "g": 50
+   },
+   {
+    "alimento": "Queso fresco",
+    "g": 45
+   },
+   {
+    "alimento": "Mantequilla",
+    "g": 6
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1
+   }
+  ],
+  "metodo": "Una arepa de 50 g de harina, abierta y rellena con queso fresco y mantequilla.",
+  "nota": "Simplificada: el queso y la mantequilla pueden variar mucho.",
+  "id": "rc-0002"
+ },
+ {
+  "nombre": "Pabellón criollo",
+  "paises": [
+   "Venezuela"
+  ],
+  "raciones": 1,
+  "peso_final_g": 540,
+  "ingredientes": [
+   {
+    "alimento": "Arroz blanco, cocido",
+    "g": 150
+   },
+   {
+    "alimento": "Frijoles negros, cocidos",
+    "g": 100
+   },
+   {
+    "alimento": "Carne de res guisada",
+    "g": 120
+   },
+   {
+    "alimento": "Plátano macho, maduro, frito",
+    "g": 80
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 25
+   },
+   {
+    "alimento": "Pimiento rojo, crudo",
+    "g": 15
+   },
+   {
+    "alimento": "Tomate (jitomate), crudo",
+    "g": 30
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 10
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1.5
+   }
+  ],
+  "metodo": "Arroz blanco, caraotas negras, carne mechada con sofrito y tajadas de plátano maduro frito.",
+  "nota": "La carne mechada se aproxima con carne de res guisada (otro corte, sin deshilachar). El sofrito se añade en crudo con su aceite.",
+  "alias": [
+   "pabellon",
+   "caraotas",
+   "carne mechada"
+  ],
+  "id": "rc-0003"
+ },
+ {
+  "nombre": "Bandeja paisa (versión sencilla)",
+  "paises": [
+   "Colombia"
+  ],
+  "raciones": 1,
+  "peso_final_g": 650,
+  "ingredientes": [
+   {
+    "alimento": "Arroz blanco, cocido",
+    "g": 150
+   },
+   {
+    "alimento": "Frijoles rojos, cocidos",
+    "g": 100
+   },
+   {
+    "alimento": "Carne molida de res, cocida",
+    "g": 80
+   },
+   {
+    "alimento": "Chicharrón de cerdo",
+    "g": 30
+   },
+   {
+    "alimento": "Huevo frito",
+    "g": 50
+   },
+   {
+    "alimento": "Plátano macho, maduro, frito",
+    "g": 60
+   },
+   {
+    "alimento": "Aguacate (palta)",
+    "g": 60
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 8
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1.5
+   }
+  ],
+  "metodo": "Arroz, frijoles, carne molida, chicharrón, huevo frito, plátano maduro y aguacate en un mismo plato.",
+  "nota": "La bandeja paisa completa lleva también chorizo, arepa y morcilla; aquí es una versión reducida.",
+  "alias": [
+   "bandeja paisa"
+  ],
+  "id": "rc-0004"
+ },
+ {
+  "nombre": "Arroz con pollo",
+  "paises": [
+   "Colombia",
+   "Venezuela",
+   "Perú"
+  ],
+  "raciones": 1,
+  "peso_final_g": 420,
+  "ingredientes": [
+   {
+    "alimento": "Arroz blanco, cocido",
+    "g": 200
+   },
+   {
+    "alimento": "Muslo de pollo, cocido",
+    "g": 120
+   },
+   {
+    "alimento": "Zanahoria, cocida",
+    "g": 30
+   },
+   {
+    "alimento": "Guisantes / arvejas, cocidos",
+    "g": 30
+   },
+   {
+    "alimento": "Pimiento rojo, crudo",
+    "g": 20
+   },
+   {
+    "alimento": "Cebolla, cocida",
+    "g": 20
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 10
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1.5
+   }
+  ],
+  "metodo": "Arroz con trozos de pollo, verduras y sofrito, en un mismo plato.",
+  "nota": "Cada país lo prepara distinto (cilantro, cerveza, achiote…); aquí es una base común.",
+  "id": "rc-0005"
+ },
+ {
+  "nombre": "Gallo pinto",
+  "paises": [
+   "Costa Rica",
+   "Nicaragua"
+  ],
+  "raciones": 1,
+  "peso_final_g": 255,
+  "ingredientes": [
+   {
+    "alimento": "Arroz blanco, cocido",
+    "g": 120
+   },
+   {
+    "alimento": "Frijoles negros, cocidos",
+    "g": 100
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 6
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 15
+   },
+   {
+    "alimento": "Pimiento verde, crudo",
+    "g": 10
+   },
+   {
+    "alimento": "Cilantro, fresco",
+    "g": 3
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1
+   }
+  ],
+  "metodo": "Arroz y frijoles negros salteados con sofrito de cebolla, pimiento y cilantro.",
+  "alias": [
+   "gallo pinto"
+  ],
+  "id": "rc-0006"
+ },
+ {
+  "nombre": "Casado costarricense",
+  "paises": [
+   "Costa Rica"
+  ],
+  "raciones": 1,
+  "peso_final_g": 520,
+  "ingredientes": [
+   {
+    "alimento": "Arroz blanco, cocido",
+    "g": 150
+   },
+   {
+    "alimento": "Frijoles negros, cocidos",
+    "g": 80
+   },
+   {
+    "alimento": "Pechuga de pollo a la plancha",
+    "g": 100
+   },
+   {
+    "alimento": "Plátano macho, maduro, frito",
+    "g": 60
+   },
+   {
+    "alimento": "Repollo / col, crudo",
+    "g": 40
+   },
+   {
+    "alimento": "Tomate (jitomate), crudo",
+    "g": 30
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 5
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1
+   }
+  ],
+  "metodo": "Arroz, frijoles, pollo a la plancha, plátano maduro frito y ensalada de repollo y tomate.",
+  "nota": "El casado cambia con la proteína que lleve (carne, pescado); aquí se usa pollo.",
+  "alias": [
+   "casado"
+  ],
+  "id": "rc-0007"
+ },
+ {
+  "nombre": "Baleadas (2 unidades)",
+  "paises": [
+   "Honduras"
+  ],
+  "raciones": 1,
+  "peso_final_g": 280,
+  "ingredientes": [
+   {
+    "alimento": "Tortilla de harina",
+    "g": 120
+   },
+   {
+    "alimento": "Frijoles refritos (enlatados)",
+    "g": 100
+   },
+   {
+    "alimento": "Queso fresco",
+    "g": 40
+   },
+   {
+    "alimento": "Crema agria (crema ácida)",
+    "g": 30
+   }
+  ],
+  "metodo": "Dos tortillas de harina rellenas de frijoles refritos, queso y crema.",
+  "nota": "Se usan frijoles refritos enlatados y crema agria como aproximación.",
+  "alias": [
+   "baleada"
+  ],
+  "id": "rc-0008"
+ },
+ {
+  "nombre": "Tacos de carne asada (3 unidades)",
+  "paises": [
+   "México"
+  ],
+  "raciones": 1,
+  "peso_final_g": 250,
+  "ingredientes": [
+   {
+    "alimento": "Tortilla de maíz",
+    "g": 78
+   },
+   {
+    "alimento": "Falda de res (flank), asada",
+    "g": 120
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 25
+   },
+   {
+    "alimento": "Cilantro, fresco",
+    "g": 6
+   },
+   {
+    "alimento": "Jugo de lima",
+    "g": 8
+   },
+   {
+    "alimento": "Salsa verde",
+    "g": 30
+   }
+  ],
+  "metodo": "Tres tortillas de maíz con carne asada picada, cebolla, cilantro, limón y salsa.",
+  "alias": [
+   "tacos de arrachera",
+   "tacos de carne asada"
+  ],
+  "id": "rc-0009"
+ },
+ {
+  "nombre": "Tacos al pastor (3 unidades)",
+  "paises": [
+   "México"
+  ],
+  "raciones": 1,
+  "peso_final_g": 270,
+  "ingredientes": [
+   {
+    "alimento": "Tortilla de maíz",
+    "g": 78
+   },
+   {
+    "alimento": "Cerdo, lomo asado",
+    "g": 100
+   },
+   {
+    "alimento": "Piña",
+    "g": 30
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 25
+   },
+   {
+    "alimento": "Cilantro, fresco",
+    "g": 6
+   },
+   {
+    "alimento": "Salsa verde",
+    "g": 30
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 4
+   }
+  ],
+  "metodo": "Tres tortillas con cerdo asado marinado, piña, cebolla, cilantro y salsa.",
+  "nota": "El adobo no se desglosa en ingredientes; el cerdo es lomo asado.",
+  "id": "rc-0010"
+ },
+ {
+  "nombre": "Chilaquiles verdes con pollo",
+  "paises": [
+   "México"
+  ],
+  "raciones": 1,
+  "peso_final_g": 300,
+  "ingredientes": [
+   {
+    "alimento": "Nachos (totopos)",
+    "g": 60
+   },
+   {
+    "alimento": "Salsa verde",
+    "g": 120
+   },
+   {
+    "alimento": "Pechuga de pollo hervida",
+    "g": 80
+   },
+   {
+    "alimento": "Crema agria (crema ácida)",
+    "g": 25
+   },
+   {
+    "alimento": "Queso cotija",
+    "g": 20
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 15
+   }
+  ],
+  "metodo": "Totopos bañados en salsa verde con pollo deshebrado, crema, queso y cebolla.",
+  "nota": "Los totopos son de bolsa (fritos).",
+  "alias": [
+   "chilaquiles"
+  ],
+  "id": "rc-0011"
+ },
+ {
+  "nombre": "Huevos rancheros",
+  "paises": [
+   "México"
+  ],
+  "raciones": 1,
+  "peso_final_g": 350,
+  "ingredientes": [
+   {
+    "alimento": "Huevo frito",
+    "g": 100
+   },
+   {
+    "alimento": "Tortilla de maíz",
+    "g": 52
+   },
+   {
+    "alimento": "Frijoles refritos (enlatados)",
+    "g": 80
+   },
+   {
+    "alimento": "Salsa mexicana (pico de gallo)",
+    "g": 60
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 5
+   }
+  ],
+  "metodo": "Dos huevos fritos sobre tortillas de maíz con salsa, acompañados de frijoles refritos.",
+  "alias": [
+   "huevos rancheros"
+  ],
+  "id": "rc-0012"
+ },
+ {
+  "nombre": "Quesadillas de queso (2 unidades)",
+  "paises": [
+   "México"
+  ],
+  "raciones": 1,
+  "peso_final_g": 170,
+  "ingredientes": [
+   {
+    "alimento": "Tortilla de harina",
+    "g": 100
+   },
+   {
+    "alimento": "Queso asadero",
+    "g": 60
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 4
+   }
+  ],
+  "metodo": "Dos tortillas de harina rellenas de queso para fundir y doradas en sartén.",
+  "alias": [
+   "quesadilla"
+  ],
+  "id": "rc-0013"
+ },
+ {
+  "nombre": "Guacamole",
+  "paises": [
+   "México"
+  ],
+  "raciones": 3,
+  "peso_final_g": 235,
+  "ingredientes": [
+   {
+    "alimento": "Aguacate (palta)",
+    "g": 150
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 20
+   },
+   {
+    "alimento": "Tomate (jitomate), crudo",
+    "g": 40
+   },
+   {
+    "alimento": "Cilantro, fresco",
+    "g": 5
+   },
+   {
+    "alimento": "Jugo de lima",
+    "g": 10
+   },
+   {
+    "alimento": "Chile serrano",
+    "g": 5
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1.5
+   }
+  ],
+  "metodo": "Aguacate machacado con cebolla, tomate, cilantro, chile, limón y sal.",
+  "nota": "Tres raciones de unos 78 g.",
+  "id": "rc-0014"
+ },
+ {
+  "nombre": "Pozole rojo",
+  "paises": [
+   "México"
+  ],
+  "raciones": 1,
+  "peso_final_g": 410,
+  "ingredientes": [
+   {
+    "alimento": "Maíz pozolero (hominy), enlatado",
+    "g": 120
+   },
+   {
+    "alimento": "Cerdo, lomo asado",
+    "g": 90
+   },
+   {
+    "alimento": "Caldo de pollo",
+    "g": 150
+   },
+   {
+    "alimento": "Chile en polvo",
+    "g": 3
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 15
+   },
+   {
+    "alimento": "Repollo / col, crudo",
+    "g": 20
+   },
+   {
+    "alimento": "Jugo de lima",
+    "g": 5
+   },
+   {
+    "alimento": "Orégano seco",
+    "g": 0.5
+   }
+  ],
+  "metodo": "Caldo con maíz pozolero y cerdo, sazonado con chile, y servido con repollo, cebolla y limón.",
+  "nota": "Receta muy simplificada: el pozole tradicional lleva cabeza de cerdo y chiles secos.",
+  "alias": [
+   "pozole"
+  ],
+  "id": "rc-0015"
+ },
+ {
+  "nombre": "Desayuno de huevos con frijoles y tortilla",
+  "paises": [
+   "México",
+   "Centroamérica"
+  ],
+  "raciones": 1,
+  "peso_final_g": 252,
+  "ingredientes": [
+   {
+    "alimento": "Huevo revuelto",
+    "g": 100
+   },
+   {
+    "alimento": "Frijoles refritos (enlatados)",
+    "g": 80
+   },
+   {
+    "alimento": "Tortilla de maíz",
+    "g": 52
+   },
+   {
+    "alimento": "Queso fresco",
+    "g": 20
+   }
+  ],
+  "metodo": "Huevos revueltos con frijoles refritos, tortillas de maíz y queso fresco.",
+  "id": "rc-0016"
+ },
+ {
+  "nombre": "Mofongo",
+  "paises": [
+   "Puerto Rico",
+   "República Dominicana"
+  ],
+  "raciones": 1,
+  "peso_final_g": 191,
+  "ingredientes": [
+   {
+    "alimento": "Plátano macho verde, frito",
+    "g": 150
+   },
+   {
+    "alimento": "Chicharrón de cerdo",
+    "g": 30
+   },
+   {
+    "alimento": "Ajo, crudo",
+    "g": 4
+   },
+   {
+    "alimento": "Aceite de oliva",
+    "g": 6
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1
+   }
+  ],
+  "metodo": "Plátano verde frito, machacado con ajo, chicharrón y aceite.",
+  "alias": [
+   "mofongo"
+  ],
+  "id": "rc-0017"
+ },
+ {
+  "nombre": "Tortilla española de patata",
+  "paises": [
+   "España"
+  ],
+  "raciones": 2,
+  "peso_final_g": 390,
+  "ingredientes": [
+   {
+    "alimento": "Papa / patata, cruda",
+    "g": 200
+   },
+   {
+    "alimento": "Huevo entero, crudo",
+    "g": 150
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 40
+   },
+   {
+    "alimento": "Aceite de oliva",
+    "g": 25
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 2
+   }
+  ],
+  "metodo": "Patata y cebolla fritas en aceite, mezcladas con huevo batido y cuajadas en sartén.",
+  "nota": "Solo se cuenta el aceite que se queda en la tortilla (unos 25 g), no el de toda la fritura. Dos raciones de unos 195 g.",
+  "alias": [
+   "tortilla de patata",
+   "tortilla de papas"
+  ],
+  "id": "rc-0018"
+ },
+ {
+  "nombre": "Gazpacho andaluz",
+  "paises": [
+   "España"
+  ],
+  "raciones": 4,
+  "peso_final_g": 1050,
+  "ingredientes": [
+   {
+    "alimento": "Tomate (jitomate), crudo",
+    "g": 800
+   },
+   {
+    "alimento": "Pepino",
+    "g": 150
+   },
+   {
+    "alimento": "Pimiento verde, crudo",
+    "g": 80
+   },
+   {
+    "alimento": "Ajo, crudo",
+    "g": 5
+   },
+   {
+    "alimento": "Aceite de oliva",
+    "g": 40
+   },
+   {
+    "alimento": "Vinagre",
+    "g": 15
+   },
+   {
+    "alimento": "Pan blanco",
+    "g": 40
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 3
+   }
+  ],
+  "metodo": "Todo triturado en frío y colado. Cuatro raciones de unos 260 g.",
+  "nota": "El peso final es menor que la suma por las pieles y semillas que se quitan.",
+  "id": "rc-0019"
+ },
+ {
+  "nombre": "Lomo saltado",
+  "paises": [
+   "Perú"
+  ],
+  "raciones": 1,
+  "peso_final_g": 500,
+  "ingredientes": [
+   {
+    "alimento": "Falda de res (flank), asada",
+    "g": 120
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 60
+   },
+   {
+    "alimento": "Tomate (jitomate), crudo",
+    "g": 60
+   },
+   {
+    "alimento": "Papas fritas congeladas (horneadas en casa)",
+    "g": 100
+   },
+   {
+    "alimento": "Arroz blanco, cocido",
+    "g": 150
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 10
+   },
+   {
+    "alimento": "Salsa de soya",
+    "g": 10
+   },
+   {
+    "alimento": "Vinagre",
+    "g": 5
+   }
+  ],
+  "metodo": "Carne salteada con cebolla y tomate, aliñada con soya y vinagre, servida con papas fritas y arroz.",
+  "nota": "Las papas fritas son las congeladas horneadas, no fritas de cero.",
+  "id": "rc-0020"
+ },
+ {
+  "nombre": "Milanesa de pollo",
+  "paises": [
+   "Argentina",
+   "Uruguay",
+   "Paraguay"
+  ],
+  "raciones": 1,
+  "peso_final_g": 165,
+  "ingredientes": [
+   {
+    "alimento": "Pechuga de pollo, cruda",
+    "g": 150
+   },
+   {
+    "alimento": "Huevo entero, crudo",
+    "g": 30
+   },
+   {
+    "alimento": "Pan blanco",
+    "g": 35
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 15
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1
+   }
+  ],
+  "metodo": "Pechuga aplanada, pasada por huevo y pan rallado y frita.",
+  "nota": "El pan rallado se aproxima con pan blanco. El peso final es menor que el crudo porque la pechuga pierde agua al freírse.",
+  "alias": [
+   "milanesa"
+  ],
+  "id": "rc-0021"
+ },
+ {
+  "nombre": "Empanadas de carne al horno (3 unidades)",
+  "paises": [
+   "Argentina",
+   "Chile"
+  ],
+  "raciones": 1,
+  "peso_final_g": 270,
+  "ingredientes": [
+   {
+    "alimento": "Harina de trigo",
+    "g": 90
+   },
+   {
+    "alimento": "Mantequilla",
+    "g": 20
+   },
+   {
+    "alimento": "Carne molida de res 90 % magra, cruda",
+    "g": 100
+   },
+   {
+    "alimento": "Cebolla, cruda",
+    "g": 50
+   },
+   {
+    "alimento": "Huevo cocido (duro)",
+    "g": 20
+   },
+   {
+    "alimento": "Aceitunas verdes",
+    "g": 10
+   },
+   {
+    "alimento": "Pimentón (paprika)",
+    "g": 1
+   },
+   {
+    "alimento": "Comino",
+    "g": 1
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 6
+   }
+  ],
+  "metodo": "Masa de harina y grasa rellena de carne molida, cebolla, huevo y aceitunas; horneadas.",
+  "nota": "Es una receta casera; las de panadería suelen llevar más grasa.",
+  "alias": [
+   "empanadas"
+  ],
+  "id": "rc-0022"
+ },
+ {
+  "nombre": "Arroz con leche casero",
+  "paises": [
+   "Colombia",
+   "España",
+   "México"
+  ],
+  "raciones": 2,
+  "peso_final_g": 350,
+  "ingredientes": [
+   {
+    "alimento": "Arroz blanco, crudo",
+    "g": 60
+   },
+   {
+    "alimento": "Leche entera",
+    "g": 300
+   },
+   {
+    "alimento": "Azúcar blanca",
+    "g": 30
+   },
+   {
+    "alimento": "Canela molida",
+    "g": 1
+   }
+  ],
+  "metodo": "Arroz cocido lentamente en leche con azúcar y canela. Dos raciones de unos 175 g.",
+  "nota": "El arroz crudo absorbe leche y parte se evapora.",
+  "id": "rc-0023"
+ },
+ {
+  "nombre": "Licuado de plátano con leche",
+  "paises": [
+   "Latinoamérica"
+  ],
+  "raciones": 1,
+  "peso_final_g": 380,
+  "ingredientes": [
+   {
+    "alimento": "Plátano (banana)",
+    "g": 120
+   },
+   {
+    "alimento": "Leche entera",
+    "g": 250
+   },
+   {
+    "alimento": "Azúcar blanca",
+    "g": 10
+   }
+  ],
+  "metodo": "Plátano, leche y azúcar licuados.",
+  "alias": [
+   "batido de banana"
+  ],
+  "id": "rc-0024"
+ },
+ {
+  "nombre": "Avena con leche y plátano",
+  "paises": [
+   "Latinoamérica"
+  ],
+  "raciones": 1,
+  "peso_final_g": 300,
+  "ingredientes": [
+   {
+    "alimento": "Avena en hojuelas, cruda",
+    "g": 40
+   },
+   {
+    "alimento": "Leche entera",
+    "g": 200
+   },
+   {
+    "alimento": "Plátano (banana)",
+    "g": 60
+   },
+   {
+    "alimento": "Miel",
+    "g": 10
+   },
+   {
+    "alimento": "Canela molida",
+    "g": 1
+   }
+  ],
+  "metodo": "Avena cocida en leche, con plátano en rodajas, miel y canela.",
+  "nota": "La avena absorbe leche; el peso final es aproximado.",
+  "alias": [
+   "avena"
+  ],
+  "id": "rc-0025"
+ },
+ {
+  "nombre": "Sopa de lentejas casera",
+  "paises": [
+   "Latinoamérica",
+   "España"
+  ],
+  "raciones": 1,
+  "peso_final_g": 480,
+  "ingredientes": [
+   {
+    "alimento": "Lentejas, cocidas",
+    "g": 150
+   },
+   {
+    "alimento": "Zanahoria, cocida",
+    "g": 40
+   },
+   {
+    "alimento": "Papa / patata, cocida",
+    "g": 60
+   },
+   {
+    "alimento": "Cebolla, cocida",
+    "g": 30
+   },
+   {
+    "alimento": "Caldo de pollo",
+    "g": 200
+   },
+   {
+    "alimento": "Aceite de oliva",
+    "g": 6
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1
+   }
+  ],
+  "metodo": "Lentejas con zanahoria, papa y cebolla en caldo.",
+  "nota": "Se usa caldo de pollo listo para servir.",
+  "id": "rc-0026"
+ },
+ {
+  "nombre": "Ensalada de atún",
+  "paises": [
+   "Latinoamérica",
+   "España"
+  ],
+  "raciones": 1,
+  "peso_final_g": 300,
+  "ingredientes": [
+   {
+    "alimento": "Atún en lata al natural",
+    "g": 120
+   },
+   {
+    "alimento": "Lechuga romana",
+    "g": 60
+   },
+   {
+    "alimento": "Tomate (jitomate), crudo",
+    "g": 60
+   },
+   {
+    "alimento": "Pepino",
+    "g": 40
+   },
+   {
+    "alimento": "Aceite de oliva",
+    "g": 10
+   },
+   {
+    "alimento": "Jugo de limón",
+    "g": 8
+   }
+  ],
+  "metodo": "Atún con lechuga, tomate y pepino, aliñada con aceite y limón.",
+  "id": "rc-0027"
+ },
+ {
+  "nombre": "Arroz con frijoles y huevo frito",
+  "paises": [
+   "Latinoamérica"
+  ],
+  "raciones": 1,
+  "peso_final_g": 380,
+  "ingredientes": [
+   {
+    "alimento": "Arroz blanco, cocido",
+    "g": 150
+   },
+   {
+    "alimento": "Frijoles negros, cocidos",
+    "g": 100
+   },
+   {
+    "alimento": "Huevo frito",
+    "g": 50
+   },
+   {
+    "alimento": "Plátano macho, maduro, frito",
+    "g": 60
+   },
+   {
+    "alimento": "Aceite de soya",
+    "g": 5
+   },
+   {
+    "alimento": "Sal de mesa",
+    "g": 1
+   }
+  ],
+  "metodo": "Plato sencillo de arroz, frijoles, huevo frito y plátano maduro.",
+  "id": "rc-0028"
+ }
+]

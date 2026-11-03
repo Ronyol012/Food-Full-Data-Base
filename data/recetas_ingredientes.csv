@@ -1,0 +1,170 @@
+receta_id,orden,alimento,fdc_id,gramos
+rc-0001,1,Harina de maíz amarilla (cornmeal),169697,100
+rc-0001,2,Aceite de soya,171411,5
+rc-0001,3,Sal de mesa,173468,1.5
+rc-0002,1,Harina de maíz amarilla (cornmeal),169697,50
+rc-0002,2,Queso fresco,172223,45
+rc-0002,3,Mantequilla,173410,6
+rc-0002,4,Sal de mesa,173468,1
+rc-0003,1,"Arroz blanco, cocido",168878,150
+rc-0003,2,"Frijoles negros, cocidos",173735,100
+rc-0003,3,Carne de res guisada,170615,120
+rc-0003,4,"Plátano macho, maduro, frito",168200,80
+rc-0003,5,"Cebolla, cruda",170000,25
+rc-0003,6,"Pimiento rojo, crudo",170108,15
+rc-0003,7,"Tomate (jitomate), crudo",170457,30
+rc-0003,8,Aceite de soya,171411,10
+rc-0003,9,Sal de mesa,173468,1.5
+rc-0004,1,"Arroz blanco, cocido",168878,150
+rc-0004,2,"Frijoles rojos, cocidos",175194,100
+rc-0004,3,"Carne molida de res, cocida",172161,80
+rc-0004,4,Chicharrón de cerdo,167961,30
+rc-0004,5,Huevo frito,173423,50
+rc-0004,6,"Plátano macho, maduro, frito",168200,60
+rc-0004,7,Aguacate (palta),171705,60
+rc-0004,8,Aceite de soya,171411,8
+rc-0004,9,Sal de mesa,173468,1.5
+rc-0005,1,"Arroz blanco, cocido",168878,200
+rc-0005,2,"Muslo de pollo, cocido",172388,120
+rc-0005,3,"Zanahoria, cocida",170394,30
+rc-0005,4,"Guisantes / arvejas, cocidos",170420,30
+rc-0005,5,"Pimiento rojo, crudo",170108,20
+rc-0005,6,"Cebolla, cocida",170001,20
+rc-0005,7,Aceite de soya,171411,10
+rc-0005,8,Sal de mesa,173468,1.5
+rc-0006,1,"Arroz blanco, cocido",168878,120
+rc-0006,2,"Frijoles negros, cocidos",173735,100
+rc-0006,3,Aceite de soya,171411,6
+rc-0006,4,"Cebolla, cruda",170000,15
+rc-0006,5,"Pimiento verde, crudo",170427,10
+rc-0006,6,"Cilantro, fresco",169997,3
+rc-0006,7,Sal de mesa,173468,1
+rc-0007,1,"Arroz blanco, cocido",168878,150
+rc-0007,2,"Frijoles negros, cocidos",173735,80
+rc-0007,3,Pechuga de pollo a la plancha,171534,100
+rc-0007,4,"Plátano macho, maduro, frito",168200,60
+rc-0007,5,"Repollo / col, crudo",169975,40
+rc-0007,6,"Tomate (jitomate), crudo",170457,30
+rc-0007,7,Aceite de soya,171411,5
+rc-0007,8,Sal de mesa,173468,1
+rc-0008,1,Tortilla de harina,167535,120
+rc-0008,2,Frijoles refritos (enlatados),172438,100
+rc-0008,3,Queso fresco,172223,40
+rc-0008,4,Crema agria (crema ácida),171257,30
+rc-0009,1,Tortilla de maíz,175036,78
+rc-0009,2,"Falda de res (flank), asada",168611,120
+rc-0009,3,"Cebolla, cruda",170000,25
+rc-0009,4,"Cilantro, fresco",169997,6
+rc-0009,5,Jugo de lima,168156,8
+rc-0009,6,Salsa verde,171824,30
+rc-0010,1,Tortilla de maíz,175036,78
+rc-0010,2,"Cerdo, lomo asado",168233,100
+rc-0010,3,Piña,169124,30
+rc-0010,4,"Cebolla, cruda",170000,25
+rc-0010,5,"Cilantro, fresco",169997,6
+rc-0010,6,Salsa verde,171824,30
+rc-0010,7,Aceite de soya,171411,4
+rc-0011,1,Nachos (totopos),167558,60
+rc-0011,2,Salsa verde,171824,120
+rc-0011,3,Pechuga de pollo hervida,171478,80
+rc-0011,4,Crema agria (crema ácida),171257,25
+rc-0011,5,Queso cotija,170898,20
+rc-0011,6,"Cebolla, cruda",170000,15
+rc-0012,1,Huevo frito,173423,100
+rc-0012,2,Tortilla de maíz,175036,52
+rc-0012,3,Frijoles refritos (enlatados),172438,80
+rc-0012,4,Salsa mexicana (pico de gallo),174524,60
+rc-0012,5,Aceite de soya,171411,5
+rc-0013,1,Tortilla de harina,167535,100
+rc-0013,2,Queso asadero,173437,60
+rc-0013,3,Aceite de soya,171411,4
+rc-0014,1,Aguacate (palta),171705,150
+rc-0014,2,"Cebolla, cruda",170000,20
+rc-0014,3,"Tomate (jitomate), crudo",170457,40
+rc-0014,4,"Cilantro, fresco",169997,5
+rc-0014,5,Jugo de lima,168156,10
+rc-0014,6,Chile serrano,169395,5
+rc-0014,7,Sal de mesa,173468,1.5
+rc-0015,1,"Maíz pozolero (hominy), enlatado",169701,120
+rc-0015,2,"Cerdo, lomo asado",168233,90
+rc-0015,3,Caldo de pollo,174536,150
+rc-0015,4,Chile en polvo,171319,3
+rc-0015,5,"Cebolla, cruda",170000,15
+rc-0015,6,"Repollo / col, crudo",169975,20
+rc-0015,7,Jugo de lima,168156,5
+rc-0015,8,Orégano seco,171328,0.5
+rc-0016,1,Huevo revuelto,172187,100
+rc-0016,2,Frijoles refritos (enlatados),172438,80
+rc-0016,3,Tortilla de maíz,175036,52
+rc-0016,4,Queso fresco,172223,20
+rc-0017,1,"Plátano macho verde, frito",168199,150
+rc-0017,2,Chicharrón de cerdo,167961,30
+rc-0017,3,"Ajo, crudo",169230,4
+rc-0017,4,Aceite de oliva,171413,6
+rc-0017,5,Sal de mesa,173468,1
+rc-0018,1,"Papa / patata, cruda",170026,200
+rc-0018,2,"Huevo entero, crudo",171287,150
+rc-0018,3,"Cebolla, cruda",170000,40
+rc-0018,4,Aceite de oliva,171413,25
+rc-0018,5,Sal de mesa,173468,2
+rc-0019,1,"Tomate (jitomate), crudo",170457,800
+rc-0019,2,Pepino,168409,150
+rc-0019,3,"Pimiento verde, crudo",170427,80
+rc-0019,4,"Ajo, crudo",169230,5
+rc-0019,5,Aceite de oliva,171413,40
+rc-0019,6,Vinagre,172237,15
+rc-0019,7,Pan blanco,167532,40
+rc-0019,8,Sal de mesa,173468,3
+rc-0020,1,"Falda de res (flank), asada",168611,120
+rc-0020,2,"Cebolla, cruda",170000,60
+rc-0020,3,"Tomate (jitomate), crudo",170457,60
+rc-0020,4,Papas fritas congeladas (horneadas en casa),169264,100
+rc-0020,5,"Arroz blanco, cocido",168878,150
+rc-0020,6,Aceite de soya,171411,10
+rc-0020,7,Salsa de soya,174277,10
+rc-0020,8,Vinagre,172237,5
+rc-0021,1,"Pechuga de pollo, cruda",171077,150
+rc-0021,2,"Huevo entero, crudo",171287,30
+rc-0021,3,Pan blanco,167532,35
+rc-0021,4,Aceite de soya,171411,15
+rc-0021,5,Sal de mesa,173468,1
+rc-0022,1,Harina de trigo,168894,90
+rc-0022,2,Mantequilla,173410,20
+rc-0022,3,"Carne molida de res 90 % magra, cruda",174030,100
+rc-0022,4,"Cebolla, cruda",170000,50
+rc-0022,5,Huevo cocido (duro),173424,20
+rc-0022,6,Aceitunas verdes,169096,10
+rc-0022,7,Pimentón (paprika),171329,1
+rc-0022,8,Comino,170923,1
+rc-0022,9,Aceite de soya,171411,6
+rc-0023,1,"Arroz blanco, crudo",168877,60
+rc-0023,2,Leche entera,171265,300
+rc-0023,3,Azúcar blanca,169655,30
+rc-0023,4,Canela molida,171320,1
+rc-0024,1,Plátano (banana),173944,120
+rc-0024,2,Leche entera,171265,250
+rc-0024,3,Azúcar blanca,169655,10
+rc-0025,1,"Avena en hojuelas, cruda",173904,40
+rc-0025,2,Leche entera,171265,200
+rc-0025,3,Plátano (banana),173944,60
+rc-0025,4,Miel,169640,10
+rc-0025,5,Canela molida,171320,1
+rc-0026,1,"Lentejas, cocidas",172421,150
+rc-0026,2,"Zanahoria, cocida",170394,40
+rc-0026,3,"Papa / patata, cocida",170438,60
+rc-0026,4,"Cebolla, cocida",170001,30
+rc-0026,5,Caldo de pollo,174536,200
+rc-0026,6,Aceite de oliva,171413,6
+rc-0026,7,Sal de mesa,173468,1
+rc-0027,1,Atún en lata al natural,171986,120
+rc-0027,2,Lechuga romana,169247,60
+rc-0027,3,"Tomate (jitomate), crudo",170457,60
+rc-0027,4,Pepino,168409,40
+rc-0027,5,Aceite de oliva,171413,10
+rc-0027,6,Jugo de limón,167747,8
+rc-0028,1,"Arroz blanco, cocido",168878,150
+rc-0028,2,"Frijoles negros, cocidos",173735,100
+rc-0028,3,Huevo frito,173423,50
+rc-0028,4,"Plátano macho, maduro, frito",168200,60
+rc-0028,5,Aceite de soya,171411,5
+rc-0028,6,Sal de mesa,173468,1
