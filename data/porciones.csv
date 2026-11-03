@@ -1,0 +1,2162 @@
+id,fdc_id,orden,cantidad,medida_es,medida_en,gramos
+es-0001,171287,1,1,grande,large,50
+es-0001,171287,2,1,extra grande,extra large,56
+es-0001,171287,3,1,jumbo,jumbo,63
+es-0001,171287,4,1,,cup (4.86 large eggs),243
+es-0001,171287,5,1,mediano,medium,44
+es-0001,171287,6,1,pequeño,small,38
+es-0002,173424,1,1,"taza, picado","cup, chopped",136
+es-0002,173424,2,1,cucharada,tbsp,8.5
+es-0002,173424,3,1,grande,large,50
+es-0003,173423,1,1,grande,large,46
+es-0004,172187,1,1,grande,large,61
+es-0004,172187,2,1,cucharada,tbsp,13.7
+es-0004,172187,3,1,taza,cup,220
+es-0005,172183,1,1,grande,large,33
+es-0005,172183,2,1,taza,cup,243
+es-0006,172184,1,1,grande,large,17
+es-0006,172184,2,1,taza,cup,243
+es-0007,171265,1,1,taza,cup,244
+es-0007,171265,2,1,onza líquida,fl oz,30.5
+es-0007,171265,3,1,cucharada,tbsp,15
+es-0007,171265,4,1,cuarto de galón,quart,976
+es-0008,171267,1,1,taza,cup,244
+es-0008,171267,2,1,onza líquida,fl oz,30.5
+es-0008,171267,3,1,cuarto de galón,quart,976
+es-0009,171269,1,1,taza,cup,245
+es-0009,171269,2,1,onza líquida,fl oz,30.6
+es-0009,171269,3,1,cuarto de galón,quart,980
+es-0010,170876,1,0.25,tazas,cup,32
+es-0010,170876,2,1,taza,cup,128
+es-0011,171284,1,1,envase (6 oz),container (6 oz),170
+es-0011,171284,2,1,envase (8 oz),container (8 oz),227
+es-0011,171284,3,0.5,envases (4 oz),container (4 oz),113
+es-0011,171284,4,1,taza (8 fl oz),cup (8 fl oz),245
+es-0012,170887,1,1,envase (6 oz),container (6 oz),170
+es-0012,170887,2,1,envase (8 oz),container (8 oz),227
+es-0012,170887,3,1,taza (8 fl oz),cup (8 fl oz),245
+es-0013,170903,1,1,envase (7 oz),container (7 oz),200
+es-0014,170899,1,1,rebanada (2/3 oz),slice (2/3 oz),19
+es-0014,170899,2,1,rebanada (3/4 oz),slice (3/4 oz),21
+es-0014,170899,3,1,rebanada (1 oz),slice (1 oz),28
+es-0015,170845,1,1,"taza, rallado","cup, shredded",112
+es-0015,170845,2,1,onza,oz,28.4
+es-0015,170845,3,6,rebanadas,slices,170
+es-0016,172223,1,1,"taza, desmenuzado","cup, crumbled",122
+es-0017,170848,1,1,onza,oz,28.4
+es-0017,170848,2,1,pulgada cúbica,cubic inch,10.3
+es-0017,170848,3,5,paquetes (5 oz),package (5 oz),142
+es-0018,173418,1,1,cucharada,tbsp,14.5
+es-0018,173418,2,1,taza,cup,232
+es-0018,173418,3,1,"cucharada, batido","tbsp, whipped",10
+es-0018,173418,4,1,onza,oz,28.4
+es-0018,173418,5,1,pulgada cúbica,cubic inch,16
+es-0018,173418,6,1,"paquete, pequeño (3 oz)","package, small (3 oz)",85
+es-0019,170851,1,0.5,tazas,cup,124
+es-0019,170851,2,1,taza,cup,246
+es-0020,172179,1,4,onzas,oz,113
+es-0020,172179,2,1,,"cup, large curd (not packed)",210
+es-0020,172179,3,1,,"cup, small curd (not packed)",225
+es-0021,171251,1,1,"taza, en cubos","cup, diced",132
+es-0021,171251,2,1,"taza, derretido","cup, melted",244
+es-0021,171251,3,1,"taza, rallado","cup, shredded",108
+es-0021,171251,4,1,onza,oz,28.4
+es-0021,171251,5,1,pulgada cúbica,cubic inch,15
+es-0021,171251,6,1,rebanada (1 oz),slice (1 oz),28
+es-0022,173410,1,1,,"pat (1"" sq, 1/3"" high)",5
+es-0022,173410,2,1,cucharada,tbsp,14.2
+es-0022,173410,3,1,taza,cup,227
+es-0022,173410,4,1,barra,stick,113
+es-0023,170859,1,1,"taza, batido","cup, whipped",120
+es-0023,170859,2,1,,"cup, fluid (yields 2 cups whipped)",238
+es-0023,170859,3,1,cucharada,tbsp,15
+es-0023,170859,4,1,onza líquida,fl oz,29.8
+es-0024,167575,1,1,,serving 1/2 cup,66
+es-0025,171477,1,1,"taza, picado o en cubos","cup, chopped or diced",140
+es-0025,171477,2,1,,unit (yield from 1 lb ready-to-cook chicken),52
+es-0025,171477,3,0.5,,"breast, bone and skin removed",86
+es-0026,171077,1,4,onzas,oz,113
+es-0026,171077,2,1,pieza,piece,272
+es-0026,171077,3,1,paquete,package,926
+es-0027,172388,1,3,onzas,oz,85
+es-0027,172388,2,1,,thigh without skin,116
+es-0027,172388,3,1,,thigh with skin,137
+es-0028,171450,1,3,onzas,oz,85
+es-0028,171450,2,1,"taza, picado o en cubos","cup, chopped or diced",140
+es-0028,171450,3,0.5,,unit (yield from 1 lb ready-to-cook chicken),178
+es-0029,171496,1,3,onzas,oz,85
+es-0029,171496,2,1,pechuga,breast,1413
+es-0030,172161,1,3,onzas,oz,85
+es-0031,171796,1,4,onzas,oz,113
+es-0032,168634,1,3,onzas,oz,85
+es-0032,168634,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",292
+es-0033,174055,1,4,onzas,oz,113
+es-0033,174055,2,1,libra,lb,453.6
+es-0034,170615,1,3,onzas,oz,85
+es-0034,170615,2,1,,roast (yield from 1528g raw meat),1095
+es-0035,171223,1,3,onzas,oz,85
+es-0035,171223,2,1,pieza,piece,272
+es-0036,168626,1,3,onzas,oz,85
+es-0036,168626,2,1,rebanada,slice,68
+es-0037,168233,1,3,onzas,oz,85
+es-0037,168233,2,1,,"chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)",81
+es-0038,168240,1,1,,"chop without refuse (Yield from 1 cooked chop, with refuse, weighing 209g)",146
+es-0038,168240,2,3,onzas,oz,85
+es-0039,167903,1,3,onzas,oz,85
+es-0040,168322,1,3,onzas,oz,85
+es-0040,168322,2,1,rebanada,slice,11.5
+es-0041,173864,1,56,,grams 1 serving,56
+es-0041,173864,2,1,rebanada,slice,28
+es-0042,173859,1,1,onza,oz,28.4
+es-0042,173859,2,1,,"link (4"" long)",60
+es-0043,174614,1,1,,frankfurter,48
+es-0043,174614,2,1,paquete,package,451
+es-0044,174578,1,1,hamburguesa,patty,27
+es-0044,174578,2,1,salchicha,link,23
+es-0044,174578,3,1,porción,serving,48
+es-0045,174314,1,3,onzas,oz,85
+es-0045,174314,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",218
+es-0046,175168,1,3,onzas,oz,85
+es-0046,175168,2,0.5,filetes,fillet,178
+es-0047,175167,1,3,onzas,oz,85
+es-0047,175167,2,0.5,filetes,fillet,198
+es-0048,171986,1,3,onzas,oz,85
+es-0048,171986,2,1,lata,can,165
+es-0049,173708,1,1,,"cup, solid or chunks",146
+es-0049,173708,2,1,onza,oz,28.4
+es-0049,173708,3,1,lata,can,171
+es-0049,173708,4,3,onzas,oz,85
+es-0049,173708,5,1,,"can (12.5 oz), drained",321
+es-0050,175139,1,1,"taza, escurrido","cup, drained",149
+es-0050,175139,2,1,onza,oz,28.4
+es-0050,175139,3,1,pulgada cúbica,cubic inch,16
+es-0050,175139,4,1,lata (3.75 oz),can (3.75 oz),92
+es-0050,175139,5,1,"pequeño (2-2/3"" x 1/2"" x 1/4"")","small (2-2/3"" x 1/2"" x 1/4"")",12
+es-0050,175139,6,2,,sardines,24
+es-0051,175177,1,1,filete,fillet,87
+es-0052,171956,1,3,onzas,oz,85
+es-0052,171956,2,1,filete,fillet,180
+es-0053,173726,1,3,onzas,oz,85
+es-0054,173718,1,1,filete,fillet,71
+es-0054,173718,2,3,onzas,oz,85
+es-0055,175180,1,3,onzas,oz,85
+es-0056,174205,1,1,,"cup, flaked and pieces",118
+es-0056,174205,2,1,taza (sin comprimir),cup (not packed),135
+es-0056,174205,3,1,onza,oz,28.4
+es-0056,174205,4,3,onzas,oz,85
+es-0057,174223,1,1,"onza, sin hueso","oz, boneless",28.4
+es-0057,174223,2,3,onzas,oz,85
+es-0058,171975,1,3,onzas,oz,85
+es-0058,171975,2,20,pequeño,small,190
+es-0059,168878,1,1,taza,cup,158
+es-0060,168877,1,1,taza,cup,185
+es-0061,169704,1,1,taza,cup,202
+es-0062,169737,1,1,,cup spaghetti not packed,124
+es-0062,169737,2,1,,cup spaghetti packed,151
+es-0062,169737,3,1,,cup elbows not packed,120
+es-0062,169737,4,1,,cup elbows packed,132
+es-0062,169737,5,1,,cup penne,107
+es-0062,169737,6,1,,cup farfalle,107
+es-0062,169737,7,1,,cup rotini,107
+es-0062,169737,8,1,,cup shells,105
+es-0062,169737,9,1,,cup lasagne,116
+es-0063,169736,1,1,,cup spaghetti,91
+es-0063,169736,2,2,onzas,oz,57
+es-0063,169736,3,1,,cup elbows,122
+es-0063,169736,4,1,,cup penne,95
+es-0063,169736,5,1,,cup farfalle,81
+es-0063,169736,6,1,,cup rotini,96
+es-0063,169736,7,1,,cup shells,64
+es-0063,169736,8,1,,cup lasagna,90
+es-0064,168910,1,1,,cup spaghetti not packed,117
+es-0064,168910,2,1,,cup spaghetti packed,151
+es-0064,168910,3,1,,cup elbows,117
+es-0064,168910,4,1,,cup penne,97
+es-0064,168910,5,1,,cup shells,105
+es-0064,168910,6,1,,cup lasagne,116
+es-0064,168910,7,1,,cup rotini,107
+es-0064,168910,8,1,,cup farfalle,107
+es-0065,173904,1,1,taza,cup,81
+es-0065,173904,2,0.33,tazas,cup,27
+es-0066,173905,1,1,taza,cup,234
+es-0066,173905,2,1,cucharada,tbsp,14.6
+es-0066,173905,3,0.75,tazas,cup,175
+es-0067,168917,1,1,taza,cup,185
+es-0068,169700,1,1,"taza, cocido","cup, cooked",157
+es-0068,169700,2,1,,"cup, dry, yields",528
+es-0068,169700,3,1,,"oz, dry, yields",86
+es-0069,169999,1,1,,"ear small (5-1/2"" to 6-1/2"" long)",89
+es-0069,169999,2,1,,"ear medium (6-3/4"" to 7-1/2"" long)",103
+es-0069,169999,3,1,,"ear large (7-3/4"" to 9"" long)",118
+es-0069,169999,4,1,,cup cut,149
+es-0069,169999,5,1,,baby ear,8
+es-0070,169748,1,1,taza,cup,117
+es-0071,168894,1,1,taza,cup,125
+es-0072,167532,1,1,rebanada,slice,28
+es-0073,172688,1,1,rebanada,slice,32
+es-0073,172688,2,1,onza,oz,28.4
+es-0074,174925,1,1,onza,oz,28.4
+es-0074,174925,2,1,,"cup, crumbs",45
+es-0074,174925,3,1,"taza, en cubos","cup, cubes",42
+es-0074,174925,4,1,"rebanada, grande","slice, large",27
+es-0074,174925,5,1,,slice crust not eaten,11
+es-0074,174925,6,1,"rebanada, delgado","slice, thin",17
+es-0074,174925,7,1,,"slice thin, crust not eaten",8
+es-0074,174925,8,1,,"slice, very thin",13
+es-0074,174925,9,1,rebanada,slice,22
+es-0075,172675,1,1,onza,oz,28.4
+es-0075,172675,2,1,rebanada,slice,139
+es-0076,175036,1,1,onza,oz,28.4
+es-0076,175036,2,1,enchilada,enchilada,19
+es-0076,175036,3,1,tortilla,tortilla,24
+es-0077,167535,1,1,tortilla,tortilla,49
+es-0077,167535,2,1,paquete,package,484
+es-0078,174915,1,1,,"pita, large (6-1/2"" dia)",60
+es-0078,174915,2,1,,"pita, small  (4"" dia)",28
+es-0079,174982,1,5,,crackers,16
+es-0079,174982,2,5,,"crackers, regular size, round (1 serving)",16
+es-0079,174982,3,1,,"cracker, round",3.2
+es-0079,174982,4,1,,"cracker, rectangular",4
+es-0079,174982,5,1,"taza, triturado",cup crushed,52
+es-0080,174950,1,1,onza,oz,28.4
+es-0080,174950,2,1,galleta,cookie,5
+es-0081,174648,1,1,,cup (1 NLEA serving),28
+es-0082,171646,1,1,taza,cup,122
+es-0082,171646,2,1,onza,oz,28.4
+es-0083,173735,1,1,taza,cup,172
+es-0084,175194,1,1,taza,cup,177
+es-0084,175194,2,1,cucharada,tbsp,11
+es-0085,175200,1,1,taza,cup,171
+es-0085,175200,2,1,cucharada,tbsp,10.6
+es-0086,172438,1,1,taza,cup,238
+es-0086,172438,2,1,lata,can,442
+es-0087,173757,1,1,taza,cup,164
+es-0088,172421,1,1,taza,cup,198
+es-0088,172421,2,1,cucharada,tbsp,12.3
+es-0089,170420,1,1,taza,cup,160
+es-0090,174271,1,1,taza,cup,172
+es-0090,174271,2,1,cucharada,tbsp,10.7
+es-0091,172475,1,0.5,tazas,cup,126
+es-0091,172475,2,0.25,bloques,block,81
+es-0092,174289,1,1,cucharada,tbsp,15
+es-0092,174289,2,1,taza,cup,246
+es-0093,170438,1,0.5,tazas,cup,78
+es-0093,170438,2,1,,"potato (2-1/2"" dia, sphere)",136
+es-0094,170093,1,1,porción (etiqueta NLEA),NLEA serving,148
+es-0094,170093,2,1,,potato large,299
+es-0094,170093,3,1,,potato medium,173
+es-0094,170093,4,1,,potato small,138
+es-0095,169264,1,10,,fries,76
+es-0095,169264,2,1,,"package (9 oz), yields",198
+es-0096,170037,1,1,taza,cup,210
+es-0097,168483,1,1,taza,cup,200
+es-0097,168483,2,1,grande,large,180
+es-0097,168483,3,1,,"medium (2"" dia, 5"" long, raw)",114
+es-0097,168483,4,1,pequeño,small,60
+es-0098,169985,1,1,taza,cup,206
+es-0098,169985,2,1,,root,408
+es-0099,168216,1,1,taza,cup,137
+es-0100,168200,1,1,taza,cup,169
+es-0101,169130,1,1,,plantain,270
+es-0101,169130,2,1,"taza, en rebanadas","cup, sliced",148
+es-0102,170072,1,1,"taza, en cubos","cup, cubes",136
+es-0102,170072,2,0.5,"tazas, en cubos","cup, cubes",68
+es-0103,170490,1,1,"taza, en cubos","cup, cubes",205
+es-0104,170457,1,1,,cup cherry tomatoes,149
+es-0104,170457,2,1,,"cup, chopped or sliced",180
+es-0104,170457,3,1,,Italian tomato,62
+es-0104,170457,4,1,,cherry,17
+es-0104,170457,5,1,,"large whole (3"" dia)",182
+es-0104,170457,6,1,,"medium whole (2-3/5"" dia)",123
+es-0104,170457,7,1,,"slice, medium (1/4"" thick)",20
+es-0104,170457,8,1,,plum tomato,62
+es-0104,170457,9,1,,"small whole (2-2/5"" dia)",91
+es-0104,170457,10,1,,"slice, thick/large (1/2"" thick)",27
+es-0104,170457,11,1,,wedge (1/4 of medium tomato),31
+es-0104,170457,12,1,,"slice, thin/small",15
+es-0104,170457,13,1,porción (etiqueta NLEA),NLEA serving,148
+es-0105,170000,1,1,"taza, picado","cup, chopped",160
+es-0105,170000,2,1,"taza, en rebanadas","cup, sliced",115
+es-0105,170000,3,1,"cucharada, picado",tbsp chopped,10
+es-0105,170000,4,1,grande,large,150
+es-0105,170000,5,1,,"slice, large (1/4"" thick)",38
+es-0105,170000,6,1,"mediano (diám. 2-1/2"")","medium (2-1/2"" dia)",110
+es-0105,170000,7,1,,"slice, medium (1/8"" thick)",14
+es-0105,170000,8,1,pequeño,small,70
+es-0105,170000,9,1,"rebanada, delgado","slice, thin",9
+es-0105,170000,10,10,,rings,60
+es-0106,169230,1,1,taza,cup,136
+es-0106,169230,2,1,cucharadita,tsp,2.8
+es-0106,169230,3,1,diente,clove,3
+es-0106,169230,4,3,,cloves,9
+es-0107,170393,1,1,"taza, picado",cup chopped,128
+es-0107,170393,2,1,"taza, rallado",cup grated,110
+es-0107,170393,3,1,,cup strips or slices,122
+es-0107,170393,4,1,,"large (7-1/4"" to 8-/1/2"" long)",72
+es-0107,170393,5,1,mediano,medium,61
+es-0107,170393,6,1,,"small (5-1/2"" long)",50
+es-0107,170393,7,1,rebanada,slice,3
+es-0107,170393,8,1,,"strip large (3"" long)",7
+es-0107,170393,9,1,,strip medium,4
+es-0108,169247,1,1,"taza, rallado",cup shredded,47
+es-0108,169247,2,1,"hoja, interior",leaf inner,6
+es-0108,169247,3,1,"hoja, exterior",leaf outer,28
+es-0108,169247,4,1,cabeza,head,626
+es-0108,169247,5,1,porción (etiqueta NLEA),NLEA serving,85
+es-0109,169248,1,1,"taza, rallado",cup shredded,72
+es-0109,169248,2,1,,"cup, chopped (1/2"" pieces, loosely packed)",57
+es-0109,169248,3,1,"cabeza, grande","head, large",755
+es-0109,169248,4,1,"cabeza, mediano (diám. 6"")","head, medium (6"" dia)",539
+es-0109,169248,5,1,"cabeza, pequeño","head, small",324
+es-0109,169248,6,1,"hoja, grande","leaf, large",15
+es-0109,169248,7,1,"hoja, mediano","leaf, medium",8
+es-0109,169248,8,1,"hoja, pequeño","leaf, small",5
+es-0109,169248,9,1,porción (etiqueta NLEA),NLEA Serving,89
+es-0110,168462,1,1,taza,cup,30
+es-0110,168462,2,1,,bunch,340
+es-0110,168462,3,1,hoja,leaf,10
+es-0110,168462,4,1,paquete (10 oz),package (10 oz),284
+es-0111,168463,1,1,taza,cup,180
+es-0112,170379,1,1,"taza, picado",cup chopped,91
+es-0112,170379,2,1,,bunch,608
+es-0112,170379,3,1,,"spear (about 5"" long)",31
+es-0112,170379,4,1,tallo,stalk,151
+es-0112,170379,5,0.5,"tazas, picado o en cubos","cup, chopped or diced",44
+es-0112,170379,6,1,porción (etiqueta NLEA),NLEA serving,148
+es-0113,169967,1,0.5,"tazas, picado","cup, chopped",78
+es-0113,169967,2,1,,"stalk, large (11""-12"" long)",280
+es-0113,169967,3,1,,"stalk, medium (7-1/2"" - 8"" long)",180
+es-0113,169967,4,1,,"stalk, small (5"" long)",140
+es-0113,169967,5,1,,"spear (about 5"" long)",37
+es-0114,169986,1,1,,"cup chopped (1/2"" pieces)",107
+es-0114,169986,2,1,,floweret,13
+es-0114,169986,3,1,,"head large (6-7"" dia.)",840
+es-0114,169986,4,1,,"head medium (5-6"" dia.)",588
+es-0114,169986,5,1,,"head small (4"" dia.)",265
+es-0115,169975,1,1,"taza, picado","cup, chopped",89
+es-0115,169975,2,1,"taza, rallado","cup, shredded",70
+es-0115,169975,3,1,,"head, large (about 7"" dia)",1248
+es-0115,169975,4,1,"hoja, grande","leaf, large",33
+es-0115,169975,5,1,,"head, medium (about 5-3/4"" dia)",908
+es-0115,169975,6,1,"hoja, mediano","leaf, medium",23
+es-0115,169975,7,1,,"head, small (about 4-1/2"" dia)",714
+es-0115,169975,8,1,hoja,leaf,15
+es-0116,168409,1,0.5,"tazas, en rebanadas",cup slices,52
+es-0116,168409,2,1,,"cucumber (8-1/4"")",301
+es-0117,170108,1,1,"taza, picado","cup, chopped",149
+es-0117,170108,2,1,"taza, en rebanadas","cup, sliced",92
+es-0117,170108,3,1,cucharada,tablespoon,9.3
+es-0117,170108,4,1,,"large (2-1/4 per pound, approx 3-3/4"" long, 3"" dia.)",164
+es-0117,170108,5,1,,"medium (approx 2-3/4"" long, 2-1/2 dia.)",119
+es-0117,170108,6,1,pequeño,small,74
+es-0117,170108,7,1,,"ring (3"" dia., 1/4"" thick)",10
+es-0118,170427,1,1,"taza, picado","cup, chopped",149
+es-0118,170427,2,1,"taza, en rebanadas","cup, sliced",92
+es-0118,170427,3,1,cucharada,tbsp,9.3
+es-0118,170427,4,1,,"large (2-1/4 per lb, approx 3-3/4"" long, 3"" dia)",164
+es-0118,170427,5,1,,"medium (approx 2-3/4"" long, 2-1/2"" dia)",119
+es-0118,170427,6,1,,"ring (3"" dia, 1/4"" thick)",10
+es-0118,170427,7,1,pequeño,small,74
+es-0118,170427,8,10,,strips,27
+es-0119,168576,1,1,"taza, en rebanadas","cup, sliced",90
+es-0119,168576,2,1,,pepper,14
+es-0120,169291,1,1,"taza, picado","cup, chopped",124
+es-0120,169291,2,1,"taza, en rebanadas","cup, sliced",113
+es-0120,169291,3,1,grande,large,323
+es-0120,169291,4,1,mediano,medium,196
+es-0120,169291,5,1,rebanada,slice,9.9
+es-0120,169291,6,1,pequeño,small,118
+es-0121,169229,1,1,,"cup (1"" cubes)",99
+es-0122,169251,1,1,,"cup, pieces or slices",70
+es-0122,169251,2,1,"taza, entero","cup, whole",96
+es-0122,169251,3,1,grande,large,23
+es-0122,169251,4,1,mediano,medium,18
+es-0122,169251,5,1,rebanada,slice,6
+es-0122,169251,6,1,pequeño,small,10
+es-0122,169251,7,0.5,"tazas, en trozos",cup pieces,35
+es-0123,169988,1,1,"taza, picado",cup chopped,101
+es-0123,169988,2,1,porción (etiqueta NLEA),NLEA serving,110
+es-0123,169988,3,1,cucharada,tbsp,7.5
+es-0123,169988,4,1,,"stalk, large (11""-12"" long)",64
+es-0123,169988,5,1,,"stalk, medium (7-1/2"" - 8"" long)",40
+es-0123,169988,6,1,,"stalk, small (5"" long)",17
+es-0123,169988,7,1,,"strip (4"" long)",4
+es-0124,169146,1,0.5,"tazas, en rebanadas",cup slices,85
+es-0124,169146,2,2,,"beets (2"" dia, sphere)",100
+es-0125,168390,1,0.5,tazas,cup,90
+es-0125,168390,2,4,,"spears (1/2"" base)",60
+es-0126,169141,1,1,taza,cup,125
+es-0127,169997,1,0.25,tazas,cup,4
+es-0127,169997,2,9,ramitas,sprigs,20
+es-0128,170416,1,1,"taza, picado",cup chopped,60
+es-0128,170416,2,1,cucharada,tbsp,3.8
+es-0128,170416,3,10,ramitas,sprigs,10
+es-0129,169094,1,1,cucharada,tbsp,8.4
+es-0129,169094,2,1,grande,large,4.4
+es-0129,169094,3,1,pequeño,small,3.2
+es-0130,169214,1,1,taza,cup,164
+es-0130,169214,2,1,,can (12 oz) yields,211
+es-0130,169214,3,1,lata (303 x 406),can (303 x 406),298
+es-0131,169388,1,1,taza,cup,149
+es-0131,169388,2,1,,pad,29
+es-0132,171705,1,1,"taza, en cubos","cup, cubes",150
+es-0132,171705,2,1,"taza, hecho puré","cup, pureed",230
+es-0132,171705,3,1,"taza, en rebanadas","cup, sliced",146
+es-0132,171705,4,1,,"avocado, NS as to Florida or California",201
+es-0132,171705,5,1,porción (etiqueta NLEA),NLEA Serving,50
+es-0133,168556,1,1,cucharada,tbsp,17
+es-0133,168556,2,1,sobre,packet,9
+es-0133,168556,3,1,taza,cup,240
+es-0134,170054,1,1,taza,cup,245
+es-0135,173944,1,1,"taza, en puré","cup, mashed",225
+es-0135,173944,2,1,"taza, en rebanadas","cup, sliced",150
+es-0135,173944,3,1,,"extra small (less than 6"" long)",81
+es-0135,173944,4,1,,"small (6"" to 6-7/8"" long)",101
+es-0135,173944,5,1,,"medium (7"" to 7-7/8"" long)",118
+es-0135,173944,6,1,,"large (8"" to 8-7/8"" long)",136
+es-0135,173944,7,1,,"extra large (9"" or longer)",152
+es-0135,173944,8,1,porción (etiqueta NLEA),NLEA serving,126
+es-0136,171688,1,1,,"cup, quartered or chopped",125
+es-0136,171688,2,1,"taza, en rebanadas",cup slices,109
+es-0136,171688,3,1,"grande (diám. 3-1/4"")","large (3-1/4"" dia)",223
+es-0136,171688,4,1,"mediano (diám. 3"")","medium (3"" dia)",182
+es-0136,171688,5,1,"pequeño (diám. 2-3/4"")","small (2-3/4"" dia)",149
+es-0136,171688,6,1,"extra pequeño (diám. 2-1/2"")","extra small (2-1/2"" dia)",101
+es-0136,171688,7,1,porción (etiqueta NLEA),NLEA serving,242
+es-0137,169097,1,1,"taza, en gajos","cup, sections",180
+es-0137,169097,2,1,"grande (diám. 3-1/16"")","large (3-1/16"" dia)",184
+es-0137,169097,3,1,"pequeño (diám. 2-3/8"")","small (2-3/8"" dia)",96
+es-0137,169097,4,1,,"fruit (2-5/8"" dia)",131
+es-0138,169105,1,1,"taza, en gajos","cup, sections",195
+es-0138,169105,2,1,"pequeño (diám. 2-1/4"")","small (2-1/4"" dia)",76
+es-0138,169105,3,1,"mediano (diám. 2-1/2"")","medium (2-1/2"" dia)",88
+es-0138,169105,4,1,"grande (diám. 2-3/4"")","large (2-3/4"" dia)",120
+es-0138,169105,5,1,porción (etiqueta NLEA),NLEA serving,109
+es-0139,167746,1,1,"taza, en gajos","cup, sections",212
+es-0139,167746,2,1,,"fruit (2-1/8"" dia)",58
+es-0139,167746,3,1,,"fruit (2-3/8"" dia)",84
+es-0139,167746,4,1,,"wedge or slice (1/8 of one 2-1/8"" dia lemon)",7
+es-0139,167746,5,1,porción (etiqueta NLEA),NLEA serving,58
+es-0140,168155,1,1,,"fruit (2"" dia)",67
+es-0140,168155,2,1,porción (etiqueta NLEA),NLEA serving,67
+es-0141,167762,1,1,"taza, en mitades","cup, halves",152
+es-0141,167762,2,1,"taza, hecho puré","cup, pureed",232
+es-0141,167762,3,1,"taza, en rebanadas","cup, sliced",166
+es-0141,167762,4,1,"taza, entero","cup, whole",144
+es-0141,167762,5,1,"extra grande (diám. 1-5/8"")","extra large (1-5/8"" dia)",27
+es-0141,167762,6,1,"grande (diám. 1-3/8"")","large (1-3/8"" dia)",18
+es-0141,167762,7,1,"mediano (diám. 1-1/4"")","medium (1-1/4"" dia)",12
+es-0141,167762,8,1,,"pint as purchased, yields",357
+es-0141,167762,9,1,"pequeño (diám. 1"")","small (1"" dia)",7
+es-0141,167762,10,1,porción (etiqueta NLEA),NLEA serving,147
+es-0142,174683,1,1,taza,cup,151
+es-0142,174683,2,10,,grapes,49
+es-0142,174683,3,1,porción (etiqueta NLEA),NLEA serving,126
+es-0143,167765,1,1,"taza, en bolitas","cup, balls",154
+es-0143,167765,2,1,"taza, en cubos","cup, diced",152
+es-0143,167765,3,1,,"melon (15"" long x 7-1/2"" dia)",4518
+es-0143,167765,4,1,,wedge (approx 1/16 of melon),286
+es-0143,167765,5,10,,watermelon balls,122
+es-0143,167765,6,1,porción (etiqueta NLEA),NLEA serving,280
+es-0144,169092,1,1,"taza, en bolitas","cup, balls",177
+es-0144,169092,2,1,"taza, en cubos","cup, cubes",160
+es-0144,169092,3,1,"taza, en cubos","cup, diced",156
+es-0144,169092,4,1,,"melon, large (about 6-1/2"" dia)",814
+es-0144,169092,5,1,,"wedge, large (1/8 of large melon)",102
+es-0144,169092,6,1,,"melon, medium (about 5"" dia)",552
+es-0144,169092,7,1,,"wedge, medium (1/8 of medium melon)",69
+es-0144,169092,8,1,,"melon, small (about 4-1/4"" dia)",441
+es-0144,169092,9,1,,"wedge, small (1/8 of small melon)",55
+es-0144,169092,10,10,,cantaloupe balls,138
+es-0144,169092,11,1,porción (etiqueta NLEA),NLEA serving,134
+es-0145,169124,1,1,,"cup, chunks",165
+es-0145,169124,2,1,,fruit,905
+es-0145,169124,3,1,,"slice (4-2/3"" dia x 3/4"" thick)",166
+es-0145,169124,4,1,,"slice (3-1/2"" dia x 3/4"" thick)",84
+es-0145,169124,5,1,,"slice, thin (3-1/2"" dia x 1/2"" thick)",56
+es-0146,169910,1,1,"taza, en trozos",cup pieces,165
+es-0146,169910,2,1,,fruit without refuse,336
+es-0147,169926,1,1,,"cup 1"" pieces",145
+es-0147,169926,2,1,"taza, en puré","cup, mashed",230
+es-0147,169926,3,1,,"fruit, small",157
+es-0147,169926,4,1,,"fruit, large",781
+es-0148,169928,1,1,"taza, en rebanadas",cup slices,154
+es-0148,169928,2,1,"pequeño (diám. 2-1/2"")","small (2-1/2"" dia)",130
+es-0148,169928,3,1,"mediano (diám. 2-2/3"")","medium (2-2/3"" dia)",150
+es-0148,169928,4,1,"grande (diám. 2-3/4"")","large (2-3/4"" dia)",175
+es-0148,169928,5,1,"extra grande (diám. 3"")","extra large (3"" dia)",224
+es-0148,169928,6,1,porción (etiqueta NLEA),NLEA serving,147
+es-0149,169118,1,1,"taza, en rebanadas","cup, slices",140
+es-0149,169118,2,1,"taza, en cubos","cup, cubes",161
+es-0149,169118,3,1,pequeño,small,148
+es-0149,169118,4,1,mediano,medium,178
+es-0149,169118,5,1,grande,large,230
+es-0149,169118,6,1,porción (etiqueta NLEA),NLEA serving,166
+es-0150,171719,1,1,,"cup, with pits, yields",138
+es-0150,171719,2,1,,"cup, without pits",154
+es-0150,171719,3,1,,cherry,8.2
+es-0150,171719,4,1,porción (etiqueta NLEA),NLEA serving,140
+es-0151,171711,1,1,taza,cup,148
+es-0151,171711,2,50,,berries,68
+es-0152,167755,1,1,taza,cup,123
+es-0152,167755,2,1,,"pint as purchased, yields",312
+es-0152,167755,3,10,,raspberries,19
+es-0153,168153,1,1,"taza, en rebanadas","cup, sliced",180
+es-0153,168153,2,1,,"fruit (2"" dia)",69
+es-0153,168153,3,1,porción (etiqueta NLEA),NLEA serving,148
+es-0154,169134,1,0.5,,cup arils (seed/juice sacs),87
+es-0154,169134,2,1,,"pomegranate (4"" dia)",282
+es-0155,170169,1,1,"taza, rallado","cup, shredded",80
+es-0155,170169,2,1,mediano,medium,397
+es-0155,170169,3,1,"pieza (2"" x 2"" x 1/2"")","piece (2"" x 2"" x 1/2"")",45
+es-0156,170174,1,1,taza,cup,240
+es-0156,170174,2,1,cucharada,tbsp,15
+es-0156,170174,3,1,,coconut yields,206
+es-0157,168191,1,1,,"date, pitted",24
+es-0158,168165,1,1,"taza, compactado","cup, packed",165
+es-0158,168165,2,1,taza (sin comprimir),cup (not packed),145
+es-0158,168165,3,1,,miniature box (.5 oz),14
+es-0158,168165,4,1,,small box (1.5 oz),43
+es-0158,168165,5,50,,raisins,26
+es-0158,168165,6,1,,oz (60 raisins),28.4
+es-0159,169949,1,1,"taza, en rebanadas","cup, sliced",165
+es-0159,169949,2,1,,"fruit (2-1/8"" dia)",66
+es-0159,169949,3,1,porción (etiqueta NLEA),NLEA serving,151
+es-0160,173021,1,1,"grande (diám. 2-1/2"")","large (2-1/2"" dia)",64
+es-0160,173021,2,1,"mediano (diám. 2-1/4"")","medium (2-1/4"" dia)",50
+es-0160,173021,3,1,"pequeño (diám. 1-1/2"")","small (1-1/2"" dia)",40
+es-0161,173044,1,1,taza,cup,165
+es-0161,173044,2,1,,"fruit, without refuse",55
+es-0162,169108,1,1,taza,cup,236
+es-0162,169108,2,1,,fruit without refuse,18
+es-0163,169098,1,1,taza,cup,248
+es-0163,169098,2,1,onza líquida,fl oz,31
+es-0163,169098,3,1,,fruit yields,86
+es-0164,173933,1,1,taza,cup,248
+es-0164,173933,2,1,onza líquida,fl oz,31
+es-0164,173933,3,1,,drink box (8.45 fl oz),262
+es-0165,170567,1,1,"taza, entero","cup, whole",143
+es-0165,170567,2,1,"taza, en rebanadas","cup, sliced",92
+es-0165,170567,3,1,,"cup, slivered",108
+es-0165,170567,4,1,"taza, molido","cup, ground",95
+es-0165,170567,5,1,,oz (23 whole kernels),28.4
+es-0165,170567,6,1,,almond,1.2
+es-0166,170187,1,1,"taza, picado","cup, chopped",117
+es-0166,170187,2,1,"taza, molido","cup, ground",80
+es-0166,170187,3,1,,"cup, in shell, edible yield (7 nuts)",28
+es-0166,170187,4,1,,cup shelled (50 halves),100
+es-0166,170187,5,1,,cup pieces or chips,120
+es-0166,170187,6,1,,oz (14 halves),28.4
+es-0167,172430,1,1,onza,oz,28.4
+es-0167,172430,2,1,taza,cup,146
+es-0168,174266,1,2,cucharadas,tbsp,32
+es-0168,174266,2,1,taza,cup,258
+es-0169,170162,1,1,onza,oz,28.4
+es-0170,170184,1,1,taza,cup,123
+es-0170,170184,2,1,,oz (49 kernels),28.4
+es-0170,170184,3,1,grano,kernel,0.7
+es-0171,170554,1,1,onza,oz,28.4
+es-0172,170562,1,1,,"cup, with hulls, edible yield",46
+es-0172,170562,2,1,taza,cup,140
+es-0173,170556,1,1,taza,cup,129
+es-0173,170556,2,1,onza,oz,28.4
+es-0174,169414,1,1,"cucharada, entero","tbsp, whole",10.3
+es-0174,169414,2,1,"taza, entero","cup, whole",168
+es-0174,169414,3,1,"cucharada, molido","tbsp, ground",7
+es-0174,169414,4,1,"cucharadita, entero","tsp, whole",3.4
+es-0174,169414,5,1,"cucharadita, molido","tsp, ground",2.5
+es-0175,170150,1,1,taza,cup,144
+es-0175,170150,2,1,cucharada,tbsp,9
+es-0176,171413,1,1,cucharada,tablespoon,13.5
+es-0176,171413,2,1,taza,cup,216
+es-0176,171413,3,1,cucharadita,tsp,4.5
+es-0177,171411,1,1,cucharada,tbsp,13.6
+es-0177,171411,2,1,taza,cup,218
+es-0177,171411,3,1,cucharadita,tsp,4.5
+es-0178,171025,1,1,cucharada,tbsp,13.6
+es-0178,171025,2,1,taza,cup,218
+es-0178,171025,3,1,cucharadita,tsp,4.5
+es-0179,171412,1,1,cucharada,tbsp,13.6
+es-0179,171412,2,1,taza,cup,218
+es-0179,171412,3,1,cucharadita,tsp,4.5
+es-0180,172346,1,1,cucharada,tbsp,14
+es-0180,172346,2,1,taza,cup,227
+es-0180,172346,3,1,cucharadita,tsp,4.7
+es-0180,172346,4,1,,"pat (1"" sq, 1/3"" high)",5
+es-0180,172346,5,1,barra,stick,113
+es-0181,171009,1,1,cucharada,tbsp,13.8
+es-0181,171009,2,1,taza,cup,220
+es-0181,171009,3,1,sobre,packet,10
+es-0182,169655,1,1,,serving packet,2.8
+es-0182,169655,2,1,cucharadita,tsp,4.2
+es-0182,169655,3,1,taza,cup,200
+es-0182,169655,4,1,,serving 1 cube,2.3
+es-0183,169640,1,1,taza,cup,339
+es-0183,169640,2,1,cucharada,tbsp,21
+es-0183,169640,3,1,sobre (0.5 oz),packet (0.5 oz),14
+es-0184,170273,1,1,onza,oz,28.4
+es-0184,170273,2,1,barra,bar,101
+es-0185,167587,1,1,,"bar, miniature",7
+es-0185,167587,2,1,barra (1.55 oz),bar (1.55 oz),44
+es-0185,167587,3,1,,cup chips,168
+es-0186,169641,1,1,cucharada,tbsp,20
+es-0186,169641,2,1,sobre (0.5 oz),packet (0.5 oz),14
+es-0187,172716,1,1,galleta,cookie,12.9
+es-0187,172716,2,1,,cookie Pepperidge Farm Chocolate Chunk Pecan,12
+es-0187,172716,3,1,onza,oz,28.4
+es-0187,172716,4,1,,"cookie (average weight of 1 cookie, variety of brands)",12.2
+es-0187,172716,5,1,,cookie Pepperidge Farm Chocolate Chunk Pecan,12
+es-0187,172716,6,1,,"cookie, big (3-1/2"" - 4"" dia) (include Grandma brand)",40
+es-0187,172716,7,1,"galleta, mediano (diám. 2-1/4"")","cookie, medium (2-1/4"" dia)",10
+es-0187,172716,8,1,,"cookie, large (include Keebler Rich 'n Chips, Pecan Chips Delux)",14
+es-0187,172716,9,1,,"cookie, bite size (include Mini Chips Ahoy!)",2.2
+es-0188,174940,1,1,,piece (1/10 of 10.6 oz cake),30
+es-0188,174940,2,1,,piece (1/12 of 12 oz cake),28
+es-0188,174940,3,1,,snack cake (2.5 oz),71
+es-0189,174992,1,1,onza,oz,28.4
+es-0189,174992,2,1,,"doughnut, medium (approx 3"" dia)",45
+es-0190,171890,1,1,onza líquida,fl oz,29.6
+es-0190,171890,2,6,onzas líquidas,fl oz,178
+es-0190,171890,3,1,taza (8 fl oz),cup (8 fl oz),237
+es-0191,173227,1,1,onza líquida,fl oz,29.6
+es-0191,173227,2,6,onzas líquidas,fl oz,178
+es-0191,173227,3,1,taza (8 fl oz),cup (8 fl oz),237
+es-0192,174852,1,1,onza líquida,fl oz,30.7
+es-0192,174852,2,1,lata o botella (12 fl oz),can or bottle (12 fl oz),370
+es-0192,174852,3,1,lata o botella (16 fl oz),can or bottle (16 fl oz),492
+es-0192,174852,4,1,,"drink, small (16 fl oz)",492
+es-0192,174852,5,1,,"drink, medium (22 fl oz)",676
+es-0192,174852,6,1,,"drink, large (32 fl oz)",984
+es-0192,174852,7,1,,"drink, extra large (44 fl oz)",1353
+es-0193,168746,1,1,onza líquida,fl oz,29.7
+es-0193,168746,2,1,lata,can,356
+es-0194,173190,1,1,onza líquida,fl oz,29.4
+es-0194,173190,2,1,porción (5 fl oz),serving (5 fl oz),147
+es-0195,174815,1,1,onza líquida,fl oz,27.8
+es-0195,174815,2,1,,jigger (1.5 fl oz),42
+es-0196,172446,1,1,taza,cup,243
+es-0196,172446,2,1,onza líquida,fl oz,30.6
+es-0197,174832,1,1,taza,cup,262
+es-0198,173180,1,0.33,tazas,cup,32
+es-0199,169677,1,1,onza,oz,28
+es-0199,169677,2,22,,chips,28
+es-0199,169677,3,1,onza,oz,28.4
+es-0199,169677,4,1,,bag (8 oz),227
+es-0200,167959,1,1,taza,cup,8
+es-0200,167959,2,1,onza,oz,28.4
+es-0201,167555,1,1,onza,oz,28.4
+es-0201,167555,2,10,,twists,60
+es-0202,167542,1,1,barra,bar,21
+es-0202,167542,2,1,barra (1 oz),bar (1 oz),28
+es-0202,167542,3,1,barra,bar,25
+es-0203,167558,1,1,onza,oz,28.4
+es-0203,167558,2,1,,bag,213
+es-0204,170317,1,1,,serving 9 servings per 24 oz package,81
+es-0204,170317,2,1,,serving 3 servings per 15.1 oz package,151
+es-0204,170317,3,1,,serving 2 servings per 9.8 oz package,146
+es-0204,170317,4,1,,serving 1 serving per 8 oz box,199
+es-0204,170317,5,1,,package 24 oz pizza,727
+es-0204,170317,6,1,,package 15.1 oz pizza,452
+es-0204,170317,7,1,,package 9.8 oz pizza,293
+es-0204,170317,8,1,,package 8 oz pizza,199
+es-0205,171148,1,1,lata,can,530
+es-0205,171148,2,1,taza,cup,243
+es-0206,174277,1,1,cucharada,tbsp,16
+es-0206,174277,2,1,cucharadita,tsp,5.3
+es-0206,174277,3,1,taza,cup,255
+es-0206,174277,4,1,,individual packet,8.9
+es-0207,172234,1,1,,tsp or 1 packet,5
+es-0207,172234,2,1,taza,cup,249
+es-0208,172237,1,1,cucharada,tbsp,14.9
+es-0208,172237,2,1,taza,cup,238
+es-0208,172237,3,1,cucharadita,tsp,5
+es-0209,171186,1,1,cucharadita,tsp,6.5
+es-0210,172376,1,3,onzas,oz,85
+es-0210,172376,2,1,,drumstick without skin,96
+es-0210,172376,3,1,,drumstick with skin,105
+es-0211,173630,1,3,onzas,oz,85
+es-0211,173630,2,1,pieza,piece,85
+es-0212,171506,1,3,onzas,oz,85
+es-0212,171506,2,1,,"patty (4 oz, raw) (yield after cooking)",82
+es-0212,171506,3,1,,"unit, yield from 1 lb raw",330
+es-0213,172936,1,1,,slice round,12.3
+es-0214,172013,1,3.52,onzas,oz,100
+es-0215,170604,1,10,rebanadas,slices,28
+es-0216,174249,1,3,onzas,oz,85
+es-0217,175120,1,1,filete,fillet,88
+es-0217,175120,2,3,onzas,oz,85
+es-0218,172006,1,3,onzas,oz,85
+es-0219,174183,1,1,"onza, sin hueso","oz, boneless",28.4
+es-0219,174183,2,1,,anchovy,4
+es-0219,174183,3,1,lata (2 oz),can (2 oz),45
+es-0219,174183,4,5,,anchovies,20
+es-0220,175166,1,1,filete,fillet,143
+es-0220,175166,2,3,onzas,oz,85
+es-0221,174228,1,1,filete,fillet,124
+es-0221,174228,2,3,onzas,oz,85
+es-0222,174201,1,3,onzas,oz,85
+es-0222,174201,2,0.5,filetes,fillet,159
+es-0223,173704,1,3,onzas,oz,85
+es-0223,173704,2,1,pieza,piece,106
+es-0224,173420,1,1,"taza, desmenuzado","cup, crumbled",150
+es-0224,173420,2,1,onza,oz,28.4
+es-0224,173420,3,1,pulgada cúbica,cubic inch,17
+es-0224,173420,4,1,cuña (1.33 oz),wedge (1.33 oz),38
+es-0225,172197,1,1,onza,oz,28.4
+es-0226,170850,1,1,"taza, en cubos","cup, diced",132
+es-0226,170850,2,1,onza,oz,28.4
+es-0226,170850,3,1,pulgada cúbica,cubic inch,17
+es-0226,170850,4,1,rebanada (1 oz),slice (1 oz),28
+es-0226,170850,5,1,paquete (6 oz),package (6 oz),170
+es-0227,170879,1,1,taza,cup,250
+es-0227,170879,2,1,onza líquida,fl oz,31.2
+es-0227,170879,3,1,cuarto de galón,quart,1000
+es-0228,173430,1,1,,"pat (1"" sq, 1/3"" high)",5
+es-0228,173430,2,1,cucharada,tbsp,14.2
+es-0228,173430,3,1,taza,cup,227
+es-0228,173430,4,1,barra,stick,113
+es-0229,170287,1,1,taza,cup,182
+es-0229,170287,2,1,cucharada,tbsp,8.4
+es-0230,170285,1,1,taza,cup,157
+es-0231,168871,1,1,taza,cup,174
+es-0232,168914,1,1,taza,cup,176
+es-0233,172684,1,1,onza,oz,28.4
+es-0233,172684,2,1,,"slice, regular",32
+es-0233,172684,3,1,,"slice, snack-size",7
+es-0233,172684,4,1,"rebanada, delgado","slice, thin",25
+es-0234,172796,1,1,,roll 1 serving,44
+es-0234,172796,2,1,onza,oz,28.4
+es-0235,174987,1,1,onza,oz,28.4
+es-0235,174987,2,1,,"croissant, mini",28
+es-0235,174987,3,1,,"croissant, small",42
+es-0235,174987,4,1,,"croissant, medium",57
+es-0235,174987,5,1,,"croissant, large",67
+es-0236,175009,1,1,onza,oz,28.4
+es-0236,175009,2,1,"panqueque (diám. 4"")","pancake (4"" dia)",38
+es-0236,175009,3,1,"panqueque (diám. 6"")","pancake (6"" dia)",77
+es-0237,175038,1,1,onza,oz,28.4
+es-0237,175038,2,1,,"waffle, square (4"" square) (include frozen)",35
+es-0238,168873,1,1,taza,cup,219
+es-0239,169697,1,1,taza,cup,122
+es-0240,169749,1,1,taza,cup,114
+es-0241,172800,1,1,,shell,12.9
+es-0241,172800,2,1,taco,taco,12.7
+es-0241,172800,3,1,,"medium (approx 5"" dia)",13.3
+es-0241,172800,4,1,"grande (diám. 6-1/2"")","large (6-1/2"" dia)",21
+es-0241,172800,5,1,,"miniature (3"" dia)",5
+es-0241,172800,6,1,onza,oz,28.4
+es-0242,167525,1,1,pieza,piece,12.3
+es-0242,167525,2,3,,"pieces (mean serving weight, aggregated over brands)",37
+es-0243,170402,1,1,,"cup (1"" pieces)",132
+es-0243,170402,2,1,,"chayote (5-3/4"")",203
+es-0244,170073,1,1,"taza, en rebanadas",cup slices,120
+es-0244,170073,2,1,taza,cup,130
+es-0244,170073,3,1,grande,large,1200
+es-0244,170073,4,1,mediano,medium,659
+es-0244,170073,5,1,rebanada,slice,6
+es-0244,170073,6,1,pequeño,small,365
+es-0245,168566,1,1,mediano,medium,34
+es-0245,168566,2,0.5,"tazas, picado o en cubos","cup, chopped or diced",66
+es-0246,170106,1,1,,pepper,45
+es-0246,170106,2,0.5,"tazas, picado o en cubos","cup, chopped or diced",75
+es-0247,170497,1,1,,pepper,45
+es-0247,170497,2,0.5,"tazas, picado o en cubos","cup, chopped or diced",75
+es-0248,174524,1,2,cucharadas,tbsp,36
+es-0248,174524,2,0.5,tazas,cup,130
+es-0248,174524,3,1,taza,cup,259
+es-0249,168486,1,1,"taza, en rebanadas","cup, sliced",132
+es-0250,168449,1,1,"taza, en puré","cup, mashed",245
+es-0251,170005,1,1,"taza, picado","cup, chopped",100
+es-0251,170005,2,1,"cucharada, picado",tbsp chopped,6
+es-0251,170005,3,1,grande,large,25
+es-0251,170005,4,1,,"medium (4-1/8"" long)",15
+es-0251,170005,5,1,,"small (3"" long)",5
+es-0252,169246,1,1,taza,cup,89
+es-0252,169246,2,1,,leek,89
+es-0252,169246,3,1,rebanada,slice,6
+es-0253,168421,1,1,taza,cup,21
+es-0254,169991,1,1,taza,cup,36
+es-0254,169991,2,1,hoja,leaf,48
+es-0255,169387,1,1,hoja,leaf,2
+es-0255,169387,2,0.5,tazas,cup,10
+es-0256,169276,1,1,"taza, en rebanadas",cup slices,116
+es-0256,169276,2,1,,"large (1"" to 1-1/4"" dia)",9
+es-0256,169276,3,1,,"medium (3/4"" to 1"" dia)",4.5
+es-0256,169276,4,1,rebanada,slice,1
+es-0256,169276,5,1,pequeño,small,2
+es-0256,169276,6,0.5,"tazas, en rebanadas",cup slices,58
+es-0257,169261,1,0.5,"tazas, en rebanadas",cup slices,80
+es-0257,169261,2,8,,"pods (3"" long)",85
+es-0258,168386,1,1,,"artichoke, medium",120
+es-0258,168386,2,0.5,,cup hearts,84
+es-0259,170104,1,0.5,tazas,cup,85
+es-0259,170104,2,1,lata (303 x 406),can (303 x 406),313
+es-0260,171697,1,1,"taza, en mitades","cup, halves",155
+es-0260,171697,2,1,"taza, en rebanadas","cup, sliced",165
+es-0260,171697,3,1,,apricot,35
+es-0261,173033,1,1,,"cup sections, with juice",230
+es-0261,173033,2,0.5,,"large (approx 4-1/2"" dia)",166
+es-0261,173033,3,0.5,,"medium (approx 4"" dia)",128
+es-0261,173033,4,0.5,,"small (approx 3-1/2"" dia)",100
+es-0262,169086,1,1,taza,cup,190
+es-0262,169086,2,1,,fruit without refuse,9.6
+es-0263,167763,1,1,,"cup, pulp",120
+es-0263,167763,2,1,,"fruit (3"" x 1"")",2
+es-0264,170178,1,1,,"cup, whole or halves",134
+es-0264,170178,2,1,,oz (10-12 kernels),28.4
+es-0265,170581,1,1,"taza, picado","cup, chopped",115
+es-0265,170581,2,1,"taza, molido","cup, ground",75
+es-0265,170581,3,1,"taza, entero","cup, whole",135
+es-0265,170581,4,1,,oz (21 whole kernels),28.4
+es-0265,170581,5,10,frutos secos,nuts,14
+es-0266,170182,1,1,"taza, picado","cup, chopped",109
+es-0266,170182,2,1,"taza, en mitades","cup, halves",99
+es-0266,170182,3,1,,oz (19 halves),28.4
+es-0267,170569,1,1,"taza, entero","cup, whole",133
+es-0267,170569,2,1,grano,kernel,5
+es-0267,170569,3,1,,oz (6 kernels),28.4
+es-0268,173592,1,1,cucharada,tablespoon,15
+es-0268,173592,2,1,porción,serving,30
+es-0269,172241,1,1,cucharada,tbsp,16
+es-0269,172241,2,1,taza,cup,255
+es-0269,172241,3,1,cucharadita,tsp,5.3
+es-0270,168833,1,1,"cucharadita, sin comprimir",tsp unpacked,3
+es-0270,168833,2,1,"taza, compactado",cup packed,220
+es-0270,168833,3,1,"taza, sin comprimir",cup unpacked,145
+es-0270,168833,4,1,"cucharadita, compactado",tsp packed,4.6
+es-0270,168833,5,1,,tsp brownulated,3.2
+es-0271,169661,1,1,cucharada,tbsp,20
+es-0271,169661,2,1,,serving 1/4 cup,83
+es-0271,169661,3,1,taza,cup,315
+es-0272,169593,1,1,taza,cup,86
+es-0272,169593,2,1,cucharada,tbsp,5.4
+es-0273,168809,1,1,,individual (3.5 fl oz),58
+es-0273,168809,2,0.5,tazas (4 fl oz),cup (4 fl oz),66
+es-0274,167990,1,1,onza,oz,28.4
+es-0274,167990,2,1,pieza,piece,6
+es-0274,167990,3,1,"pieza, pequeño","piece, small",3
+es-0275,173210,1,1,,can 8.4 fl oz,258
+es-0275,173210,2,1,,serving 12 fl oz,369
+es-0275,173210,3,1,,serving 16 fl oz,492
+es-0276,170173,1,1,taza,cup,226
+es-0276,170173,2,1,cucharada,tbsp,15
+es-0277,171192,1,1,,serving 1/2 cup,132
+es-0278,174536,1,1,taza,cup,249
+es-0279,171257,1,1,cucharada,tbsp,12
+es-0279,171257,2,1,taza,cup,230
+es-0280,174036,1,4,onzas,oz,113
+es-0281,174030,1,4,onzas,oz,113
+es-0282,171799,1,3,onzas,oz,85
+es-0283,171794,1,3,onzas,oz,85
+es-0283,171794,2,1,,portion ( yield from 1/2 lb raw meat ),154
+es-0284,169447,1,3,onzas,oz,85
+es-0284,169447,2,1,,"unit, cooked (yield from 1 lb raw meat)",313
+es-0285,173055,1,3,onzas,oz,85
+es-0285,173055,2,1,,steak,208
+es-0286,173117,1,3,onzas,oz,85
+es-0286,173117,2,1,libra,lb,453.6
+es-0287,168644,1,3,onzas,oz,85
+es-0287,168644,2,1,porción,serving,85
+es-0287,168644,3,1,,"piece, cooked, excluding refuse",271
+es-0288,168611,1,3,onzas,oz,85
+es-0288,168611,2,1,,steak,387
+es-0289,170210,1,3,onzas,oz,85
+es-0289,170210,2,1,,steak (yield from 418g raw meat),270
+es-0290,170235,1,3,onzas,oz,85
+es-0290,170235,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",261
+es-0291,170633,1,3,onzas,oz,85
+es-0291,170633,2,1,,roast (yield from 436 g raw meat),346
+es-0291,170633,3,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",330
+es-0292,170215,1,3,onzas,oz,85
+es-0292,170215,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",191
+es-0293,170598,1,3,onzas,oz,85
+es-0294,169448,1,3,onzas,oz,85
+es-0295,169450,1,3,onzas,oz,85
+es-0296,174769,1,3,onzas,oz,85
+es-0296,174769,2,1,porción,serving,85
+es-0297,170602,1,1,onza,oz,28.4
+es-0297,170602,2,1,rebanada (3/4 oz),slice (3/4 oz),21
+es-0298,170710,1,1,,item,171
+es-0299,168230,1,4,onzas,oz,113
+es-0299,168230,2,1,,"chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 151 g)",106
+es-0300,167829,1,4,onzas,oz,113
+es-0300,167829,2,1,,"chop without refuse (Yield from 1 raw chop, with refuse, weighing 259g)",178
+es-0301,168250,1,3,onzas,oz,85
+es-0301,168250,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",333
+es-0301,168250,3,1,,roast,402
+es-0302,167846,1,1,"taza, en cubos","cup, diced",135
+es-0302,167846,2,3,onzas,oz,85
+es-0303,168225,1,1,"taza, en cubos","cup, diced",135
+es-0303,168225,2,3,onzas,oz,85
+es-0304,168300,1,3,onzas,oz,85
+es-0305,167812,1,4,onzas,oz,113
+es-0305,167812,2,1,libra,lb,453.6
+es-0306,167961,1,1,onza,oz,28.4
+es-0306,167961,2,0.5,onzas,oz,14.2
+es-0307,172941,1,1,rebanada,slice,16
+es-0308,171640,1,1,porción,serving,15
+es-0309,167863,1,3,onzas,oz,85
+es-0310,171625,1,1,onza,oz,28.4
+es-0310,171625,2,1,,frankfurter,45
+es-0311,171624,1,3,onzas,oz,85
+es-0311,171624,2,1,salchicha,link,45
+es-0312,174582,1,1,rebanada,slice,9.8
+es-0312,174582,2,1,onza,oz,28
+es-0312,174582,3,3,,slices 1 serving,27
+es-0313,174575,1,3,onzas,oz,85
+es-0313,174575,2,1,pieza,piece,2
+es-0313,174575,3,1,onza,oz,28
+es-0314,174586,1,1,salchicha,link,87
+es-0315,173856,1,1,,"slice, medium (4-1/2"" dia x 1/8"" thick) (1 oz)",28
+es-0315,173856,2,1,,"slice (4"" dia x 1/8"" thick)",23
+es-0316,174313,1,1,onza,oz,28.4
+es-0316,174313,2,1,libra,lb,453.6
+es-0317,172492,1,3,onzas,oz,85
+es-0317,172492,2,1,,"chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 120 g)",46
+es-0318,172544,1,3,onzas,oz,85
+es-0318,172544,2,1,,"unit, cooked (yield from 1 lb raw meat)",313
+es-0319,175274,1,3,onzas,oz,85
+es-0319,175274,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",208
+es-0320,175270,1,3,onzas,oz,85
+es-0320,175270,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",267
+es-0321,172522,1,3,onzas,oz,85
+es-0321,172522,2,1,,"piece, cooked (yield from 1 lb raw meat, boneless)",313
+es-0322,172603,1,1,hamburguesa,patty,93
+es-0322,172603,2,1,porción (3 oz),serving ( 3 oz ),85
+es-0323,172409,1,1,"taza, picado o en cubos","cup, chopped or diced",140
+es-0323,172409,2,1,,unit (yield from 1 lb ready-to-cook duck),173
+es-0323,172409,3,0.5,,duck,382
+es-0324,172412,1,1,"taza, picado o en cubos","cup, chopped or diced",140
+es-0324,172412,2,1,,unit (yield from 1 lb ready-to-cook goose),188
+es-0324,172412,3,0.5,,goose,774
+es-0325,169902,1,1,onza,oz,28.4
+es-0325,169902,2,1,libra,lb,453
+es-0326,171447,1,4,onzas,oz,113
+es-0326,171447,2,1,,unit (yield from 1 lb ready-to-cook chicken),276
+es-0326,171447,3,0.5,,"chicken, bone removed",460
+es-0327,171054,1,1,"taza, picado o en cubos","cup, chopped or diced",140
+es-0327,171054,2,1,cucharada,tbsp,8.7
+es-0327,171054,3,1,,unit (yield from 1 lb ready-to-cook chicken),146
+es-0328,173625,1,3,onzas,oz,85
+es-0328,173625,2,1,,thigh with skin,137
+es-0328,173625,3,1,,thigh without skin,116
+es-0329,171075,1,1,"taza, picado o en cubos","cup, chopped or diced",140
+es-0329,171075,2,1,,unit (yield from 1 lb ready-to-cook chicken),58
+es-0329,171075,3,0.5,,"breast, bone removed",98
+es-0330,171534,1,3,onzas,oz,85
+es-0330,171534,2,1,pieza,piece,196
+es-0331,171478,1,1,"taza, picado o en cubos","cup, chopped or diced",140
+es-0331,171478,2,1,,unit (yield from 1 lb ready-to-cook chicken),57
+es-0331,171478,3,0.5,,"breast, bone and skin removed",95
+es-0332,171475,1,3,onzas,oz,85
+es-0332,171475,2,0.5,,unit (yield from 1 lb ready-to-cook chicken),84
+es-0333,171078,1,1,,unit (yield from 1 lb ready-to-cook chicken),52
+es-0333,171078,2,0.5,,"breast, bone and skin removed",86
+es-0334,172390,1,4,onzas,oz,113
+es-0334,172390,2,1,pieza,piece,107
+es-0334,172390,3,1,paquete,package,1150
+es-0335,172373,1,4,onzas,oz,113
+es-0335,172373,2,1,,drumstick with skin,133
+es-0335,172373,3,1,pierna,drumstick,130
+es-0336,171061,1,3,onzas,oz,85
+es-0336,171061,2,1,,liver,44
+es-0337,171457,1,1,,cup chopped or dice,145
+es-0338,171099,1,3,onzas,oz,85
+es-0338,171099,2,1,lata (5 oz),can (5 oz),142
+es-0339,172878,1,3,onzas,oz,85
+es-0339,172878,2,1,pierna,drumstick,275
+es-0340,171098,1,4,onzas,oz,113
+es-0340,171098,2,1,pechuga,breast,1769
+es-0341,171505,1,4,onzas,oz,113
+es-0341,171505,2,1,libra,lb,453.6
+es-0341,171505,3,1,,"patty, 4 oz",114
+es-0342,172877,1,3,onzas,oz,85
+es-0342,172877,2,1,muslo,thigh,348
+es-0343,171479,1,3,onzas,oz,85
+es-0343,171479,2,1,,bird,3812
+es-0344,175175,1,3,onzas,oz,85
+es-0344,175175,2,1,,can drained solids (total),315
+es-0345,173687,1,1,"onza, sin hueso","oz, boneless",28.4
+es-0345,173687,2,3,onzas,oz,85
+es-0345,173687,3,1,"pulgada cúbica, sin hueso","cubic inch, boneless",17
+es-0345,173687,4,1,"taza, cocido","cup, cooked",136
+es-0346,173692,1,3,onzas,oz,85
+es-0346,173692,2,0.5,filetes,fillet,155
+es-0347,175158,1,3,onzas,oz,85
+es-0347,175158,2,1,lata,can,172
+es-0348,174190,1,1,onza,oz,28.4
+es-0348,174190,2,1,"pieza (5-1/2"" x 1-1/2"" x 1/2"")","piece (5-1/2"" x 1-1/2"" x 1/2"")",80
+es-0348,174190,3,3,onzas,oz,85
+es-0349,174198,1,1,filete,fillet,150
+es-0349,174198,2,3,onzas,oz,85
+es-0350,174197,1,1,filete,fillet,127
+es-0350,174197,2,3,onzas,oz,85
+es-0351,173699,1,3,onzas,oz,85
+es-0351,173699,2,1,filete,fillet,170
+es-0352,171992,1,3,onzas,oz,85
+es-0352,171992,2,1,filete,fillet,159
+es-0353,175117,1,1,filete,fillet,143
+es-0353,175117,2,3,onzas,oz,85
+es-0354,175118,1,1,taza,cup,140
+es-0354,175118,2,1,"onza, sin hueso","oz, boneless",28.4
+es-0354,175118,3,1,pulgada cúbica,cubic inch,20
+es-0354,175118,4,1,"pieza (1-3/4"" x 7/8"" x 1/2"")","piece (1-3/4"" x 7/8"" x 1/2"")",15
+es-0355,173679,1,1,filete,fillet,46
+es-0355,173679,2,3,onzas,oz,85
+es-0356,174185,1,3,onzas,oz,85
+es-0356,174185,2,1,filete,fillet,170
+es-0357,174194,1,1,"onza, sin hueso","oz, boneless",28.4
+es-0357,174194,2,1,,oz with bone (yield after bone removed),22
+es-0357,174194,3,1,"pulgada cúbica, sin hueso","cubic inch, boneless",17
+es-0357,174194,4,1,filete,fillet,159
+es-0357,174194,5,3,onzas,oz,85
+es-0358,171963,1,3,onzas,oz,85
+es-0358,171963,2,1,filete,fillet,202
+es-0359,174195,1,1,"pieza (4"" x 2"" x 1/2"")","piece (4"" x 2"" x 1/2"")",57
+es-0359,174195,2,1,"barra (4"" x 1"" x 1/2"")","stick (4"" x 1"" x 1/2"")",28
+es-0360,174239,1,1,onza,oz,28.4
+es-0360,174239,2,3,onzas,oz,85
+es-0361,173702,1,1,onza,oz,28.4
+es-0361,173702,2,3,onzas,oz,85
+es-0362,174210,1,1,mediano,medium,6
+es-0362,174210,2,1,pequeño,small,5
+es-0362,174210,3,3,onzas,oz,85
+es-0362,174210,4,4,grande,large,28
+es-0363,171970,1,3,onzas,oz,85
+es-0363,171970,2,4,grande,large,30
+es-0364,174209,1,1,taza,cup,145
+es-0364,174209,2,3,onzas,oz,85
+es-0365,174202,1,1,,leg,134
+es-0365,174202,2,3,onzas,oz,85
+es-0366,171966,1,1,taza,cup,135
+es-0366,171966,2,1,onza,oz,28.4
+es-0366,171966,3,1,,"can (6.5 oz), drained",125
+es-0366,171966,4,3,onzas,oz,85
+es-0367,171980,1,3,onzas,oz,85
+es-0367,171980,2,6,mediano,medium,42
+es-0368,174217,1,3,onzas,oz,85
+es-0369,174220,1,1,,unit 2 large or 5 small,30
+es-0369,174220,2,3,onzas,oz,85
+es-0370,171982,1,3,onzas,oz,85
+es-0371,171278,1,1,onza líquida,fl oz,30.5
+es-0371,171278,2,1,taza,cup,244
+es-0371,171278,3,1,cuarto de galón,quart,976
+es-0372,172194,1,1,onza líquida,fl oz,31.5
+es-0372,172194,2,0.5,tazas,cup,126
+es-0373,171275,1,1,onza líquida,fl oz,38.2
+es-0373,171275,2,1,taza,cup,306
+es-0374,170872,1,1,taza,cup,244
+es-0374,170872,2,1,onza líquida,fl oz,30.5
+es-0374,170872,3,1,cuarto de galón,quart,976
+es-0375,170877,1,0.25,tazas,cup,30
+es-0375,170877,2,1,taza,cup,120
+es-0375,170877,3,5,cucharadas,tbsp,23
+es-0376,170874,1,1,taza,cup,245
+es-0376,170874,2,1,onza líquida,fl oz,30.6
+es-0376,170874,3,1,cuarto de galón,quart,980
+es-0377,170889,1,1,envase (6 oz),container (6 oz),170
+es-0377,170889,2,1,envase (4.4 oz),container (4.4 oz),125
+es-0377,170889,3,1,envase (5 oz),container (5 oz),142
+es-0377,170889,4,1,taza (8 fl oz),cup (8 fl oz),245
+es-0377,170889,5,1,envase (8 oz),container (8 oz),227
+es-0377,170889,6,0.5,envases (4 oz),container (4 oz),113
+es-0378,170888,1,1,envase (6 oz),container (6 oz),170
+es-0378,170888,2,1,envase (8 oz),container (8 oz),227
+es-0378,170888,3,1,taza (8 fl oz),cup (8 fl oz),245
+es-0379,172175,1,1,onza,oz,28.4
+es-0379,172175,2,1,pulgada cúbica,cubic inch,17
+es-0379,172175,3,1,"taza, desmenuzado, sin comprimir","cup, crumbled, not packed",135
+es-0380,172177,1,1,onza,oz,28.4
+es-0380,172177,2,1,"taza, en rebanadas","cup, sliced",144
+es-0380,172177,3,1,"taza, derretido","cup, melted",240
+es-0380,172177,4,1,pulgada cúbica,cubic inch,17
+es-0380,172177,5,1,paquete (4.5 oz),package (4.5 oz),128
+es-0381,172178,1,1,onza,oz,28.4
+es-0381,172178,2,1,taza,cup,246
+es-0381,172178,3,1,pulgada cúbica,cubic inch,17
+es-0381,172178,4,1,cuña (1.33 oz),wedge (1.33 oz),38
+es-0382,171241,1,1,onza,oz,28.4
+es-0382,171241,2,1,paquete (7 oz),package (7 oz),198
+es-0383,173419,1,1,onza,oz,28.4
+es-0383,173419,2,1,paquete (7 oz),package (7 oz),198
+es-0384,170844,1,1,"taza, en cubos","cup, diced",132
+es-0384,170844,2,1,"taza, rallado","cup, shredded",113
+es-0384,170844,3,1,onza,oz,28.4
+es-0384,170844,4,1,pulgada cúbica,cubic inch,17
+es-0384,170844,5,1,rebanada (1 oz),slice (1 oz),28
+es-0384,170844,6,1,paquete (6 oz),package (6 oz),170
+es-0385,173416,1,1,"taza, en cubos","cup, diced",132
+es-0385,173416,2,1,"taza, rallado","cup, shredded",113
+es-0385,173416,3,1,onza,oz,28.4
+es-0385,173416,4,1,pulgada cúbica,cubic inch,17
+es-0385,173416,5,1,rebanada (1 oz),slice (1 oz),28
+es-0386,171290,1,1,onza,oz,28.4
+es-0386,171290,2,1,rebanada (3/4 oz),slice (3/4 oz),21
+es-0386,171290,3,1,rebanada (1 oz),slice (1 oz),28
+es-0386,171290,4,1,pulgada cúbica,cubic inch,18
+es-0386,171290,5,1,"taza, en cubos","cup, diced",140
+es-0386,171290,6,1,"taza, rallado","cup, shredded",113
+es-0386,171290,7,1,"taza, derretido","cup, melted",244
+es-0387,171244,1,1,"taza, en cubos","cup, diced",132
+es-0387,171244,2,1,"taza, rallado","cup, shredded",113
+es-0387,171244,3,1,onza,oz,28.4
+es-0387,171244,4,1,pulgada cúbica,cubic inch,18
+es-0387,171244,5,1,rebanada (1 oz),slice (1 oz),28
+es-0388,173437,1,1,"taza, en cubos","cup, diced",132
+es-0388,173437,2,1,"taza, rallado","cup, shredded",113
+es-0388,173437,3,1,onza,oz,28.4
+es-0388,173437,4,1,pulgada cúbica,cubic inch,18
+es-0388,173437,5,1,rebanada (1 oz),slice (1 oz),28
+es-0389,173438,1,1,"taza, en cubos","cup, diced",132
+es-0389,173438,2,1,"taza, rallado","cup, shredded",113
+es-0389,173438,3,1,onza,oz,28.4
+es-0389,173438,4,1,pulgada cúbica,cubic inch,17
+es-0389,173438,5,1,rebanada (1 oz),slice (1 oz),28
+es-0390,170898,1,2,cucharaditas,tsp,5
+es-0391,172201,1,1,"taza, desmenuzado","cup, crumbled",132
+es-0391,172201,2,1,onza,oz,28.4
+es-0392,172182,1,4,onzas,oz,113
+es-0392,172182,2,1,taza (sin comprimir),cup (not packed),226
+es-0393,170857,1,1,onza líquida,fl oz,30
+es-0393,170857,2,1,cucharada,tbsp,15
+es-0393,170857,3,1,taza,cup,240
+es-0393,170857,4,1,,"container, individual",11.1
+es-0394,170858,1,1,"taza, batido","cup, whipped",120
+es-0394,170858,2,1,,"cup, fluid (yields 2 cups whipped)",239
+es-0394,170858,3,1,cucharada,tbsp,15
+es-0395,171255,1,1,onza líquida,fl oz,30.2
+es-0395,171255,2,1,cucharada,tbsp,15
+es-0395,171255,3,1,taza,cup,242
+es-0395,171255,4,1,,"container, individual (.5 fl oz)",15
+es-0396,172191,1,1,huevo,egg,9
+es-0397,172189,1,1,huevo,egg,70
+es-0398,172185,1,1,cucharada,tbsp,15
+es-0398,172185,2,1,grande,large,61
+es-0399,172186,1,1,grande,large,50
+es-0400,173462,1,0.25,tazas,cup,60
+es-0400,173462,2,1,taza,cup,240
+es-0401,173412,1,1,cucharada,tbsp,12.8
+es-0401,173412,2,1,taza,cup,205
+es-0402,170001,1,1,taza,cup,210
+es-0402,170001,2,1,"cucharada, picado",tbsp chopped,15
+es-0402,170001,3,1,grande,large,128
+es-0402,170001,4,1,,"slice, large (1/4"" thick)",32
+es-0402,170001,5,1,mediano,medium,94
+es-0402,170001,6,1,,"slice, medium (1/8"" thick)",12
+es-0402,170001,7,1,pequeño,small,60
+es-0402,170001,8,1,"rebanada, delgado","slice, thin",8
+es-0403,170415,1,1,taza,cup,48
+es-0403,170415,2,10,,"rings, large (3-4"" dia)",71
+es-0403,170415,3,10,,"rings, medium (2-3"" dia)",60
+es-0403,170415,4,10,,"rings, small (1-2"" dia)",48
+es-0404,170394,1,1,cucharada,tbsp,9.7
+es-0404,170394,2,0.5,"tazas, en rebanadas",cup slices,78
+es-0404,170394,3,1,,carrot,46
+es-0405,168568,1,1,grande,large,15
+es-0405,168568,2,1,mediano,medium,10
+es-0405,168568,3,1,porción (etiqueta NLEA),NLEA serving,85
+es-0406,170026,1,0.5,"tazas, en cubos","cup, diced",75
+es-0406,170026,2,1,,"Potato large (3"" to 4-1/4"" dia)",369
+es-0406,170026,3,1,,"Potato medium (2-1/4"" to 3-1/4"" dia)",213
+es-0406,170026,4,1,,"Potato small (1-3/4"" to 2-1/2"" dia)",170
+es-0407,168482,1,1,"taza, en cubos","cup, cubes",133
+es-0407,168482,2,1,,"sweetpotato, 5"" long",130
+es-0408,170050,1,1,taza,cup,240
+es-0408,170050,2,2,mediano,medium,246
+es-0409,170051,1,1,taza,cup,240
+es-0409,170051,2,1,cucharada,tbsp,15
+es-0409,170051,3,1,lata,can,190
+es-0409,170051,4,1,grande,large,164
+es-0409,170051,5,1,mediano,medium,111
+es-0409,170051,6,1,pequeño,small,82
+es-0410,170459,1,0.25,tazas,cup,66
+es-0410,170459,2,1,taza,cup,262
+es-0410,170459,3,1,cucharada,tbsp,16
+es-0410,170459,4,1,lata (6 oz),can (6 oz),170
+es-0411,170545,1,1,taza,cup,243
+es-0411,170545,2,1,onza líquida,fl oz,30.4
+es-0411,170545,3,6,onzas líquidas,fl oz,182
+es-0412,168567,1,1,taza,cup,54
+es-0412,168567,2,1,pieza,piece,2
+es-0413,168558,1,1,"punta, pequeño","spear, small",35
+es-0413,168558,2,1,rebanada,slice,7
+es-0413,168558,3,1,,"large (4"" long)",135
+es-0413,168558,4,1,"taza, picado o en cubos","cup, chopped or diced",143
+es-0413,168558,5,1,,cup (about 23 slices),155
+es-0414,169383,1,1,,"pepper, large (3-3/4"" long, 3"" dia)",186
+es-0414,169383,2,10,,strips,52
+es-0415,169395,1,1,"taza, picado","cup, chopped",105
+es-0415,169395,2,1,,pepper,6.1
+es-0416,170080,1,1,"taza, picado","cup, chopped",136
+es-0416,170080,2,1,"taza, en rebanadas","cup, sliced",104
+es-0416,170080,3,1,,pepper,22
+es-0417,170383,1,1,taza,cup,88
+es-0417,170383,2,1,,sprout,19
+es-0418,169971,1,1,,sprout,21
+es-0418,169971,2,0.5,tazas,cup,78
+es-0419,170390,1,1,"taza, rallado","cup, shredded",70
+es-0419,170390,2,1,cabeza,head,840
+es-0419,170390,3,1,hoja,leaf,14
+es-0420,170391,1,1,"taza, rallado","cup, shredded",170
+es-0421,169977,1,1,"taza, picado","cup, chopped",89
+es-0421,169977,2,1,"taza, rallado","cup, shredded",70
+es-0421,169977,3,1,,"head, large (about 5-1/2"" dia)",1134
+es-0421,169977,4,1,hoja,leaf,23
+es-0421,169977,5,1,,"head, medium (about 5"" dia)",839
+es-0421,169977,6,1,"cabeza, pequeño (diám. 4"")","head, small (4"" dia)",567
+es-0422,169238,1,1,taza,cup,118
+es-0423,170397,1,0.5,,"cup (1"" pieces)",62
+es-0423,170397,2,3,,flowerets,54
+es-0424,169976,1,0.5,"tazas, rallado","cup, shredded",75
+es-0424,169976,2,1,cabeza,head,1262
+es-0425,169961,1,1,,"cup 1/2"" pieces",100
+es-0425,169961,2,10,,"beans (4"" long)",55
+es-0426,169292,1,1,"taza, en rebanadas","cup, sliced",180
+es-0426,169292,2,0.5,"tazas, en puré","cup, mashed",120
+es-0427,170487,1,1,"taza, en rebanadas","cup, sliced",113
+es-0427,170487,2,1,grande,large,323
+es-0427,170487,3,1,mediano,medium,196
+es-0427,170487,4,1,rebanada,slice,9.9
+es-0427,170487,5,1,pequeño,small,118
+es-0428,169295,1,1,"taza, en cubos","cup, cubes",140
+es-0429,169296,1,1,"taza, en cubos","cup, cubes",205
+es-0430,169299,1,1,taza,cup,155
+es-0431,169293,1,1,"taza, en cubos","cup, cubes",205
+es-0432,169228,1,1,"taza, en cubos","cup, cubes",82
+es-0432,169228,2,1,,"eggplant, peeled (yield from 1-1/4 lb)",458
+es-0432,169228,3,1,,"eggplant, unpeeled (approx 1-1/4 lb)",548
+es-0433,169252,1,1,"taza, en trozos",cup pieces,156
+es-0433,169252,2,1,cucharada,tbsp,9.8
+es-0433,169252,3,1,,mushroom,12
+es-0434,169255,1,1,"taza, en cubos",cup diced,86
+es-0434,169255,2,1,"pieza, entero",piece whole,84
+es-0435,168437,1,1,"taza, en trozos",cup pieces,145
+es-0435,168437,2,4,,mushrooms,72
+es-0436,169145,1,1,taza,cup,136
+es-0436,169145,2,1,,"beet (2"" dia)",82
+es-0437,168451,1,1,"taza, en rebanadas",cup slices,116
+es-0437,168451,2,1,,"radish (7"" long)",338
+es-0438,170058,1,1,"taza, en cubos","cup, cubes",156
+es-0438,170058,2,1,"taza, en puré","cup, mashed",230
+es-0439,170465,1,1,"taza, en cubos","cup, cubes",130
+es-0439,170465,2,1,grande,large,183
+es-0439,170465,3,1,mediano,medium,122
+es-0439,170465,4,1,rebanada,slice,15
+es-0439,170465,5,1,pequeño,small,61
+es-0439,170465,6,0.5,"tazas, en cubos","cup, cubes",65
+es-0440,170009,1,0.5,"tazas, en rebanadas",cup slices,78
+es-0440,170009,2,1,,"parsnip (9"" long)",160
+es-0441,168389,1,1,taza,cup,134
+es-0441,168389,2,1,,"spear, small (5"" long or less)",12
+es-0441,168389,3,1,,"spear, medium (5-1/4"" to 7"" long)",16
+es-0441,168389,4,1,,"spear, large (7-1/4"" to 8-1/2"")",20
+es-0441,168389,5,1,,"spear, extra large (8-3/4"" to 10"" long)",24
+es-0441,168389,6,1,,"spear tip (2"" long or less)",3.5
+es-0442,168412,1,0.5,"tazas, picado","cup, chopped",25
+es-0442,168412,2,1,cabeza,head,513
+es-0443,170068,1,1,"taza, picado","cup, chopped",34
+es-0443,170068,2,1,ramita,sprig,2.5
+es-0443,170068,3,10,ramitas,sprigs,25
+es-0444,168429,1,1,,"cup, shredded or chopped",55
+es-0444,168429,2,1,"cabeza (diám. 5"")","head (5"" dia)",163
+es-0444,168429,3,1,"hoja, grande","leaf, large",15
+es-0444,168429,4,1,"hoja, mediano","leaf, medium",7.5
+es-0444,168429,5,1,hoja,leaf,5
+es-0445,169249,1,1,"taza, rallado",cup shredded,36
+es-0445,169249,2,1,cabeza,head,360
+es-0445,169249,3,1,"hoja, interior",leaf inner,4.8
+es-0445,169249,4,1,"hoja, exterior",leaf outer,24
+es-0446,168431,1,1,"taza, rallado",cup shredded,28
+es-0446,168431,2,1,"hoja, interior",leaf inner,2.6
+es-0446,168431,3,1,"hoja, exterior",leaf outer,17
+es-0446,168431,4,1,cabeza,head,309
+es-0446,168431,5,1,porción (etiqueta NLEA),NLEA serving,85
+es-0447,170407,1,1,"taza, picado","cup, chopped",190
+es-0448,169257,1,1,"taza, picado","cup, chopped",140
+es-0449,170466,1,1,"taza, picado","cup, chopped",144
+es-0450,170401,1,1,"taza, picado","cup, chopped",175
+es-0451,169385,1,1,"taza, en rebanadas","cup, sliced",87
+es-0451,169385,2,1,,bulb,234
+es-0452,169231,1,1,cucharadita,tsp,2
+es-0452,169231,2,0.25,"tazas, en rebanadas (diám. 1"")","cup slices (1"" dia)",24
+es-0452,169231,3,5,"rebanadas (diám. 1"")","slices (1"" dia)",11
+es-0453,169994,1,1,"cucharada, picado",tbsp chopped,3
+es-0453,169994,2,1,"cucharadita, picado",tsp chopped,1
+es-0454,172232,1,5,,leaves,2.5
+es-0454,172232,2,2,"cucharadas, picado","tbsp, chopped",5.3
+es-0454,172232,3,0.25,,"cup leaves, whole",6
+es-0455,173475,1,2,,leaves,0.3
+es-0455,173475,2,2,cucharadas,tbsp,11.4
+es-0456,170419,1,1,taza,cup,145
+es-0457,170017,1,0.5,tazas,cup,80
+es-0457,170017,2,1,,package (10 oz) yields,253
+es-0458,169998,1,1,taza,cup,145
+es-0458,169998,2,1,,"ear, large (7-3/4"" to 9"" long) yields",143
+es-0458,169998,3,1,,"ear, medium (6-3/4"" to 7-1/2"" long) yields",102
+es-0458,169998,4,1,,"ear, small (5-1/2"" to 6-1/2"" long)",73
+es-0459,168411,1,1,taza,cup,155
+es-0460,169957,1,1,taza,cup,104
+es-0460,169957,2,1,paquete (12 oz),package (12 oz),340
+es-0461,168384,1,1,taza,cup,33
+es-0461,168384,2,1,cucharada,tbsp,3
+es-0462,168569,1,1,taza,cup,146
+es-0462,168569,2,1,pieza,piece,33
+es-0463,169210,1,1,,"cup (1/2"" slices)",151
+es-0463,169210,2,0.5,,"cup (1/2"" pieces)",76
+es-0464,170066,1,0.5,"tazas, en rebanadas",cup slices,62
+es-0464,170066,2,4,,waterchestnuts,36
+es-0465,170392,1,1,taza,cup,150
+es-0466,169279,1,1,taza,cup,142
+es-0466,169279,2,1,,"cup, undrained",236
+es-0467,169096,1,1,aceituna,olive,2.7
+es-0468,171689,1,1,"taza, en rebanadas",cup slices,110
+es-0468,171689,2,1,"grande (diám. 3-1/4"")","large (3-1/4"" dia)",216
+es-0468,171689,3,1,"mediano (diám. 3"")","medium (3"" dia)",161
+es-0468,171689,4,1,"pequeño (diám. 2-3/4"")","small (2-3/4"" dia)",132
+es-0469,168203,1,1,"taza, en rebanadas","cup, sliced",109
+es-0469,168203,2,1,grande,large,206
+es-0469,168203,3,1,mediano,medium,167
+es-0469,168203,4,1,pequeño,small,144
+es-0470,171695,1,1,taza,cup,244
+es-0471,171691,1,1,taza,cup,86
+es-0471,171691,2,1,,ring,6.4
+es-0472,173941,1,1,"taza, en mitades","cup, halves",130
+es-0472,173941,2,1,mitad,half,3.5
+es-0473,171699,1,1,"taza, en mitades","cup, halves",258
+es-0473,171699,2,1,"taza, entero","cup, whole",240
+es-0473,171699,3,1,,apricot half with liquid,40
+es-0474,171707,1,1,"taza, hecho puré","cup, pureed",230
+es-0474,171707,2,1,,fruit without skin and seeds,304
+es-0474,171707,3,1,porción (etiqueta NLEA),NLEA Serving,50
+es-0475,173945,1,1,taza,cup,100
+es-0475,173945,2,1,cucharada,tbsp,6.2
+es-0476,173946,1,1,taza,cup,144
+es-0477,171722,1,1,"taza, picado","cup, chopped",110
+es-0477,171722,2,1,"taza, entero","cup, whole",100
+es-0478,171723,1,0.25,tazas,cup,40
+es-0479,173963,1,1,taza,cup,112
+es-0480,173954,1,1,,"cup, without pits",155
+es-0480,173954,2,1,,"cup, with pits, yields",103
+es-0481,171720,1,1,,"cup, pitted",261
+es-0482,173953,1,1,"taza, en trozos","cup, pieces",160
+es-0482,173953,2,1,,fruit without skin and seeds,235
+es-0483,169106,1,1,taza,cup,249
+es-0484,169917,1,1,,"cup sections, without membranes",165
+es-0484,169917,2,1,,"fruit (2-7/8"" dia)",140
+es-0484,169917,3,1,porción (etiqueta NLEA),NLEA serving,154
+es-0485,169916,1,1,,"cup sections, without membranes",180
+es-0485,169916,2,1,,"fruit (2-5/8"" dia)",121
+es-0486,167747,1,1,taza,cup,244
+es-0486,167747,2,1,onza líquida,fl oz,30.5
+es-0486,167747,3,1,,lemon yields,48
+es-0486,167747,4,1,,wedge yields,5.9
+es-0487,168156,1,1,taza,cup,242
+es-0487,168156,2,1,onza líquida,fl oz,30.8
+es-0487,168156,3,1,,lime yields,44
+es-0488,173039,1,1,taza,cup,247
+es-0488,173039,2,1,onza líquida,fl oz,30.9
+es-0488,173039,3,1,,fruit yields,196
+es-0489,173042,1,1,taza,cup,253
+es-0489,173042,2,1,onza líquida,fl oz,31.6
+es-0490,169947,1,1,taza,cup,250
+es-0490,169947,2,1,onza líquida,fl oz,31.3
+es-0491,168117,1,1,taza,cup,253
+es-0491,168117,2,1,onza líquida,fl oz,31.6
+es-0492,170491,1,1,taza,cup,236
+es-0492,170491,2,1,onza líquida,fl oz,29.5
+es-0493,168185,1,1,taza,cup,220
+es-0494,167785,1,1,taza,cup,251
+es-0495,173217,1,1,onza líquida,fl oz,30.9
+es-0495,173217,2,1,,cup 8 fl oz,247
+es-0496,169112,1,1,taza,cup,262
+es-0496,169112,2,1,,"half, with liquid",98
+es-0497,169934,1,1,"taza, en mitades","cup, halves",160
+es-0497,169934,2,1,mitad,half,13
+es-0498,169939,1,1,taza,cup,266
+es-0498,169939,2,1,,"half, with liquid",76
+es-0499,169121,1,1,"taza, en mitades","cup, halves",180
+es-0499,169121,2,1,mitad,half,18
+es-0499,169121,3,10,,halves,175
+es-0500,169944,1,1,,"cup, crushed, sliced, or chunks",254
+es-0500,169944,2,1,,"slice or ring (3"" dia) with liquid",49
+es-0501,169126,1,1,,"cup, crushed, sliced, or chunks",249
+es-0501,169126,2,1,,"slice or ring (3"" dia) with liquid",47
+es-0502,173028,1,1,taza,cup,248
+es-0503,168162,1,1,,"cup, pitted",174
+es-0503,168162,2,1,,"prune, pitted",9.5
+es-0504,167753,1,1,taza,cup,256
+es-0504,167753,2,1,onza líquida,fl oz,32
+es-0505,174665,1,1,taza,cup,149
+es-0505,174665,2,1,,fig,8.4
+es-0506,168164,1,1,"taza, compactado","cup, packed",165
+es-0506,168164,2,1,taza (sin comprimir),cup (not packed),145
+es-0507,171726,1,1,"taza, picado","cup, chopped",147
+es-0507,171726,2,1,,"date, pitted",7.1
+es-0508,169107,1,1,taza,cup,250
+es-0508,169107,2,1,onza líquida,fl oz,31.2
+es-0509,168211,1,1,,fruit,81
+es-0510,169908,1,1,,"cup, cubed",149
+es-0510,169908,2,1,grande,large,20
+es-0510,169908,3,1,mediano,medium,16
+es-0510,169908,4,1,pequeño,small,13.6
+es-0511,169911,1,1,,"cup, diced (approx 20 pieces per cup)",170
+es-0511,169911,2,1,"taza, en bolitas","cup, balls",177
+es-0511,169911,3,1,,"melon (5-1/4"" dia)",1000
+es-0511,169911,4,1,,"melon (6"" - 7"" dia)",1280
+es-0511,169911,5,1,,"wedge (1/8 of 5-1/4"" dia melon)",125
+es-0511,169911,6,1,,"wedge (1/8 of 6"" to 7"" dia melon)",160
+es-0511,169911,7,10,,honeydew balls,138
+es-0511,169911,8,1,porción (etiqueta NLEA),NLEA serving,134
+es-0512,169093,1,1,"taza, en cubos","cup, cubes",170
+es-0512,169093,2,1,,melon,1640
+es-0512,169093,3,0.1,,fruit,164
+es-0513,169914,1,1,"taza, en rebanadas",cup slices,143
+es-0513,169914,2,1,"pequeño (diám. 2-1/3"")","small (2-1/3"" dia)",129
+es-0513,169914,3,1,"mediano (diám. 2-1/2"")","medium (2-1/2"" dia)",142
+es-0513,169914,4,1,"grande (diám. 2-3/4"")","large (2-3/4"" dia)",156
+es-0513,169914,5,1,porción (etiqueta NLEA),NLEA serving,140
+es-0514,168163,1,1,,fruit without refuse,92
+es-0515,169109,1,1,taza,cup,247
+es-0515,169109,2,1,onza líquida,fl oz,30.9
+es-0516,167754,1,1,"taza, en gajos","cup, sections",190
+es-0516,167754,2,1,,fruit without refuse,609
+es-0517,171715,1,1,"taza, en cubos","cup, cubes",132
+es-0517,171715,2,1,"taza, en rebanadas","cup, sliced",108
+es-0517,171715,3,1,,"large (4-1/2"" long)",124
+es-0517,171715,4,1,,"medium (3-5/8"" long)",91
+es-0517,171715,5,1,,"small (3-1/8"" long)",70
+es-0518,167757,1,1,,"cup, thawed",250
+es-0518,167757,2,1,paquete (10 oz),package (10 oz),284
+es-0519,168173,1,1,,"cup, thawed",221
+es-0519,168173,2,1,,"cup, unthawed",149
+es-0519,168173,3,1,baya,berry,10.6
+es-0519,168173,4,1,paquete (20 oz),package (20 oz),567
+es-0520,168195,1,1,,fruit,74
+es-0521,167760,1,1,,"cup 1"" pieces",175
+es-0521,167760,2,1,,fruit without refuse,558
+es-0522,167761,1,1,,"cup, pulp",225
+es-0522,167761,2,1,,"fruit (7"" x 5-1/4"" dia)",625
+es-0523,167750,1,1,taza,cup,149
+es-0523,167750,2,1,,fruit without refuse,103
+es-0524,169089,1,1,,fruit without refuse,3.2
+es-0525,173030,1,1,taza,cup,150
+es-0526,173573,1,1,cucharada,tbsp,14
+es-0526,173573,2,1,taza,cup,218
+es-0526,173573,3,1,cucharadita,tsp,4.5
+es-0527,171706,1,1,"taza, hecho puré","cup, pureed",230
+es-0527,171706,2,1,,"fruit, without skin and seed",136
+es-0527,171706,3,1,porción (etiqueta NLEA),NLEA serving,50
+es-0528,168199,1,1,taza,cup,118
+es-0528,168199,2,10,,"slices (1/4"" thick)",53
+es-0529,168586,1,1,"taza, rallado","cup, shredded",93
+es-0529,168586,2,1,paquete (7 oz),package (7 oz),199
+es-0530,170170,1,1,onza,oz,28.4
+es-0531,170580,1,1,cucharada,tbsp,15
+es-0531,170580,2,1,taza,cup,240
+es-0532,175203,1,1,taza,cup,179
+es-0532,175203,2,1,cucharada,tbsp,11.2
+es-0533,173759,1,1,taza,cup,171
+es-0534,175191,1,1,taza,cup,177
+es-0535,174253,1,1,taza,cup,188
+es-0535,174253,2,1,cucharada,tbsp,11.7
+es-0536,173728,1,1,taza,cup,230
+es-0537,174257,1,1,taza,cup,202
+es-0538,173753,1,1,taza,cup,170
+es-0539,175238,1,1,taza,cup,240
+es-0540,175243,1,1,,cup cup rinsed solids,158
+es-0541,173800,1,1,"lata, escurrido",can drained,253
+es-0542,172420,1,1,taza,cup,192
+es-0542,172420,2,1,cucharada,tablespoon,12
+es-0543,172429,1,1,taza,cup,196
+es-0543,172429,2,1,cucharada,tbsp,12.2
+es-0544,174296,1,1,taza,cup,242
+es-0544,174296,2,1,lata,can,444
+es-0545,175182,1,1,taza,cup,254
+es-0546,173734,1,1,taza,cup,194
+es-0546,173734,2,1,cucharada,tbsp,12.1
+es-0547,175199,1,1,taza,cup,193
+es-0547,175199,2,1,cucharada,tbsp,12
+es-0548,173756,1,1,taza,cup,200
+es-0548,173756,2,1,cucharada,tbsp,12.5
+es-0549,174270,1,1,taza,cup,186
+es-0550,172476,1,0.5,tazas,cup,124
+es-0550,172476,2,0.25,bloques,block,116
+es-0551,174272,1,1,taza,cup,166
+es-0552,172443,1,1,taza,cup,175
+es-0553,172442,1,1,cucharada,tbsp,17
+es-0553,172442,2,1,taza,cup,275
+es-0554,174273,1,1,,"cup, stirred",84
+es-0554,174273,2,1,cucharada,tbsp,5.2
+es-0555,174276,1,1,onza,oz,28.4
+es-0556,174262,1,1,onza,oz,28.4
+es-0556,174262,2,1,,peanut,1
+es-0557,174260,1,1,,"cup in shell, edible yield",63
+es-0557,174260,2,1,,"cup, shelled",180
+es-0557,174260,3,1,,oz shelled,28.4
+es-0557,174260,4,33,frutos secos,nuts,28
+es-0558,170158,1,1,"taza, en granos",cup whole kernels,138
+es-0558,170158,2,1,,oz (22 whole kernels),28.4
+es-0559,168603,1,1,cucharada,tbsp,16
+es-0559,168603,2,1,taza,cup,250
+es-0560,170591,1,1,taza,cup,135
+es-0560,170591,2,1,,oz (167 kernels),28.4
+es-0560,170591,3,10,frutos secos,nuts,1.7
+es-0561,170190,1,1,taza,cup,143
+es-0561,170190,2,1,onza,oz,28.4
+es-0561,170190,3,10,,kernels,84
+es-0562,167561,1,1,taza,cup,150
+es-0562,167561,2,1,onza,oz,28.4
+es-0562,167561,3,1.5,onzas,oz,42
+es-0563,170148,1,3,cucharadas,tbsp,30
+es-0564,170189,1,1,cucharada,tbsp,15
+es-0564,170189,2,1,onza,oz,28.4
+es-0565,171330,1,1,cucharadita,tsp,2.8
+es-0565,171330,2,1,cucharada,tbsp,8.8
+es-0566,168882,1,1,taza,cup,186
+es-0567,169708,1,1,taza,cup,158
+es-0568,168897,1,1,taza,cup,164
+es-0569,169703,1,1,taza,cup,185
+es-0570,169711,1,1,taza,cup,174
+es-0571,169714,1,1,taza,cup,158
+es-0572,168926,1,1,taza,cup,160
+es-0573,168907,1,1,taza,cup,114
+es-0574,173333,1,1,,cup 1 serving,225
+es-0575,171661,1,1,sobre,packet,28
+es-0576,173912,1,1,taza,cup,14
+es-0576,173912,2,0.5,onzas,oz,14.2
+es-0577,173913,1,1,taza,cup,12
+es-0577,173913,2,0.5,onzas,oz,14.2
+es-0578,173884,1,1,,cup (1 NLEA serving),28
+es-0579,170686,1,1,taza,cup,168
+es-0580,170683,1,1,taza,cup,246
+es-0581,168886,1,1,taza,cup,102
+es-0583,174288,1,1,taza,cup,92
+es-0584,169715,1,1,taza,cup,167
+es-0585,170284,1,1,taza,cup,200
+es-0586,169698,1,1,taza,cup,128
+es-0587,169717,1,1,taza,cup,152
+es-0588,174908,1,1,onza,oz,28.4
+es-0588,174908,2,1,paquete (8.5 oz),package (8.5 oz),241
+es-0589,174899,1,1,bagel,bagel,99
+es-0589,174899,2,1,,"mini bagel (2-1/2"" dia)",26
+es-0589,174899,3,1,,"small bagel (3"" dia)",69
+es-0589,174899,4,1,,"medium bagel (3-1/2"" to 4"" dia)",105
+es-0589,174899,5,1,,"large bagel (4-1/2"")",131
+es-0589,174899,6,1,onza,oz,28.4
+es-0590,172765,1,1,onza,oz,28.4
+es-0590,172765,2,1,"mini (diám. 1-1/4"")","mini (1-1/4"" dia)",17
+es-0590,172765,3,1,,"small (2-3/4"" dia x 2"")",66
+es-0590,172765,4,1,mediano,medium,113
+es-0590,172765,5,1,,"large (3-1/4"" dia x 2-3/4"")",139
+es-0590,172765,6,1,extra grande,extra large,168
+es-0590,172765,7,1,muffin,muffin,31
+es-0591,174994,1,1,onza,oz,28.4
+es-0591,174994,2,1,muffin,muffin,57
+es-0592,175012,1,1,onza,oz,28.4
+es-0592,175012,2,1,,"piece (1/8 of 9"" dia)",155
+es-0593,174934,1,1,,piece (1/12 of a cake),138
+es-0593,174934,2,1,,cake,1660
+es-0593,174934,3,1,,piece (1/8 of 18 oz cake),64
+es-0593,174934,4,1,onza,oz,28.4
+es-0594,172711,1,1,onza,oz,28.4
+es-0594,172711,2,1,,piece (1/6 of 17 oz cake),80
+es-0594,172711,3,1,,piece (1 NLEA serving),125
+es-0595,174965,1,1,onza,oz,28.4
+es-0595,174965,2,1,galleta,cookie,14
+es-0596,172746,1,5,,crackers,14.9
+es-0596,172746,2,0.5,onzas,oz,14.2
+es-0596,172746,3,1,"taza, triturado","cup, crushed",70
+es-0596,172746,4,5,,crackers square (1 serving),15
+es-0596,172746,5,1,,cracker square,3
+es-0596,172746,6,1,,"cracker, round large",10
+es-0596,172746,7,1,,"cracker, oyster",1
+es-0596,172746,8,1,,"cracker, rectangle",6
+es-0596,172746,9,1,,cup oyster crackers,45
+es-0597,172749,1,1,porción,serving,28
+es-0597,172749,2,6,,"crackers, Triscuits, regular size",28
+es-0597,172749,3,1,galleta salada,cracker,4.6
+es-0597,172749,4,0.5,onzas,oz,14.2
+es-0597,172749,5,1,"taza, triturado","cup, crushed",94
+es-0597,172749,6,10,,Triscuit Bits,10
+es-0598,175027,1,1,onza,oz,28.4
+es-0598,175027,2,1,"rollo (diám. 2-1/2"")","roll (2-1/2"" dia)",35
+es-0599,174918,1,1,onza,oz,28.4
+es-0599,174918,2,1,,"slice, regular",26
+es-0599,174918,3,1,,"slice, snack-size",7
+es-0599,174918,4,1,"rebanada, delgado","slice, thin",20
+es-0599,174918,5,1,"rebanada (5"" x 4"" x 3/8"")","slice (5"" x 4"" x 3/8"")",32
+es-0600,168013,1,1,onza,oz,28.4
+es-0600,168013,2,1,,slice regular,26
+es-0600,168013,3,1,"rebanada, grande",slice large,41
+es-0601,167939,1,1,,slice presliced,43
+es-0601,167939,2,1,rebanada,slice,59
+es-0602,172771,1,1,onza,oz,28.4
+es-0602,172771,2,1,panqueque,pancake,41
+es-0602,172771,3,1,"panqueque (diám. 6"")","pancake (6"" dia)",73
+es-0602,172771,4,1,,mini pancake,10.1
+es-0602,172771,5,1,panqueque,pancake,40
+es-0603,172751,1,0.5,onzas,oz,14.2
+es-0603,172751,2,1,taza,cup,30
+es-0604,174931,1,1,onza,oz,28.4
+es-0604,174931,2,0.5,tazas,cup,100
+es-0605,172694,1,1,,piece (1/12 of 12 oz cake),28
+es-0605,172694,2,1,,"cake (9"" dia x 4"")",340
+es-0606,172754,1,1,onza,oz,28.4
+es-0606,172754,2,1,,pastry,71
+es-0607,172079,1,1,,each,25
+es-0608,169064,1,1,grande,large,143
+es-0608,169064,2,1,mediano,medium,115
+es-0608,169064,3,1,pequeño,small,62
+es-0609,167989,1,1,,cup gumdrops,182
+es-0609,167989,2,10,,gumdrops,36
+es-0609,167989,3,10,,gummy bears,22
+es-0609,167989,4,10,,gummy dinosaurs,63
+es-0609,167989,5,10,,gummy fish,50
+es-0609,167989,6,10,,gummy worms,74
+es-0609,167989,7,1,,spice stick,9.5
+es-0609,167989,8,1,,spice drop,24
+es-0609,167989,9,1,,"gumdrop, small (1/2"" dia)",3.2
+es-0609,167989,10,1,,"gumdrop, medium (3/4"" dia)",4.2
+es-0609,167989,11,1,,"gumdrop, large (1"" dia)",11.6
+es-0609,167989,12,1,,"jelly ring (1-1/4"" dia)",10
+es-0610,167991,1,10,pequeño,small,11
+es-0610,167991,2,10,grande (1 oz),large (1 oz),28
+es-0611,167995,1,1,,cup of miniature,50
+es-0611,167995,2,10,,miniatures,7
+es-0611,167995,3,1,,regular,7.2
+es-0612,167974,1,1,paquete (2.5 oz),package (2.5 oz),71
+es-0612,167974,2,1,pieza,piece,10.1
+es-0613,167580,1,1,onza,oz,28.4
+es-0614,169586,1,1,onza,oz,28.4
+es-0615,168778,1,1,onza,oz,28.4
+es-0615,168778,2,1,,"container refrigerated, 4 oz",108
+es-0615,168778,3,1,,"container shelf stable, 3.5 oz",98
+es-0616,169608,1,1,onza,oz,28.4
+es-0616,169608,2,1,,container refrigerated 4 oz,110
+es-0616,169608,3,1,,container shelf stable 3.5 oz,97
+es-0617,168775,1,1,paquete (3 oz),package (3 oz),85
+es-0617,168775,2,1,,"portion, amount to make 1/2 cup",21
+es-0618,168815,1,0.5,tazas,cup,72
+es-0619,167577,1,0.5,tazas (4 fl oz),cup (4 fl oz),74
+es-0619,167577,2,1,barra (2.75 fl oz),bar (2.75 fl oz),66
+es-0620,168810,1,1,,individual (3.5 fl oz),58
+es-0620,168810,2,0.5,tazas (4 fl oz),cup (4 fl oz),66
+es-0621,169578,1,1,taza,cup,314
+es-0621,169578,2,1,cucharada,tbsp,20
+es-0622,168820,1,1,taza,cup,337
+es-0622,168820,2,1,,serving 1 tbsp,20
+es-0623,168771,1,1,barra,stick,3
+es-0623,168771,2,10,,Chiclets,16
+es-0623,168771,3,1,bloque,block,8
+es-0624,169679,1,1,,cake,9
+es-0624,169679,2,2,,cakes,18
+es-0625,167954,1,1,barra (1 oz),bar (1 oz),28
+es-0626,169861,1,1,taza,cup,8
+es-0626,169861,2,1,onza,oz,28.4
+es-0627,167536,1,1,onza,oz,28.4
+es-0627,167536,2,1,"pieza, grande","piece, large",20
+es-0627,167536,3,1,onza,oz,28.4
+es-0628,167541,1,1,grande,large,21
+es-0628,167541,2,1,pequeño,small,14
+es-0629,168849,1,1,onza,oz,28.4
+es-0629,168849,2,3,onzas,oz,85
+es-0629,168849,3,1.5,onzas,oz,42
+es-0630,168754,1,1,barra (1.45 oz),bar (1.45 oz),41
+es-0630,168754,2,1,barra (1.55 oz),bar (1.55 oz),44
+es-0631,173461,1,1,cucharada,tbsp,19
+es-0632,174122,1,1,,serving (3 heaping tsp or 1 envelope),28
+es-0633,171401,1,1,cucharada,tbsp,12.8
+es-0633,171401,2,1,taza,cup,205
+es-0634,173584,1,1,cucharada,tbsp,12.8
+es-0634,173584,2,1,taza,cup,205
+es-0635,172336,1,1,cucharada,tbsp,14
+es-0635,172336,2,1,taza,cup,218
+es-0635,172336,3,1,cucharadita,tsp,4.5
+es-0636,171029,1,1,cucharada,tbsp,13.6
+es-0636,171029,2,1,taza,cup,218
+es-0636,171029,3,1,cucharadita,tsp,4.5
+es-0637,171410,1,1,cucharada,tbsp,13.5
+es-0637,171410,2,1,taza,cup,216
+es-0637,171410,3,1,cucharadita,tsp,4.5
+es-0638,171016,1,1,cucharada,tablespoon,13.6
+es-0638,171016,2,1,taza,cup,218
+es-0638,171016,3,1,cucharadita,tsp,4.5
+es-0639,171026,1,1,cucharada,tbsp,13.6
+es-0639,171026,2,1,taza,cup,218
+es-0639,171026,3,1,cucharadita,tsp,4.5
+es-0640,171015,1,1,cucharada,tbsp,13.6
+es-0640,171015,2,1,taza,cup,216
+es-0640,171015,3,1,cucharadita,tsp,4.5
+es-0641,173411,1,1,,"pat (1"" sq, 1/3"" high)",3.8
+es-0641,173411,2,1,cucharada,tbsp,9.4
+es-0641,173411,3,1,taza,cup,151
+es-0641,173411,4,1,barra,stick,76
+es-0643,168096,1,1,cucharada,tbsp,14
+es-0643,168096,2,1,taza,cup,216
+es-0644,169877,1,1,cucharada,tbsp,15
+es-0644,169877,2,1,taza,cup,240
+es-0645,171416,1,1,cucharada,tablespoon,14
+es-0645,171416,2,1,taza,cup,220
+es-0646,171402,1,1,cucharada,tbsp,16
+es-0646,171402,2,1,taza,cup,250
+es-0646,171402,3,1,,serving (2 tbsp),30
+es-0647,168112,1,1,cucharada,tbsp,14.5
+es-0647,168112,2,1,taza,cup,232
+es-0648,174523,1,1,cucharada,tbsp,17
+es-0648,174523,2,0.5,tazas,cup,143
+es-0648,174523,3,1,taza,cup,279
+es-0649,171167,1,1,cucharada,tbsp,18
+es-0649,171167,2,1,onza líquida,fl oz,36
+es-0649,171167,3,1,taza,cup,288
+es-0650,172886,1,1,cucharada,tbsp,16
+es-0651,171579,1,0.25,tazas,cup,63
+es-0652,171610,1,1,cucharada,tbsp,17
+es-0652,171610,2,1,taza,cup,275
+es-0653,174531,1,1,cucharada,tbsp,18
+es-0654,174529,1,1,cucharada,tbsp,18
+es-0655,171826,1,2,,tablespoons,30
+es-0656,171191,1,0.25,tazas,cup,63
+es-0657,171564,1,1,taza,cup,233
+es-0657,171564,2,1,lata,can,291
+es-0658,174074,1,0.25,tazas,cup,56
+es-0658,174074,2,1,taza,cup,224
+es-0658,174074,3,1,lata,can,283
+es-0659,171824,1,2,cucharadas,Tbsp,30
+es-0660,174066,1,2,cucharadas,Tbsp,35
+es-0661,171320,1,1,cucharadita,tsp,2.6
+es-0661,171320,2,1,cucharada,tbsp,7.8
+es-0662,170931,1,1,"cucharadita, molido","tsp, ground",2.3
+es-0662,170931,2,1,"cucharada, molido","tbsp, ground",6.9
+es-0662,170931,3,1,"cucharadita, entero","tsp, whole",2.9
+es-0662,170931,4,1,,dash,0.1
+es-0663,173468,1,1,cucharadita,tsp,6
+es-0663,173468,2,1,cucharada,tbsp,18
+es-0663,173468,3,1,taza,cup,292
+es-0663,173468,4,1,,dash,0.4
+es-0664,171325,1,1,cucharadita,tsp,3.1
+es-0664,171325,2,1,cucharada,tbsp,9.7
+es-0665,171327,1,1,cucharadita,tsp,2.4
+es-0665,171327,2,1,cucharada,tbsp,6.9
+es-0666,171319,1,1,cucharadita,tsp,2.7
+es-0666,171319,2,1,cucharada,tbsp,8
+es-0667,170923,1,1,"cucharadita, entero","tsp, whole",2.1
+es-0667,170923,2,1,"cucharada, entero","tbsp, whole",6
+es-0668,171328,1,1,,"tsp, leaves",1
+es-0668,171328,2,1,"cucharadita, molido","tsp, ground",1.8
+es-0669,171329,1,1,cucharadita,tsp,2.3
+es-0669,171329,2,1,cucharada,tbsp,6.8
+es-0670,172231,1,1,cucharadita,tsp,3
+es-0670,172231,2,1,cucharada,tbsp,9.4
+es-0671,170926,1,1,cucharadita,tsp,1.8
+es-0671,170926,2,1,cucharada,tbsp,5.2
+es-0672,171321,1,1,cucharadita,tsp,2.1
+es-0672,171321,2,1,cucharada,tbsp,6.5
+es-0673,170924,1,1,cucharadita,tsp,2
+es-0673,170924,2,1,cucharada,tbsp,6.3
+es-0674,171326,1,1,cucharadita,tsp,2.2
+es-0674,171326,2,1,cucharada,tbsp,7
+es-0675,172804,1,1,cucharadita,tsp,4.6
+es-0675,172804,2,0.5,cucharaditas,tsp,2.3
+es-0676,175040,1,1,cucharadita,tsp,4.6
+es-0676,175040,2,0.5,cucharaditas,tsp,2.3
+es-0677,173469,1,1,cucharada,tbsp,14.9
+es-0677,173469,2,1,taza,cup,239
+es-0677,173469,3,1,cucharadita,tsp,5
+es-0678,172240,1,1,cucharada,tbsp,14.9
+es-0678,172240,2,1,taza,cup,239
+es-0678,172240,3,1,cucharadita,tsp,5
+es-0679,169070,1,1,cucharadita,tsp,4.9
+es-0679,169070,2,1,onza líquida,fl oz,29
+es-0680,173205,1,1,onza líquida,fl oz,30.8
+es-0680,173205,2,1,,drink (12 fl oz),368
+es-0680,173205,3,1,,"drink, small (16 fl oz)",491
+es-0680,173205,4,1,,"drink, medium (22 fl oz)",675
+es-0680,173205,5,1,,"drink, large (32 fl oz)",982
+es-0680,173205,6,1,,"drink, extra large (44 fl oz)",1351
+es-0681,174846,1,1,onza líquida,fl oz,30.5
+es-0681,174846,2,1,lata o botella (16 fl oz),can or bottle (16 fl oz),488
+es-0681,174846,3,1,lata o botella (12 fl oz),can or bottle (12 fl oz),366
+es-0682,171871,1,1,onza líquida,fl oz,30.8
+es-0682,171871,2,1,lata o botella (16 fl oz),can or bottle (16 fl oz),493
+es-0682,171871,3,1,lata o botella (12 fl oz),can or bottle (12 fl oz),370
+es-0683,174850,1,1,onza líquida,fl oz,29.6
+es-0683,174850,2,1,lata o botella (16 fl oz),can or bottle (16 fl oz),474
+es-0683,174850,3,1,lata (12 fl oz),can (12 fl oz),355
+es-0683,174850,4,1,,"drink, small (16 fl oz)",474
+es-0683,174850,5,1,,"drink, medium (22 fl oz)",651
+es-0683,174850,6,1,,"drink, large (32 fl oz)",947
+es-0683,174850,7,1,,"drink, extra large (44 fl oz)",1302
+es-0684,174842,1,1,onza líquida,fl oz,29.6
+es-0684,174842,2,1,lata o botella (16 fl oz),can or bottle (16 fl oz),474
+es-0684,174842,3,1,lata o botella (12 fl oz),can or bottle (12 fl oz),355
+es-0685,171917,1,1,taza,cup,245
+es-0685,171917,2,1,onza líquida,fl oz,29.6
+es-0686,175088,1,1,,"tsp, rounded",1.4
+es-0686,175088,2,2,,"tbsp, rounded",11.3
+es-0687,174822,1,8,onzas líquidas,fl oz,240
+es-0688,168749,1,1,onza líquida,fl oz,29.5
+es-0688,168749,2,1,lata o botella (12 fl oz),can or bottle (12 fl oz),354
+es-0689,174837,1,1,onza líquida,fl oz,29.4
+es-0689,174837,2,1,porción (5 fl oz),serving (5 fl oz),147
+es-0690,173176,1,1,onza líquida,fl oz,29.5
+es-0690,173176,2,1,,glass (3.5 fl oz),103
+es-0691,175097,1,1,onza líquida,fl oz,34.8
+es-0691,175097,2,1,,serving 1.5 fl oz,52
+es-0692,173765,1,1,taza,cup,243
+es-0693,174293,1,1,taza,cup,243
+es-0693,174293,2,1,onza líquida,fl oz,30.6
+es-0694,171942,1,8,,"fl oz (approximate weight, 1 serving)",240
+es-0695,170775,1,12,onzas líquidas,fl oz,347
+es-0696,168070,1,1,pieza,piece,98
+es-0697,168071,1,1,pieza,piece,70
+es-0698,167660,1,1,pieza,piece,89
+es-0699,167661,1,1,pieza,piece,126
+es-0700,167662,1,1,pieza,piece,117
+es-0701,167663,1,1,pieza,piece,122
+es-0702,167664,1,1,pieza,piece,166
+es-0703,168067,1,1,pieza,piece,142
+es-0704,169856,1,1,,serving serving size varied from 1 to 3 tamales,302
+es-0704,169856,2,1,tamal,tamale,179
+es-0704,169856,3,2,tamales,tamale,351
+es-0704,169856,4,3,tamales,tamale,550
+es-0705,167659,1,1,taza,cup,141
+es-0706,168064,1,1,porción,serving,461
+es-0706,168064,2,1,taza,cup,146
+es-0707,168065,1,1,porción,serving,590
+es-0707,168065,2,1,taza,cup,157
+es-0708,168066,1,1,porción,serving,653
+es-0708,168066,2,1,taza,cup,115
+es-0709,168063,1,1,porción,serving,283
+es-0709,168063,2,1,taza,cup,253
+es-0710,168068,1,1,taza,cup,246
+es-0711,168069,1,1,taza,cup,200
+es-0712,167658,1,1,,serving varied from 1 to 3 tacos per serving,281
+es-0712,167658,2,1,taco,taco,134
+es-0712,167658,3,2,tacos,taco,279
+es-0712,167658,4,3,tacos,taco,389
+es-0713,170689,1,1,,each taco,69
+es-0714,169035,1,1,,serving serving size varied on diameter and count of quesadila,205
+es-0714,169035,2,1,,quesadilla 8-10 inch diameter,194
+es-0714,169035,3,3,,quesadilla 5-6 inch diameter,279
+es-0715,170765,1,1,,each quesadilla,180
+es-0716,169855,1,1,,serving serving size varied from 1 to 3 enchiladas,244
+es-0716,169855,2,1,enchilada,enchilada,137
+es-0716,169855,3,2,enchiladas,enchilada,257
+es-0716,169855,4,3,enchiladas,enchilada,365
+es-0717,167665,1,1,taza,cup,116
+es-0718,167666,1,1,taza,cup,148
+es-0719,170291,1,1,porción,serving,80
+es-0720,172102,1,1,,burrito cooked,116
+es-0720,172102,2,1,onza,oz,28.4
+es-0721,169771,1,1,pieza,piece,42
+es-0722,167680,1,1,porción,serving,554
+es-0723,169033,1,1,porción,serving,510
+es-0724,169850,1,1,porción,serving,457
+es-0725,169038,1,1,,serving serving size varied by diameter and count of raviloi,427
+es-0726,168062,1,1,porción,serving,301
+es-0727,167668,1,1,taza,cup,137
+es-0728,168081,1,1,orden,order,706
+es-0728,168081,2,3,piezas,pieces,55
+es-0729,167676,1,1,orden,order,604
+es-0730,168083,1,1,orden,order,604
+es-0731,167667,1,1,pieza,piece,89
+es-0732,170693,1,1,sándwich,sandwich,78
+es-0733,170690,1,1,sándwich,sandwich,91
+es-0734,170698,1,1,"porción, pequeño",serving small,71
+es-0734,170698,2,1,"porción, mediano",serving medium,117
+es-0734,170698,3,1,"porción, grande",serving large,154
+es-0735,170318,1,1,sándwich,sandwich,152
+es-0736,170296,1,1,sándwich,sandwich,220
+es-0737,170706,1,6,,inch sub,184
+es-0737,170706,2,12,,inch sub,367
+es-0738,170299,1,6,,inch sub,237
+es-0738,170299,2,12,,inch sub,474
+es-0739,170695,1,1,sándwich,sandwich,149
+es-0740,170359,1,1,,thigh with skin,136
+es-0740,170359,2,1,,thigh without skin,84
+es-0740,170359,3,1,,thigh bone and skin removed,66
+es-0741,170356,1,1,,breast without skin,142
+es-0741,170356,2,1,,breast bone and skin removed,107
+es-0742,170360,1,1,,"wing, with skin",58
+es-0742,170360,2,1,,"wing, without skin",37
+es-0742,170360,3,1,,"wing, bone and skin removed",20
+es-0743,170373,1,1,rebanada,slice,69
+es-0743,170373,2,1,,pie,556
+es-0744,170762,1,1,rebanada,slice,79
+es-0744,170762,2,1,,pizza,597
+es-0745,170300,1,1,taza,cup,191
+es-0745,170300,2,1,paquete,package,116
+es-0746,170697,1,1,,package (18 onion rings),117
+es-0747,169770,1,1,,cup prepared,189
+es-0748,172097,1,1,taza,cup,242
+es-0749,173330,1,1,,cup (1 serving),196
+es-0750,173331,1,1,,pie,302
+es-0751,172094,1,0.75,tazas,cup,81
+es-0752,172112,1,1,porción,serving,82
+es-0752,172112,2,1,pieza,piece,20
+es-0753,170355,1,1,,item,149
+es-0754,174570,1,1,,slice oval,9.3
+es-0754,174570,2,1,,slice rectangle,13.8
+es-0755,172927,1,2,rebanadas,slices,57
+es-0755,172927,2,1,paquete (8 oz),package (8 oz),227
+es-0756,174596,1,0.25,tazas,cup,55
+es-0757,174618,1,1,porción,serving,43
+es-0758,171620,1,1,"salchicha, cocido",link cooked,85
+es-0759,173867,1,1,salchicha,link,72
+es-0759,173867,2,1,onza,oz,28.4
+es-0760,171317,1,1,,"tsp, leaves",0.7
+es-0760,171317,2,1,,"tbsp, leaves",2.1
+es-0760,171317,3,1,"cucharadita, molido","tsp, ground",1.4
+es-0760,171317,4,1,"cucharada, molido","tbsp, ground",4.5
+es-0761,170938,1,1,,"tsp, leaves",1
+es-0761,170938,2,1,,"tbsp, leaves",2.7
+es-0761,170938,3,1,"cucharadita, molido","tsp, ground",1.4
+es-0761,170938,4,1,"cucharada, molido","tbsp, ground",4.3
+es-0762,171333,1,1,cucharadita,tsp,1.2
+es-0762,171333,2,1,cucharada,tbsp,3.3
+es-0763,170917,1,1,"cucharadita, desmenuzado","tsp, crumbled",0.6
+es-0763,170917,2,1,"cucharada, desmenuzado","tbsp, crumbled",1.8
+es-0764,170935,1,1,cucharadita,tsp,0.7
+es-0764,170935,2,1,cucharada,tbsp,2
+es-0765,170919,1,1,"cucharadita, molido","tsp, ground",2
+es-0765,170919,2,1,"cucharada, molido","tbsp, ground",5.8
+es-0766,170922,1,1,cucharadita,tsp,1.8
+es-0766,170922,2,1,cucharada,tbsp,5
+es-0767,171323,1,1,"cucharadita, entero","tsp, whole",2
+es-0767,171323,2,1,"cucharada, entero","tbsp, whole",5.8
+es-0768,171322,1,1,cucharadita,tsp,1
+es-0768,171322,2,1,cucharada,tbsp,3.1
+es-0769,171315,1,1,cucharadita,tsp,1.9
+es-0769,171315,2,1,cucharada,tbsp,6
+es-0770,170934,1,1,cucharadita,tsp,0.7
+es-0770,170934,2,1,cucharada,tbsp,2.1
+es-0771,170932,1,1,cucharadita,tsp,1.8
+es-0771,170932,2,1,cucharada,tbsp,5.3
+es-0772,170929,1,1,cucharadita,tsp,2
+es-0772,170929,2,1,cucharada,tbsp,6.3
+es-0773,170930,1,1,cucharadita,tsp,0.5
+es-0773,170930,2,1,cucharada,tbsp,1.6
+es-0774,170921,1,1,cucharadita,tsp,0.6
+es-0774,170921,2,1,cucharada,tbsp,1.8
+es-0775,170396,1,1,"taza, en rebanadas","cup, sliced",146
+es-0775,170396,2,1,"taza, en puré","cup, mashed",228
+es-0775,170396,3,1,rebanada,slice,2.8
+es-0775,170396,4,1,lata (303 x 406),can (303 x 406),284
+es-0776,169143,1,1,taza,cup,135
+es-0776,169143,2,10,,beans,62
+es-0776,169143,3,1,lata (303 x 406),can (303 x 406),262
+es-0777,169254,1,1,taza,cup,156
+es-0777,169254,2,1,lata,can,132
+es-0777,169254,3,1,grande,large,16
+es-0777,169254,4,1,mediano,medium,12
+es-0777,169254,5,1,pequeño,small,7
+es-0777,169254,6,10,rebanadas,slices,40
+es-0777,169254,7,8,,caps,47
+es-0777,169254,8,0.5,"tazas, en trozos",cup pieces,78
+es-0778,169286,1,1,taza,cup,214
+es-0779,169288,1,0.5,tazas,cup,95
+es-0779,169288,2,1,,package (10 oz) yields,220
+es-0780,169969,1,1,taza,cup,184
+es-0781,168399,1,1,taza,cup,165
+es-0781,168399,2,1,,package (10 oz) yields,284
+es-0782,170472,1,0.5,tazas,cup,91
+es-0782,170472,2,1,,package (10 oz) yields,275
+es-0783,170065,1,1,taza,cup,163
+es-0784,169966,1,1,"taza, en cubos","cup, diced",157
+es-0784,169966,2,1,"taza, rallado","cup, shredded",195
+es-0784,169966,3,1,"taza, en rebanadas",cup slices,170
+es-0784,169966,4,1,"taza, entero","cup, whole",163
+es-0784,169966,5,1,rebanada,slice,8
+es-0784,169966,6,1,,beet,24
+es-0784,169966,7,1,lata (303 x 406),can (303 x 406),294
+es-0785,170444,1,1,taza,cup,180
+es-0785,170444,2,1,,potato,35
+es-0786,173343,1,0.5,tazas,cup,125
+es-0787,170092,1,1,,"small 2-3/4 in. dia., 5/8 in. thick.",22
+es-0787,170092,2,1,,"medium 3-1/4 in. x 3-5/8 in., 5/8 in. thick.",37
+es-0788,172882,1,1,taza,cup,148
+es-0788,172882,2,1,lata,can,294
+es-0789,171155,1,0.5,tazas,cup,126
+es-0790,171542,1,0.5,tazas (4 fl oz),cup (4 fl oz),126
+es-0790,171542,2,1,lata (10.75 oz),can (10.75 oz),305
+es-0791,171153,1,0.5,tazas (4 fl oz),cup (4 fl oz),123
+es-0791,171153,2,1,lata (10.5 oz),can (10.5 oz),298
+es-0792,171549,1,1,taza (8 fl oz),cup (8 fl oz),248
+es-0792,171549,2,1,lata (20 oz),can (20 oz),567
+es-0793,171561,1,1,,cube,3.6
+es-0794,171562,1,1,,cube,4
+es-0794,171562,2,1,cucharadita,teaspoon,2
+es-0795,171821,1,1,taza,cup,223
+es-0796,172691,1,1,onza,oz,28.4
+es-0796,172691,2,1,rebanada,slice,42
+es-0796,172691,3,1,"rebanada, delgado (3-3/4"" x 5"" x 3/8"")","slice, thin (3-3/4"" x 5"" x 3/8"")",30
+es-0797,172673,1,1,onza,oz,28.4
+es-0797,172673,2,1,"rebanada (5"" x 3"" x 1/2"")","slice (5"" x 3"" x 1/2"")",40
+es-0798,172680,1,1,onza,oz,28.4
+es-0798,172680,2,1,"rebanada, grande","slice, large",32
+es-0798,172680,3,1,rebanada,slice,26
+es-0798,172680,4,1,"rebanada, delgado","slice, thin",23
+es-0799,174916,1,1,,"pita, large (6-1/2"" dia)",64
+es-0799,174916,2,1,,"pita, small  (4"" dia)",28
+es-0800,171845,1,1,pieza,piece,90
+es-0801,174913,1,1,onza,oz,28.4
+es-0801,174913,2,1,rebanada,slice,29
+es-0802,172678,1,1,onza,oz,28.4
+es-0802,172678,2,1,rebanada,slice,27
+es-0803,172685,1,1,onza,oz,28.4
+es-0803,172685,2,1,"rebanada, grande","slice, large",29
+es-0803,172685,3,1,,"slice, regular",24
+es-0803,172685,4,1,"rebanada, delgado","slice, thin",18
+es-0804,169602,1,1,paquete (3 oz),package (3 oz),85
+es-0804,169602,2,1,,"portion, amount to make 1/2 cup",21
+es-0805,168772,1,1,paquete (3 oz),package (3 oz),85
+es-0805,168772,2,1,,"portion, amount to make 1/2 cup",21
+es-0806,172786,1,1,onza,oz,28.4
+es-0806,172786,2,1,,"piece (1/8 of 9"" dia)",122
+es-0807,175022,1,1,onza,oz,28.4
+es-0807,175022,2,1,paquete (10 oz),package (10 oz),284
+es-0808,175000,1,1,onza,oz,28.4
+es-0808,175000,2,1,,cone,4
+es-0808,175000,3,1,,large waffle cone,29
+es-0809,169671,1,1,pieza,piece,12
+es-0810,169580,1,1,pieza,piece,12
+es-0810,169580,2,1,,"recipe yield, recipe makes 49     1 "" x 1""     pieces",612
+es-0811,167734,1,1,onza,oz,28.4
+es-0811,167734,2,1,barra,bar,37
+es-0812,167999,1,1,,tablet,20
+es-0813,171654,1,1,cucharada,tbsp,9.7
+es-0813,171654,2,1,taza,cup,156
+es-0814,169701,1,1,taza,cup,165
+es-0815,172455,1,1,,"patty (approx 2-1/4"" dia)",17
+es-0816,170886,1,1,envase (6 oz),container (6 oz),170
+es-0816,170886,2,1,envase (8 oz),container (8 oz),227
+es-0816,170886,3,0.5,envases (4 oz),container (4 oz),113
+es-0816,170886,4,1,taza (8 fl oz),cup (8 fl oz),245
+es-0817,168141,1,1,rebanada (1 oz),slice (1 oz),28
+es-0817,168141,2,1,pulgada cúbica,cubic inch,15
+es-0817,168141,3,1,"taza, rallado","cup, shredded",108
+es-0817,168141,4,1,"taza, en cubos","cup, diced",132
+es-0818,171247,1,1,taza,cup,100
+es-0818,171247,2,1,cucharada,tbsp,5
+es-0818,171247,3,1,onza,oz,28.4
+es-0819,171249,1,1,onza,oz,28.4
+es-0819,171249,2,5,paquetes (5 oz),package (5 oz),142
+es-0820,171248,1,0.5,tazas,cup,124
+es-0820,171248,2,1,onza,oz,28.4
+es-0820,171248,3,1,taza,cup,246
+es-0821,171245,1,1,"taza, en cubos","cup, diced",132
+es-0821,171245,2,1,"taza, rallado","cup, shredded",113
+es-0821,171245,3,1,onza,oz,28.4
+es-0821,171245,4,1,pulgada cúbica,cubic inch,18
+es-0821,171245,5,1,rebanada (1 oz),slice (1 oz),28
+es-0821,171245,6,1,paquete (6 oz),package (6 oz),170
+es-0822,171242,1,1,onza,oz,28.4
+es-0822,171242,2,1,rebanada (1 oz),slice (1 oz),28
+es-0822,171242,3,1,pulgada cúbica,cubic inch,15
+es-0822,171242,4,1,"taza, en cubos","cup, diced",132
+es-0822,171242,5,1,"taza, rallado","cup, shredded",108
+es-0822,171242,6,1,paquete (6 oz),package (6 oz),170
+es-0823,170843,1,1,"taza, en cubos","cup, diced",132
+es-0823,170843,2,1,"taza, rallado","cup, shredded",108
+es-0823,170843,3,1,onza,oz,28.4
+es-0823,170843,4,1,pulgada cúbica,cubic inch,15
+es-0823,170843,5,1,rebanada (1 oz),slice (1 oz),28
+es-0823,170843,6,1,paquete (8 oz),package (8 oz),227
+es-0824,171288,1,0.25,"tazas, rallado",cup shredded,28
+es-0826,171258,1,1,taza,cup,254
+es-0826,171258,2,1,onza líquida,fl oz,31.8
+es-0826,171258,3,1,cuarto de galón,quart,1016
+es-0827,170172,1,1,taza,cup,240
+es-0827,170172,2,1,cucharada,tbsp,15
+es-0828,172188,1,1,,"cup, sifted",85
+es-0828,172188,2,1,cucharada,tbsp,5
+es-0829,173335,1,1,,burrito frozen,139
+es-0829,173335,2,1,onza,oz,28.4
+es-0830,172243,1,2,cucharaditas,tsp,5.7
+es-0831,175161,1,1,filete,fillet,72
+es-0831,175161,2,3,onzas,oz,85
+es-0832,171997,1,1,filete,fillet,124
+es-0832,171997,2,3,onzas,oz,85
+es-0833,175146,1,3,onzas,oz,85
+es-0834,175124,1,1,filete,fillet,93
+es-0834,175124,2,3,onzas,oz,85
+es-0835,174229,1,1,filete,fillet,117
+es-0835,174229,2,3,onzas,oz,85
+es-0836,173683,1,1,filete,fillet,88
+es-0836,173683,2,3,onzas,oz,85
+es-0837,175131,1,1,filete,fillet,149
+es-0837,175131,2,3,onzas,oz,85
+es-0838,174246,1,3,onzas,oz,85
+es-0838,174246,2,1,filete,fillet,154
+es-0839,175148,1,3,onzas,oz,85
+es-0839,175148,2,1,"taza, cocido","cup, cooked",136
+es-0839,175148,3,1,"pieza (4-1/2"" x 2-1/8"" x 7/8"")","piece (4-1/2"" x 2-1/8"" x 7/8"")",145
+es-0839,175148,4,1,"onza, sin hueso","oz, boneless",28.4
+es-0839,175148,5,1,"pulgada cúbica, sin hueso","cubic inch, boneless",17
+es-0840,175152,1,0.5,filetes,fillet,150
+es-0840,175152,2,3,onzas,oz,85
+es-0841,174240,1,3,onzas,oz,85
+es-0841,174240,2,0.5,filetes,fillet,151
+es-0842,173707,1,3,onzas,oz,85
+es-0843,173716,1,1,filete,fillet,143
+es-0843,173716,2,3,onzas,oz,85
+es-0844,172000,1,3,onzas,oz,85
+es-0844,172000,2,0.5,filetes,fillet,154
+es-0845,175155,1,1,filete,fillet,143
+es-0845,175155,2,3,onzas,oz,85
+es-0846,175178,1,3,onzas,oz,85
+es-0847,173694,1,1,filete,fillet,101
+es-0847,173694,2,3,onzas,oz,85
+es-0848,171996,1,3,onzas,oz,85
+es-0849,174182,1,3,onzas,oz,85
+es-0850,174422,1,1,,patty ( yield from 112.7 g raw meat ),87
+es-0850,174422,2,1,porción (3 oz),serving ( 3 oz ),85
+es-0851,175302,1,3,onzas,oz,85
+es-0851,175302,2,1,,"piece, cooked (yield from 1 lb raw meat, boneless)",340
+es-0852,175298,1,3,onzas,oz,85
+es-0852,175298,2,1,,"piece, cooked (yield from 1 lb raw meat, boneless)",340
+es-0853,169193,1,3,,oz grilled patties,85
+es-0854,167904,1,3,onzas,oz,85
+es-0854,167904,2,1,,"chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 113 g)",76
+es-0855,167854,1,3,onzas,oz,85
+es-0855,167854,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",177
+es-0856,168284,1,1,taza,cup,140
+es-0856,168284,2,3,onzas,oz,85
+es-0857,168275,1,1,onza,oz,28.4
+es-0857,168275,2,4,onzas,oz,113
+es-0858,167860,1,1,taza,cup,140
+es-0858,167860,2,3,onzas,oz,85
+es-0859,168264,1,1,onza,oz,28.4
+es-0859,168264,2,4,onzas,oz,113
+es-0860,174327,1,3,onzas,oz,85
+es-0860,174327,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",174
+es-0861,172495,1,3,onzas,oz,85
+es-0861,172495,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",159
+es-0862,172483,1,1,onza,oz,28.4
+es-0862,172483,2,1,libra,lb,453.6
+es-0863,175291,1,3,onzas,oz,85
+es-0863,175291,2,1,,"unit, cooked (yield from 1 lb raw meat)",299
+es-0864,173831,1,3,onzas,oz,85
+es-0864,173831,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",182
+es-0865,173841,1,3,onzas,oz,85
+es-0865,173841,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",183
+es-0866,172643,1,4,onzas,oz,113
+es-0866,172643,2,1,,cutlet,55
+es-0866,172643,3,1,porción,serving,113
+es-0867,170630,1,3,onzas,oz,85
+es-0867,170630,2,1,,steak (yield from 299 g raw meat),191
+es-0868,169442,1,3,onzas,oz,85
+es-0868,169442,2,1,,"piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",170
+es-0869,170599,1,1,onza,oz,28.4
+es-0869,170599,2,4,onzas,oz,113
+es-0870,169451,1,4,onzas,oz,113
+es-0871,171792,1,3,onzas,oz,85
+es-0872,174032,1,3,onzas,oz,85
+es-0872,174032,2,1,,patty (yield from 1/4 lb raw meat),77
+es-0873,174037,1,4,onzas,oz,113
+es-0873,174037,2,1,porción (3 oz),serving (3 oz),85
+es-0874,174005,1,3,onzas,oz,85
+es-0874,174005,2,1,,roast,478
+es-0875,168639,1,3,onzas,oz,85
+es-0875,168639,2,1,porción,serving,85
+es-0875,168639,3,1,,"piece, cooked, excluding refuse",266

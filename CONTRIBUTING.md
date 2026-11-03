@@ -20,6 +20,7 @@ Abre un *issue* (ver [REVISION.md](REVISION.md)) o edita directamente `src/lista
    ```bash
    node scripts/build.mjs /ruta/a/FoodData_Central_sr_legacy_food_csv_2018-04
    node scripts/verify.mjs
+   node --test test/*.test.mjs
    ```
 
 ### Cómo se escribe un nombre
