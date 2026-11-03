@@ -121,6 +121,39 @@
       "nachos"
     ]
   },
+  "167604": {
+    "nombre": "Papa rallada tipo hash brown, refrigerada, sin preparar",
+    "alias": [
+      "papa rallada"
+    ]
+  },
+  "167605": {
+    "nombre": "Papa rallada tipo hash brown, refrigerada, preparada, frita en sartén con aceite de canola",
+    "alias": [
+      "papa rallada"
+    ]
+  },
+  "167606": {
+    "nombre": "Camote en palitos fritos, congelado, con sal añadida en el proceso",
+    "alias": [
+      "batata frita",
+      "boniato frito"
+    ]
+  },
+  "167708": {
+    "nombre": "Jugo de tomate y verduras, bajo en sodio",
+    "alias": []
+  },
+  "167714": {
+    "nombre": "Palmitos (corazones de palma), crudos",
+    "alias": [
+      "palmito"
+    ]
+  },
+  "167717": {
+    "nombre": "Pasta untable de extracto de levadura",
+    "alias": []
+  },
   "167719": {
     "nombre": "Pollo vegetariano (sin carne), empanizado y frito",
     "alias": [
@@ -241,6 +274,20 @@
       "nachos"
     ]
   },
+  "168015": {
+    "nombre": "Camote en palitos fritos, corte en cruz, congelado, sin preparar",
+    "alias": [
+      "batata frita",
+      "boniato frito"
+    ]
+  },
+  "168016": {
+    "nombre": "Bocaditos de camote, congelados, sin preparar",
+    "alias": [
+      "batata",
+      "boniato"
+    ]
+  },
   "168095": {
     "nombre": "Barra de granola suave, cubierta de chocolate con leche, de crema de cacahuate",
     "alias": [
@@ -289,6 +336,635 @@
   },
   "168148": {
     "nombre": "Ancas de rana, crudas",
+    "alias": []
+  },
+  "168385": {
+    "nombre": "Hojas de amaranto, crudas",
+    "alias": [
+      "bledo",
+      "quelite"
+    ]
+  },
+  "168387": {
+    "nombre": "Alcachofas, congeladas, sin preparar",
+    "alias": []
+  },
+  "168388": {
+    "nombre": "Alcachofas congeladas, cocidas, escurridas, sin sal",
+    "alias": []
+  },
+  "168391": {
+    "nombre": "Melón amargo (balsam-pear), hojas tiernas, crudas",
+    "alias": [
+      "ampalaya",
+      "cundeamor"
+    ]
+  },
+  "168392": {
+    "nombre": "Melón amargo (balsam-pear), hojas tiernas, cocidas, escurridas, sin sal",
+    "alias": [
+      "ampalaya",
+      "cundeamor"
+    ]
+  },
+  "168393": {
+    "nombre": "Melón amargo (balsam-pear), vainas, crudas",
+    "alias": [
+      "ampalaya",
+      "cundeamor"
+    ]
+  },
+  "168394": {
+    "nombre": "Melón amargo (balsam-pear), vainas, cocidas, escurridas, sin sal",
+    "alias": [
+      "ampalaya",
+      "cundeamor"
+    ]
+  },
+  "168397": {
+    "nombre": "Maíz dulce amarillo, enlatado, sólidos escurridos y enjuagados con agua de la llave",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "168402": {
+    "nombre": "Caupí (frijol de ojo negro) inmaduro, cocido, escurrido, sin sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168403": {
+    "nombre": "Caupí (frijol de ojo negro) inmaduro, congelado, sin preparar",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168404": {
+    "nombre": "Caupí (frijol de ojo negro) inmaduro, congelado, cocido, hervido, escurrido, sin sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168405": {
+    "nombre": "Caupí, vainas tiernas con semillas, crudas",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168406": {
+    "nombre": "Caupí, puntas de hojas, cocidas, hervidas, escurridas, sin sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168407": {
+    "nombre": "Berro de jardín, crudo",
+    "alias": [
+      "mastuerzo"
+    ]
+  },
+  "168408": {
+    "nombre": "Berro de jardín, cocido, escurrido, sin sal",
+    "alias": [
+      "mastuerzo"
+    ]
+  },
+  "168410": {
+    "nombre": "Edamame, congelado, sin preparar",
+    "alias": [
+      "soya verde"
+    ]
+  },
+  "168413": {
+    "nombre": "Escarola, cocida, hervida, escurrida, sin sal añadida",
+    "alias": []
+  },
+  "168416": {
+    "nombre": "Hojas de moringa, crudas",
+    "alias": []
+  },
+  "168417": {
+    "nombre": "Hojas de moringa, cocidas, escurridas, sin sal",
+    "alias": []
+  },
+  "168418": {
+    "nombre": "Hongos oreja de judas (pepeao), secos",
+    "alias": []
+  },
+  "168419": {
+    "nombre": "Yute (molokhia), crudo",
+    "alias": [
+      "molokhia"
+    ]
+  },
+  "168420": {
+    "nombre": "Yute (molokhia), cocido, escurrido, sin sal",
+    "alias": [
+      "molokhia"
+    ]
+  },
+  "168422": {
+    "nombre": "Hongos cantarela (rebozuelos), crudos",
+    "alias": [
+      "rebozuelos"
+    ]
+  },
+  "168423": {
+    "nombre": "Morillas, crudas",
+    "alias": [
+      "colmenillas"
+    ]
+  },
+  "168424": {
+    "nombre": "Colinabo (kohlrabi), crudo",
+    "alias": []
+  },
+  "168425": {
+    "nombre": "Colinabo (kohlrabi), cocido, escurrido, sin sal",
+    "alias": []
+  },
+  "168426": {
+    "nombre": "Puerro (bulbo y parte baja de la hoja), cocido, hervido, escurrido, sin sal",
+    "alias": [
+      "poro"
+    ]
+  },
+  "168428": {
+    "nombre": "Brotes de lenteja, salteados, sin sal",
+    "alias": [
+      "germinado de lentejas"
+    ]
+  },
+  "168430": {
+    "nombre": "Raíz de loto, cocida, escurrida, sin sal",
+    "alias": []
+  },
+  "168434": {
+    "nombre": "Champiñones marrones (cremini), crudos",
+    "alias": [
+      "hongos",
+      "setas"
+    ]
+  },
+  "168435": {
+    "nombre": "Hongos shiitake, salteados",
+    "alias": [
+      "setas shiitake"
+    ]
+  },
+  "168436": {
+    "nombre": "Hongos shiitake, secos",
+    "alias": [
+      "setas shiitake"
+    ]
+  },
+  "168438": {
+    "nombre": "Espinaca de mostaza (tendergreen), cruda",
+    "alias": [
+      "komatsuna"
+    ]
+  },
+  "168439": {
+    "nombre": "Espinaca de mostaza (tendergreen), cocida, escurrida, sin sal",
+    "alias": [
+      "komatsuna"
+    ]
+  },
+  "168440": {
+    "nombre": "Espinaca de Nueva Zelanda, cruda",
+    "alias": []
+  },
+  "168441": {
+    "nombre": "Espinaca de Nueva Zelanda, cocida, escurrida, sin sal",
+    "alias": []
+  },
+  "168444": {
+    "nombre": "Papas fritas gruesas (steak fries), con sal añadida en el proceso, congeladas, tal como se compran",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "168445": {
+    "nombre": "Papas fritas gruesas (steak fries), con sal añadida en el proceso, congeladas, calentadas al horno",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "168446": {
+    "nombre": "Harina de papa",
+    "alias": [
+      "harina de patata",
+      "fecula de papa"
+    ]
+  },
+  "168447": {
+    "nombre": "Hojas de calabaza, cocidas, escurridas, sin sal",
+    "alias": []
+  },
+  "168452": {
+    "nombre": "Rábano oriental (daikon), cocido, escurrido, sin sal",
+    "alias": [
+      "daikon"
+    ]
+  },
+  "168453": {
+    "nombre": "Rábano oriental (daikon), seco",
+    "alias": [
+      "daikon"
+    ]
+  },
+  "168454": {
+    "nombre": "Colinabo sueco (rutabaga), crudo",
+    "alias": [
+      "nabo sueco"
+    ]
+  },
+  "168455": {
+    "nombre": "Colinabo sueco (rutabaga), cocido, escurrido, sin sal",
+    "alias": [
+      "nabo sueco"
+    ]
+  },
+  "168456": {
+    "nombre": "Alga musgo irlandés, cruda",
+    "alias": []
+  },
+  "168457": {
+    "nombre": "Alga kelp, cruda",
+    "alias": []
+  },
+  "168458": {
+    "nombre": "Alga nori (laver), cruda",
+    "alias": [
+      "nori"
+    ]
+  },
+  "168461": {
+    "nombre": "Brotes de soya, salteados",
+    "alias": [
+      "germinado de soya"
+    ]
+  },
+  "168464": {
+    "nombre": "Calabacita amarilla (crookneck y straightneck), cruda",
+    "alias": [
+      "calabacin amarillo"
+    ]
+  },
+  "168465": {
+    "nombre": "Calabacita amarilla (crookneck y straightneck), cocida, hervida, escurrida, sin sal",
+    "alias": [
+      "calabacin amarillo"
+    ]
+  },
+  "168466": {
+    "nombre": "Calabacita amarilla (crookneck y straightneck), enlatada, escurrida, sin sal",
+    "alias": [
+      "calabacin amarillo"
+    ]
+  },
+  "168467": {
+    "nombre": "Calabacita amarilla (crookneck y straightneck), congelada, sin preparar",
+    "alias": [
+      "calabacin amarillo"
+    ]
+  },
+  "168468": {
+    "nombre": "Calabacita amarilla (crookneck y straightneck), congelada, cocida, hervida, escurrida, sin sal",
+    "alias": [
+      "calabacin amarillo"
+    ]
+  },
+  "168471": {
+    "nombre": "Calabacín (zucchini) estilo italiano, enlatado",
+    "alias": [
+      "zucchini"
+    ]
+  },
+  "168477": {
+    "nombre": "Succotash (maíz y frijoles de lima), cocido, hervido, escurrido, sin sal",
+    "alias": []
+  },
+  "168478": {
+    "nombre": "Succotash (maíz y frijoles de lima), enlatado, con maíz cremoso",
+    "alias": []
+  },
+  "168479": {
+    "nombre": "Succotash (maíz y frijoles de lima), enlatado, con granos enteros de maíz, sólidos y líquido",
+    "alias": []
+  },
+  "168480": {
+    "nombre": "Succotash (maíz y frijoles de lima), congelado, sin preparar",
+    "alias": []
+  },
+  "168481": {
+    "nombre": "Succotash (maíz y frijoles de lima), congelado, hervido, escurrido, sin sal",
+    "alias": []
+  },
+  "168485": {
+    "nombre": "Camote, enlatado, envasado al vacío",
+    "alias": [
+      "batata",
+      "boniato"
+    ]
+  },
+  "168487": {
+    "nombre": "Hojas de taro, crudas",
+    "alias": []
+  },
+  "168488": {
+    "nombre": "Hojas de taro, cocidas al vapor, sin sal",
+    "alias": []
+  },
+  "168489": {
+    "nombre": "Brotes de taro, crudos",
+    "alias": []
+  },
+  "168490": {
+    "nombre": "Arrurruz (maranta), crudo",
+    "alias": [
+      "arrowroot"
+    ]
+  },
+  "168491": {
+    "nombre": "Hojas de crisantemo, crudas",
+    "alias": []
+  },
+  "168492": {
+    "nombre": "Hojas de amaranto, cocidas, escurridas, con sal",
+    "alias": [
+      "bledo",
+      "quelite"
+    ]
+  },
+  "168493": {
+    "nombre": "Saeta de agua (arrowhead), cocida, escurrida, con sal",
+    "alias": []
+  },
+  "168495": {
+    "nombre": "Melón amargo (balsam-pear), hojas tiernas, cocidas, escurridas, con sal",
+    "alias": [
+      "ampalaya",
+      "cundeamor"
+    ]
+  },
+  "168496": {
+    "nombre": "Melón amargo (balsam-pear), vainas, cocidas, escurridas, con sal",
+    "alias": [
+      "ampalaya",
+      "cundeamor"
+    ]
+  },
+  "168498": {
+    "nombre": "Frijoles de lima (pallares) inmaduros, congelados, tipo fordhook, cocidos, hervidos, escurridos, con sal",
+    "alias": [
+      "pallares"
+    ]
+  },
+  "168506": {
+    "nombre": "Remolacha (betabel), cocida, hervida, escurrida, con sal",
+    "alias": [
+      "betarraga"
+    ]
+  },
+  "168508": {
+    "nombre": "Hojas de remolacha (betabel), cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "168509": {
+    "nombre": "Borraja, cocida, escurrida, con sal",
+    "alias": []
+  },
+  "168514": {
+    "nombre": "Repollo (col) común, cocido, hervido, escurrido, con sal",
+    "alias": [
+      "col"
+    ]
+  },
+  "168516": {
+    "nombre": "Col de Saboya, cocida, escurrida, con sal",
+    "alias": [
+      "repollo de saboya"
+    ]
+  },
+  "168517": {
+    "nombre": "Col china (pak choi), cocida, hervida, escurrida, con sal",
+    "alias": [
+      "bok choy"
+    ]
+  },
+  "168522": {
+    "nombre": "Crisantemo comestible (garland), cocido, escurrido, con sal",
+    "alias": []
+  },
+  "168526": {
+    "nombre": "Caupí (frijol de ojo negro) inmaduro, cocido, escurrido, con sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168527": {
+    "nombre": "Caupí (frijol de ojo negro) inmaduro, congelado, cocido, hervido, escurrido, con sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168528": {
+    "nombre": "Caupí, vainas tiernas con semillas, cocidas, hervidas, escurridas, con sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168529": {
+    "nombre": "Caupí, puntas de hojas, cocidas, hervidas, escurridas, con sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "168531": {
+    "nombre": "Hojas de moringa, cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "168532": {
+    "nombre": "Vainas de moringa, cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "168534": {
+    "nombre": "Cenizo (quelite, lambsquarters), cocido, escurrido, con sal",
+    "alias": [
+      "quelite"
+    ]
+  },
+  "168535": {
+    "nombre": "Puerro (bulbo y parte baja de la hoja), cocido, hervido, escurrido, con sal",
+    "alias": [
+      "poro"
+    ]
+  },
+  "168536": {
+    "nombre": "Raíz de loto, cocida, escurrida, con sal",
+    "alias": []
+  },
+  "168542": {
+    "nombre": "Maíz dulce blanco, enlatado, envasado al vacío, tipo regular",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "168543": {
+    "nombre": "Maíz dulce blanco, enlatado, envasado al vacío, sin sal añadida",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "168544": {
+    "nombre": "Maíz dulce blanco, granos sin la mazorca, congelado, sin preparar",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "168545": {
+    "nombre": "Maíz dulce blanco, granos sin la mazorca, congelado, hervido, escurrido, sin sal",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "168550": {
+    "nombre": "Pimiento rojo, salteado",
+    "alias": [
+      "pimenton",
+      "morron"
+    ]
+  },
+  "168551": {
+    "nombre": "Brotes de lenteja, salteados, con sal",
+    "alias": [
+      "germinado de lentejas"
+    ]
+  },
+  "168554": {
+    "nombre": "Puré de papa preparado con gránulos, sin leche, con leche entera y margarina",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "168555": {
+    "nombre": "Puré de papa casero, con leche entera y mantequilla",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "168557": {
+    "nombre": "Champiñones marrones (cremini), expuestos a luz ultravioleta, crudos",
+    "alias": []
+  },
+  "168559": {
+    "nombre": "Pimiento morrón (pimento), enlatado",
+    "alias": [
+      "pimenton"
+    ]
+  },
+  "168560": {
+    "nombre": "Relish de pepinillos para hot dog",
+    "alias": []
+  },
+  "168561": {
+    "nombre": "Relish de pepinillos dulce",
+    "alias": []
+  },
+  "168562": {
+    "nombre": "Pepinillos agrios, bajos en sodio",
+    "alias": [
+      "pepinillos en vinagre",
+      "pickles"
+    ]
+  },
+  "168563": {
+    "nombre": "Pepinillos al eneldo, reducidos en sodio",
+    "alias": [
+      "pepinillos en vinagre",
+      "pickles"
+    ]
+  },
+  "168564": {
+    "nombre": "Radicchio, crudo",
+    "alias": []
+  },
+  "168565": {
+    "nombre": "Calabacín (zucchini) baby, crudo",
+    "alias": [
+      "zucchini"
+    ]
+  },
+  "168570": {
+    "nombre": "Chile picante, secado al sol",
+    "alias": []
+  },
+  "168571": {
+    "nombre": "Nopales, crudos",
+    "alias": []
+  },
+  "168572": {
+    "nombre": "Col napa, cocida",
+    "alias": [
+      "repollo chino"
+    ]
+  },
+  "168573": {
+    "nombre": "Hierba limón (zacate limón), cruda",
+    "alias": [
+      "citronela",
+      "lemongrass"
+    ]
+  },
+  "168574": {
+    "nombre": "Habas con vaina, crudas",
+    "alias": []
+  },
+  "168575": {
+    "nombre": "Hojas de parra, crudas",
+    "alias": []
+  },
+  "168577": {
+    "nombre": "Chile verde, enlatado",
+    "alias": []
+  },
+  "168578": {
+    "nombre": "Chile húngaro, crudo",
+    "alias": []
+  },
+  "168579": {
+    "nombre": "Chile pasilla, seco",
+    "alias": []
+  },
+  "168580": {
+    "nombre": "Hongos ostra, crudos",
+    "alias": [
+      "setas",
+      "orellanas"
+    ]
+  },
+  "168581": {
+    "nombre": "Hongos oreja de nube, secos",
+    "alias": []
+  },
+  "168582": {
+    "nombre": "Hongos de paja, enlatados, sólidos escurridos",
+    "alias": []
+  },
+  "168583": {
+    "nombre": "Wasabi, raíz, cruda",
+    "alias": []
+  },
+  "168584": {
+    "nombre": "Helechos comestibles (fiddleheads), congelados, sin preparar",
     "alias": []
   },
   "168588": {
@@ -482,6 +1158,33 @@
     "nombre": "Chips de taro",
     "alias": []
   },
+  "168945": {
+    "nombre": "Papa amarilla rallada tipo hash brown, con sal añadida en el proceso, congelada, sin preparar",
+    "alias": [
+      "papa rallada"
+    ]
+  },
+  "168946": {
+    "nombre": "Papas fritas en gajos, congeladas, sin preparar",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "168947": {
+    "nombre": "Papas fritas gruesas (steak cut), sin sal añadida en el proceso, congeladas, sin preparar",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "168948": {
+    "nombre": "Papas fritas en corte cruzado, congeladas, sin preparar",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
   "169044": {
     "nombre": "Bebida de jugo de naranja",
     "alias": []
@@ -531,8 +1234,512 @@
     "nombre": "Vino ligero",
     "alias": []
   },
+  "169074": {
+    "nombre": "Salsa de tomate, enlatada, sin sal añadida",
+    "alias": []
+  },
   "169083": {
     "nombre": "Cuajada de soya (queso de soya)",
+    "alias": []
+  },
+  "169085": {
+    "nombre": "Verduras mixtas (maíz, frijoles de lima, chícharos, ejotes, zanahoria), enlatadas, sin sal añadida",
+    "alias": []
+  },
+  "169138": {
+    "nombre": "Brotes de frijol mungo, salteados",
+    "alias": [
+      "soya verde",
+      "germinado de soya"
+    ]
+  },
+  "169144": {
+    "nombre": "Ejotes, enlatados, de todos los estilos, sazonados, sólidos y líquido",
+    "alias": [
+      "judias verdes",
+      "vainitas"
+    ]
+  },
+  "169202": {
+    "nombre": "Hojas de amaranto, cocidas, escurridas, sin sal",
+    "alias": [
+      "bledo",
+      "quelite"
+    ]
+  },
+  "169203": {
+    "nombre": "Saeta de agua (arrowhead), cruda",
+    "alias": []
+  },
+  "169204": {
+    "nombre": "Saeta de agua (arrowhead), cocida, escurrida, sin sal",
+    "alias": []
+  },
+  "169205": {
+    "nombre": "Alcachofas, crudas",
+    "alias": []
+  },
+  "169216": {
+    "nombre": "Maíz dulce amarillo, enlatado, envasado al vacío, tipo regular",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "169218": {
+    "nombre": "Maíz con pimientos rojos y verdes, enlatado, sólidos y líquido",
+    "alias": []
+  },
+  "169219": {
+    "nombre": "Canónigos (lechuga de cordero), crudos",
+    "alias": [
+      "valerianella"
+    ]
+  },
+  "169220": {
+    "nombre": "Caupí (frijol de ojo negro) inmaduro, crudo",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "169221": {
+    "nombre": "Caupí, vainas tiernas con semillas, cocidas, hervidas, escurridas, sin sal",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "169222": {
+    "nombre": "Frijol espárrago (yardlong), crudo",
+    "alias": []
+  },
+  "169223": {
+    "nombre": "Frijol espárrago (yardlong), cocido, escurrido, sin sal",
+    "alias": []
+  },
+  "169224": {
+    "nombre": "Caupí, puntas de hojas, crudas",
+    "alias": [
+      "frijol caupi"
+    ]
+  },
+  "169226": {
+    "nombre": "Hojas de diente de león, crudas",
+    "alias": [
+      "dente de leon"
+    ]
+  },
+  "169227": {
+    "nombre": "Hojas de diente de león, cocidas, escurridas, sin sal",
+    "alias": []
+  },
+  "169236": {
+    "nombre": "Tupinambo (alcachofa de Jerusalén), crudo",
+    "alias": [
+      "topinambur"
+    ]
+  },
+  "169237": {
+    "nombre": "Hongos oreja de judas (pepeao), crudos",
+    "alias": []
+  },
+  "169241": {
+    "nombre": "Kanpyo (tiras de calabaza secas)",
+    "alias": []
+  },
+  "169242": {
+    "nombre": "Hongos shiitake, crudos",
+    "alias": [
+      "setas shiitake"
+    ]
+  },
+  "169243": {
+    "nombre": "Hongos portobello, a la parrilla",
+    "alias": []
+  },
+  "169244": {
+    "nombre": "Cenizo (quelite, lambsquarters), crudo",
+    "alias": [
+      "quelite"
+    ]
+  },
+  "169245": {
+    "nombre": "Cenizo (quelite, lambsquarters), cocido, escurrido, sin sal",
+    "alias": [
+      "quelite"
+    ]
+  },
+  "169250": {
+    "nombre": "Raíz de loto, cruda",
+    "alias": []
+  },
+  "169253": {
+    "nombre": "Champiñones blancos, salteados",
+    "alias": [
+      "hongos",
+      "setas"
+    ]
+  },
+  "169265": {
+    "nombre": "Papas fritas tipo cottage, sin sal añadida en el proceso, congeladas, tal como se compran",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "169266": {
+    "nombre": "Papas fritas tipo cottage, sin sal añadida en el proceso, congeladas, calentadas al horno",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "169267": {
+    "nombre": "Papas fritas congeladas, prefritas, extruidas, sin preparar",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "169268": {
+    "nombre": "Papas fritas congeladas, prefritas, extruidas, preparadas, calentadas al horno, sin sal",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "169269": {
+    "nombre": "Ensalada de papa, casera",
+    "alias": [
+      "ensalada de patata",
+      "ensalada rusa"
+    ]
+  },
+  "169270": {
+    "nombre": "Flores de calabaza, crudas",
+    "alias": []
+  },
+  "169271": {
+    "nombre": "Flores de calabaza, cocidas, escurridas, sin sal",
+    "alias": []
+  },
+  "169272": {
+    "nombre": "Hojas de calabaza, crudas",
+    "alias": []
+  },
+  "169273": {
+    "nombre": "Mezcla para pay de calabaza, enlatada",
+    "alias": [
+      "relleno de calabaza"
+    ]
+  },
+  "169274": {
+    "nombre": "Verdolaga, cruda",
+    "alias": []
+  },
+  "169275": {
+    "nombre": "Verdolaga, cocida, escurrida, sin sal",
+    "alias": []
+  },
+  "169277": {
+    "nombre": "Salsifí, crudo",
+    "alias": []
+  },
+  "169278": {
+    "nombre": "Salsifí, cocido, escurrido, sin sal",
+    "alias": []
+  },
+  "169280": {
+    "nombre": "Agar (alga), crudo",
+    "alias": []
+  },
+  "169289": {
+    "nombre": "Calabaza de verano tipo scallop (patisson), cruda",
+    "alias": [
+      "patison"
+    ]
+  },
+  "169290": {
+    "nombre": "Calabaza de verano tipo scallop (patisson), cocida, hervida, escurrida, sin sal",
+    "alias": [
+      "patison"
+    ]
+  },
+  "169300": {
+    "nombre": "Succotash (maíz y frijoles de lima), crudo",
+    "alias": []
+  },
+  "169301": {
+    "nombre": "Espinaca de agua (kangkong), cruda",
+    "alias": []
+  },
+  "169302": {
+    "nombre": "Espinaca de agua (kangkong), cocida, escurrida, sin sal",
+    "alias": []
+  },
+  "169303": {
+    "nombre": "Hojas de camote, crudas",
+    "alias": [
+      "hojas de batata"
+    ]
+  },
+  "169304": {
+    "nombre": "Hojas de camote, cocidas al vapor, sin sal",
+    "alias": [
+      "hojas de batata"
+    ]
+  },
+  "169309": {
+    "nombre": "Brotes de taro, cocidos, sin sal",
+    "alias": []
+  },
+  "169310": {
+    "nombre": "Taro tahitiano, crudo",
+    "alias": []
+  },
+  "169311": {
+    "nombre": "Alcachofas, cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "169312": {
+    "nombre": "Alcachofas congeladas, cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "169318": {
+    "nombre": "Frijoles de lima (pallares) inmaduros, congelados, tipo baby, cocidos, hervidos, escurridos, con sal",
+    "alias": [
+      "pallares"
+    ]
+  },
+  "169324": {
+    "nombre": "Ejotes amarillos, congelados, de todos los estilos, sin preparar",
+    "alias": [
+      "judias verdes",
+      "vainitas"
+    ]
+  },
+  "169328": {
+    "nombre": "Habas inmaduras, cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "169330": {
+    "nombre": "Brócoli, floretes, crudos",
+    "alias": [
+      "brocoli"
+    ]
+  },
+  "169331": {
+    "nombre": "Brócoli, tallos, crudos",
+    "alias": [
+      "brocoli"
+    ]
+  },
+  "169333": {
+    "nombre": "Raíz de bardana (gobo), cocida, escurrida, con sal",
+    "alias": [
+      "gobo"
+    ]
+  },
+  "169335": {
+    "nombre": "Repollo (col) común, recién cosechado, crudo",
+    "alias": [
+      "col"
+    ]
+  },
+  "169336": {
+    "nombre": "Repollo (col) común, almacenado, crudo",
+    "alias": [
+      "col"
+    ]
+  },
+  "169337": {
+    "nombre": "Col china (pe-tsai o napa), cocida, hervida, escurrida, con sal",
+    "alias": [
+      "repollo chino"
+    ]
+  },
+  "169341": {
+    "nombre": "Apio nabo (apio rábano), cocido, escurrido, con sal",
+    "alias": [
+      "celeriac"
+    ]
+  },
+  "169343": {
+    "nombre": "Acelga suiza, cocida, escurrida, con sal",
+    "alias": []
+  },
+  "169344": {
+    "nombre": "Chayote, cocido, escurrido, con sal",
+    "alias": [
+      "guisquil",
+      "papa del aire"
+    ]
+  },
+  "169347": {
+    "nombre": "Maíz dulce amarillo, enlatado, envasado al vacío, sin sal añadida",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "169348": {
+    "nombre": "Maíz dulce amarillo, granos sin la mazorca, congelado, hervido, escurrido, con sal",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "169350": {
+    "nombre": "Berro de jardín, cocido, escurrido, con sal",
+    "alias": [
+      "mastuerzo"
+    ]
+  },
+  "169351": {
+    "nombre": "Hojas de diente de león, cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "169354": {
+    "nombre": "Yute (molokhia), cocido, escurrido, con sal",
+    "alias": [
+      "molokhia"
+    ]
+  },
+  "169357": {
+    "nombre": "Colinabo (kohlrabi), cocido, escurrido, con sal",
+    "alias": []
+  },
+  "169358": {
+    "nombre": "Jícama, cocida, escurrida, con sal",
+    "alias": [
+      "jicama"
+    ]
+  },
+  "169359": {
+    "nombre": "Frijol espárrago (yardlong), cocido, escurrido, con sal",
+    "alias": []
+  },
+  "169364": {
+    "nombre": "Maíz dulce blanco, granos sin la mazorca, congelado, hervido, escurrido, con sal",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "169370": {
+    "nombre": "Brotes de soya, salteados, con sal",
+    "alias": [
+      "germinado de soya"
+    ]
+  },
+  "169371": {
+    "nombre": "Acedera (dock), cocida, escurrida, con sal",
+    "alias": [
+      "romaza"
+    ]
+  },
+  "169372": {
+    "nombre": "Puré de papa deshidratado, preparado con hojuelas, sin leche, con leche entera y margarina",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "169376": {
+    "nombre": "Champiñones blancos, expuestos a luz ultravioleta, crudos",
+    "alias": []
+  },
+  "169377": {
+    "nombre": "Hongos portobello, expuestos a luz ultravioleta, a la parrilla",
+    "alias": []
+  },
+  "169378": {
+    "nombre": "Pepinillos dulces (incluye pepinillos bread and butter)",
+    "alias": [
+      "pickles"
+    ]
+  },
+  "169379": {
+    "nombre": "Pepinillos agrios",
+    "alias": [
+      "pepinillos en vinagre",
+      "pickles"
+    ]
+  },
+  "169380": {
+    "nombre": "Pepinillos dulces, bajos en sodio (incluye bread and butter)",
+    "alias": [
+      "pickles"
+    ]
+  },
+  "169381": {
+    "nombre": "Cátsup, baja en sodio",
+    "alias": [
+      "ketchup",
+      "salsa de tomate"
+    ]
+  },
+  "169382": {
+    "nombre": "Hongos enoki, crudos",
+    "alias": []
+  },
+  "169384": {
+    "nombre": "Tomate seco al sol, en aceite, escurrido",
+    "alias": [
+      "jitomate seco"
+    ]
+  },
+  "169386": {
+    "nombre": "Relish de pepinillos para hamburguesa",
+    "alias": []
+  },
+  "169392": {
+    "nombre": "Brócoli chino, cocido",
+    "alias": [
+      "kailan"
+    ]
+  },
+  "169393": {
+    "nombre": "Hojas de parra, enlatadas",
+    "alias": []
+  },
+  "169394": {
+    "nombre": "Chile banana, crudo",
+    "alias": []
+  },
+  "169396": {
+    "nombre": "Chile ancho, seco",
+    "alias": []
+  },
+  "169397": {
+    "nombre": "Pickles chowchow, con coliflor, cebolla y mostaza, dulce",
+    "alias": []
+  },
+  "169398": {
+    "nombre": "Epazote, crudo",
+    "alias": []
+  },
+  "169400": {
+    "nombre": "Espinaca de Malabar (basella), cocida",
+    "alias": []
+  },
+  "169401": {
+    "nombre": "Malanga (yautía), cruda",
+    "alias": [
+      "yautia",
+      "taro"
+    ]
+  },
+  "169403": {
+    "nombre": "Hongos maitake, crudos",
+    "alias": []
+  },
+  "169404": {
+    "nombre": "Brócoli chino, crudo",
+    "alias": [
+      "kailan"
+    ]
+  },
+  "169405": {
+    "nombre": "Helechos comestibles (fiddleheads), crudos",
     "alias": []
   },
   "169406": {
@@ -767,6 +1974,31 @@
       "chips"
     ]
   },
+  "169763": {
+    "nombre": "Papas amarillas asadas, con sal añadida en el proceso, congeladas, sin preparar",
+    "alias": []
+  },
+  "169764": {
+    "nombre": "Papas amarillas fritas, congeladas, sin preparar",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "169765": {
+    "nombre": "Jengibre en escabeche, enlatado, con edulcorante artificial",
+    "alias": []
+  },
+  "169766": {
+    "nombre": "Chiles picantes en escabeche, enlatados",
+    "alias": []
+  },
+  "169768": {
+    "nombre": "Puré de papa listo para comer",
+    "alias": [
+      "pure de patata"
+    ]
+  },
   "169863": {
     "nombre": "Barra de granola con coco, cubierta de chocolate",
     "alias": [
@@ -802,8 +2034,566 @@
     "nombre": "Pastel de carne o hamburguesas vegetarianas",
     "alias": []
   },
+  "169889": {
+    "nombre": "Rábano en escabeche estilo hawaiano",
+    "alias": []
+  },
+  "169890": {
+    "nombre": "Col estilo japonés, fresca, en escabeche",
+    "alias": []
+  },
+  "169891": {
+    "nombre": "Col de mostaza, salada",
+    "alias": []
+  },
   "169893": {
     "nombre": "Trocitos de tocino vegetariano (sin carne)",
+    "alias": []
+  },
+  "169953": {
+    "nombre": "Frijoles de lima (pallares) inmaduros, congelados, tipo fordhook, sin preparar",
+    "alias": [
+      "pallares"
+    ]
+  },
+  "169954": {
+    "nombre": "Frijoles de lima (pallares) inmaduros, congelados, tipo fordhook, cocidos, hervidos, escurridos, sin sal",
+    "alias": [
+      "pallares"
+    ]
+  },
+  "169955": {
+    "nombre": "Frijoles de lima (pallares) inmaduros, congelados, tipo baby, sin preparar",
+    "alias": [
+      "pallares"
+    ]
+  },
+  "169956": {
+    "nombre": "Frijoles de lima (pallares) inmaduros, congelados, tipo baby, cocidos, hervidos, escurridos, sin sal",
+    "alias": [
+      "pallares"
+    ]
+  },
+  "169960": {
+    "nombre": "Frijoles shellie (desgranados), enlatados, sólidos y líquido",
+    "alias": []
+  },
+  "169963": {
+    "nombre": "Ejotes verdes, congelados, hervidos, escurridos, sin sal",
+    "alias": [
+      "judias verdes",
+      "vainitas"
+    ]
+  },
+  "169964": {
+    "nombre": "Ejotes verdes, congelados, de todos los estilos, cocidos en microondas",
+    "alias": [
+      "judias verdes",
+      "vainitas"
+    ]
+  },
+  "169974": {
+    "nombre": "Raíz de bardana (gobo), cruda",
+    "alias": [
+      "gobo"
+    ]
+  },
+  "169979": {
+    "nombre": "Col china (pe-tsai o napa), cruda",
+    "alias": [
+      "repollo chino"
+    ]
+  },
+  "169980": {
+    "nombre": "Col china (pe-tsai o napa), cocida, hervida, escurrida, sin sal",
+    "alias": [
+      "repollo chino"
+    ]
+  },
+  "169987": {
+    "nombre": "Apio nabo (apio rábano), cocido, escurrido, sin sal",
+    "alias": [
+      "celeriac"
+    ]
+  },
+  "169992": {
+    "nombre": "Hojas de achicoria, crudas",
+    "alias": [
+      "chicoria"
+    ]
+  },
+  "169993": {
+    "nombre": "Raíz de achicoria, cruda",
+    "alias": [
+      "chicoria"
+    ]
+  },
+  "169995": {
+    "nombre": "Crisantemo comestible (garland), crudo",
+    "alias": []
+  },
+  "170002": {
+    "nombre": "Cebolla deshidratada, en hojuelas",
+    "alias": []
+  },
+  "170004": {
+    "nombre": "Cebolla amarilla, salteada",
+    "alias": []
+  },
+  "170006": {
+    "nombre": "Cebollín (cebolla de verdeo), solo las hojas verdes",
+    "alias": [
+      "cebolleta"
+    ]
+  },
+  "170007": {
+    "nombre": "Cebolla galesa, cruda",
+    "alias": []
+  },
+  "170010": {
+    "nombre": "Chícharos de vaina comestible (arveja china), crudos",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170011": {
+    "nombre": "Chícharos de vaina comestible (arveja china), cocidos, escurridos, sin sal",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170012": {
+    "nombre": "Chícharos de vaina comestible (arveja china), congelados, sin preparar",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170013": {
+    "nombre": "Chícharos verdes, enlatados, sólidos escurridos, sin preparar",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170018": {
+    "nombre": "Chícharos con zanahorias, congelados, hervidos, escurridos, sin sal",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170019": {
+    "nombre": "Chícharos con cebolla, enlatados, sólidos y líquido",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170020": {
+    "nombre": "Chícharos con cebolla, congelados, sin preparar",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170021": {
+    "nombre": "Chícharos con cebolla, congelados, hervidos, escurridos, sin sal",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170024": {
+    "nombre": "Pimiento verde, salteado",
+    "alias": [
+      "pimenton",
+      "morron"
+    ]
+  },
+  "170025": {
+    "nombre": "Gandules (guandú) inmaduros, crudos",
+    "alias": [
+      "guandul"
+    ]
+  },
+  "170028": {
+    "nombre": "Papa blanca con cáscara, cruda",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170029": {
+    "nombre": "Papa roja con cáscara, cruda",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170030": {
+    "nombre": "Papa russet con cáscara, horneada",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170033": {
+    "nombre": "Papa horneada, solo la pulpa, sin sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170035": {
+    "nombre": "Papa cocida en microondas con cáscara, solo la cáscara, sin sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170036": {
+    "nombre": "Papa rallada tipo hash brown, casera",
+    "alias": [
+      "papa rallada"
+    ]
+  },
+  "170038": {
+    "nombre": "Papas escalopadas (scalloped), caseras, con mantequilla",
+    "alias": [
+      "papas gratinadas"
+    ]
+  },
+  "170039": {
+    "nombre": "Puré de papa deshidratado, gránulos sin leche, forma seca",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "170040": {
+    "nombre": "Puré de papa deshidratado, preparado con gránulos, sin leche, con leche entera y mantequilla",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "170041": {
+    "nombre": "Puré de papa deshidratado, gránulos con leche, forma seca",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "170042": {
+    "nombre": "Puré de papa deshidratado, preparado con gránulos con leche, agua y margarina",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "170043": {
+    "nombre": "Papa rallada tipo hash brown, congelada, natural, sin preparar",
+    "alias": [
+      "papa rallada"
+    ]
+  },
+  "170044": {
+    "nombre": "Papa rallada tipo hash brown, congelada, natural, preparada, frita en sartén con aceite de canola",
+    "alias": [
+      "papa rallada"
+    ]
+  },
+  "170045": {
+    "nombre": "Papa rallada tipo hash brown, congelada, con salsa de mantequilla, sin preparar",
+    "alias": [
+      "papa rallada"
+    ]
+  },
+  "170046": {
+    "nombre": "Papa rallada tipo hash brown, congelada, con salsa de mantequilla, preparada",
+    "alias": [
+      "papa rallada"
+    ]
+  },
+  "170047": {
+    "nombre": "Bocaditos de papa, congelados, sin preparar",
+    "alias": []
+  },
+  "170048": {
+    "nombre": "Bocaditos de papa, congelados, calentados al horno",
+    "alias": []
+  },
+  "170052": {
+    "nombre": "Tomate rojo maduro, enlatado, guisado",
+    "alias": [
+      "jitomate"
+    ]
+  },
+  "170053": {
+    "nombre": "Tomate rojo maduro, enlatado, con chiles verdes",
+    "alias": [
+      "jitomate"
+    ]
+  },
+  "170055": {
+    "nombre": "Salsa de tomate, enlatada, con champiñones",
+    "alias": []
+  },
+  "170056": {
+    "nombre": "Salsa de tomate, enlatada, con cebolla",
+    "alias": []
+  },
+  "170057": {
+    "nombre": "Salsa de tomate, enlatada, con hierbas y queso",
+    "alias": []
+  },
+  "170062": {
+    "nombre": "Hojas de nabo y nabos, congelados, cocidos, hervidos, escurridos, sin sal",
+    "alias": []
+  },
+  "170063": {
+    "nombre": "Cóctel de jugo de verduras, enlatado",
+    "alias": [
+      "jugo de verduras"
+    ]
+  },
+  "170064": {
+    "nombre": "Verduras mixtas, enlatadas, sólidos y líquido",
+    "alias": []
+  },
+  "170067": {
+    "nombre": "Castañas de agua chinas, enlatadas, sólidos y líquido",
+    "alias": []
+  },
+  "170069": {
+    "nombre": "Calabaza china (wax gourd), cruda",
+    "alias": [
+      "calabaza de ceniza"
+    ]
+  },
+  "170071": {
+    "nombre": "Ñame, crudo",
+    "alias": [
+      "name"
+    ]
+  },
+  "170074": {
+    "nombre": "Jícama, cocida, escurrida, sin sal",
+    "alias": [
+      "jicama"
+    ]
+  },
+  "170075": {
+    "nombre": "Cebollino (chives), liofilizado",
+    "alias": [
+      "cebollin"
+    ]
+  },
+  "170076": {
+    "nombre": "Acedera (dock), cruda",
+    "alias": [
+      "romaza"
+    ]
+  },
+  "170077": {
+    "nombre": "Acedera (dock), cocida, escurrida, sin sal",
+    "alias": [
+      "romaza"
+    ]
+  },
+  "170079": {
+    "nombre": "Brotes de frijol mungo, enlatados, sólidos escurridos",
+    "alias": [
+      "germinado de soya"
+    ]
+  },
+  "170081": {
+    "nombre": "Rábano blanco icicle, crudo",
+    "alias": []
+  },
+  "170082": {
+    "nombre": "Chalotes, liofilizados",
+    "alias": [
+      "echalotes"
+    ]
+  },
+  "170083": {
+    "nombre": "Camote, enlatado en almíbar, sólidos y líquido",
+    "alias": [
+      "batata",
+      "boniato"
+    ]
+  },
+  "170084": {
+    "nombre": "Camote, enlatado en almíbar, solo los sólidos escurridos",
+    "alias": [
+      "batata",
+      "boniato"
+    ]
+  },
+  "170085": {
+    "nombre": "Salsa de tomate, enlatada, estilo español",
+    "alias": []
+  },
+  "170088": {
+    "nombre": "Camote confitado, casero",
+    "alias": [
+      "batata",
+      "boniato",
+      "dulce de camote"
+    ]
+  },
+  "170089": {
+    "nombre": "Tomate rojo maduro, cocido, guisado",
+    "alias": [
+      "jitomate"
+    ]
+  },
+  "170090": {
+    "nombre": "Agar (alga), seco",
+    "alias": []
+  },
+  "170091": {
+    "nombre": "Espirulina (alga), cruda",
+    "alias": []
+  },
+  "170094": {
+    "nombre": "Papa cocida en microondas con cáscara, pulpa y cáscara, sin sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170095": {
+    "nombre": "Brotes de rábano, crudos",
+    "alias": []
+  },
+  "170097": {
+    "nombre": "Hongos shiitake, cocidos, con sal",
+    "alias": [
+      "setas shiitake"
+    ]
+  },
+  "170107": {
+    "nombre": "Chile picante rojo, enlatado, sin semillas, sólidos y líquido",
+    "alias": []
+  },
+  "170111": {
+    "nombre": "Papa horneada, pulpa y cáscara, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170112": {
+    "nombre": "Papa horneada, solo la pulpa, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170113": {
+    "nombre": "Papa horneada, solo la cáscara, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170114": {
+    "nombre": "Papa hervida con cáscara, solo la pulpa, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170115": {
+    "nombre": "Papa cocida en microondas con cáscara, solo la cáscara, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170117": {
+    "nombre": "Papas fritas congeladas, prefritas, tipo cottage, preparadas, calentadas al horno, con sal",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "170118": {
+    "nombre": "Papas fritas de todos los tipos, sin sal añadida en el proceso, congeladas, calentadas al horno",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "170119": {
+    "nombre": "Flores de calabaza, cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "170120": {
+    "nombre": "Hojas de calabaza, cocidas, escurridas, con sal",
+    "alias": []
+  },
+  "170121": {
+    "nombre": "Verdolaga, cocida, escurrida, con sal",
+    "alias": []
+  },
+  "170122": {
+    "nombre": "Rábano oriental (daikon), cocido, escurrido, con sal",
+    "alias": [
+      "daikon"
+    ]
+  },
+  "170124": {
+    "nombre": "Espinaca congelada, picada o en hoja, cocida, hervida, escurrida, con sal",
+    "alias": []
+  },
+  "170126": {
+    "nombre": "Calabacita amarilla (crookneck y straightneck), cocida, hervida, escurrida, con sal",
+    "alias": [
+      "calabacin amarillo"
+    ]
+  },
+  "170131": {
+    "nombre": "Succotash (maíz y frijoles de lima), congelado, hervido, escurrido, con sal",
+    "alias": []
+  },
+  "170132": {
+    "nombre": "Espinaca de agua (kangkong), cocida, escurrida, con sal",
+    "alias": []
+  },
+  "170133": {
+    "nombre": "Hojas de camote, cocidas al vapor, con sal",
+    "alias": [
+      "hojas de batata"
+    ]
+  },
+  "170134": {
+    "nombre": "Camote horneado con cáscara, solo la pulpa, con sal",
+    "alias": [
+      "batata",
+      "boniato"
+    ]
+  },
+  "170135": {
+    "nombre": "Brotes de taro, cocidos, con sal",
+    "alias": []
+  },
+  "170136": {
+    "nombre": "Taro tahitiano, cocido, escurrido, con sal",
+    "alias": []
+  },
+  "170137": {
+    "nombre": "Tomate rojo maduro, cocido, con sal",
+    "alias": [
+      "jitomate"
+    ]
+  },
+  "170138": {
+    "nombre": "Tomate rojo maduro, enlatado en jugo de tomate, sin sal añadida",
+    "alias": [
+      "jitomate"
+    ]
+  },
+  "170141": {
+    "nombre": "Hojas de nabo y nabos, congelados, cocidos, hervidos, escurridos, con sal",
+    "alias": []
+  },
+  "170142": {
+    "nombre": "Verduras mixtas, congeladas, hervidas, escurridas, con sal",
+    "alias": []
+  },
+  "170143": {
+    "nombre": "Hongos portobello, expuestos a luz ultravioleta, crudos",
     "alias": []
   },
   "170144": {
@@ -1031,6 +2821,490 @@
       "totopos",
       "tortilla chips",
       "nachos"
+    ]
+  },
+  "170375": {
+    "nombre": "Hojas de remolacha (betabel), crudas",
+    "alias": []
+  },
+  "170376": {
+    "nombre": "Hojas de remolacha (betabel), cocidas, escurridas, sin sal",
+    "alias": []
+  },
+  "170377": {
+    "nombre": "Habas inmaduras, crudas",
+    "alias": []
+  },
+  "170378": {
+    "nombre": "Habas inmaduras, cocidas, escurridas, sin sal",
+    "alias": []
+  },
+  "170381": {
+    "nombre": "Brócoli raab (rapini), crudo",
+    "alias": [
+      "rapini",
+      "grelos"
+    ]
+  },
+  "170382": {
+    "nombre": "Brócoli raab (rapini), cocido",
+    "alias": [
+      "rapini",
+      "grelos"
+    ]
+  },
+  "170384": {
+    "nombre": "Raíz de bardana (gobo), cocida, escurrida, sin sal",
+    "alias": [
+      "gobo"
+    ]
+  },
+  "170388": {
+    "nombre": "Col de Saboya, cruda",
+    "alias": [
+      "repollo de saboya"
+    ]
+  },
+  "170389": {
+    "nombre": "Col de Saboya, cocida, escurrida, sin sal",
+    "alias": [
+      "repollo de saboya"
+    ]
+  },
+  "170400": {
+    "nombre": "Apio nabo (apio rábano), crudo",
+    "alias": [
+      "celeriac"
+    ]
+  },
+  "170403": {
+    "nombre": "Chayote, cocido, escurrido, sin sal",
+    "alias": [
+      "guisquil",
+      "papa del aire"
+    ]
+  },
+  "170404": {
+    "nombre": "Endibia (witloof), cruda",
+    "alias": [
+      "endivia"
+    ]
+  },
+  "170405": {
+    "nombre": "Crisantemo comestible (garland), cocido, escurrido, sin sal",
+    "alias": []
+  },
+  "170409": {
+    "nombre": "Maíz dulce amarillo, enlatado en salmuera, tipo regular, sólidos y líquido",
+    "alias": [
+      "elote",
+      "choclo"
+    ]
+  },
+  "170414": {
+    "nombre": "Aros de cebolla empanizados, prefritos, congelados, sin preparar",
+    "alias": []
+  },
+  "170417": {
+    "nombre": "Chirivía, cruda",
+    "alias": [
+      "pastinaca"
+    ]
+  },
+  "170418": {
+    "nombre": "Chícharos de vaina comestible (arveja china), congelados, cocidos, escurridos, sin sal",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170424": {
+    "nombre": "Chícharos con zanahorias, enlatados, tipo regular, sólidos y líquido",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170425": {
+    "nombre": "Chícharos con zanahorias, congelados, sin preparar",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170426": {
+    "nombre": "Chile picante verde, enlatado, vainas sin semillas, sólidos y líquido",
+    "alias": []
+  },
+  "170430": {
+    "nombre": "Gandules (guandú) inmaduros, cocidos, escurridos, sin sal",
+    "alias": [
+      "guandul"
+    ]
+  },
+  "170431": {
+    "nombre": "Poi (pasta de taro)",
+    "alias": []
+  },
+  "170434": {
+    "nombre": "Papa blanca con cáscara, horneada",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170435": {
+    "nombre": "Papa roja con cáscara, horneada",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170436": {
+    "nombre": "Papas fritas onduladas o de corte regular, con sal añadida en el proceso, congeladas, tal como se compran",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "170437": {
+    "nombre": "Papas fritas onduladas o de corte regular, con sal añadida en el proceso, congeladas, calentadas al horno",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "170439": {
+    "nombre": "Papa hervida con cáscara, solo la cáscara, sin sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170440": {
+    "nombre": "Papa hervida sin cáscara, solo la pulpa, sin sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170441": {
+    "nombre": "Papa cocida en microondas con cáscara, solo la pulpa, sin sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170442": {
+    "nombre": "Papas gratinadas (au gratin), caseras, con mantequilla",
+    "alias": []
+  },
+  "170445": {
+    "nombre": "Puré de papa deshidratado, hojuelas sin leche, forma seca",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "170446": {
+    "nombre": "Puré de papa deshidratado, preparado con hojuelas, sin leche, con leche entera y mantequilla",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "170447": {
+    "nombre": "Papas gratinadas (au gratin), mezcla seca, sin preparar",
+    "alias": []
+  },
+  "170448": {
+    "nombre": "Papas gratinadas (au gratin), mezcla seca, preparada con agua, leche entera y mantequilla",
+    "alias": []
+  },
+  "170449": {
+    "nombre": "Papas escalopadas (scalloped), mezcla seca, sin preparar",
+    "alias": []
+  },
+  "170450": {
+    "nombre": "Papas escalopadas (scalloped), mezcla seca, preparada con agua, leche entera y mantequilla",
+    "alias": []
+  },
+  "170451": {
+    "nombre": "Papas fritas finas (shoestring), con sal añadida en el proceso, congeladas, tal como se compran",
+    "alias": [
+      "papas fritas",
+      "patatas fritas",
+      "papas paja"
+    ]
+  },
+  "170452": {
+    "nombre": "Papas fritas finas (shoestring), con sal añadida en el proceso, congeladas, calentadas al horno",
+    "alias": [
+      "papas fritas",
+      "patatas fritas",
+      "papas paja"
+    ]
+  },
+  "170453": {
+    "nombre": "Papas O'Brien (con pimiento y cebolla), congeladas, sin preparar",
+    "alias": []
+  },
+  "170454": {
+    "nombre": "Papas O'Brien (con pimiento y cebolla), congeladas, preparadas",
+    "alias": []
+  },
+  "170455": {
+    "nombre": "Taro tahitiano, cocido, escurrido, sin sal",
+    "alias": []
+  },
+  "170460": {
+    "nombre": "Puré de tomate, enlatado, sin sal añadida",
+    "alias": []
+  },
+  "170461": {
+    "nombre": "Tomate en polvo",
+    "alias": []
+  },
+  "170462": {
+    "nombre": "Salsa de tomate, enlatada, con cebolla, pimiento verde y apio",
+    "alias": []
+  },
+  "170463": {
+    "nombre": "Salsa de tomate, enlatada, con trocitos de tomate",
+    "alias": []
+  },
+  "170470": {
+    "nombre": "Hojas de nabo y nabos, congelados, sin preparar",
+    "alias": []
+  },
+  "170471": {
+    "nombre": "Verduras mixtas, congeladas, sin preparar",
+    "alias": []
+  },
+  "170473": {
+    "nombre": "Cóctel de jugo de verduras, bajo en sodio, enlatado",
+    "alias": [
+      "jugo de verduras"
+    ]
+  },
+  "170474": {
+    "nombre": "Espinaca de Malabar (basella), cruda",
+    "alias": []
+  },
+  "170475": {
+    "nombre": "Calabaza china (wax gourd), cocida, escurrida, sin sal",
+    "alias": [
+      "calabaza de ceniza"
+    ]
+  },
+  "170479": {
+    "nombre": "Remolacha (betabel) estilo Harvard, enlatada, sólidos y líquido",
+    "alias": [
+      "betarraga"
+    ]
+  },
+  "170481": {
+    "nombre": "Borraja, cruda",
+    "alias": []
+  },
+  "170482": {
+    "nombre": "Borraja, cocida, escurrida, sin sal",
+    "alias": []
+  },
+  "170483": {
+    "nombre": "Vainas de moringa, crudas",
+    "alias": []
+  },
+  "170484": {
+    "nombre": "Vainas de moringa, cocidas, escurridas, sin sal",
+    "alias": []
+  },
+  "170485": {
+    "nombre": "Puerro (bulbo y parte baja de la hoja), liofilizado",
+    "alias": [
+      "poro"
+    ]
+  },
+  "170492": {
+    "nombre": "Budín de maíz, casero",
+    "alias": [
+      "pastel de choclo"
+    ]
+  },
+  "170493": {
+    "nombre": "Puré de papa casero, con leche entera",
+    "alias": [
+      "pure de patata"
+    ]
+  },
+  "170494": {
+    "nombre": "Soufflé de espinaca",
+    "alias": []
+  },
+  "170495": {
+    "nombre": "Espirulina (alga), seca",
+    "alias": []
+  },
+  "170496": {
+    "nombre": "Alga wakame, cruda",
+    "alias": []
+  },
+  "170498": {
+    "nombre": "Papas O'Brien (con pimiento y cebolla), caseras",
+    "alias": []
+  },
+  "170499": {
+    "nombre": "Chalotes, crudos",
+    "alias": [
+      "echalotes",
+      "chalota"
+    ]
+  },
+  "170500": {
+    "nombre": "Zanahoria deshidratada",
+    "alias": []
+  },
+  "170501": {
+    "nombre": "Tomate triturado, enlatado",
+    "alias": [
+      "jitomate"
+    ]
+  },
+  "170505": {
+    "nombre": "Espinaca de mostaza (tendergreen), cocida, escurrida, con sal",
+    "alias": [
+      "komatsuna"
+    ]
+  },
+  "170506": {
+    "nombre": "Espinaca de Nueva Zelanda, cocida, escurrida, con sal",
+    "alias": []
+  },
+  "170508": {
+    "nombre": "Chirivía, cocida, escurrida, con sal",
+    "alias": [
+      "pastinaca"
+    ]
+  },
+  "170509": {
+    "nombre": "Chícharos de vaina comestible (arveja china), cocidos, escurridos, con sal",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170510": {
+    "nombre": "Chícharos de vaina comestible (arveja china), congelados, cocidos, escurridos, con sal",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170512": {
+    "nombre": "Chícharos con zanahorias, enlatados, sin sal añadida, sólidos y líquido",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170513": {
+    "nombre": "Chícharos con zanahorias, congelados, hervidos, escurridos, con sal",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170514": {
+    "nombre": "Chícharos con cebolla, congelados, hervidos, escurridos, con sal",
+    "alias": [
+      "guisantes",
+      "arvejas"
+    ]
+  },
+  "170517": {
+    "nombre": "Gandules (guandú) inmaduros, cocidos, escurridos, con sal",
+    "alias": [
+      "guandul"
+    ]
+  },
+  "170519": {
+    "nombre": "Papa hervida con cáscara, solo la cáscara, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170520": {
+    "nombre": "Papa hervida sin cáscara, solo la pulpa, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170521": {
+    "nombre": "Papa cocida en microondas con cáscara, pulpa y cáscara, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170522": {
+    "nombre": "Papa cocida en microondas con cáscara, solo la pulpa, con sal",
+    "alias": [
+      "patata"
+    ]
+  },
+  "170523": {
+    "nombre": "Papas fritas de todos los tipos, sin sal añadida en el proceso, congeladas, tal como se compran",
+    "alias": [
+      "papas fritas",
+      "patatas fritas"
+    ]
+  },
+  "170524": {
+    "nombre": "Papas gratinadas (au gratin), caseras, con margarina",
+    "alias": []
+  },
+  "170525": {
+    "nombre": "Papas escalopadas (scalloped), caseras, con margarina",
+    "alias": [
+      "papas gratinadas"
+    ]
+  },
+  "170528": {
+    "nombre": "Colinabo sueco (rutabaga), cocido, escurrido, con sal",
+    "alias": [
+      "nabo sueco"
+    ]
+  },
+  "170529": {
+    "nombre": "Salsifí, cocido, escurrido, con sal",
+    "alias": []
+  },
+  "170532": {
+    "nombre": "Calabacita amarilla (crookneck y straightneck), congelada, cocida, hervida, escurrida, con sal",
+    "alias": [
+      "calabacin amarillo"
+    ]
+  },
+  "170533": {
+    "nombre": "Calabaza de verano tipo scallop (patisson), cocida, hervida, escurrida, con sal",
+    "alias": [
+      "patison"
+    ]
+  },
+  "170539": {
+    "nombre": "Calabaza espagueti, cocida, hervida o al horno, escurrida, con sal",
+    "alias": []
+  },
+  "170540": {
+    "nombre": "Succotash (maíz y frijoles de lima), cocido, hervido, escurrido, con sal",
+    "alias": []
+  },
+  "170546": {
+    "nombre": "Puré de tomate, enlatado, con sal añadida",
+    "alias": []
+  },
+  "170549": {
+    "nombre": "Calabaza china (wax gourd), cocida, escurrida, con sal",
+    "alias": [
+      "calabaza de ceniza"
+    ]
+  },
+  "170551": {
+    "nombre": "Ñame, cocido, escurrido, con sal",
+    "alias": [
+      "name"
     ]
   },
   "170552": {
